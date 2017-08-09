@@ -1,0 +1,110 @@
+[submodule "build"]
+	branch = master
+	path = build
+	url = ../build
+[submodule "external/easymock"]
+	branch = master
+	path = external/easymock
+	url = ../external/easymock
+[submodule "external/emma"]
+	branch = master
+	path = external/emma
+	url = ../external/emma
+[submodule "external/guava"]
+	branch = master
+	path = external/guava
+	url = ../external/guava
+[submodule "external/hamcrest"]
+	branch = master
+	path = external/hamcrest
+	url = ../external/hamcrest
+[submodule "external/hsqldb"]
+	branch = master
+	path = external/hsqldb
+	url = ../external/hsqldb
+[submodule "external/jline"]
+	branch = master
+	path = external/jline
+	url = ../external/jline
+[submodule "external/jsr305"]
+	branch = master
+	path = external/jsr305
+	url = ../external/jsr305
+[submodule "external/junit"]
+	branch = master
+	path = external/junit
+	url = ../external/junit
+[submodule "external/proguard"]
+	branch = master
+	path = external/proguard
+	url = ../external/proguard
+[submodule "prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../prebuilts/build-tools
+[submodule "prebuilts/clang/darwin-x86/host/3.6"]
+	branch = master
+	path = prebuilts/clang/darwin-x86/host/3.6
+	url = ../prebuilts/clang/darwin-x86/host/3.6
+[submodule "prebuilts/clang/host/darwin-x86"]
+	branch = master
+	path = prebuilts/clang/host/darwin-x86
+	url = ../prebuilts/clang/host/darwin-x86
+[submodule "prebuilts/clang/host/linux-x86"]
+	branch = master
+	path = prebuilts/clang/host/linux-x86
+	url = ../prebuilts/clang/host/linux-x86
+[submodule "prebuilts/clang/linux-x86/host/3.6"]
+	branch = master
+	path = prebuilts/clang/linux-x86/host/3.6
+	url = ../prebuilts/clang/linux-x86/host/3.6
+[submodule "prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+	branch = master
+	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
+	branch = master
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+[submodule "prebuilts/go/darwin-x86"]
+	branch = master
+	path = prebuilts/go/darwin-x86
+	url = ../prebuilts/go/darwin-x86
+[submodule "prebuilts/go/linux-x86"]
+	branch = master
+	path = prebuilts/go/linux-x86
+	url = ../prebuilts/go/linux-x86
+[submodule "prebuilts/jdk/jdk8"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk8
+	url = ../prebuilts/jdk/jdk8
+[submodule "prebuilts/misc"]
+	branch = master
+	path = prebuilts/misc
+	url = ../prebuilts/misc
+[submodule "prebuilts/ninja/darwin-x86"]
+	branch = master
+	path = prebuilts/ninja/darwin-x86
+	url = ../prebuilts/ninja/darwin-x86
+[submodule "prebuilts/ninja/linux-x86"]
+	branch = master
+	path = prebuilts/ninja/linux-x86
+	url = ../prebuilts/ninja/linux-x86
+[submodule "prebuilts/sdk"]
+	branch = master
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "tools/loganalysis"]
+	branch = master
+	path = tools/loganalysis
+	url = ../tools/loganalysis
+[submodule "tools/tradefederation/contrib"]
+	branch = master
+	path = tools/tradefederation/contrib
+	url = ../tools/tradefederation/contrib
+[submodule "tools/tradefederation/core"]
+	branch = master
+	path = tools/tradefederation/core
+	url = ../tools/tradefederation
