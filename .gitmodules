@@ -1,0 +1,52 @@
+[submodule "build"]
+	branch = master
+	path = build
+	url = ../build
+[submodule "external/doclava"]
+	branch = master
+	shallow = true
+	path = external/doclava
+	url = ../external/doclava
+[submodule "external/jdiff"]
+	branch = master
+	shallow = true
+	path = external/jdiff
+	url = ../external/jdiff
+[submodule "frameworks/support"]
+	branch = master
+	path = frameworks/support
+	url = ../frameworks/support
+[submodule "prebuilts/checkstyle"]
+	branch = master
+	shallow = true
+	path = prebuilts/checkstyle
+	url = ../prebuilts/checkstyle
+[submodule "prebuilts/gradle-plugin"]
+	branch = master
+	shallow = true
+	path = prebuilts/gradle-plugin
+	url = ../prebuilts/gradle-plugin
+[submodule "prebuilts/maven_repo/android"]
+	branch = master
+	shallow = true
+	path = prebuilts/maven_repo/android
+	url = ../prebuilts/maven_repo/android
+[submodule "prebuilts/sdk"]
+	branch = master
+	shallow = true
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "prebuilts/tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "tools/external/gradle"]
+	branch = 4.1
+	shallow = true
+	path = tools/external/gradle
+	url = ../tools/external/gradle
+[submodule "tools/repohooks"]
+	branch = master
+	path = tools/repohooks
+	url = ../tools/repohooks
