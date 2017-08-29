@@ -1,7 +1,19 @@
-[submodule "build"]
+[submodule "build/blueprint"]
 	branch = master
-	path = build
+	path = build/blueprint
+	url = ../build/blueprint
+[submodule "build/kati"]
+	branch = master
+	path = build/kati
+	url = ../build/kati
+[submodule "build/make"]
+	branch = master
+	path = build/make
 	url = ../build
+[submodule "build/soong"]
+	branch = master
+	path = build/soong
+	url = ../build/soong
 [submodule "external/easymock"]
 	branch = master
 	path = external/easymock
@@ -10,6 +22,11 @@
 	branch = master
 	path = external/emma
 	url = ../external/emma
+[submodule "external/golang-protobuf"]
+	branch = master
+	shallow = true
+	path = external/golang-protobuf
+	url = ../external/golang-protobuf
 [submodule "external/guava"]
 	branch = master
 	path = external/guava
@@ -84,14 +101,6 @@
 	branch = master
 	path = prebuilts/misc
 	url = ../prebuilts/misc
-[submodule "prebuilts/ninja/darwin-x86"]
-	branch = master
-	path = prebuilts/ninja/darwin-x86
-	url = ../prebuilts/ninja/darwin-x86
-[submodule "prebuilts/ninja/linux-x86"]
-	branch = master
-	path = prebuilts/ninja/linux-x86
-	url = ../prebuilts/ninja/linux-x86
 [submodule "prebuilts/sdk"]
 	branch = master
 	path = prebuilts/sdk
