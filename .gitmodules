@@ -1,0 +1,221 @@
+[submodule "external/AntennaPod/AntennaPod"]
+	branch = studio-master-dev
+	path = external/AntennaPod/AntennaPod
+	url = ../external/AntennaPod/AntennaPod
+[submodule "external/AntennaPod/AudioPlayer"]
+	branch = studio-master-dev
+	path = external/AntennaPod/AudioPlayer
+	url = ../external/AntennaPod/AudioPlayer
+[submodule "external/AntennaPod/afollestad"]
+	branch = studio-master-dev
+	path = external/AntennaPod/afollestad
+	url = ../external/AntennaPod/afollestad
+[submodule "external/android-studio-gradle-test"]
+	branch = studio-master-dev
+	path = external/android-studio-gradle-test
+	url = ../external/android-studio-gradle-test
+[submodule "external/ant-glob"]
+	branch = studio-master-dev
+	path = external/ant-glob
+	url = ../external/ant-glob
+[submodule "external/boringssl"]
+	branch = studio-master-dev
+	path = external/boringssl
+	url = ../external/boringssl
+[submodule "external/doclava"]
+	branch = studio-master-dev
+	path = external/doclava
+	url = ../external/doclava
+[submodule "external/gmock"]
+	branch = studio-master-dev
+	path = external/gmock
+	url = ../external/gmock
+[submodule "external/googletest"]
+	branch = studio-master-dev
+	path = external/googletest
+	url = ../external/googletest
+[submodule "external/gradle-perf-android-medium"]
+	branch = studio-master-dev
+	path = external/gradle-perf-android-medium
+	url = ../external/gradle-perf-android-medium
+[submodule "external/grpc-grpc"]
+	branch = studio-master-dev
+	path = external/grpc-grpc
+	url = ../external/grpc-grpc
+[submodule "external/gtest"]
+	branch = studio-master-dev
+	path = external/gtest
+	url = ../external/gtest
+[submodule "external/iosched"]
+	branch = studio-master-dev
+	path = external/iosched
+	url = ../external/iosched
+[submodule "external/nanopb-c"]
+	branch = studio-master-dev
+	path = external/nanopb-c
+	url = ../external/nanopb-c
+[submodule "external/protobuf"]
+	branch = studio-master-dev
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "external/smali"]
+	branch = studio-master-dev
+	path = external/smali
+	url = ../external/smali
+[submodule "external/zlib"]
+	branch = studio-master-dev
+	path = external/zlib
+	url = ../external/zlib
+[submodule "frameworks/native"]
+	branch = studio-master-dev
+	path = frameworks/native
+	url = ../frameworks/native
+[submodule "prebuilts/clang/darwin-x86/sdk/3.5"]
+	branch = studio-master-dev
+	path = prebuilts/clang/darwin-x86/sdk/3.5
+	url = ../prebuilts/clang/darwin-x86/sdk/3.5
+[submodule "prebuilts/eclipse-build-deps"]
+	branch = studio-master-dev
+	path = prebuilts/eclipse-build-deps
+	url = ../prebuilts/eclipse-build-deps
+[submodule "prebuilts/eclipse"]
+	branch = studio-master-dev
+	path = prebuilts/eclipse
+	url = ../prebuilts/eclipse
+[submodule "prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	branch = studio-master-dev
+	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+[submodule "prebuilts/maven_repo/android"]
+	branch = studio-master-dev
+	path = prebuilts/maven_repo/android
+	url = ../prebuilts/maven_repo/android
+[submodule "prebuilts/sdk"]
+	branch = studio-master-dev
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "prebuilts/studio/jdk"]
+	branch = studio-master-dev
+	path = prebuilts/studio/jdk
+	url = ../prebuilts/studio/jdk
+[submodule "prebuilts/studio/layoutlib"]
+	branch = studio-master-dev
+	path = prebuilts/studio/layoutlib
+	url = ../prebuilts/studio/layoutlib
+[submodule "prebuilts/tools"]
+	branch = studio-master-dev
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "sdk"]
+	branch = studio-master-dev
+	path = sdk
+	url = ../sdk
+[submodule "tools/adt/idea"]
+	branch = studio-master-dev
+	path = tools/adt/idea
+	url = ../tools/adt/idea
+[submodule "tools/analytics-library"]
+	branch = studio-master-dev
+	path = tools/analytics-library
+	url = ../tools/analytics-library
+[submodule "tools/apksig"]
+	branch = studio-master-dev
+	path = tools/apksig
+	url = ../tools/apksig
+[submodule "tools/assets"]
+	branch = studio-master-dev
+	shallow = true
+	path = tools/assets
+	url = ../../assets/android-studio-ux-assets
+[submodule "tools/base"]
+	branch = studio-master-dev
+	path = tools/base
+	url = ../tools/base
+[submodule "tools/buildSrc"]
+	branch = studio-master-dev
+	path = tools/buildSrc
+	url = ../tools/buildSrc
+[submodule "tools/data-binding"]
+	branch = studio-master-dev
+	path = tools/data-binding
+	url = ../frameworks/data-binding
+[submodule "tools/external/desugar"]
+	branch = studio-master-dev
+	path = tools/external/desugar
+	url = ../external/desugar
+[submodule "tools/external/fat32lib"]
+	branch = studio-master-dev
+	path = tools/external/fat32lib
+	url = ../tools/external/fat32lib
+[submodule "tools/external/go/src/golang.org/x/net"]
+	branch = studio-master-dev
+	path = tools/external/go/src/golang.org/x/net
+	url = ../tools/external/go/src/golang.org/x/net
+[submodule "tools/external/go/src/golang.org/x/tools"]
+	branch = studio-master-dev
+	path = tools/external/go/src/golang.org/x/tools
+	url = ../tools/external/go/src/golang.org/x/tools
+[submodule "tools/external/gradle"]
+	branch = studio-master-dev
+	path = tools/external/gradle
+	url = ../tools/external/gradle
+[submodule "tools/external/r8"]
+	branch = studio-master-dev
+	path = tools/external/r8
+	url = ../external/r8
+[submodule "tools/gpu/src/android.googlesource.com/platform/tools/gpu"]
+	branch = studio-master-dev
+	path = tools/gpu/src/android.googlesource.com/platform/tools/gpu
+	url = ../tools/gpu
+[submodule "tools/gradle"]
+	branch = studio-master-dev
+	path = tools/gradle
+	url = ../tools/gradle
+[submodule "tools/idea"]
+	branch = studio-master-dev
+	path = tools/idea
+	url = ../tools/idea
+[submodule "tools/repohooks"]
+	branch = studio-master-dev
+	path = tools/repohooks
+	url = ../tools/repohooks
+[submodule "tools/sherpa"]
+	branch = studio-master-dev
+	path = tools/sherpa
+	url = ../frameworks/opt/sherpa
+[submodule "tools/studio/google/appindexing"]
+	branch = studio-master-dev
+	path = tools/studio/google/appindexing
+	url = ../tools/studio/google/appindexing
+[submodule "tools/studio/google/cloud/testing"]
+	branch = studio-master-dev
+	path = tools/studio/google/cloud/testing
+	url = ../tools/studio/google/cloud/testing
+[submodule "tools/studio/google/cloud/tools"]
+	branch = studio-master-dev
+	path = tools/studio/google/cloud/tools
+	url = ../tools/studio/google/cloud/tools
+[submodule "tools/studio/google/login"]
+	branch = studio-master-dev
+	path = tools/studio/google/login
+	url = ../tools/studio/google/login
+[submodule "tools/studio/google/play"]
+	branch = studio-master-dev
+	path = tools/studio/google/play
+	url = ../tools/studio/google/play
+[submodule "tools/studio/google/samples"]
+	branch = studio-master-dev
+	path = tools/studio/google/samples
+	url = ../tools/studio/google/samples
+[submodule "tools/studio/google/services"]
+	branch = studio-master-dev
+	path = tools/studio/google/services
+	url = ../tools/studio/google/services
+[submodule "tools/swing-testing"]
+	branch = studio-master-dev
+	path = tools/swing-testing
+	url = ../tools/swing-testing
+[submodule "tools/swt"]
+	branch = studio-master-dev
+	path = tools/swt
+	url = ../tools/swt
