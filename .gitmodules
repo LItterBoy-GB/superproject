@@ -32,11 +32,6 @@
 	shallow = true
 	path = prebuilts/maven_repo/android
 	url = ../prebuilts/maven_repo/android
-[submodule "prebuilts/sdk"]
-	branch = master
-	shallow = true
-	path = prebuilts/sdk
-	url = ../prebuilts/sdk
 [submodule "tools/external/gradle"]
 	branch = 4.4
 	shallow = true
