@@ -22,6 +22,10 @@
 	branch = studio-master-dev
 	path = external/boringssl
 	url = ../external/boringssl
+[submodule "external/dexter"]
+	branch = studio-master-dev
+	path = external/dexter
+	url = ../tools/dexter
 [submodule "external/doclava"]
 	branch = studio-master-dev
 	path = external/doclava
@@ -50,6 +54,10 @@
 	branch = studio-master-dev
 	path = external/iosched
 	url = ../external/iosched
+[submodule "external/jetbrains/kotlin"]
+	branch = studio-master-dev
+	path = external/jetbrains/kotlin
+	url = ../external/jetbrains/kotlin
 [submodule "external/nanopb-c"]
 	branch = studio-master-dev
 	path = external/nanopb-c
@@ -90,6 +98,10 @@
 	branch = studio-master-dev
 	path = prebuilts/maven_repo/android
 	url = ../prebuilts/maven_repo/android
+[submodule "prebuilts/r8"]
+	branch = studio-master-dev
+	path = prebuilts/r8
+	url = ../prebuilts/r8
 [submodule "prebuilts/sdk"]
 	branch = studio-master-dev
 	path = prebuilts/sdk
@@ -122,11 +134,10 @@
 	branch = studio-master-dev
 	path = tools/apksig
 	url = ../tools/apksig
-[submodule "tools/assets"]
+[submodule "tools/apkzlib"]
 	branch = studio-master-dev
-	shallow = true
-	path = tools/assets
-	url = ../../assets/android-studio-ux-assets
+	path = tools/apkzlib
+	url = ../tools/apkzlib
 [submodule "tools/base"]
 	branch = studio-master-dev
 	path = tools/base
@@ -159,10 +170,6 @@
 	branch = studio-master-dev
 	path = tools/external/gradle
 	url = ../tools/external/gradle
-[submodule "tools/external/r8"]
-	branch = studio-master-dev
-	path = tools/external/r8
-	url = ../external/r8
 [submodule "tools/gpu/src/android.googlesource.com/platform/tools/gpu"]
 	branch = studio-master-dev
 	path = tools/gpu/src/android.googlesource.com/platform/tools/gpu
