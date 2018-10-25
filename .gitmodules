@@ -1,124 +1,128 @@
-[submodule "build/blueprint"]
-	branch = master
-	path = build/blueprint
-	url = ../build/blueprint
-[submodule "build/kati"]
-	branch = master
-	path = build/kati
-	url = ../build/kati
-[submodule "build/make"]
+[submodule "platform/build"]
 	branch = master
 	path = build/make
 	url = ../build
-[submodule "build/soong"]
+[submodule "platform/build/blueprint"]
+	branch = master
+	path = build/blueprint
+	url = ../build/blueprint
+[submodule "platform/build/kati"]
+	branch = master
+	path = build/kati
+	url = ../build/kati
+[submodule "platform/build/soong"]
 	branch = master
 	path = build/soong
 	url = ../build/soong
-[submodule "external/easymock"]
+[submodule "platform/external/easymock"]
 	branch = master
 	path = external/easymock
 	url = ../external/easymock
-[submodule "external/emma"]
+[submodule "platform/external/emma"]
 	branch = master
 	path = external/emma
 	url = ../external/emma
-[submodule "external/golang-protobuf"]
+[submodule "platform/external/golang-protobuf"]
 	branch = master
 	shallow = true
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
-[submodule "external/guava"]
+[submodule "platform/external/guava"]
 	branch = master
 	path = external/guava
 	url = ../external/guava
-[submodule "external/hamcrest"]
+[submodule "platform/external/hamcrest"]
 	branch = master
 	path = external/hamcrest
 	url = ../external/hamcrest
-[submodule "external/hsqldb"]
+[submodule "platform/external/hsqldb"]
 	branch = master
 	path = external/hsqldb
 	url = ../external/hsqldb
-[submodule "external/jline"]
+[submodule "platform/external/jline"]
 	branch = master
 	path = external/jline
 	url = ../external/jline
-[submodule "external/jsr305"]
+[submodule "platform/external/jsr305"]
 	branch = master
 	path = external/jsr305
 	url = ../external/jsr305
-[submodule "external/junit"]
+[submodule "platform/external/junit"]
 	branch = master
 	path = external/junit
 	url = ../external/junit
-[submodule "external/proguard"]
+[submodule "platform/external/perfetto"]
+	branch = master
+	path = external/perfetto
+	url = ../external/perfetto
+[submodule "platform/external/proguard"]
 	branch = master
 	path = external/proguard
 	url = ../external/proguard
-[submodule "prebuilts/build-tools"]
+[submodule "platform/prebuilts/build-tools"]
 	branch = master
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
-[submodule "prebuilts/clang/darwin-x86/host/3.6"]
+[submodule "platform/prebuilts/clang/darwin-x86/host/3.6"]
 	branch = master
 	path = prebuilts/clang/darwin-x86/host/3.6
 	url = ../prebuilts/clang/darwin-x86/host/3.6
-[submodule "prebuilts/clang/host/darwin-x86"]
+[submodule "platform/prebuilts/clang/host/darwin-x86"]
 	branch = master
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
-[submodule "prebuilts/clang/host/linux-x86"]
+[submodule "platform/prebuilts/clang/host/linux-x86"]
 	branch = master
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
-[submodule "prebuilts/clang/linux-x86/host/3.6"]
+[submodule "platform/prebuilts/clang/linux-x86/host/3.6"]
 	branch = master
 	path = prebuilts/clang/linux-x86/host/3.6
 	url = ../prebuilts/clang/linux-x86/host/3.6
-[submodule "prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+[submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
 	branch = master
 	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
-[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
 	branch = master
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
-[submodule "prebuilts/go/darwin-x86"]
+[submodule "platform/prebuilts/go/darwin-x86"]
 	branch = master
 	path = prebuilts/go/darwin-x86
 	url = ../prebuilts/go/darwin-x86
-[submodule "prebuilts/go/linux-x86"]
+[submodule "platform/prebuilts/go/linux-x86"]
 	branch = master
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
-[submodule "prebuilts/jdk/jdk8"]
+[submodule "platform/prebuilts/jdk/jdk8"]
 	branch = master
 	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
-[submodule "prebuilts/jdk/jdk9"]
+[submodule "platform/prebuilts/jdk/jdk9"]
 	branch = master
 	shallow = true
 	path = prebuilts/jdk/jdk9
 	url = ../prebuilts/jdk/jdk9
-[submodule "prebuilts/misc"]
+[submodule "platform/prebuilts/misc"]
 	branch = master
 	path = prebuilts/misc
 	url = ../prebuilts/misc
-[submodule "prebuilts/sdk"]
+[submodule "platform/prebuilts/sdk"]
 	branch = master
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
-[submodule "tools/loganalysis"]
+[submodule "platform/tools/loganalysis"]
 	branch = master
 	path = tools/loganalysis
 	url = ../tools/loganalysis
-[submodule "tools/tradefederation/contrib"]
-	branch = master
-	path = tools/tradefederation/contrib
-	url = ../tools/tradefederation/contrib
-[submodule "tools/tradefederation/core"]
+[submodule "platform/tools/tradefederation"]
 	branch = master
 	path = tools/tradefederation/core
 	url = ../tools/tradefederation
+[submodule "platform/tools/tradefederation/contrib"]
+	branch = master
+	path = tools/tradefederation/contrib
+	url = ../tools/tradefederation/contrib

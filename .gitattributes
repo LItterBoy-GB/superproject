@@ -1,0 +1,31 @@
+/build/make
+/build/blueprint
+/build/kati
+/build/soong
+/external/easymock
+/external/emma
+/external/golang-protobuf
+/external/guava
+/external/hamcrest
+/external/hsqldb
+/external/jline
+/external/jsr305
+/external/junit
+/external/perfetto
+/external/proguard
+/prebuilts/build-tools pdk
+/prebuilts/clang/darwin-x86/host/3.6 pdk darwin
+/prebuilts/clang/host/darwin-x86 pdk darwin
+/prebuilts/clang/host/linux-x86 pdk linux
+/prebuilts/clang/linux-x86/host/3.6 pdk linux
+/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 darwin
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8 linux
+/prebuilts/go/darwin-x86 darwin
+/prebuilts/go/linux-x86 linux
+/prebuilts/jdk/jdk8 pdk
+/prebuilts/jdk/jdk9 pdk
+/prebuilts/misc
+/prebuilts/sdk
+/tools/loganalysis
+/tools/tradefederation/core
+/tools/tradefederation/contrib
