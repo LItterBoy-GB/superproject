@@ -208,6 +208,10 @@
 	branch = studio-master-dev
 	path = external/dexter
 	url = ../tools/dexter
+[submodule "platform/tools/external/bazelbuild-rules-kotlin"]
+	branch = studio-master-dev
+	path = tools/external/bazelbuild-rules-kotlin
+	url = ../tools/external/bazelbuild-rules-kotlin
 [submodule "platform/tools/external/fat32lib"]
 	branch = studio-master-dev
 	path = tools/external/fat32lib

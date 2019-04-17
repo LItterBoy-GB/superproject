@@ -45,6 +45,7 @@
 /tools/base
 /tools/buildSrc
 /external/dexter
+/tools/external/bazelbuild-rules-kotlin
 /tools/external/fat32lib
 /tools/external/gradle
 /tools/gradle
