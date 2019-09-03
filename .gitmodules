@@ -7,22 +7,6 @@
 	branch = studio-master-dev
 	path = tools/dx/dalvik
 	url = ../dalvik
-[submodule "platform/external/AntennaPod/AntennaPod"]
-	branch = studio-master-dev
-	path = external/AntennaPod/AntennaPod
-	url = ../external/AntennaPod/AntennaPod
-[submodule "platform/external/AntennaPod/AudioPlayer"]
-	branch = studio-master-dev
-	path = external/AntennaPod/AudioPlayer
-	url = ../external/AntennaPod/AudioPlayer
-[submodule "platform/external/AntennaPod/afollestad"]
-	branch = studio-master-dev
-	path = external/AntennaPod/afollestad
-	url = ../external/AntennaPod/afollestad
-[submodule "platform/external/android-studio-gradle-test"]
-	branch = studio-master-dev
-	path = external/android-studio-gradle-test
-	url = ../external/android-studio-gradle-test
 [submodule "platform/external/desugar"]
 	branch = studio-master-dev
 	path = tools/external/desugar
@@ -31,10 +15,6 @@
 	branch = studio-master-dev
 	path = external/doclava
 	url = ../external/doclava
-[submodule "platform/external/flatbuffers"]
-	branch = studio-master-dev
-	path = external/flatbuffers
-	url = ../external/flatbuffers
 [submodule "platform/external/gflags"]
 	branch = studio-master-dev
 	path = external/gflags
@@ -43,10 +23,6 @@
 	branch = studio-master-dev
 	path = external/googletest
 	url = ../external/googletest
-[submodule "platform/external/gradle-perf-android-medium"]
-	branch = studio-master-dev
-	path = external/gradle-perf-android-medium
-	url = ../external/gradle-perf-android-medium
 [submodule "platform/external/grpc-grpc"]
 	branch = studio-master-dev
 	path = external/grpc-grpc
@@ -59,6 +35,10 @@
 	branch = studio-master-dev
 	path = external/nanopb-c
 	url = ../external/nanopb-c
+[submodule "platform/external/perfetto"]
+	branch = studio-master-dev
+	path = external/perfetto
+	url = ../external/perfetto
 [submodule "platform/external/protobuf"]
 	branch = studio-master-dev
 	path = external/protobuf
