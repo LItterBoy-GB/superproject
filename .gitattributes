@@ -2,13 +2,17 @@
 /tools/dx/dalvik
 /tools/external/desugar
 /external/doclava
+/external/dokka pdk
+/external/freetype
 /external/gflags
 /external/googletest
 /external/grpc-grpc
 /external/jetbrains/kotlin
+/external/libpng
 /external/nanopb-c
 /external/perfetto
 /external/protobuf
+/external/skia
 /external/zlib
 /tools/data-binding
 /frameworks/layoutlib notdefault layoutlib
@@ -52,4 +56,3 @@
 /tools/studio/google/samples
 /tools/studio/google/services
 /tools/swing-testing
-/tools/swt

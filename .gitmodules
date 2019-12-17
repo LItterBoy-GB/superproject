@@ -15,6 +15,14 @@
 	branch = studio-master-dev
 	path = external/doclava
 	url = ../external/doclava
+[submodule "platform/external/dokka"]
+	branch = studio-master-dev
+	path = external/dokka
+	url = ../external/dokka
+[submodule "platform/external/freetype"]
+	branch = studio-master-dev
+	path = external/freetype
+	url = ../external/freetype
 [submodule "platform/external/gflags"]
 	branch = studio-master-dev
 	path = external/gflags
@@ -31,6 +39,10 @@
 	branch = studio-master-dev
 	path = external/jetbrains/kotlin
 	url = ../external/jetbrains/kotlin
+[submodule "platform/external/libpng"]
+	branch = studio-master-dev
+	path = external/libpng
+	url = ../external/libpng
 [submodule "platform/external/nanopb-c"]
 	branch = studio-master-dev
 	path = external/nanopb-c
@@ -43,6 +55,10 @@
 	branch = studio-master-dev
 	path = external/protobuf
 	url = ../external/protobuf
+[submodule "platform/external/skia"]
+	branch = studio-master-dev
+	path = external/skia
+	url = ../external/skia
 [submodule "platform/external/zlib"]
 	branch = studio-master-dev
 	path = external/zlib
@@ -53,7 +69,6 @@
 	url = ../frameworks/data-binding
 [submodule "platform/frameworks/layoutlib"]
 	branch = studio-master-dev
-	shallow = true
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
 [submodule "platform/frameworks/opt/sherpa"]
@@ -237,7 +252,3 @@
 	branch = studio-master-dev
 	path = tools/swing-testing
 	url = ../tools/swing-testing
-[submodule "platform/tools/swt"]
-	branch = studio-master-dev
-	path = tools/swt
-	url = ../tools/swt
