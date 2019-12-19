@@ -25,6 +25,7 @@
 /prebuilts/jdk/jdk8 pdk
 /prebuilts/jdk/jdk9 pdk
 /prebuilts/misc
+/prebuilts/remoteexecution-client pdk
 /prebuilts/sdk
 /tools/loganalysis
 /tools/tradefederation/core
