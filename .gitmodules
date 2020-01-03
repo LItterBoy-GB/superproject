@@ -1023,6 +1023,10 @@
 	branch = master
 	path = external/libprotobuf-mutator
 	url = ../external/libprotobuf-mutator
+[submodule "platform/external/libsrtp2"]
+	branch = master
+	path = external/libsrtp2
+	url = ../external/libsrtp2
 [submodule "platform/external/libtextclassifier"]
 	branch = master
 	path = external/libtextclassifier
