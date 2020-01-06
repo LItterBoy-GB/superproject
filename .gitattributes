@@ -102,6 +102,7 @@
 /external/capstone pdk
 /external/catch2 pdk
 /external/cblas pdk
+/external/cbor-java pdk
 /external/chromium-libpac pdk
 /external/chromium-trace pdk
 /external/chromium-webview pdk

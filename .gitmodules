@@ -426,6 +426,10 @@
 	branch = master
 	path = external/cblas
 	url = ../external/cblas
+[submodule "platform/external/cbor-java"]
+	branch = master
+	path = external/cbor-java
+	url = ../external/cbor-java
 [submodule "platform/external/chromium-libpac"]
 	branch = master
 	path = external/chromium-libpac
