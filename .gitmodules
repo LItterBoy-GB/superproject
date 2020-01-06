@@ -2441,6 +2441,10 @@
 	branch = master
 	path = packages/inputmethods/LatinIME
 	url = ../packages/inputmethods/LatinIME
+[submodule "platform/packages/inputmethods/LeanbackIME"]
+	branch = master
+	path = packages/inputmethods/LeanbackIME
+	url = ../packages/inputmethods/LeanbackIME
 [submodule "platform/packages/modules/CaptivePortalLogin"]
 	branch = master
 	path = packages/modules/CaptivePortalLogin
