@@ -130,12 +130,14 @@
 /system/extras pdk
 /system/keymaster pdk
 /system/libartpalette pdk
+/system/libsysprop pdk
 /system/memory/libmeminfo pdk
 /system/netd pdk
 /system/security pdk
 /system/sepolicy pdk
 /system/timezone pdk
 /system/tools/aidl pdk
+/system/tools/sysprop pdk
 /tools/apksig tradefed pdk
 /tools/apkzlib tradefed pdk
 /tools/dexter tools

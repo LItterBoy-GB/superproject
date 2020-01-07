@@ -551,6 +551,10 @@
 	branch = master
 	path = system/libartpalette
 	url = ../system/libartpalette
+[submodule "platform/system/libsysprop"]
+	branch = master
+	path = system/libsysprop
+	url = ../system/libsysprop
 [submodule "platform/system/memory/libmeminfo"]
 	branch = master
 	path = system/memory/libmeminfo
@@ -575,6 +579,10 @@
 	branch = master
 	path = system/tools/aidl
 	url = ../system/tools/aidl
+[submodule "platform/system/tools/sysprop"]
+	branch = master
+	path = system/tools/sysprop
+	url = ../system/tools/sysprop
 [submodule "platform/tools/apksig"]
 	branch = master
 	path = tools/apksig
