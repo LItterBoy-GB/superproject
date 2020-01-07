@@ -368,10 +368,6 @@
 	branch = master
 	path = external/v8
 	url = ../external/v8
-[submodule "platform/external/valgrind"]
-	branch = master
-	path = external/valgrind
-	url = ../external/valgrind
 [submodule "platform/external/vixl"]
 	branch = master
 	path = external/vixl

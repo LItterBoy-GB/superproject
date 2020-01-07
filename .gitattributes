@@ -90,7 +90,6 @@
 /external/toybox pdk
 /external/turbine pdk
 /external/v8 pdk
-/external/valgrind pdk
 /external/vixl pdk
 /external/vogar pdk
 /external/zlib pdk
