@@ -19,6 +19,10 @@
 	branch = master
 	path = device/generic/armv7-a-neon
 	url = ../../device/generic/armv7-a-neon
+[submodule "device/generic/art"]
+	branch = master
+	path = device/generic/art
+	url = ../../device/generic/art
 [submodule "device/generic/car"]
 	branch = master
 	path = device/generic/car

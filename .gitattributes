@@ -3,6 +3,7 @@
 /device/common pdk-cw-fs pdk
 /device/generic/arm64 pdk
 /device/generic/armv7-a-neon pdk
+/device/generic/art pdk
 /device/generic/car pdk
 /device/generic/common pdk
 /device/generic/goldfish pdk
