@@ -2449,6 +2449,11 @@
 	branch = master
 	path = packages/inputmethods/LeanbackIME
 	url = ../packages/inputmethods/LeanbackIME
+[submodule "platform/packages/modules/ArtPrebuilt"]
+	branch = master
+	shallow = true
+	path = packages/modules/ArtPrebuilt
+	url = ../packages/modules/ArtPrebuilt
 [submodule "platform/packages/modules/CaptivePortalLogin"]
 	branch = master
 	path = packages/modules/CaptivePortalLogin
