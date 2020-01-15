@@ -248,6 +248,7 @@
 /external/libphonenumber pdk
 /external/libpng pdk
 /external/libprotobuf-mutator pdk
+/external/libsrtp2 pdk
 /external/libtextclassifier pdk
 /external/libunwind pdk
 /external/libunwind_llvm pdk
@@ -375,6 +376,7 @@
 /external/robolectric-shadows pdk-fs pdk-cw-fs
 /external/roboto-fonts pdk
 /external/rootdev pdk
+/external/rust/crates/bitflags pdk
 /external/rust/crates/byteorder pdk
 /external/rust/crates/libc pdk
 /external/rust/crates/proc-macro2 pdk
@@ -455,6 +457,7 @@
 /frameworks/ex pdk-fs pdk-cw-fs
 /frameworks/hardware/interfaces pdk
 /frameworks/layoutlib pdk-fs pdk-cw-fs
+/frameworks/libs/net pdk-fs pdk-cw-fs
 /frameworks/minikin pdk-fs pdk-cw-fs
 /frameworks/ml pdk
 /frameworks/multidex pdk-fs pdk-cw-fs

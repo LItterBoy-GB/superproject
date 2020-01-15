@@ -1244,6 +1244,11 @@
 	shallow = true
 	path = external/libprotobuf-mutator
 	url = ../external/libprotobuf-mutator
+[submodule "platform/external/libsrtp2"]
+	branch = master
+	shallow = true
+	path = external/libsrtp2
+	url = ../external/libsrtp2
 [submodule "platform/external/libtextclassifier"]
 	branch = master
 	shallow = true
@@ -1877,6 +1882,10 @@
 	shallow = true
 	path = external/rootdev
 	url = ../external/rootdev
+[submodule "platform/external/rust/crates/bitflags"]
+	branch = master
+	path = external/rust/crates/bitflags
+	url = ../external/rust/crates/bitflags
 [submodule "platform/external/rust/crates/byteorder"]
 	branch = master
 	path = external/rust/crates/byteorder
@@ -2269,6 +2278,11 @@
 	shallow = true
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
+[submodule "platform/frameworks/libs/net"]
+	branch = master
+	shallow = true
+	path = frameworks/libs/net
+	url = ../frameworks/libs/net
 [submodule "platform/frameworks/minikin"]
 	branch = master
 	shallow = true
