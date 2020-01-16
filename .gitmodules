@@ -1,0 +1,14 @@
+[submodule "platform/external/jetbrains/kotlin"]
+	branch = compose-dev
+	path = external/jetbrains/kotlin
+	url = ../external/jetbrains/kotlin
+[submodule "platform/prebuilts/jdk/jdk8"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk8
+	url = ../prebuilts/jdk/jdk8
+[submodule "platform/prebuilts/jdk/jdk9"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk9
+	url = ../prebuilts/jdk/jdk9
