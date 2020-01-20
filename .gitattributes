@@ -30,6 +30,7 @@
 /external/dlmalloc pdk
 /external/doclava pdk
 /external/e2fsprogs pdk
+/external/easymock pdk
 /external/error_prone pdk
 /external/expat pdk
 /external/f2fs-tools pdk
@@ -40,17 +41,21 @@
 /external/google-styleguide pdk
 /external/googletest pdk
 /external/guava pdk
+/external/guice pdk
 /external/hamcrest pdk
 /external/icu pdk
+/external/jacoco pdk
 /external/jarjar pdk
 /external/javapoet pdk
 /external/javasqlite pdk
 /external/jcommander pdk
 /external/jemalloc pdk
 /external/jemalloc_new pdk
+/external/jline pdk-fs tradefed pdk
 /external/jsilver pdk
 /external/jsoncpp pdk
 /external/jsr305 pdk
+/external/jsr330 pdk
 /external/junit pdk
 /external/junit-params pdk
 /external/kotlinc pdk
@@ -99,6 +104,8 @@
 /libcore pdk
 /libnativehelper pdk
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
+/platform_testing pdk-fs cts pdk-cw-fs
+/prebuilts/asuite pdk
 /prebuilts/build-tools pdk
 /prebuilts/clang-tools pdk
 /prebuilts/clang/host/linux-x86 pdk
@@ -137,9 +144,14 @@
 /system/timezone pdk
 /system/tools/aidl pdk
 /system/tools/sysprop pdk
+/test/suite_harness pdk-fs cts pdk-cw-fs
 /tools/apksig tradefed pdk
 /tools/apkzlib tradefed pdk
+/tools/asuite pdk
 /tools/dexter tools
+/tools/loganalysis tradefed pdk nopresubmit
 /tools/metalava tools
+/tools/tradefederation/core tradefed pdk
+/tools/tradefederation/contrib tradefed pdk
 /toolchain/pgo-profiles
 /tools/platform-compat pdk-fs pdk-cw-fs pdk

@@ -127,6 +127,10 @@
 	branch = master
 	path = external/e2fsprogs
 	url = ../external/e2fsprogs
+[submodule "platform/external/easymock"]
+	branch = master
+	path = external/easymock
+	url = ../external/easymock
 [submodule "platform/external/error_prone"]
 	branch = master
 	path = external/error_prone
@@ -167,6 +171,10 @@
 	branch = master
 	path = external/guava
 	url = ../external/guava
+[submodule "platform/external/guice"]
+	branch = master
+	path = external/guice
+	url = ../external/guice
 [submodule "platform/external/hamcrest"]
 	branch = master
 	path = external/hamcrest
@@ -175,6 +183,10 @@
 	branch = master
 	path = external/icu
 	url = ../external/icu
+[submodule "platform/external/jacoco"]
+	branch = master
+	path = external/jacoco
+	url = ../external/jacoco
 [submodule "platform/external/jarjar"]
 	branch = master
 	path = external/jarjar
@@ -199,6 +211,10 @@
 	branch = master
 	path = external/jemalloc_new
 	url = ../external/jemalloc_new
+[submodule "platform/external/jline"]
+	branch = master
+	path = external/jline
+	url = ../external/jline
 [submodule "platform/external/jsilver"]
 	branch = master
 	path = external/jsilver
@@ -211,6 +227,10 @@
 	branch = master
 	path = external/jsr305
 	url = ../external/jsr305
+[submodule "platform/external/jsr330"]
+	branch = master
+	path = external/jsr330
+	url = ../external/jsr330
 [submodule "platform/external/junit"]
 	branch = master
 	path = external/junit
@@ -404,6 +424,15 @@
 	branch = master
 	path = packages/modules/DnsResolver
 	url = ../packages/modules/DnsResolver
+[submodule "platform/platform_testing"]
+	branch = master
+	path = platform_testing
+	url = ../platform_testing
+[submodule "platform/prebuilts/asuite"]
+	branch = master
+	shallow = true
+	path = prebuilts/asuite
+	url = ../prebuilts/asuite
 [submodule "platform/prebuilts/build-tools"]
 	branch = master
 	shallow = true
@@ -579,6 +608,10 @@
 	branch = master
 	path = system/tools/sysprop
 	url = ../system/tools/sysprop
+[submodule "platform/test/suite_harness"]
+	branch = master
+	path = test/suite_harness
+	url = ../test/suite_harness
 [submodule "platform/tools/apksig"]
 	branch = master
 	path = tools/apksig
@@ -587,14 +620,30 @@
 	branch = master
 	path = tools/apkzlib
 	url = ../tools/apkzlib
+[submodule "platform/tools/asuite"]
+	branch = master
+	path = tools/asuite
+	url = ../tools/asuite
 [submodule "platform/tools/dexter"]
 	branch = master
 	path = tools/dexter
 	url = ../tools/dexter
+[submodule "platform/tools/loganalysis"]
+	branch = master
+	path = tools/loganalysis
+	url = ../tools/loganalysis
 [submodule "platform/tools/metalava"]
 	branch = master
 	path = tools/metalava
 	url = ../tools/metalava
+[submodule "platform/tools/tradefederation"]
+	branch = master
+	path = tools/tradefederation/core
+	url = ../tools/tradefederation
+[submodule "platform/tools/tradefederation/contrib"]
+	branch = master
+	path = tools/tradefederation/contrib
+	url = ../tools/tradefederation/contrib
 [submodule "toolchain/pgo-profiles"]
 	branch = master
 	path = toolchain/pgo-profiles
