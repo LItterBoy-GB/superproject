@@ -86,6 +86,10 @@
 	branch = emu-master-dev
 	path = external/lz4
 	url = ../external/lz4
+[submodule "platform/external/nasm"]
+	branch = emu-master-dev
+	path = external/nasm
+	url = ../external/nasm
 [submodule "platform/external/openssl"]
 	branch = emu-master-dev
 	path = external/openssl
