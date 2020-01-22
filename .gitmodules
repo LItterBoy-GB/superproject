@@ -126,6 +126,10 @@
 	branch = emu-master-dev
 	path = external/virglrenderer
 	url = ../external/virglrenderer
+[submodule "platform/external/wpa_supplicant_8"]
+	branch = emu-master-dev
+	path = external/wpa_supplicant_8
+	url = ../external/wpa_supplicant_8
 [submodule "platform/external/zlib"]
 	branch = emu-master-dev
 	path = external/zlib
