@@ -1,5 +1,6 @@
 /bionic
 /external/toolchain-utils
+/prebuilts/build-tools
 /prebuilts/clang/host/darwin-x86
 /prebuilts/clang/host/linux-x86
 /prebuilts/clang/host/windows-x86
