@@ -196,6 +196,7 @@
 /external/libphonenumber pdk
 /external/libpng pdk
 /external/libprotobuf-mutator pdk
+/external/libsrtp2 pdk
 /external/libtextclassifier pdk
 /external/libunwind pdk
 /external/libunwind_llvm pdk

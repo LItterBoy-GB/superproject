@@ -792,6 +792,10 @@
 	branch = android10-gsi
 	path = external/libprotobuf-mutator
 	url = ../external/libprotobuf-mutator
+[submodule "platform/external/libsrtp2"]
+	branch = android10-gsi
+	path = external/libsrtp2
+	url = ../external/libsrtp2
 [submodule "platform/external/libtextclassifier"]
 	branch = android10-gsi
 	path = external/libtextclassifier
