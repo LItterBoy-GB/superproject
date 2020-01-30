@@ -579,10 +579,6 @@
 	branch = master
 	path = external/emma
 	url = ../external/emma
-[submodule "platform/external/epid-sdk"]
-	branch = master
-	path = external/epid-sdk
-	url = ../external/epid-sdk
 [submodule "platform/external/error_prone"]
 	branch = master
 	path = external/error_prone
