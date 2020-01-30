@@ -2,6 +2,10 @@
 	branch = master
 	path = device/generic/goldfish-opengl
 	url = ../../device/generic/goldfish-opengl
+[submodule "device/generic/vulkan-cereal"]
+	branch = master
+	path = device/generic/vulkan-cereal
+	url = ../../device/generic/vulkan-cereal
 [submodule "platform/build"]
 	branch = emu-master-dev
 	path = build
@@ -27,10 +31,10 @@
 	shallow = true
 	path = external/boringssl
 	url = ../external/boringssl
-[submodule "platform/external/chromium_org/third_party/yasm/source/patched-yasm"]
+[submodule "platform/external/c-ares"]
 	branch = emu-master-dev
-	path = external/yasm
-	url = ../external/chromium_org/third_party/yasm/source/patched-yasm
+	path = external/cares
+	url = ../external/c-ares
 [submodule "platform/external/curl"]
 	branch = emu-master-dev
 	path = external/curl
@@ -54,6 +58,10 @@
 	branch = master
 	path = external/googletest
 	url = ../external/googletest
+[submodule "platform/external/grpc-grpc"]
+	branch = emu-master-dev
+	path = external/grpc
+	url = ../external/grpc-grpc
 [submodule "platform/external/gtest"]
 	branch = master
 	path = external/gtest
@@ -66,10 +74,6 @@
 	branch = emu-master-dev
 	path = external/libpng
 	url = ../external/libpng
-[submodule "platform/external/libunwind_llvm"]
-	branch = master
-	path = external/libunwind_llvm
-	url = ../external/libunwind_llvm
 [submodule "platform/external/libvpx"]
 	branch = emu-master-dev
 	path = external/libvpx
@@ -82,6 +86,10 @@
 	branch = emu-master-dev
 	path = external/lz4
 	url = ../external/lz4
+[submodule "platform/external/nasm"]
+	branch = emu-master-dev
+	path = external/nasm
+	url = ../external/nasm
 [submodule "platform/external/openssl"]
 	branch = emu-master-dev
 	path = external/openssl
@@ -118,6 +126,10 @@
 	branch = emu-master-dev
 	path = external/virglrenderer
 	url = ../external/virglrenderer
+[submodule "platform/external/wpa_supplicant_8"]
+	branch = emu-master-dev
+	path = external/wpa_supplicant_8
+	url = ../external/wpa_supplicant_8
 [submodule "platform/external/zlib"]
 	branch = emu-master-dev
 	path = external/zlib
@@ -200,11 +212,6 @@
 	shallow = true
 	path = prebuilts/cmake/windows-x86
 	url = ../prebuilts/cmake/windows-x86
-[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
-	branch = master
-	shallow = true
-	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
-	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
 	branch = master
 	shallow = true
