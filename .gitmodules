@@ -451,10 +451,6 @@
 	branch = master
 	path = external/cldr
 	url = ../external/cldr
-[submodule "platform/external/cmockery"]
-	branch = master
-	path = external/cmockery
-	url = ../external/cmockery
 [submodule "platform/external/cn-cbor"]
 	branch = master
 	path = external/cn-cbor
@@ -539,10 +535,6 @@
 	branch = master
 	path = external/drm_hwcomposer
 	url = ../external/drm_hwcomposer
-[submodule "platform/external/droiddriver"]
-	branch = master
-	path = external/droiddriver
-	url = ../external/droiddriver
 [submodule "platform/external/drrickorang"]
 	branch = master
 	path = external/drrickorang
@@ -983,10 +975,6 @@
 	branch = master
 	path = external/libmpeg2
 	url = ../external/libmpeg2
-[submodule "platform/external/libmtp"]
-	branch = master
-	path = external/libmtp
-	url = ../external/libmtp
 [submodule "platform/external/libnetfilter_conntrack"]
 	branch = master
 	path = external/libnetfilter_conntrack
@@ -1043,10 +1031,6 @@
 	branch = master
 	path = external/libusb
 	url = ../external/libusb
-[submodule "platform/external/libusb-compat"]
-	branch = master
-	path = external/libusb-compat
-	url = ../external/libusb-compat
 [submodule "platform/external/libutf"]
 	branch = master
 	path = external/libutf
@@ -1267,42 +1251,18 @@
 	branch = master
 	path = external/protobuf
 	url = ../external/protobuf
-[submodule "platform/external/protobuf-javalite"]
-	branch = master
-	path = external/protobuf-javalite
-	url = ../external/protobuf-javalite
 [submodule "platform/external/puffin"]
 	branch = master
 	path = external/puffin
 	url = ../external/puffin
-[submodule "platform/external/python/Pillow"]
-	branch = master
-	path = external/python/Pillow
-	url = ../external/python/Pillow
 [submodule "platform/external/python/apitools"]
 	branch = master
 	path = external/python/apitools
 	url = ../external/python/apitools
-[submodule "platform/external/python/appdirs"]
-	branch = master
-	path = external/python/appdirs
-	url = ../external/python/appdirs
 [submodule "platform/external/python/asn1crypto"]
 	branch = master
 	path = external/python/asn1crypto
 	url = ../external/python/asn1crypto
-[submodule "platform/external/python/atomicwrites"]
-	branch = master
-	path = external/python/atomicwrites
-	url = ../external/python/atomicwrites
-[submodule "platform/external/python/attrs"]
-	branch = master
-	path = external/python/attrs
-	url = ../external/python/attrs
-[submodule "platform/external/python/cachetools"]
-	branch = master
-	path = external/python/cachetools
-	url = ../external/python/cachetools
 [submodule "platform/external/python/cffi"]
 	branch = master
 	path = external/python/cffi
@@ -1323,14 +1283,6 @@
 	branch = master
 	path = external/python/dateutil
 	url = ../external/python/dateutil
-[submodule "platform/external/python/dill"]
-	branch = master
-	path = external/python/dill
-	url = ../external/python/dill
-[submodule "platform/external/python/enum"]
-	branch = master
-	path = external/python/enum
-	url = ../external/python/enum
 [submodule "platform/external/python/enum34"]
 	branch = master
 	path = external/python/enum34
@@ -1339,54 +1291,14 @@
 	branch = master
 	path = external/python/funcsigs
 	url = ../external/python/funcsigs
-[submodule "platform/external/python/future"]
-	branch = master
-	path = external/python/future
-	url = ../external/python/future
 [submodule "platform/external/python/futures"]
 	branch = master
 	path = external/python/futures
 	url = ../external/python/futures
-[submodule "platform/external/python/gapic-google-cloud-pubsub-v1"]
-	branch = master
-	path = external/python/gapic-google-cloud-pubsub-v1
-	url = ../external/python/gapic-google-cloud-pubsub-v1
 [submodule "platform/external/python/google-api-python-client"]
 	branch = master
 	path = external/python/google-api-python-client
 	url = ../external/python/google-api-python-client
-[submodule "platform/external/python/google-auth"]
-	branch = master
-	path = external/python/google-auth
-	url = ../external/python/google-auth
-[submodule "platform/external/python/google-auth-httplib2"]
-	branch = master
-	path = external/python/google-auth-httplib2
-	url = ../external/python/google-auth-httplib2
-[submodule "platform/external/python/google-cloud-core"]
-	branch = master
-	path = external/python/google-cloud-core
-	url = ../external/python/google-cloud-core
-[submodule "platform/external/python/google-cloud-pubsub"]
-	branch = master
-	path = external/python/google-cloud-pubsub
-	url = ../external/python/google-cloud-pubsub
-[submodule "platform/external/python/google-gax"]
-	branch = master
-	path = external/python/google-gax
-	url = ../external/python/google-gax
-[submodule "platform/external/python/googleapis"]
-	branch = master
-	path = external/python/googleapis
-	url = ../external/python/googleapis
-[submodule "platform/external/python/grpc-google-iam-v1"]
-	branch = master
-	path = external/python/grpc-google-iam-v1
-	url = ../external/python/grpc-google-iam-v1
-[submodule "platform/external/python/grpcio"]
-	branch = master
-	path = external/python/grpcio
-	url = ../external/python/grpcio
 [submodule "platform/external/python/httplib2"]
 	branch = master
 	path = external/python/httplib2
@@ -1395,58 +1307,14 @@
 	branch = master
 	path = external/python/ipaddress
 	url = ../external/python/ipaddress
-[submodule "platform/external/python/matplotlib"]
-	branch = master
-	path = external/python/matplotlib
-	url = ../external/python/matplotlib
 [submodule "platform/external/python/mock"]
 	branch = master
 	path = external/python/mock
 	url = ../external/python/mock
-[submodule "platform/external/python/more-itertools"]
-	branch = master
-	path = external/python/more-itertools
-	url = ../external/python/more-itertools
-[submodule "platform/external/python/numpy"]
-	branch = master
-	path = external/python/numpy
-	url = ../external/python/numpy
 [submodule "platform/external/python/oauth2client"]
 	branch = master
 	path = external/python/oauth2client
 	url = ../external/python/oauth2client
-[submodule "platform/external/python/olefile"]
-	branch = master
-	path = external/python/olefile
-	url = ../external/python/olefile
-[submodule "platform/external/python/packaging"]
-	branch = master
-	path = external/python/packaging
-	url = ../external/python/packaging
-[submodule "platform/external/python/parse"]
-	branch = master
-	path = external/python/parse
-	url = ../external/python/parse
-[submodule "platform/external/python/pluggy"]
-	branch = master
-	path = external/python/pluggy
-	url = ../external/python/pluggy
-[submodule "platform/external/python/ply"]
-	branch = master
-	path = external/python/ply
-	url = ../external/python/ply
-[submodule "platform/external/python/proto-google-cloud-pubsub-v1"]
-	branch = master
-	path = external/python/proto-google-cloud-pubsub-v1
-	url = ../external/python/proto-google-cloud-pubsub-v1
-[submodule "platform/external/python/protobuf"]
-	branch = master
-	path = external/python/protobuf
-	url = ../external/python/protobuf
-[submodule "platform/external/python/py"]
-	branch = master
-	path = external/python/py
-	url = ../external/python/py
 [submodule "platform/external/python/pyasn1"]
 	branch = master
 	path = external/python/pyasn1
@@ -1467,26 +1335,10 @@
 	branch = master
 	path = external/python/pyopenssl
 	url = ../external/python/pyopenssl
-[submodule "platform/external/python/pyparsing"]
-	branch = master
-	path = external/python/pyparsing
-	url = ../external/python/pyparsing
-[submodule "platform/external/python/pytest"]
-	branch = master
-	path = external/python/pytest
-	url = ../external/python/pytest
-[submodule "platform/external/python/requests"]
-	branch = master
-	path = external/python/requests
-	url = ../external/python/requests
 [submodule "platform/external/python/rsa"]
 	branch = master
 	path = external/python/rsa
 	url = ../external/python/rsa
-[submodule "platform/external/python/scipy"]
-	branch = master
-	path = external/python/scipy
-	url = ../external/python/scipy
 [submodule "platform/external/python/setuptools"]
 	branch = master
 	path = external/python/setuptools
@@ -2482,10 +2334,6 @@
 	branch = master
 	path = packages/modules/vndk
 	url = ../packages/modules/vndk
-[submodule "platform/packages/providers/ApplicationsProvider"]
-	branch = master
-	path = packages/providers/ApplicationsProvider
-	url = ../packages/providers/ApplicationsProvider
 [submodule "platform/packages/providers/BlockedNumberProvider"]
 	branch = master
 	path = packages/providers/BlockedNumberProvider
@@ -3042,10 +2890,6 @@
 	branch = master
 	path = system/tools/xsdc
 	url = ../system/tools/xsdc
-[submodule "platform/system/ucontainer"]
-	branch = master
-	path = system/ucontainer
-	url = ../system/ucontainer
 [submodule "platform/system/update_engine"]
 	branch = master
 	path = system/update_engine
