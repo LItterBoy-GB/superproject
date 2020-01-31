@@ -67,7 +67,6 @@
 /developers/demos developers
 /developers/samples/android developers
 /development pdk-fs pdk-cw-fs developers
-/external/ARMComputeLibrary pdk
 /external/ImageMagick pdk
 /external/OpenCSD pdk
 /external/Reactive-Extensions/RxCpp pdk
