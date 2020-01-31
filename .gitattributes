@@ -554,7 +554,6 @@
 /packages/apps/Car/Settings pdk-fs
 /packages/apps/Car/Stream pdk-fs
 /packages/apps/Car/SystemUpdater pdk-fs
-/packages/apps/Car/externallibs pdk-fs
 /packages/apps/Car/libs pdk-fs
 /packages/apps/Car/tests pdk-fs
 /packages/apps/CarrierConfig pdk-fs pdk-cw-fs
@@ -681,7 +680,6 @@
 /prebuilts/manifest-merger pdk
 /prebuilts/maven_repo/android pdk-fs pdk-cw-fs
 /prebuilts/maven_repo/bumptech pdk-fs pdk-cw-fs
-/prebuilts/maven_repo/google-play-service-client-libraries-3p
 /prebuilts/misc pdk
 /prebuilts/module_sdk/art pdk
 /prebuilts/ndk pdk
@@ -756,7 +754,6 @@
 /test/mlts/models pdk
 /test/mts
 /test/suite_harness pdk-fs cts pdk-cw-fs
-/test/vti/alert vts pdk projectarch
 /test/vti/dashboard vts pdk projectarch
 /test/vti/fuzz_test_serving vts pdk projectarch
 /test/vti/test_serving vts pdk projectarch

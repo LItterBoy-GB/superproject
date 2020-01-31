@@ -2237,10 +2237,6 @@
 	branch = master
 	path = packages/apps/Car/SystemUpdater
 	url = ../packages/apps/Car/SystemUpdater
-[submodule "platform/packages/apps/Car/externallibs"]
-	branch = master
-	path = packages/apps/Car/externallibs
-	url = ../packages/apps/Car/externallibs
 [submodule "platform/packages/apps/Car/libs"]
 	branch = master
 	path = packages/apps/Car/libs
@@ -2781,11 +2777,6 @@
 	shallow = true
 	path = prebuilts/maven_repo/bumptech
 	url = ../prebuilts/maven_repo/bumptech
-[submodule "platform/prebuilts/maven_repo/google-play-service-client-libraries-3p"]
-	branch = master
-	shallow = true
-	path = prebuilts/maven_repo/google-play-service-client-libraries-3p
-	url = ../prebuilts/maven_repo/google-play-service-client-libraries-3p
 [submodule "platform/prebuilts/misc"]
 	branch = master
 	shallow = true
@@ -3091,10 +3082,6 @@
 	branch = master
 	path = test/suite_harness
 	url = ../test/suite_harness
-[submodule "platform/test/vti/alert"]
-	branch = master
-	path = test/vti/alert
-	url = ../test/vti/alert
 [submodule "platform/test/vti/dashboard"]
 	branch = master
 	path = test/vti/dashboard
