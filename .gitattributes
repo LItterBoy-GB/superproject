@@ -108,7 +108,6 @@
 /external/chromium-webview pdk
 /external/clang pdk
 /external/cldr pdk
-/external/cmockery pdk
 /external/cn-cbor pdk
 /external/compiler-rt pdk
 /external/conscrypt pdk
@@ -130,7 +129,6 @@
 /external/doclava pdk
 /external/dokka pdk
 /external/drm_hwcomposer pdk-fs drm_hwcomposer
-/external/droiddriver pdk
 /external/drrickorang pdk
 /external/dtc pdk
 /external/dynamic_depth pdk
@@ -241,7 +239,6 @@
 /external/libkmsxx pdk
 /external/libldac pdk
 /external/libmpeg2 pdk
-/external/libmtp pdk
 /external/libnetfilter_conntrack pdk
 /external/libnfnetlink pdk
 /external/libnl pdk
@@ -256,7 +253,6 @@
 /external/libunwind pdk
 /external/libunwind_llvm pdk
 /external/libusb pdk
-/external/libusb-compat pdk
 /external/libutf pdk
 /external/libvpx pdk
 /external/libvterm pdk
@@ -312,61 +308,28 @@
 /external/ppp pdk
 /external/proguard pdk
 /external/protobuf pdk
-/external/protobuf-javalite pdk
 /external/puffin pdk
-/external/python/Pillow vts pdk
 /external/python/apitools pdk
-/external/python/appdirs vts pdk
 /external/python/asn1crypto pdk
-/external/python/atomicwrites pdk
-/external/python/attrs pdk
-/external/python/cachetools vts pdk
 /external/python/cffi pdk
 /external/python/cpython2 pdk
 /external/python/cpython3 pdk
 /external/python/cryptography pdk
 /external/python/dateutil pdk
-/external/python/dill vts pdk
-/external/python/enum vts pdk
 /external/python/enum34 vts pdk
 /external/python/funcsigs pdk
-/external/python/future vts pdk
 /external/python/futures vts pdk
-/external/python/gapic-google-cloud-pubsub-v1 vts pdk
 /external/python/google-api-python-client vts pdk
-/external/python/google-auth vts pdk
-/external/python/google-auth-httplib2 vts pdk
-/external/python/google-cloud-core vts pdk
-/external/python/google-cloud-pubsub vts pdk
-/external/python/google-gax vts pdk
-/external/python/googleapis vts pdk
-/external/python/grpc-google-iam-v1 vts pdk
-/external/python/grpcio vts pdk
 /external/python/httplib2 vts pdk
 /external/python/ipaddress pdk
-/external/python/matplotlib vts pdk
 /external/python/mock pdk
-/external/python/more-itertools pdk
-/external/python/numpy vts pdk
 /external/python/oauth2client vts pdk
-/external/python/olefile vts pdk
-/external/python/packaging vts pdk
-/external/python/parse vts pdk
-/external/python/pluggy pdk
-/external/python/ply vts pdk
-/external/python/proto-google-cloud-pubsub-v1 vts pdk
-/external/python/protobuf vts pdk
-/external/python/py pdk
 /external/python/pyasn1 vts pdk
 /external/python/pyasn1-modules vts pdk
 /external/python/pybind11 pdk
 /external/python/pycparser pdk
 /external/python/pyopenssl pdk
-/external/python/pyparsing vts pdk
-/external/python/pytest pdk
-/external/python/requests vts pdk
 /external/python/rsa vts pdk
-/external/python/scipy vts pdk
 /external/python/setuptools vts pdk
 /external/python/six vts pdk
 /external/python/uritemplates vts pdk
@@ -615,7 +578,6 @@
 /packages/modules/NetworkStack pdk-fs pdk-cw-fs
 /packages/modules/TestModule
 /packages/modules/vndk pdk-fs pdk-cw-fs
-/packages/providers/ApplicationsProvider pdk-fs
 /packages/providers/BlockedNumberProvider pdk-fs
 /packages/providers/BookmarkProvider pdk-fs
 /packages/providers/CalendarProvider pdk-fs pdk-cw-fs
@@ -736,7 +698,6 @@
 /system/tools/mkbootimg pdk
 /system/tools/sysprop pdk
 /system/tools/xsdc pdk
-/system/ucontainer pdk
 /system/update_engine pdk
 /system/vold pdk
 /test/app_compat/csuite
