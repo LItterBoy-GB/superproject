@@ -1,3 +1,7 @@
+[submodule "platform/build"]
+	branch = android-games-sdk
+	path = build
+	url = ../build
 [submodule "platform/external/googletest"]
 	branch = master
 	path = external/googletest
@@ -74,3 +78,7 @@
 	branch = master
 	path = prebuilts/ndk/r19
 	url = ../../toolchain/prebuilts/ndk/r19
+[submodule "toolchain/prebuilts/ndk/r20"]
+	branch = master
+	path = prebuilts/ndk/r20
+	url = ../../toolchain/prebuilts/ndk/r20
