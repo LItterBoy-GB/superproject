@@ -1,80 +1,63 @@
+[submodule "platform/build"]
+	path = build
+	url = ../build
 [submodule "platform/external/googletest"]
-	branch = android-games-sdk-release
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/modp_b64"]
-	branch = android-games-sdk-release
 	path = external/modp_b64
 	url = ../external/modp_b64
 [submodule "platform/external/nanopb-c"]
-	branch = android-games-sdk-release
 	path = external/nanopb-c
 	url = ../external/nanopb-c
 [submodule "platform/external/protobuf"]
-	branch = android-games-sdk-release
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/frameworks/opt/gamesdk"]
-	branch = android-games-sdk-release
 	path = gamesdk
 	url = ../frameworks/opt/gamesdk
 [submodule "platform/prebuilts/cmake/darwin-x86"]
-	branch = android-games-sdk-release
 	path = prebuilts/cmake/darwin-x86
 	url = ../prebuilts/cmake/darwin-x86
 [submodule "platform/prebuilts/cmake/linux-x86"]
-	branch = android-games-sdk-release
 	path = prebuilts/cmake/linux-x86
 	url = ../prebuilts/cmake/linux-x86
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/26.0.1"]
-	branch = android-games-sdk-release
 	path = prebuilts/sdk/build-tools/26.0.1
 	url = ../prebuilts/fullsdk-linux/build-tools/26.0.1
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/28.0.3"]
-	branch = android-games-sdk-release
 	path = prebuilts/sdk/build-tools/28.0.3
 	url = ../prebuilts/fullsdk-linux/build-tools/28.0.3
 [submodule "platform/prebuilts/fullsdk/platforms/android-26"]
-	branch = android-games-sdk-release
 	path = prebuilts/sdk/platforms/android-26
 	url = ../prebuilts/fullsdk/platforms/android-26
 [submodule "platform/prebuilts/fullsdk/platforms/android-28"]
-	branch = android-games-sdk-release
 	path = prebuilts/sdk/platforms/android-28
 	url = ../prebuilts/fullsdk/platforms/android-28
 [submodule "platform/tools/repohooks"]
-	branch = android-games-sdk-release
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "toolchain/prebuilts/ndk/r13"]
-	branch = android-games-sdk-release
 	path = prebuilts/ndk/r13
 	url = ../../toolchain/prebuilts/ndk/r13
 [submodule "toolchain/prebuilts/ndk/r14"]
-	branch = android-games-sdk-release
 	path = prebuilts/ndk/r14
 	url = ../../toolchain/prebuilts/ndk/r14
 [submodule "toolchain/prebuilts/ndk/r15"]
-	branch = android-games-sdk-release
 	path = prebuilts/ndk/r15
 	url = ../../toolchain/prebuilts/ndk/r15
 [submodule "toolchain/prebuilts/ndk/r16"]
-	branch = android-games-sdk-release
 	path = prebuilts/ndk/r16
 	url = ../../toolchain/prebuilts/ndk/r16
 [submodule "toolchain/prebuilts/ndk/r17"]
-	branch = android-games-sdk-release
 	path = prebuilts/ndk/r17
 	url = ../../toolchain/prebuilts/ndk/r17
 [submodule "toolchain/prebuilts/ndk/r18"]
-	branch = android-games-sdk-release
 	path = prebuilts/ndk/r18
 	url = ../../toolchain/prebuilts/ndk/r18
 [submodule "toolchain/prebuilts/ndk/r19"]
-	branch = android-games-sdk-release
 	path = prebuilts/ndk/r19
 	url = ../../toolchain/prebuilts/ndk/r19
 [submodule "toolchain/prebuilts/ndk/r20"]
-	branch = android-games-sdk-release
 	path = prebuilts/ndk/r20
 	url = ../../toolchain/prebuilts/ndk/r20
