@@ -120,7 +120,7 @@
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
 [submodule "toolchain/llvm-project"]
-	branch = master-legacy
+	branch = testing-upstream
 	path = toolchain/llvm-project
 	url = ../../toolchain/llvm-project
 [submodule "toolchain/llvm_android"]
