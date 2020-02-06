@@ -145,6 +145,7 @@
 /system/sepolicy pdk
 /system/timezone pdk
 /system/tools/aidl pdk
+/system/tools/hidl pdk
 /system/tools/sysprop pdk
 /test/suite_harness pdk-fs cts pdk-cw-fs
 /tools/apksig tradefed pdk
