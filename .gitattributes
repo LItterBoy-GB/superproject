@@ -104,6 +104,7 @@
 /libcore pdk
 /libnativehelper pdk
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
+/packages/modules/vndk pdk-fs pdk-cw-fs
 /platform_testing pdk-fs cts pdk-cw-fs
 /prebuilts/asuite pdk
 /prebuilts/build-tools pdk
@@ -137,6 +138,7 @@
 /system/keymaster pdk
 /system/libartpalette pdk
 /system/libsysprop pdk
+/system/linkerconfig pdk
 /system/memory/libmeminfo pdk
 /system/netd pdk
 /system/security pdk

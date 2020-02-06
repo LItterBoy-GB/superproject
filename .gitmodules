@@ -424,6 +424,10 @@
 	branch = master
 	path = packages/modules/DnsResolver
 	url = ../packages/modules/DnsResolver
+[submodule "platform/packages/modules/vndk"]
+	branch = master
+	path = packages/modules/vndk
+	url = ../packages/modules/vndk
 [submodule "platform/platform_testing"]
 	branch = master
 	path = platform_testing
@@ -580,6 +584,10 @@
 	branch = master
 	path = system/libsysprop
 	url = ../system/libsysprop
+[submodule "platform/system/linkerconfig"]
+	branch = master
+	path = system/linkerconfig
+	url = ../system/linkerconfig
 [submodule "platform/system/memory/libmeminfo"]
 	branch = master
 	path = system/memory/libmeminfo
