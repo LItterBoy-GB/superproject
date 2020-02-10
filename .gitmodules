@@ -286,6 +286,14 @@
 	branch = master
 	path = development
 	url = ../development
+[submodule "platform/external/FP16"]
+	branch = master
+	path = external/FP16
+	url = ../external/FP16
+[submodule "platform/external/FXdiv"]
+	branch = master
+	path = external/FXdiv
+	url = ../external/FXdiv
 [submodule "platform/external/ImageMagick"]
 	branch = master
 	path = external/ImageMagick
@@ -298,6 +306,10 @@
 	branch = master
 	path = external/Reactive-Extensions/RxCpp
 	url = ../external/Reactive-Extensions/RxCpp
+[submodule "platform/external/XNNPACK"]
+	branch = master
+	path = external/XNNPACK
+	url = ../external/XNNPACK
 [submodule "platform/external/aac"]
 	branch = master
 	path = external/aac
@@ -463,6 +475,10 @@
 	branch = master
 	path = external/cpu_features
 	url = ../external/cpu_features
+[submodule "platform/external/cpuinfo"]
+	branch = master
+	path = external/cpuinfo
+	url = ../external/cpuinfo
 [submodule "platform/external/crcalc"]
 	branch = master
 	path = external/crcalc
@@ -1247,6 +1263,14 @@
 	branch = master
 	path = external/protobuf
 	url = ../external/protobuf
+[submodule "platform/external/psimd"]
+	branch = master
+	path = external/psimd
+	url = ../external/psimd
+[submodule "platform/external/pthreadpool"]
+	branch = master
+	path = external/pthreadpool
+	url = ../external/pthreadpool
 [submodule "platform/external/puffin"]
 	branch = master
 	path = external/puffin
