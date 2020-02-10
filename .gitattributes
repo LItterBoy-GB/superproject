@@ -84,7 +84,6 @@
 /external/apache-harmony pdk
 /external/apache-http pdk
 /external/apache-xml pdk
-/external/archive-patcher pdk
 /external/arm-neon-tests vendor
 /external/arm-optimized-routines pdk
 /external/arm-trusted-firmware pdk
