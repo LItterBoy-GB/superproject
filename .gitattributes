@@ -67,9 +67,12 @@
 /developers/demos developers
 /developers/samples/android developers
 /development pdk-fs pdk-cw-fs developers
+/external/FP16 pdk
+/external/FXdiv pdk
 /external/ImageMagick pdk
 /external/OpenCSD pdk
 /external/Reactive-Extensions/RxCpp pdk
+/external/XNNPACK pdk
 /external/aac pdk
 /external/adeb pdk
 /external/adhd pdk
@@ -111,6 +114,7 @@
 /external/compiler-rt pdk
 /external/conscrypt pdk
 /external/cpu_features pdk
+/external/cpuinfo pdk
 /external/crcalc pdk
 /external/cros/system_api pdk
 /external/crosvm pdk
@@ -307,6 +311,8 @@
 /external/ppp pdk
 /external/proguard pdk
 /external/protobuf pdk
+/external/psimd pdk
+/external/pthreadpool pdk
 /external/puffin pdk
 /external/python/apitools pdk
 /external/python/asn1crypto pdk
