@@ -42,6 +42,7 @@
 /external/googletest pdk
 /external/guava pdk
 /external/guice pdk
+/external/gwp_asan pdk
 /external/hamcrest pdk
 /external/icu pdk
 /external/jacoco pdk
