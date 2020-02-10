@@ -354,10 +354,6 @@
 	branch = master
 	path = external/apache-xml
 	url = ../external/apache-xml
-[submodule "platform/external/archive-patcher"]
-	branch = master
-	path = external/archive-patcher
-	url = ../external/archive-patcher
 [submodule "platform/external/arm-neon-tests"]
 	branch = master
 	path = external/arm-neon-tests
