@@ -23,6 +23,7 @@
 /prebuilts/fullsdk-darwin/platforms/android-29
 /prebuilts/fullsdk-darwin/sources/android-28
 /prebuilts/fullsdk-darwin/sources/android-29
+/prebuilts/jdk/jdk11 pdk
 /prebuilts/jdk/jdk8 pdk
 /prebuilts/ktlint pdk-fs
 /tools/external/gradle tools
