@@ -100,7 +100,6 @@
 /external/vogar pdk
 /external/zlib pdk
 /external/zopfli pdk-fs pdk-cw-fs
-/frameworks/native pdk
 /hardware/libhardware pdk
 /libcore pdk
 /libnativehelper pdk
@@ -145,7 +144,6 @@
 /system/sepolicy pdk
 /system/timezone pdk
 /system/tools/aidl pdk
-/system/tools/hidl pdk
 /system/tools/sysprop pdk
 /test/suite_harness pdk-fs cts pdk-cw-fs
 /tools/apksig tradefed pdk
