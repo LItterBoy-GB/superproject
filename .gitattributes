@@ -96,6 +96,7 @@
 /prebuilts/gradle-plugin pdk-fs pdk-cw-fs
 /prebuilts/jdk/jdk11 pdk
 /prebuilts/jdk/jdk8 pdk
+/prebuilts/jdk/jdk9 pdk
 /prebuilts/misc pdk
 /prebuilts/ndk pdk
 /prebuilts/ninja/linux-x86 tradefed pdk linux
