@@ -210,6 +210,10 @@
 	branch = master
 	path = external/libcxxabi
 	url = ../external/libcxxabi
+[submodule "platform/external/libunwind_llvm"]
+	branch = master
+	path = external/libunwind_llvm
+	url = ../external/libunwind_llvm
 [submodule "platform/external/libxml2"]
 	branch = master
 	path = external/libxml2

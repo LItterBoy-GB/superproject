@@ -51,6 +51,7 @@
 /external/kotlinc pdk
 /external/libcxx pdk
 /external/libcxxabi pdk
+/external/libunwind_llvm pdk
 /external/libxml2 pdk libxml2
 /external/lz4 pdk
 /external/lzma pdk
