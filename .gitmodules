@@ -12,6 +12,11 @@
 	shallow = true
 	path = external/dokka
 	url = ../external/dokka
+[submodule "platform/external/icing"]
+	branch = androidx-master-dev
+	shallow = true
+	path = external/icing
+	url = ../external/icing
 [submodule "platform/external/noto-fonts"]
 	branch = master
 	shallow = true
