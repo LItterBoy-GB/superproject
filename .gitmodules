@@ -491,6 +491,10 @@
 	branch = master
 	path = test/suite_harness
 	url = ../test/suite_harness
+[submodule "platform/tools/apifinder"]
+	branch = master
+	path = tools/apifinder
+	url = ../tools/apifinder
 [submodule "platform/tools/apksig"]
 	branch = master
 	path = tools/apksig
