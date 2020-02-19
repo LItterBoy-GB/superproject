@@ -102,6 +102,7 @@
 /prebuilts/runtime pdk
 /prebuilts/sdk pdk
 /prebuilts/tools pdk tools
+/sdk pdk-fs pdk-cw-fs
 /system/apex pdk
 /system/core pdk
 /system/extras pdk

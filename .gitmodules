@@ -431,6 +431,10 @@
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
+[submodule "platform/sdk"]
+	branch = master
+	path = sdk
+	url = ../sdk
 [submodule "platform/system/apex"]
 	branch = master
 	path = system/apex
