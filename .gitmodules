@@ -22,6 +22,11 @@
 	shallow = true
 	path = external/noto-fonts
 	url = ../external/noto-fonts
+[submodule "platform/external/protobuf"]
+	branch = master
+	shallow = true
+	path = external/protobuf
+	url = ../external/protobuf
 [submodule "platform/external/webview_support_interfaces"]
 	path = external/webview_support_interfaces
 	url = ../external/webview_support_interfaces
