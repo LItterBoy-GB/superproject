@@ -1384,7 +1384,7 @@
 	path = external/minigbm
 	url = ../external/minigbm
 [submodule "platform/external/minijail"]
-	branch = crosvm-master
+	branch = master
 	path = external/minijail
 	url = ../external/minijail
 [submodule "platform/external/mksh"]
