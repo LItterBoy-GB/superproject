@@ -7,9 +7,15 @@
 [submodule "platform/external/dokka"]
 	path = external/dokka
 	url = ../external/dokka
+[submodule "platform/external/icing"]
+	path = external/icing
+	url = ../external/icing
 [submodule "platform/external/noto-fonts"]
 	path = external/noto-fonts
 	url = ../external/noto-fonts
+[submodule "platform/external/protobuf"]
+	path = external/protobuf
+	url = ../external/protobuf
 [submodule "platform/external/webview_support_interfaces"]
 	path = external/webview_support_interfaces
 	url = ../external/webview_support_interfaces
