@@ -79,6 +79,7 @@
 /external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
 /external/androidplot pdk
+/external/angle pdk
 /external/ant-glob pdk
 /external/antlr pdk
 /external/apache-commons-bcel pdk
