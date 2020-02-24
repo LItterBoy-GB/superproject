@@ -334,6 +334,10 @@
 	branch = master
 	path = external/androidplot
 	url = ../external/androidplot
+[submodule "platform/external/angle"]
+	branch = master
+	path = external/angle
+	url = ../external/angle
 [submodule "platform/external/ant-glob"]
 	branch = master
 	path = external/ant-glob
