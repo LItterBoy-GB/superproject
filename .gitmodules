@@ -10,6 +10,10 @@
 	branch = emu-master-dev
 	path = build
 	url = ../build
+[submodule "platform/external/adhd"]
+	branch = crosvm-master
+	path = third_party/adhd
+	url = ../external/adhd
 [submodule "platform/external/adt-infra"]
 	branch = emu-master-dev
 	path = external/adt-infra
@@ -35,6 +39,10 @@
 	branch = emu-master-dev
 	path = external/cares
 	url = ../external/c-ares
+[submodule "platform/external/crosvm"]
+	branch = crosvm-master
+	path = platform/crosvm
+	url = ../external/crosvm
 [submodule "platform/external/curl"]
 	branch = emu-master-dev
 	path = external/curl
@@ -62,6 +70,10 @@
 	branch = emu-master-dev
 	path = external/grpc
 	url = ../external/grpc-grpc
+[submodule "platform/external/libepoxy"]
+	branch = crosvm-master
+	path = third_party/libepoxy
+	url = ../external/libepoxy
 [submodule "platform/external/libffi"]
 	branch = emu-master-dev
 	path = external/libffi
@@ -82,6 +94,14 @@
 	branch = emu-master-dev
 	path = external/lz4
 	url = ../external/lz4
+[submodule "platform/external/minigbm"]
+	branch = crosvm-master
+	path = third_party/minigbm
+	url = ../external/minigbm
+[submodule "platform/external/minijail"]
+	branch = crosvm-master
+	path = third_party/minijail
+	url = ../external/minijail
 [submodule "platform/external/nasm"]
 	branch = emu-master-dev
 	path = external/nasm
@@ -119,7 +139,7 @@
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
 [submodule "platform/external/virglrenderer"]
-	branch = emu-master-dev
+	branch = crosvm-master
 	path = external/virglrenderer
 	url = ../external/virglrenderer
 [submodule "platform/external/wpa_supplicant_8"]
