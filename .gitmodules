@@ -99,8 +99,8 @@
 	path = third_party/minigbm
 	url = ../external/minigbm
 [submodule "platform/external/minijail"]
-	branch = crosvm-master
-	path = third_party/minijail
+	branch = master
+	path = aosp/external/minijail
 	url = ../external/minijail
 [submodule "platform/external/nasm"]
 	branch = emu-master-dev

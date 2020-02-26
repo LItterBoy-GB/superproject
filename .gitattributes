@@ -23,7 +23,7 @@
 /external/libyuv
 /external/lz4
 /third_party/minigbm
-/third_party/minijail
+/aosp/external/minijail
 /external/nasm
 /external/openssl
 /external/pixman
