@@ -74,6 +74,10 @@
 	branch = master
 	path = external/libcap
 	url = ../external/libcap
+[submodule "platform/external/libdrm"]
+	branch = master
+	path = external/libdrm
+	url = ../external/libdrm
 [submodule "platform/external/libepoxy"]
 	branch = crosvm-master
 	path = third_party/libepoxy

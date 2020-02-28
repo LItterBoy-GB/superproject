@@ -17,6 +17,7 @@
 /external/googletest
 /external/grpc
 /external/libcap
+/external/libdrm
 /third_party/libepoxy
 /external/libffi
 /external/libpng
