@@ -70,6 +70,10 @@
 	branch = emu-master-dev
 	path = external/grpc
 	url = ../external/grpc-grpc
+[submodule "platform/external/libcap"]
+	branch = master
+	path = platform/external/libcap
+	url = ../external/libcap
 [submodule "platform/external/libepoxy"]
 	branch = crosvm-master
 	path = third_party/libepoxy
