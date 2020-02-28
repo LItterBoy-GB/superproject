@@ -16,7 +16,7 @@
 /external/google-breakpad
 /external/googletest
 /external/grpc
-/platform/external/libcap
+/external/libcap
 /third_party/libepoxy
 /external/libffi
 /external/libpng

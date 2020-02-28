@@ -72,7 +72,7 @@
 	url = ../external/grpc-grpc
 [submodule "platform/external/libcap"]
 	branch = master
-	path = platform/external/libcap
+	path = external/libcap
 	url = ../external/libcap
 [submodule "platform/external/libepoxy"]
 	branch = crosvm-master
