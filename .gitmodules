@@ -208,6 +208,10 @@
 	branch = master
 	path = toolchain/isl
 	url = ../../toolchain/isl
+[submodule "toolchain/llvm-project"]
+	branch = ndk
+	path = toolchain/llvm-project
+	url = ../../toolchain/llvm-project
 [submodule "toolchain/make"]
 	branch = master
 	path = toolchain/make
