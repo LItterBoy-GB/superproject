@@ -1569,6 +1569,10 @@
 	branch = master
 	path = external/toybox
 	url = ../external/toybox
+[submodule "platform/external/tpm2-tss"]
+	branch = master
+	path = external/tpm2-tss
+	url = ../external/tpm2-tss
 [submodule "platform/external/tremolo"]
 	branch = master
 	path = external/tremolo
