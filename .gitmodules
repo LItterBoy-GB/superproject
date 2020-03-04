@@ -241,6 +241,9 @@
 [submodule "platform/external/androidplot"]
 	path = external/androidplot
 	url = ../external/androidplot
+[submodule "platform/external/angle"]
+	path = external/angle
+	url = ../external/angle
 [submodule "platform/external/ant-glob"]
 	path = external/ant-glob
 	url = ../external/ant-glob
