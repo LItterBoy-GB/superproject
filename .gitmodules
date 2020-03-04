@@ -22,10 +22,6 @@
 	branch = ndk
 	path = external/libcxxabi
 	url = ../external/libcxxabi
-[submodule "platform/external/libunwind_llvm"]
-	branch = ndk
-	path = external/libunwind_llvm
-	url = ../external/libunwind_llvm
 [submodule "platform/external/llvm"]
 	branch = master
 	path = external/llvm

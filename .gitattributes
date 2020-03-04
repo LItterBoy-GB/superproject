@@ -4,7 +4,6 @@
 /external/googletest presubmit
 /external/libcxx
 /external/libcxxabi
-/external/libunwind_llvm
 /external/llvm
 /external/python/cpython3 presubmit
 /external/regex-re2
