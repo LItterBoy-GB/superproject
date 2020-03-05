@@ -59,13 +59,9 @@
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
 [submodule "platform/prebuilts/cmake/darwin-x86"]
-	branch = master
-	shallow = true
 	path = prebuilts/fullsdk-darwin/cmake
 	url = ../prebuilts/cmake/darwin-x86
 [submodule "platform/prebuilts/cmake/linux-x86"]
-	branch = master
-	shallow = true
 	path = prebuilts/fullsdk-linux/cmake
 	url = ../prebuilts/cmake/linux-x86
 [submodule "platform/prebuilts/fullsdk-darwin/build-tools/29.0.3"]
