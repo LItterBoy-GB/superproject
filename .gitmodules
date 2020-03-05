@@ -835,6 +835,10 @@
 	branch = master
 	path = external/jemalloc_new
 	url = ../external/jemalloc_new
+[submodule "platform/external/jimfs"]
+	branch = master
+	path = external/jimfs
+	url = ../external/jimfs
 [submodule "platform/external/jline"]
 	branch = master
 	path = external/jline

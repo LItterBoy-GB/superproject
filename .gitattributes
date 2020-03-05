@@ -204,6 +204,7 @@
 /external/jdiff pdk
 /external/jemalloc pdk
 /external/jemalloc_new pdk
+/external/jimfs pdk
 /external/jline pdk-fs tradefed pdk
 /external/jsilver pdk
 /external/jsmn pdk
