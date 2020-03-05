@@ -134,6 +134,38 @@
 	branch = emu-master-dev
 	path = external/qt
 	url = ../external/qt
+[submodule "platform/external/rust/crates/bitflags"]
+	branch = master
+	path = external/rust/crates/bitflags
+	url = ../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/byteorder"]
+	branch = master
+	path = external/rust/crates/byteorder
+	url = ../external/rust/crates/byteorder
+[submodule "platform/external/rust/crates/libc"]
+	branch = master
+	path = external/rust/crates/libc
+	url = ../external/rust/crates/libc
+[submodule "platform/external/rust/crates/proc-macro2"]
+	branch = master
+	path = external/rust/crates/proc-macro2
+	url = ../external/rust/crates/proc-macro2
+[submodule "platform/external/rust/crates/quote"]
+	branch = master
+	path = external/rust/crates/quote
+	url = ../external/rust/crates/quote
+[submodule "platform/external/rust/crates/remain"]
+	branch = master
+	path = external/rust/crates/remain
+	url = ../external/rust/crates/remain
+[submodule "platform/external/rust/crates/syn"]
+	branch = master
+	path = external/rust/crates/syn
+	url = ../external/rust/crates/syn
+[submodule "platform/external/rust/crates/unicode-xid"]
+	branch = master
+	path = external/rust/crates/unicode-xid
+	url = ../external/rust/crates/unicode-xid
 [submodule "platform/external/sdl2"]
 	branch = emu-master-dev
 	path = external/sdl2
@@ -261,6 +293,11 @@
 	shallow = true
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
+[submodule "platform/prebuilts/rust"]
+	branch = master
+	shallow = true
+	path = prebuilts/rust
+	url = ../prebuilts/rust
 [submodule "platform/prebuilts/tools"]
 	branch = master
 	shallow = true

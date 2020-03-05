@@ -32,6 +32,14 @@
 /external/protobuf
 /external/qemu
 /external/qt
+/external/rust/crates/bitflags
+/external/rust/crates/byteorder
+/external/rust/crates/libc
+/external/rust/crates/proc-macro2
+/external/rust/crates/quote
+/external/rust/crates/remain
+/external/rust/crates/syn
+/external/rust/crates/unicode-xid
 /external/sdl2
 /external/swiftshader
 /external/tinyobjloader
@@ -59,6 +67,7 @@
 /prebuilts/ninja/linux-x86
 /prebuilts/ninja/windows-x86
 /prebuilts/qemu-kernel
+/prebuilts/rust
 /prebuilts/tools
 /sdk
 /tools/acloud
