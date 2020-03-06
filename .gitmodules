@@ -214,7 +214,7 @@
 	path = kernel/configs
 	url = ../../kernel/configs
 [submodule "kernel/tests"]
-	branch = android10-release
+	branch = android10-tests-dev
 	path = kernel/tests
 	url = ../../kernel/tests
 [submodule "platform/art"]
