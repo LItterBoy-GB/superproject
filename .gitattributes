@@ -1,5 +1,6 @@
 /device/generic/goldfish-opengl
 /device/generic/vulkan-cereal
+/device/google/cuttlefish_vmm
 /build
 /third_party/adhd
 /external/adt-infra

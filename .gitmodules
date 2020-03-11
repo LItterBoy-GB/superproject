@@ -6,6 +6,10 @@
 	branch = master
 	path = device/generic/vulkan-cereal
 	url = ../../device/generic/vulkan-cereal
+[submodule "device/google/cuttlefish_vmm"]
+	branch = master
+	path = device/google/cuttlefish_vmm
+	url = ../../device/google/cuttlefish_vmm
 [submodule "platform/build"]
 	branch = emu-master-dev
 	path = build
