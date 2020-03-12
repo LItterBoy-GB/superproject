@@ -204,6 +204,7 @@
 /external/jdiff pdk
 /external/jemalloc pdk
 /external/jemalloc_new pdk
+/external/jimfs pdk
 /external/jline pdk-fs tradefed pdk
 /external/jsilver pdk
 /external/jsmn pdk
@@ -334,6 +335,7 @@
 /external/python/pyasn1-modules vts pdk
 /external/python/pybind11 pdk
 /external/python/pycparser pdk
+/external/python/pyfakefs pdk
 /external/python/pyopenssl pdk
 /external/python/rsa vts pdk
 /external/python/setuptools vts pdk
@@ -387,6 +389,7 @@
 /external/tinyxml2 pdk
 /external/toolchain-utils
 /external/toybox pdk
+/external/tpm2-tss pdk
 /external/tremolo pdk
 /external/turbine pdk
 /external/u-boot pdk

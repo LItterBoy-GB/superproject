@@ -616,6 +616,9 @@
 [submodule "platform/external/jemalloc_new"]
 	path = external/jemalloc_new
 	url = ../external/jemalloc_new
+[submodule "platform/external/jimfs"]
+	path = external/jimfs
+	url = ../external/jimfs
 [submodule "platform/external/jline"]
 	path = external/jline
 	url = ../external/jline
@@ -1006,6 +1009,9 @@
 [submodule "platform/external/python/pycparser"]
 	path = external/python/pycparser
 	url = ../external/python/pycparser
+[submodule "platform/external/python/pyfakefs"]
+	path = external/python/pyfakefs
+	url = ../external/python/pyfakefs
 [submodule "platform/external/python/pyopenssl"]
 	path = external/python/pyopenssl
 	url = ../external/python/pyopenssl
@@ -1165,6 +1171,9 @@
 [submodule "platform/external/toybox"]
 	path = external/toybox
 	url = ../external/toybox
+[submodule "platform/external/tpm2-tss"]
+	path = external/tpm2-tss
+	url = ../external/tpm2-tss
 [submodule "platform/external/tremolo"]
 	path = external/tremolo
 	url = ../external/tremolo
