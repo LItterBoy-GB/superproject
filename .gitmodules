@@ -18,10 +18,6 @@
 	branch = ndk
 	path = external/libcxx
 	url = ../external/libcxx
-[submodule "platform/external/libcxxabi"]
-	branch = ndk
-	path = external/libcxxabi
-	url = ../external/libcxxabi
 [submodule "platform/external/llvm"]
 	branch = master
 	path = external/llvm
