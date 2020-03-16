@@ -1407,6 +1407,10 @@
 	branch = master
 	path = external/rootdev
 	url = ../external/rootdev
+[submodule "platform/external/rust/crates/bitflags"]
+	branch = master
+	path = external/rust/crates/bitflags
+	url = ../external/rust/crates/bitflags
 [submodule "platform/external/rust/crates/byteorder"]
 	branch = master
 	path = external/rust/crates/byteorder
