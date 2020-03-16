@@ -16,6 +16,11 @@
 	branch = androidx-master-dev
 	path = external/icing
 	url = ../external/icing
+[submodule "platform/external/icu"]
+	branch = master
+	shallow = true
+	path = external/icu
+	url = ../external/icu
 [submodule "platform/external/noto-fonts"]
 	branch = master
 	shallow = true
