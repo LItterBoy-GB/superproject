@@ -10,6 +10,9 @@
 [submodule "platform/external/icing"]
 	path = external/icing
 	url = ../external/icing
+[submodule "platform/external/icu"]
+	path = external/icu
+	url = ../external/icu
 [submodule "platform/external/noto-fonts"]
 	path = external/noto-fonts
 	url = ../external/noto-fonts
