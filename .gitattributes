@@ -7,6 +7,7 @@
 /external/protobuf pdk
 /external/webview_support_interfaces pdk
 /frameworks/support pdk-fs pdk-cw-fs
+/golden pdk
 /prebuilts/androidx/exoplayer pdk
 /prebuilts/androidx/external pdk
 /prebuilts/androidx/internal pdk

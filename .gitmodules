@@ -25,6 +25,9 @@
 [submodule "platform/frameworks/support"]
 	path = frameworks/support
 	url = ../frameworks/support
+[submodule "platform/frameworks/support-golden"]
+	path = golden
+	url = ../frameworks/support-golden
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	path = prebuilts/androidx/exoplayer
 	url = ../prebuilts/androidx/exoplayer
