@@ -3493,6 +3493,11 @@
 	shallow = true
 	path = system/keymaster
 	url = ../system/keymaster
+[submodule "platform/system/libartpalette"]
+	branch = master
+	shallow = true
+	path = system/libartpalette
+	url = ../system/libartpalette
 [submodule "platform/system/libfmq"]
 	branch = master
 	shallow = true
