@@ -38,6 +38,11 @@
 	branch = androidx-master-dev
 	path = frameworks/support
 	url = ../frameworks/support
+[submodule "platform/frameworks/support-golden"]
+	branch = androidx-master-dev
+	shallow = true
+	path = golden
+	url = ../frameworks/support-golden
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	branch = androidx-master-dev
 	shallow = true
