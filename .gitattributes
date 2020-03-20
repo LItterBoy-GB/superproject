@@ -3,6 +3,7 @@
 /device/common pdk-cw-fs pdk
 /device/generic/arm64 pdk
 /device/generic/armv7-a-neon pdk
+/device/generic/art pdk
 /device/generic/car pdk
 /device/generic/common pdk
 /device/generic/goldfish pdk
@@ -66,16 +67,19 @@
 /developers/demos developers
 /developers/samples/android developers
 /development pdk-fs pdk-cw-fs developers
-/external/ARMComputeLibrary pdk
+/external/FP16 pdk
+/external/FXdiv pdk
 /external/ImageMagick pdk
 /external/OpenCSD pdk
 /external/Reactive-Extensions/RxCpp pdk
+/external/XNNPACK pdk
 /external/aac pdk
 /external/adeb pdk
 /external/adhd pdk
 /external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
 /external/androidplot pdk
+/external/angle pdk
 /external/ant-glob pdk
 /external/antlr pdk
 /external/apache-commons-bcel pdk
@@ -84,7 +88,6 @@
 /external/apache-harmony pdk
 /external/apache-http pdk
 /external/apache-xml pdk
-/external/archive-patcher pdk
 /external/arm-neon-tests vendor
 /external/arm-optimized-routines pdk
 /external/arm-trusted-firmware pdk
@@ -102,16 +105,17 @@
 /external/capstone pdk
 /external/catch2 pdk
 /external/cblas pdk
+/external/cbor-java pdk
 /external/chromium-libpac pdk
 /external/chromium-trace pdk
 /external/chromium-webview pdk
 /external/clang pdk
 /external/cldr pdk
-/external/cmockery pdk
 /external/cn-cbor pdk
 /external/compiler-rt pdk
 /external/conscrypt pdk
 /external/cpu_features pdk
+/external/cpuinfo pdk
 /external/crcalc pdk
 /external/cros/system_api pdk
 /external/crosvm pdk
@@ -129,7 +133,6 @@
 /external/doclava pdk
 /external/dokka pdk
 /external/drm_hwcomposer pdk-fs drm_hwcomposer
-/external/droiddriver pdk
 /external/drrickorang pdk
 /external/dtc pdk
 /external/dynamic_depth pdk
@@ -138,7 +141,6 @@
 /external/eigen pdk
 /external/elfutils pdk
 /external/emma pdk
-/external/epid-sdk pdk
 /external/error_prone pdk
 /external/ethtool pdk
 /external/expat pdk
@@ -202,6 +204,7 @@
 /external/jdiff pdk
 /external/jemalloc pdk
 /external/jemalloc_new pdk
+/external/jimfs pdk
 /external/jline pdk-fs tradefed pdk
 /external/jsilver pdk
 /external/jsmn pdk
@@ -241,7 +244,6 @@
 /external/libkmsxx pdk
 /external/libldac pdk
 /external/libmpeg2 pdk
-/external/libmtp pdk
 /external/libnetfilter_conntrack pdk
 /external/libnfnetlink pdk
 /external/libnl pdk
@@ -251,11 +253,11 @@
 /external/libphonenumber pdk
 /external/libpng pdk
 /external/libprotobuf-mutator pdk
+/external/libsrtp2 pdk
 /external/libtextclassifier pdk
 /external/libunwind pdk
 /external/libunwind_llvm pdk
 /external/libusb pdk
-/external/libusb-compat pdk
 /external/libutf pdk
 /external/libvpx pdk
 /external/libvterm pdk
@@ -282,6 +284,7 @@
 /external/mockwebserver pdk
 /external/modp_b64 pdk
 /external/mp4parser pdk
+/external/ms-tpm-20-ref pdk
 /external/mtpd pdk
 /external/nanohttpd pdk
 /external/nanopb-c pdk
@@ -311,61 +314,31 @@
 /external/ppp pdk
 /external/proguard pdk
 /external/protobuf pdk
-/external/protobuf-javalite pdk
+/external/psimd pdk
+/external/pthreadpool pdk
 /external/puffin pdk
-/external/python/Pillow vts pdk
 /external/python/apitools pdk
-/external/python/appdirs vts pdk
 /external/python/asn1crypto pdk
-/external/python/atomicwrites pdk
-/external/python/attrs pdk
-/external/python/cachetools vts pdk
 /external/python/cffi pdk
 /external/python/cpython2 pdk
 /external/python/cpython3 pdk
 /external/python/cryptography pdk
 /external/python/dateutil pdk
-/external/python/dill vts pdk
-/external/python/enum vts pdk
 /external/python/enum34 vts pdk
 /external/python/funcsigs pdk
-/external/python/future vts pdk
 /external/python/futures vts pdk
-/external/python/gapic-google-cloud-pubsub-v1 vts pdk
 /external/python/google-api-python-client vts pdk
-/external/python/google-auth vts pdk
-/external/python/google-auth-httplib2 vts pdk
-/external/python/google-cloud-core vts pdk
-/external/python/google-cloud-pubsub vts pdk
-/external/python/google-gax vts pdk
-/external/python/googleapis vts pdk
-/external/python/grpc-google-iam-v1 vts pdk
-/external/python/grpcio vts pdk
 /external/python/httplib2 vts pdk
 /external/python/ipaddress pdk
-/external/python/matplotlib vts pdk
 /external/python/mock pdk
-/external/python/more-itertools pdk
-/external/python/numpy vts pdk
 /external/python/oauth2client vts pdk
-/external/python/olefile vts pdk
-/external/python/packaging vts pdk
-/external/python/parse vts pdk
-/external/python/pluggy pdk
-/external/python/ply vts pdk
-/external/python/proto-google-cloud-pubsub-v1 vts pdk
-/external/python/protobuf vts pdk
-/external/python/py pdk
 /external/python/pyasn1 vts pdk
 /external/python/pyasn1-modules vts pdk
 /external/python/pybind11 pdk
 /external/python/pycparser pdk
+/external/python/pyfakefs pdk
 /external/python/pyopenssl pdk
-/external/python/pyparsing vts pdk
-/external/python/pytest pdk
-/external/python/requests vts pdk
 /external/python/rsa vts pdk
-/external/python/scipy vts pdk
 /external/python/setuptools vts pdk
 /external/python/six vts pdk
 /external/python/uritemplates vts pdk
@@ -375,6 +348,7 @@
 /external/robolectric-shadows pdk-fs pdk-cw-fs
 /external/roboto-fonts pdk
 /external/rootdev pdk
+/external/rust/crates/bitflags pdk
 /external/rust/crates/byteorder pdk
 /external/rust/crates/libc pdk
 /external/rust/crates/proc-macro2 pdk
@@ -417,6 +391,7 @@
 /external/tinyxml2 pdk
 /external/toolchain-utils
 /external/toybox pdk
+/external/tpm2-tss pdk
 /external/tremolo pdk
 /external/turbine pdk
 /external/u-boot pdk
@@ -552,7 +527,6 @@
 /packages/apps/Car/Settings pdk-fs
 /packages/apps/Car/Stream pdk-fs
 /packages/apps/Car/SystemUpdater pdk-fs
-/packages/apps/Car/externallibs pdk-fs
 /packages/apps/Car/libs pdk-fs
 /packages/apps/Car/tests pdk-fs
 /packages/apps/CarrierConfig pdk-fs pdk-cw-fs
@@ -603,6 +577,8 @@
 /packages/apps/WallpaperPicker pdk-fs
 /packages/apps/WallpaperPicker2 pdk-fs
 /packages/inputmethods/LatinIME pdk-fs
+/packages/inputmethods/LeanbackIME pdk-fs
+/packages/modules/ArtPrebuilt pdk
 /packages/modules/CaptivePortalLogin pdk-fs pdk-cw-fs
 /packages/modules/CellBroadcastService pdk
 /packages/modules/Cronet pdk-fs pdk-cw-fs
@@ -613,7 +589,6 @@
 /packages/modules/NetworkStack pdk-fs pdk-cw-fs
 /packages/modules/TestModule
 /packages/modules/vndk pdk-fs pdk-cw-fs
-/packages/providers/ApplicationsProvider pdk-fs
 /packages/providers/BlockedNumberProvider pdk-fs
 /packages/providers/BookmarkProvider pdk-fs
 /packages/providers/CalendarProvider pdk-fs pdk-cw-fs
@@ -673,7 +648,6 @@
 /prebuilts/manifest-merger pdk
 /prebuilts/maven_repo/android pdk-fs pdk-cw-fs
 /prebuilts/maven_repo/bumptech pdk-fs pdk-cw-fs
-/prebuilts/maven_repo/google-play-service-client-libraries-3p
 /prebuilts/misc pdk
 /prebuilts/module_sdk/art pdk
 /prebuilts/ndk pdk
@@ -682,6 +656,7 @@
 /prebuilts/qemu-kernel pdk
 /prebuilts/r8 pdk
 /prebuilts/remoteexecution-client pdk
+/prebuilts/runtime pdk
 /prebuilts/rust pdk
 /prebuilts/sdk pdk
 /prebuilts/tools pdk tools
@@ -734,7 +709,6 @@
 /system/tools/mkbootimg pdk
 /system/tools/sysprop pdk
 /system/tools/xsdc pdk
-/system/ucontainer pdk
 /system/update_engine pdk
 /system/vold pdk
 /test/app_compat/csuite
@@ -743,7 +717,6 @@
 /test/mlts/models pdk
 /test/mts
 /test/suite_harness pdk-fs cts pdk-cw-fs
-/test/vti/alert vts pdk projectarch
 /test/vti/dashboard vts pdk projectarch
 /test/vti/fuzz_test_serving vts pdk projectarch
 /test/vti/test_serving vts pdk projectarch
@@ -773,7 +746,6 @@
 /tools/loganalysis tradefed pdk nopresubmit
 /tools/metalava pdk tools
 /tools/motodev notdefault motodev
-/tools/ndkports pdk
 /tools/repohooks cts tradefed developers pdk tools adt-infra motodev
 /tools/security pdk tools
 /tools/studio/cloud notdefault tools

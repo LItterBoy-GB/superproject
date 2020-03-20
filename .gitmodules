@@ -13,6 +13,9 @@
 [submodule "device/generic/armv7-a-neon"]
 	path = device/generic/armv7-a-neon
 	url = ../../device/generic/armv7-a-neon
+[submodule "device/generic/art"]
+	path = device/generic/art
+	url = ../../device/generic/art
 [submodule "device/generic/car"]
 	path = device/generic/car
 	url = ../../device/generic/car
@@ -202,9 +205,12 @@
 [submodule "platform/development"]
 	path = development
 	url = ../development
-[submodule "platform/external/ARMComputeLibrary"]
-	path = external/ARMComputeLibrary
-	url = ../external/ARMComputeLibrary
+[submodule "platform/external/FP16"]
+	path = external/FP16
+	url = ../external/FP16
+[submodule "platform/external/FXdiv"]
+	path = external/FXdiv
+	url = ../external/FXdiv
 [submodule "platform/external/ImageMagick"]
 	path = external/ImageMagick
 	url = ../external/ImageMagick
@@ -214,6 +220,9 @@
 [submodule "platform/external/Reactive-Extensions/RxCpp"]
 	path = external/Reactive-Extensions/RxCpp
 	url = ../external/Reactive-Extensions/RxCpp
+[submodule "platform/external/XNNPACK"]
+	path = external/XNNPACK
+	url = ../external/XNNPACK
 [submodule "platform/external/aac"]
 	path = external/aac
 	url = ../external/aac
@@ -232,6 +241,9 @@
 [submodule "platform/external/androidplot"]
 	path = external/androidplot
 	url = ../external/androidplot
+[submodule "platform/external/angle"]
+	path = external/angle
+	url = ../external/angle
 [submodule "platform/external/ant-glob"]
 	path = external/ant-glob
 	url = ../external/ant-glob
@@ -256,9 +268,6 @@
 [submodule "platform/external/apache-xml"]
 	path = external/apache-xml
 	url = ../external/apache-xml
-[submodule "platform/external/archive-patcher"]
-	path = external/archive-patcher
-	url = ../external/archive-patcher
 [submodule "platform/external/arm-neon-tests"]
 	path = external/arm-neon-tests
 	url = ../external/arm-neon-tests
@@ -310,6 +319,9 @@
 [submodule "platform/external/cblas"]
 	path = external/cblas
 	url = ../external/cblas
+[submodule "platform/external/cbor-java"]
+	path = external/cbor-java
+	url = ../external/cbor-java
 [submodule "platform/external/chromium-libpac"]
 	path = external/chromium-libpac
 	url = ../external/chromium-libpac
@@ -325,9 +337,6 @@
 [submodule "platform/external/cldr"]
 	path = external/cldr
 	url = ../external/cldr
-[submodule "platform/external/cmockery"]
-	path = external/cmockery
-	url = ../external/cmockery
 [submodule "platform/external/cn-cbor"]
 	path = external/cn-cbor
 	url = ../external/cn-cbor
@@ -340,6 +349,9 @@
 [submodule "platform/external/cpu_features"]
 	path = external/cpu_features
 	url = ../external/cpu_features
+[submodule "platform/external/cpuinfo"]
+	path = external/cpuinfo
+	url = ../external/cpuinfo
 [submodule "platform/external/crcalc"]
 	path = external/crcalc
 	url = ../external/crcalc
@@ -391,9 +403,6 @@
 [submodule "platform/external/drm_hwcomposer"]
 	path = external/drm_hwcomposer
 	url = ../external/drm_hwcomposer
-[submodule "platform/external/droiddriver"]
-	path = external/droiddriver
-	url = ../external/droiddriver
 [submodule "platform/external/drrickorang"]
 	path = external/drrickorang
 	url = ../external/drrickorang
@@ -418,9 +427,6 @@
 [submodule "platform/external/emma"]
 	path = external/emma
 	url = ../external/emma
-[submodule "platform/external/epid-sdk"]
-	path = external/epid-sdk
-	url = ../external/epid-sdk
 [submodule "platform/external/error_prone"]
 	path = external/error_prone
 	url = ../external/error_prone
@@ -610,6 +616,9 @@
 [submodule "platform/external/jemalloc_new"]
 	path = external/jemalloc_new
 	url = ../external/jemalloc_new
+[submodule "platform/external/jimfs"]
+	path = external/jimfs
+	url = ../external/jimfs
 [submodule "platform/external/jline"]
 	path = external/jline
 	url = ../external/jline
@@ -727,9 +736,6 @@
 [submodule "platform/external/libmpeg2"]
 	path = external/libmpeg2
 	url = ../external/libmpeg2
-[submodule "platform/external/libmtp"]
-	path = external/libmtp
-	url = ../external/libmtp
 [submodule "platform/external/libnetfilter_conntrack"]
 	path = external/libnetfilter_conntrack
 	url = ../external/libnetfilter_conntrack
@@ -757,6 +763,9 @@
 [submodule "platform/external/libprotobuf-mutator"]
 	path = external/libprotobuf-mutator
 	url = ../external/libprotobuf-mutator
+[submodule "platform/external/libsrtp2"]
+	path = external/libsrtp2
+	url = ../external/libsrtp2
 [submodule "platform/external/libtextclassifier"]
 	path = external/libtextclassifier
 	url = ../external/libtextclassifier
@@ -769,9 +778,6 @@
 [submodule "platform/external/libusb"]
 	path = external/libusb
 	url = ../external/libusb
-[submodule "platform/external/libusb-compat"]
-	path = external/libusb-compat
-	url = ../external/libusb-compat
 [submodule "platform/external/libutf"]
 	path = external/libutf
 	url = ../external/libutf
@@ -850,6 +856,9 @@
 [submodule "platform/external/mp4parser"]
 	path = external/mp4parser
 	url = ../external/mp4parser
+[submodule "platform/external/ms-tpm-20-ref"]
+	path = external/ms-tpm-20-ref
+	url = ../external/ms-tpm-20-ref
 [submodule "platform/external/mtpd"]
 	path = external/mtpd
 	url = ../external/mtpd
@@ -937,33 +946,21 @@
 [submodule "platform/external/protobuf"]
 	path = external/protobuf
 	url = ../external/protobuf
-[submodule "platform/external/protobuf-javalite"]
-	path = external/protobuf-javalite
-	url = ../external/protobuf-javalite
+[submodule "platform/external/psimd"]
+	path = external/psimd
+	url = ../external/psimd
+[submodule "platform/external/pthreadpool"]
+	path = external/pthreadpool
+	url = ../external/pthreadpool
 [submodule "platform/external/puffin"]
 	path = external/puffin
 	url = ../external/puffin
-[submodule "platform/external/python/Pillow"]
-	path = external/python/Pillow
-	url = ../external/python/Pillow
 [submodule "platform/external/python/apitools"]
 	path = external/python/apitools
 	url = ../external/python/apitools
-[submodule "platform/external/python/appdirs"]
-	path = external/python/appdirs
-	url = ../external/python/appdirs
 [submodule "platform/external/python/asn1crypto"]
 	path = external/python/asn1crypto
 	url = ../external/python/asn1crypto
-[submodule "platform/external/python/atomicwrites"]
-	path = external/python/atomicwrites
-	url = ../external/python/atomicwrites
-[submodule "platform/external/python/attrs"]
-	path = external/python/attrs
-	url = ../external/python/attrs
-[submodule "platform/external/python/cachetools"]
-	path = external/python/cachetools
-	url = ../external/python/cachetools
 [submodule "platform/external/python/cffi"]
 	path = external/python/cffi
 	url = ../external/python/cffi
@@ -979,99 +976,30 @@
 [submodule "platform/external/python/dateutil"]
 	path = external/python/dateutil
 	url = ../external/python/dateutil
-[submodule "platform/external/python/dill"]
-	path = external/python/dill
-	url = ../external/python/dill
-[submodule "platform/external/python/enum"]
-	path = external/python/enum
-	url = ../external/python/enum
 [submodule "platform/external/python/enum34"]
 	path = external/python/enum34
 	url = ../external/python/enum34
 [submodule "platform/external/python/funcsigs"]
 	path = external/python/funcsigs
 	url = ../external/python/funcsigs
-[submodule "platform/external/python/future"]
-	path = external/python/future
-	url = ../external/python/future
 [submodule "platform/external/python/futures"]
 	path = external/python/futures
 	url = ../external/python/futures
-[submodule "platform/external/python/gapic-google-cloud-pubsub-v1"]
-	path = external/python/gapic-google-cloud-pubsub-v1
-	url = ../external/python/gapic-google-cloud-pubsub-v1
 [submodule "platform/external/python/google-api-python-client"]
 	path = external/python/google-api-python-client
 	url = ../external/python/google-api-python-client
-[submodule "platform/external/python/google-auth"]
-	path = external/python/google-auth
-	url = ../external/python/google-auth
-[submodule "platform/external/python/google-auth-httplib2"]
-	path = external/python/google-auth-httplib2
-	url = ../external/python/google-auth-httplib2
-[submodule "platform/external/python/google-cloud-core"]
-	path = external/python/google-cloud-core
-	url = ../external/python/google-cloud-core
-[submodule "platform/external/python/google-cloud-pubsub"]
-	path = external/python/google-cloud-pubsub
-	url = ../external/python/google-cloud-pubsub
-[submodule "platform/external/python/google-gax"]
-	path = external/python/google-gax
-	url = ../external/python/google-gax
-[submodule "platform/external/python/googleapis"]
-	path = external/python/googleapis
-	url = ../external/python/googleapis
-[submodule "platform/external/python/grpc-google-iam-v1"]
-	path = external/python/grpc-google-iam-v1
-	url = ../external/python/grpc-google-iam-v1
-[submodule "platform/external/python/grpcio"]
-	path = external/python/grpcio
-	url = ../external/python/grpcio
 [submodule "platform/external/python/httplib2"]
 	path = external/python/httplib2
 	url = ../external/python/httplib2
 [submodule "platform/external/python/ipaddress"]
 	path = external/python/ipaddress
 	url = ../external/python/ipaddress
-[submodule "platform/external/python/matplotlib"]
-	path = external/python/matplotlib
-	url = ../external/python/matplotlib
 [submodule "platform/external/python/mock"]
 	path = external/python/mock
 	url = ../external/python/mock
-[submodule "platform/external/python/more-itertools"]
-	path = external/python/more-itertools
-	url = ../external/python/more-itertools
-[submodule "platform/external/python/numpy"]
-	path = external/python/numpy
-	url = ../external/python/numpy
 [submodule "platform/external/python/oauth2client"]
 	path = external/python/oauth2client
 	url = ../external/python/oauth2client
-[submodule "platform/external/python/olefile"]
-	path = external/python/olefile
-	url = ../external/python/olefile
-[submodule "platform/external/python/packaging"]
-	path = external/python/packaging
-	url = ../external/python/packaging
-[submodule "platform/external/python/parse"]
-	path = external/python/parse
-	url = ../external/python/parse
-[submodule "platform/external/python/pluggy"]
-	path = external/python/pluggy
-	url = ../external/python/pluggy
-[submodule "platform/external/python/ply"]
-	path = external/python/ply
-	url = ../external/python/ply
-[submodule "platform/external/python/proto-google-cloud-pubsub-v1"]
-	path = external/python/proto-google-cloud-pubsub-v1
-	url = ../external/python/proto-google-cloud-pubsub-v1
-[submodule "platform/external/python/protobuf"]
-	path = external/python/protobuf
-	url = ../external/python/protobuf
-[submodule "platform/external/python/py"]
-	path = external/python/py
-	url = ../external/python/py
 [submodule "platform/external/python/pyasn1"]
 	path = external/python/pyasn1
 	url = ../external/python/pyasn1
@@ -1084,24 +1012,15 @@
 [submodule "platform/external/python/pycparser"]
 	path = external/python/pycparser
 	url = ../external/python/pycparser
+[submodule "platform/external/python/pyfakefs"]
+	path = external/python/pyfakefs
+	url = ../external/python/pyfakefs
 [submodule "platform/external/python/pyopenssl"]
 	path = external/python/pyopenssl
 	url = ../external/python/pyopenssl
-[submodule "platform/external/python/pyparsing"]
-	path = external/python/pyparsing
-	url = ../external/python/pyparsing
-[submodule "platform/external/python/pytest"]
-	path = external/python/pytest
-	url = ../external/python/pytest
-[submodule "platform/external/python/requests"]
-	path = external/python/requests
-	url = ../external/python/requests
 [submodule "platform/external/python/rsa"]
 	path = external/python/rsa
 	url = ../external/python/rsa
-[submodule "platform/external/python/scipy"]
-	path = external/python/scipy
-	url = ../external/python/scipy
 [submodule "platform/external/python/setuptools"]
 	path = external/python/setuptools
 	url = ../external/python/setuptools
@@ -1129,6 +1048,9 @@
 [submodule "platform/external/rootdev"]
 	path = external/rootdev
 	url = ../external/rootdev
+[submodule "platform/external/rust/crates/bitflags"]
+	path = external/rust/crates/bitflags
+	url = ../external/rust/crates/bitflags
 [submodule "platform/external/rust/crates/byteorder"]
 	path = external/rust/crates/byteorder
 	url = ../external/rust/crates/byteorder
@@ -1255,6 +1177,9 @@
 [submodule "platform/external/toybox"]
 	path = external/toybox
 	url = ../external/toybox
+[submodule "platform/external/tpm2-tss"]
+	path = external/tpm2-tss
+	url = ../external/tpm2-tss
 [submodule "platform/external/tremolo"]
 	path = external/tremolo
 	url = ../external/tremolo
@@ -1660,9 +1585,6 @@
 [submodule "platform/packages/apps/Car/SystemUpdater"]
 	path = packages/apps/Car/SystemUpdater
 	url = ../packages/apps/Car/SystemUpdater
-[submodule "platform/packages/apps/Car/externallibs"]
-	path = packages/apps/Car/externallibs
-	url = ../packages/apps/Car/externallibs
 [submodule "platform/packages/apps/Car/libs"]
 	path = packages/apps/Car/libs
 	url = ../packages/apps/Car/libs
@@ -1813,6 +1735,12 @@
 [submodule "platform/packages/inputmethods/LatinIME"]
 	path = packages/inputmethods/LatinIME
 	url = ../packages/inputmethods/LatinIME
+[submodule "platform/packages/inputmethods/LeanbackIME"]
+	path = packages/inputmethods/LeanbackIME
+	url = ../packages/inputmethods/LeanbackIME
+[submodule "platform/packages/modules/ArtPrebuilt"]
+	path = packages/modules/ArtPrebuilt
+	url = ../packages/modules/ArtPrebuilt
 [submodule "platform/packages/modules/CaptivePortalLogin"]
 	path = packages/modules/CaptivePortalLogin
 	url = ../packages/modules/CaptivePortalLogin
@@ -1843,9 +1771,6 @@
 [submodule "platform/packages/modules/vndk"]
 	path = packages/modules/vndk
 	url = ../packages/modules/vndk
-[submodule "platform/packages/providers/ApplicationsProvider"]
-	path = packages/providers/ApplicationsProvider
-	url = ../packages/providers/ApplicationsProvider
 [submodule "platform/packages/providers/BlockedNumberProvider"]
 	path = packages/providers/BlockedNumberProvider
 	url = ../packages/providers/BlockedNumberProvider
@@ -2023,9 +1948,6 @@
 [submodule "platform/prebuilts/maven_repo/bumptech"]
 	path = prebuilts/maven_repo/bumptech
 	url = ../prebuilts/maven_repo/bumptech
-[submodule "platform/prebuilts/maven_repo/google-play-service-client-libraries-3p"]
-	path = prebuilts/maven_repo/google-play-service-client-libraries-3p
-	url = ../prebuilts/maven_repo/google-play-service-client-libraries-3p
 [submodule "platform/prebuilts/misc"]
 	path = prebuilts/misc
 	url = ../prebuilts/misc
@@ -2050,6 +1972,9 @@
 [submodule "platform/prebuilts/remoteexecution-client"]
 	path = prebuilts/remoteexecution-client
 	url = ../prebuilts/remoteexecution-client
+[submodule "platform/prebuilts/runtime"]
+	path = prebuilts/runtime
+	url = ../prebuilts/runtime
 [submodule "platform/prebuilts/rust"]
 	path = prebuilts/rust
 	url = ../prebuilts/rust
@@ -2206,9 +2131,6 @@
 [submodule "platform/system/tools/xsdc"]
 	path = system/tools/xsdc
 	url = ../system/tools/xsdc
-[submodule "platform/system/ucontainer"]
-	path = system/ucontainer
-	url = ../system/ucontainer
 [submodule "platform/system/update_engine"]
 	path = system/update_engine
 	url = ../system/update_engine
@@ -2233,9 +2155,6 @@
 [submodule "platform/test/suite_harness"]
 	path = test/suite_harness
 	url = ../test/suite_harness
-[submodule "platform/test/vti/alert"]
-	path = test/vti/alert
-	url = ../test/vti/alert
 [submodule "platform/test/vti/dashboard"]
 	path = test/vti/dashboard
 	url = ../test/vti/dashboard
@@ -2323,9 +2242,6 @@
 [submodule "platform/tools/motodev"]
 	path = tools/motodev
 	url = ../tools/motodev
-[submodule "platform/tools/ndkports"]
-	path = tools/ndkports
-	url = ../tools/ndkports
 [submodule "platform/tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks
