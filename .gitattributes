@@ -349,7 +349,6 @@
 /external/roboto-fonts pdk
 /external/rootdev pdk
 /external/rust/crates/bitflags pdk
-/external/rust/crates/byteorder pdk
 /external/rust/crates/libc pdk
 /external/rust/crates/proc-macro2 pdk
 /external/rust/crates/quote pdk
