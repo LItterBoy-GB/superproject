@@ -22,7 +22,7 @@
 	path = external/icu
 	url = ../external/icu
 [submodule "platform/external/noto-fonts"]
-	branch = master
+	branch = androidx-master-dev
 	shallow = true
 	path = external/noto-fonts
 	url = ../external/noto-fonts
