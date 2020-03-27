@@ -1077,6 +1077,7 @@
 	url = ../external/libyuv
 [submodule "platform/external/linux-kselftest"]
 	branch = master
+	shallow = true
 	path = external/linux-kselftest
 	url = ../external/linux-kselftest
 [submodule "platform/external/llvm"]
