@@ -927,10 +927,6 @@
 	branch = master
 	path = external/libcxxabi
 	url = ../external/libcxxabi
-[submodule "platform/external/libdaemon"]
-	branch = master
-	path = external/libdaemon
-	url = ../external/libdaemon
 [submodule "platform/external/libdivsufsort"]
 	branch = master
 	path = external/libdivsufsort
