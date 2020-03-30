@@ -157,9 +157,6 @@
 [submodule "device/ti/beagle-x15-kernel"]
 	path = device/ti/beagle_x15-kernel
 	url = ../../device/ti/beagle-x15-kernel
-[submodule "kernel/build"]
-	path = kernel/build
-	url = ../../kernel/build
 [submodule "kernel/configs"]
 	path = kernel/configs
 	url = ../../kernel/configs
@@ -688,9 +685,6 @@
 [submodule "platform/external/libcxxabi"]
 	path = external/libcxxabi
 	url = ../external/libcxxabi
-[submodule "platform/external/libdaemon"]
-	path = external/libdaemon
-	url = ../external/libdaemon
 [submodule "platform/external/libdivsufsort"]
 	path = external/libdivsufsort
 	url = ../external/libdivsufsort
@@ -856,6 +850,9 @@
 [submodule "platform/external/mp4parser"]
 	path = external/mp4parser
 	url = ../external/mp4parser
+[submodule "platform/external/ms-tpm-20-ref"]
+	path = external/ms-tpm-20-ref
+	url = ../external/ms-tpm-20-ref
 [submodule "platform/external/mtpd"]
 	path = external/mtpd
 	url = ../external/mtpd
@@ -1045,9 +1042,9 @@
 [submodule "platform/external/rootdev"]
 	path = external/rootdev
 	url = ../external/rootdev
-[submodule "platform/external/rust/crates/byteorder"]
-	path = external/rust/crates/byteorder
-	url = ../external/rust/crates/byteorder
+[submodule "platform/external/rust/crates/bitflags"]
+	path = external/rust/crates/bitflags
+	url = ../external/rust/crates/bitflags
 [submodule "platform/external/rust/crates/libc"]
 	path = external/rust/crates/libc
 	url = ../external/rust/crates/libc
