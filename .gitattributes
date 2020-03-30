@@ -51,7 +51,6 @@
 /device/sample pdk
 /device/ti/beagle_x15 pdk beagle_x15 device
 /device/ti/beagle_x15-kernel pdk beagle_x15 device
-/kernel/build
 /kernel/configs vts pdk
 /kernel/tests vts pdk
 /art pdk
@@ -228,7 +227,6 @@
 /external/libcups pdk-fs pdk-cw-fs
 /external/libcxx pdk
 /external/libcxxabi pdk
-/external/libdaemon pdk
 /external/libdivsufsort pdk
 /external/libdrm pdk
 /external/libepoxy pdk
@@ -349,7 +347,6 @@
 /external/roboto-fonts pdk
 /external/rootdev pdk
 /external/rust/crates/bitflags pdk
-/external/rust/crates/byteorder pdk
 /external/rust/crates/libc pdk
 /external/rust/crates/proc-macro2 pdk
 /external/rust/crates/quote pdk
