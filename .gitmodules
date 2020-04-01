@@ -223,9 +223,6 @@
 [submodule "platform/external/aac"]
 	path = external/aac
 	url = ../external/aac
-[submodule "platform/external/adeb"]
-	path = external/adeb
-	url = ../external/adeb
 [submodule "platform/external/adhd"]
 	path = external/adhd
 	url = ../external/adhd
