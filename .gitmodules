@@ -37,9 +37,6 @@
 [submodule "platform/prebuilts/androidx/internal"]
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
-[submodule "platform/prebuilts/androidx/studio"]
-	path = prebuilts/androidx/studio
-	url = ../prebuilts/androidx/studio
 [submodule "platform/prebuilts/checkstyle"]
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
@@ -67,15 +64,9 @@
 [submodule "platform/prebuilts/fullsdk-linux/tools"]
 	path = prebuilts/fullsdk-linux/tools
 	url = ../prebuilts/fullsdk-linux/tools
-[submodule "platform/prebuilts/fullsdk/platforms/android-28"]
-	path = prebuilts/fullsdk-darwin/platforms/android-28
-	url = ../prebuilts/fullsdk/platforms/android-28
 [submodule "platform/prebuilts/fullsdk/platforms/android-29"]
 	path = prebuilts/fullsdk-darwin/platforms/android-29
 	url = ../prebuilts/fullsdk/platforms/android-29
-[submodule "platform/prebuilts/fullsdk/sources/android-28"]
-	path = prebuilts/fullsdk-darwin/sources/android-28
-	url = ../prebuilts/fullsdk/sources/android-28
 [submodule "platform/prebuilts/fullsdk/sources/android-29"]
 	path = prebuilts/fullsdk-darwin/sources/android-29
 	url = ../prebuilts/fullsdk/sources/android-29
