@@ -55,6 +55,5 @@
 /toolchain/mpfr presubmit
 /toolchain/ppl presubmit
 /toolchain/python presubmit
-/toolchain/sed presubmit
 /toolchain/xz presubmit
 /toolchain/yasm presubmit

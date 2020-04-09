@@ -224,10 +224,6 @@
 	branch = master
 	path = toolchain/python
 	url = ../../toolchain/python
-[submodule "toolchain/sed"]
-	branch = master
-	path = toolchain/sed
-	url = ../../toolchain/sed
 [submodule "toolchain/xz"]
 	branch = master
 	path = toolchain/xz
