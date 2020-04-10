@@ -1051,6 +1051,10 @@
 	branch = master
 	path = external/libvterm
 	url = ../external/libvterm
+[submodule "platform/external/libwebsockets"]
+	branch = master
+	path = external/libwebsockets
+	url = ../external/libwebsockets
 [submodule "platform/external/libxaac"]
 	branch = master
 	path = external/libxaac
