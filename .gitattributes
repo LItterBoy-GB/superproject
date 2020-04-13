@@ -223,6 +223,7 @@
 /external/libcap pdk
 /external/libcap-ng pdk
 /external/libchrome pdk
+/external/libcppbor pdk
 /external/libcups pdk-fs pdk-cw-fs
 /external/libcxx pdk
 /external/libcxxabi pdk
@@ -258,6 +259,7 @@
 /external/libutf pdk
 /external/libvpx pdk
 /external/libvterm pdk
+/external/libwebsockets pdk
 /external/libxaac pdk
 /external/libxkbcommon pdk
 /external/libxml2 pdk libxml2
