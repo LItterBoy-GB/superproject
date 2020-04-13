@@ -778,6 +778,9 @@
 [submodule "platform/external/libvterm"]
 	path = external/libvterm
 	url = ../external/libvterm
+[submodule "platform/external/libwebsockets"]
+	path = external/libwebsockets
+	url = ../external/libwebsockets
 [submodule "platform/external/libxaac"]
 	path = external/libxaac
 	url = ../external/libxaac
