@@ -911,6 +911,10 @@
 	branch = master
 	path = external/libchrome
 	url = ../external/libchrome
+[submodule "platform/external/libcppbor"]
+	branch = master
+	path = external/libcppbor
+	url = ../external/libcppbor
 [submodule "platform/external/libcups"]
 	branch = master
 	path = external/libcups
