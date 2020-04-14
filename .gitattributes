@@ -427,6 +427,7 @@
 /frameworks/ex pdk-fs pdk-cw-fs
 /frameworks/hardware/interfaces pdk
 /frameworks/layoutlib pdk-fs pdk-cw-fs
+/frameworks/libs/native_bridge_support pdk
 /frameworks/libs/net pdk-fs pdk-cw-fs
 /frameworks/minikin pdk-fs pdk-cw-fs
 /frameworks/ml pdk

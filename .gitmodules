@@ -1730,6 +1730,10 @@
 	branch = master
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
+[submodule "platform/frameworks/libs/native_bridge_support"]
+	branch = master
+	path = frameworks/libs/native_bridge_support
+	url = ../frameworks/libs/native_bridge_support
 [submodule "platform/frameworks/libs/net"]
 	branch = master
 	path = frameworks/libs/net
