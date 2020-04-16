@@ -1408,10 +1408,26 @@
 	branch = master
 	path = external/rootdev
 	url = ../external/rootdev
+[submodule "platform/external/rust/crates/aho-corasick"]
+	branch = master
+	path = external/rust/crates/aho-corasick
+	url = ../external/rust/crates/aho-corasick
+[submodule "platform/external/rust/crates/bindgen"]
+	branch = master
+	path = external/rust/crates/bindgen
+	url = ../external/rust/crates/bindgen
 [submodule "platform/external/rust/crates/bitflags"]
 	branch = master
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/cfg-if"]
+	branch = master
+	path = external/rust/crates/cfg-if
+	url = ../external/rust/crates/cfg-if
+[submodule "platform/external/rust/crates/clang-sys"]
+	branch = master
+	path = external/rust/crates/clang-sys
+	url = ../external/rust/crates/clang-sys
 [submodule "platform/external/rust/crates/futures"]
 	branch = master
 	path = external/rust/crates/futures
@@ -1448,14 +1464,38 @@
 	branch = master
 	path = external/rust/crates/futures-util
 	url = ../external/rust/crates/futures-util
+[submodule "platform/external/rust/crates/glob"]
+	branch = master
+	path = external/rust/crates/glob
+	url = ../external/rust/crates/glob
+[submodule "platform/external/rust/crates/lazy_static"]
+	branch = master
+	path = external/rust/crates/lazy_static
+	url = ../external/rust/crates/lazy_static
+[submodule "platform/external/rust/crates/lazycell"]
+	branch = master
+	path = external/rust/crates/lazycell
+	url = ../external/rust/crates/lazycell
 [submodule "platform/external/rust/crates/libc"]
 	branch = master
 	path = external/rust/crates/libc
 	url = ../external/rust/crates/libc
+[submodule "platform/external/rust/crates/libloading"]
+	branch = master
+	path = external/rust/crates/libloading
+	url = ../external/rust/crates/libloading
+[submodule "platform/external/rust/crates/log"]
+	branch = master
+	path = external/rust/crates/log
+	url = ../external/rust/crates/log
 [submodule "platform/external/rust/crates/memchr"]
 	branch = master
 	path = external/rust/crates/memchr
 	url = ../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/nom"]
+	branch = master
+	path = external/rust/crates/nom
+	url = ../external/rust/crates/nom
 [submodule "platform/external/rust/crates/paste"]
 	branch = master
 	path = external/rust/crates/paste
@@ -1464,6 +1504,10 @@
 	branch = master
 	path = external/rust/crates/paste-impl
 	url = ../external/rust/crates/paste-impl
+[submodule "platform/external/rust/crates/peeking_take_while"]
+	branch = master
+	path = external/rust/crates/peeking_take_while
+	url = ../external/rust/crates/peeking_take_while
 [submodule "platform/external/rust/crates/pin-utils"]
 	branch = master
 	path = external/rust/crates/pin-utils
@@ -1484,10 +1528,22 @@
 	branch = master
 	path = external/rust/crates/quote
 	url = ../external/rust/crates/quote
+[submodule "platform/external/rust/crates/regex"]
+	branch = master
+	path = external/rust/crates/regex
+	url = ../external/rust/crates/regex
+[submodule "platform/external/rust/crates/regex-syntax"]
+	branch = master
+	path = external/rust/crates/regex-syntax
+	url = ../external/rust/crates/regex-syntax
 [submodule "platform/external/rust/crates/remain"]
 	branch = master
 	path = external/rust/crates/remain
 	url = ../external/rust/crates/remain
+[submodule "platform/external/rust/crates/rustc-hash"]
+	branch = master
+	path = external/rust/crates/rustc-hash
+	url = ../external/rust/crates/rustc-hash
 [submodule "platform/external/rust/crates/slab"]
 	branch = master
 	path = external/rust/crates/slab
@@ -1496,10 +1552,18 @@
 	branch = master
 	path = external/rust/crates/syn
 	url = ../external/rust/crates/syn
+[submodule "platform/external/rust/crates/thread_local"]
+	branch = master
+	path = external/rust/crates/thread_local
+	url = ../external/rust/crates/thread_local
 [submodule "platform/external/rust/crates/unicode-xid"]
 	branch = master
 	path = external/rust/crates/unicode-xid
 	url = ../external/rust/crates/unicode-xid
+[submodule "platform/external/rust/crates/which"]
+	branch = master
+	path = external/rust/crates/which
+	url = ../external/rust/crates/which
 [submodule "platform/external/scapy"]
 	branch = master
 	path = external/scapy
