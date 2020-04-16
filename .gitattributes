@@ -223,6 +223,7 @@
 /external/libcap pdk
 /external/libcap-ng pdk
 /external/libchrome pdk
+/external/libcppbor pdk
 /external/libcups pdk-fs pdk-cw-fs
 /external/libcxx pdk
 /external/libcxxabi pdk
@@ -347,10 +348,26 @@
 /external/roboto-fonts pdk
 /external/rootdev pdk
 /external/rust/crates/bitflags pdk
+/external/rust/crates/futures pdk
+/external/rust/crates/futures-channel pdk
+/external/rust/crates/futures-core pdk
+/external/rust/crates/futures-executor pdk
+/external/rust/crates/futures-io pdk
+/external/rust/crates/futures-macro pdk
+/external/rust/crates/futures-sink pdk
+/external/rust/crates/futures-task pdk
+/external/rust/crates/futures-util pdk
 /external/rust/crates/libc pdk
+/external/rust/crates/memchr pdk
+/external/rust/crates/paste pdk
+/external/rust/crates/paste-impl pdk
+/external/rust/crates/pin-utils pdk
+/external/rust/crates/proc-macro-hack pdk
+/external/rust/crates/proc-macro-nested pdk
 /external/rust/crates/proc-macro2 pdk
 /external/rust/crates/quote pdk
 /external/rust/crates/remain pdk
+/external/rust/crates/slab pdk
 /external/rust/crates/syn pdk
 /external/rust/crates/unicode-xid pdk
 /external/scapy pdk-fs
@@ -426,6 +443,7 @@
 /frameworks/ex pdk-fs pdk-cw-fs
 /frameworks/hardware/interfaces pdk
 /frameworks/layoutlib pdk-fs pdk-cw-fs
+/frameworks/libs/native_bridge_support pdk
 /frameworks/libs/net pdk-fs pdk-cw-fs
 /frameworks/minikin pdk-fs pdk-cw-fs
 /frameworks/ml pdk

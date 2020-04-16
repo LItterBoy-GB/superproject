@@ -673,6 +673,9 @@
 [submodule "platform/external/libchrome"]
 	path = external/libchrome
 	url = ../external/libchrome
+[submodule "platform/external/libcppbor"]
+	path = external/libcppbor
+	url = ../external/libcppbor
 [submodule "platform/external/libcups"]
 	path = external/libcups
 	url = ../external/libcups
@@ -1045,9 +1048,54 @@
 [submodule "platform/external/rust/crates/bitflags"]
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/futures"]
+	path = external/rust/crates/futures
+	url = ../external/rust/crates/futures
+[submodule "platform/external/rust/crates/futures-channel"]
+	path = external/rust/crates/futures-channel
+	url = ../external/rust/crates/futures-channel
+[submodule "platform/external/rust/crates/futures-core"]
+	path = external/rust/crates/futures-core
+	url = ../external/rust/crates/futures-core
+[submodule "platform/external/rust/crates/futures-executor"]
+	path = external/rust/crates/futures-executor
+	url = ../external/rust/crates/futures-executor
+[submodule "platform/external/rust/crates/futures-io"]
+	path = external/rust/crates/futures-io
+	url = ../external/rust/crates/futures-io
+[submodule "platform/external/rust/crates/futures-macro"]
+	path = external/rust/crates/futures-macro
+	url = ../external/rust/crates/futures-macro
+[submodule "platform/external/rust/crates/futures-sink"]
+	path = external/rust/crates/futures-sink
+	url = ../external/rust/crates/futures-sink
+[submodule "platform/external/rust/crates/futures-task"]
+	path = external/rust/crates/futures-task
+	url = ../external/rust/crates/futures-task
+[submodule "platform/external/rust/crates/futures-util"]
+	path = external/rust/crates/futures-util
+	url = ../external/rust/crates/futures-util
 [submodule "platform/external/rust/crates/libc"]
 	path = external/rust/crates/libc
 	url = ../external/rust/crates/libc
+[submodule "platform/external/rust/crates/memchr"]
+	path = external/rust/crates/memchr
+	url = ../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/paste"]
+	path = external/rust/crates/paste
+	url = ../external/rust/crates/paste
+[submodule "platform/external/rust/crates/paste-impl"]
+	path = external/rust/crates/paste-impl
+	url = ../external/rust/crates/paste-impl
+[submodule "platform/external/rust/crates/pin-utils"]
+	path = external/rust/crates/pin-utils
+	url = ../external/rust/crates/pin-utils
+[submodule "platform/external/rust/crates/proc-macro-hack"]
+	path = external/rust/crates/proc-macro-hack
+	url = ../external/rust/crates/proc-macro-hack
+[submodule "platform/external/rust/crates/proc-macro-nested"]
+	path = external/rust/crates/proc-macro-nested
+	url = ../external/rust/crates/proc-macro-nested
 [submodule "platform/external/rust/crates/proc-macro2"]
 	path = external/rust/crates/proc-macro2
 	url = ../external/rust/crates/proc-macro2
@@ -1057,6 +1105,9 @@
 [submodule "platform/external/rust/crates/remain"]
 	path = external/rust/crates/remain
 	url = ../external/rust/crates/remain
+[submodule "platform/external/rust/crates/slab"]
+	path = external/rust/crates/slab
+	url = ../external/rust/crates/slab
 [submodule "platform/external/rust/crates/syn"]
 	path = external/rust/crates/syn
 	url = ../external/rust/crates/syn
@@ -1282,6 +1333,9 @@
 [submodule "platform/frameworks/layoutlib"]
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
+[submodule "platform/frameworks/libs/native_bridge_support"]
+	path = frameworks/libs/native_bridge_support
+	url = ../frameworks/libs/native_bridge_support
 [submodule "platform/frameworks/libs/net"]
 	path = frameworks/libs/net
 	url = ../frameworks/libs/net
