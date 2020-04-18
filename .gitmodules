@@ -1420,6 +1420,10 @@
 	branch = master
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/cexpr"]
+	branch = master
+	path = external/rust/crates/cexpr
+	url = ../external/rust/crates/cexpr
 [submodule "platform/external/rust/crates/cfg-if"]
 	branch = master
 	path = external/rust/crates/cfg-if
@@ -1544,6 +1548,10 @@
 	branch = master
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/shlex"]
+	branch = master
+	path = external/rust/crates/shlex
+	url = ../external/rust/crates/shlex
 [submodule "platform/external/rust/crates/slab"]
 	branch = master
 	path = external/rust/crates/slab
