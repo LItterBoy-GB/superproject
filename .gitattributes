@@ -18,7 +18,6 @@
 /external/caliper pdk
 /external/chromium-libpac pdk
 /external/compiler-rt pdk
-/external/conscrypt pdk
 /external/cpu_features pdk
 /external/dagger2 pdk
 /external/desugar pdk
