@@ -1895,10 +1895,70 @@
 	branch = master
 	path = external/rust/crates/byteorder
 	url = ../external/rust/crates/byteorder
+[submodule "platform/external/rust/crates/futures"]
+	branch = master
+	path = external/rust/crates/futures
+	url = ../external/rust/crates/futures
+[submodule "platform/external/rust/crates/futures-channel"]
+	branch = master
+	path = external/rust/crates/futures-channel
+	url = ../external/rust/crates/futures-channel
+[submodule "platform/external/rust/crates/futures-core"]
+	branch = master
+	path = external/rust/crates/futures-core
+	url = ../external/rust/crates/futures-core
+[submodule "platform/external/rust/crates/futures-executor"]
+	branch = master
+	path = external/rust/crates/futures-executor
+	url = ../external/rust/crates/futures-executor
+[submodule "platform/external/rust/crates/futures-io"]
+	branch = master
+	path = external/rust/crates/futures-io
+	url = ../external/rust/crates/futures-io
+[submodule "platform/external/rust/crates/futures-macro"]
+	branch = master
+	path = external/rust/crates/futures-macro
+	url = ../external/rust/crates/futures-macro
+[submodule "platform/external/rust/crates/futures-sink"]
+	branch = master
+	path = external/rust/crates/futures-sink
+	url = ../external/rust/crates/futures-sink
+[submodule "platform/external/rust/crates/futures-task"]
+	branch = master
+	path = external/rust/crates/futures-task
+	url = ../external/rust/crates/futures-task
+[submodule "platform/external/rust/crates/futures-util"]
+	branch = master
+	path = external/rust/crates/futures-util
+	url = ../external/rust/crates/futures-util
 [submodule "platform/external/rust/crates/libc"]
 	branch = master
 	path = external/rust/crates/libc
 	url = ../external/rust/crates/libc
+[submodule "platform/external/rust/crates/memchr"]
+	branch = master
+	path = external/rust/crates/memchr
+	url = ../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/paste"]
+	branch = master
+	path = external/rust/crates/paste
+	url = ../external/rust/crates/paste
+[submodule "platform/external/rust/crates/paste-impl"]
+	branch = master
+	path = external/rust/crates/paste-impl
+	url = ../external/rust/crates/paste-impl
+[submodule "platform/external/rust/crates/pin-utils"]
+	branch = master
+	path = external/rust/crates/pin-utils
+	url = ../external/rust/crates/pin-utils
+[submodule "platform/external/rust/crates/proc-macro-hack"]
+	branch = master
+	path = external/rust/crates/proc-macro-hack
+	url = ../external/rust/crates/proc-macro-hack
+[submodule "platform/external/rust/crates/proc-macro-nested"]
+	branch = master
+	path = external/rust/crates/proc-macro-nested
+	url = ../external/rust/crates/proc-macro-nested
 [submodule "platform/external/rust/crates/proc-macro2"]
 	branch = master
 	path = external/rust/crates/proc-macro2
@@ -1911,6 +1971,10 @@
 	branch = master
 	path = external/rust/crates/remain
 	url = ../external/rust/crates/remain
+[submodule "platform/external/rust/crates/slab"]
+	branch = master
+	path = external/rust/crates/slab
+	url = ../external/rust/crates/slab
 [submodule "platform/external/rust/crates/syn"]
 	branch = master
 	path = external/rust/crates/syn
@@ -2099,6 +2163,11 @@
 	shallow = true
 	path = external/toybox
 	url = ../external/toybox
+[submodule "platform/external/tpm2-tss"]
+	branch = master
+	shallow = true
+	path = external/tpm2-tss
+	url = ../external/tpm2-tss
 [submodule "platform/external/tremolo"]
 	branch = master
 	shallow = true

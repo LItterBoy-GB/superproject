@@ -379,10 +379,26 @@
 /external/rootdev pdk
 /external/rust/crates/bitflags pdk
 /external/rust/crates/byteorder pdk
+/external/rust/crates/futures pdk
+/external/rust/crates/futures-channel pdk
+/external/rust/crates/futures-core pdk
+/external/rust/crates/futures-executor pdk
+/external/rust/crates/futures-io pdk
+/external/rust/crates/futures-macro pdk
+/external/rust/crates/futures-sink pdk
+/external/rust/crates/futures-task pdk
+/external/rust/crates/futures-util pdk
 /external/rust/crates/libc pdk
+/external/rust/crates/memchr pdk
+/external/rust/crates/paste pdk
+/external/rust/crates/paste-impl pdk
+/external/rust/crates/pin-utils pdk
+/external/rust/crates/proc-macro-hack pdk
+/external/rust/crates/proc-macro-nested pdk
 /external/rust/crates/proc-macro2 pdk
 /external/rust/crates/quote pdk
 /external/rust/crates/remain pdk
+/external/rust/crates/slab pdk
 /external/rust/crates/syn pdk
 /external/rust/crates/unicode-xid pdk
 /external/scapy pdk-fs
@@ -421,6 +437,7 @@
 /external/tinyxml2 pdk
 /external/toolchain-utils
 /external/toybox pdk
+/external/tpm2-tss pdk
 /external/tremolo pdk
 /external/turbine pdk
 /external/u-boot pdk
