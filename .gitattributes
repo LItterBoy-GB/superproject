@@ -1,0 +1,81 @@
+/bionic
+/build/make
+/build/blueprint
+/build/kati
+/build/soong
+/dalvik
+/development
+/external/arm-optimized-routines
+/external/bazelbuild-remote-apis
+/external/bc
+/external/bison
+/external/boringssl
+/external/bzip2
+/external/clang
+/external/compiler-rt
+/external/dagger2
+/external/desugar
+/external/error_prone
+/external/expat
+/external/flex
+/external/fmtlib
+/external/go-creachadair-stringset
+/external/golang-protobuf
+/external/golang-x-sync
+/external/golang-x-tools
+/external/googleapis
+/external/googletest
+/external/guava
+/external/icu
+/external/jemalloc
+/external/jsoncpp
+/external/jsr305
+/external/kythe
+/external/libcxx
+/external/libcxxabi
+/external/libffi
+/external/libunwind
+/external/libunwind_llvm
+/external/llvm
+/external/ninja
+/external/nsjail
+/external/one-true-awk
+/external/pcre
+/external/protobuf
+/external/python/cpython2
+/external/python/cpython3
+/external/safe-iop
+/external/selinux
+/external/sqlite
+/external/toybox
+/external/turbine
+/external/zlib
+/external/zopfli
+/prebuilts/build-tools
+/prebuilts/clang-tools
+/prebuilts/clang/host/darwin-x86 darwin
+/prebuilts/clang/host/linux-x86 linux
+/prebuilts/clang/host/windows-x86 linux
+/prebuilts/gcc/darwin-x86/host/headers darwin
+/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 darwin
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 linux
+/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+/prebuilts/go/darwin-x86 darwin
+/prebuilts/go/linux-x86 linux
+/prebuilts/jdk/jdk11
+/prebuilts/jdk/jdk8
+/prebuilts/jdk/jdk9
+/prebuilts/misc
+/prebuilts/ninja/darwin-x86 darwin
+/prebuilts/ninja/linux-x86 linux
+/prebuilts/remoteexecution-client pdk
+/prebuilts/tools pdk tools
+/system/core
+/system/tools/aidl
+/system/tools/hidl
+/toolchain/go
+/toolchain/m4
+/toolchain/make
+/toolchain/xz
