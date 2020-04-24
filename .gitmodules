@@ -18,10 +18,6 @@
 	branch = master
 	path = build/blueprint
 	url = ../build/blueprint
-[submodule "platform/build/kati"]
-	branch = master
-	path = build/kati
-	url = ../build/kati
 [submodule "platform/build/soong"]
 	branch = master
 	path = build/soong
@@ -425,10 +421,6 @@
 	shallow = true
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
-[submodule "platform/prebuilts/ninja/linux-x86"]
-	branch = master
-	path = prebuilts/ninja/linux-x86
-	url = ../prebuilts/ninja/linux-x86
 [submodule "platform/prebuilts/r8"]
 	branch = master
 	shallow = true

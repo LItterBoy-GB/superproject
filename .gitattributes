@@ -3,7 +3,6 @@
 /bionic pdk
 /build/make pdk
 /build/blueprint tradefed pdk
-/build/kati tradefed pdk
 /build/soong tradefed pdk
 /dalvik pdk-fs pdk-cw-fs
 /development pdk-fs pdk-cw-fs
@@ -101,7 +100,6 @@
 /prebuilts/jdk/jdk9 pdk
 /prebuilts/misc pdk
 /prebuilts/ndk pdk
-/prebuilts/ninja/linux-x86 tradefed pdk linux
 /prebuilts/r8 pdk
 /prebuilts/runtime pdk
 /prebuilts/sdk pdk
