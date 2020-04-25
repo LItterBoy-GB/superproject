@@ -310,6 +310,10 @@
 	branch = master
 	path = external/aac
 	url = ../external/aac
+[submodule "platform/external/abseil-cpp"]
+	branch = master
+	path = external/abseil-cpp
+	url = ../external/abseil-cpp
 [submodule "platform/external/adhd"]
 	branch = master
 	path = external/adhd
