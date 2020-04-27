@@ -73,6 +73,7 @@
 /external/Reactive-Extensions/RxCpp pdk
 /external/XNNPACK pdk
 /external/aac pdk
+/external/abseil-cpp pdk
 /external/adhd pdk
 /external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
@@ -350,6 +351,7 @@
 /external/rust/crates/aho-corasick pdk
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bitflags pdk
+/external/rust/crates/cexpr pdk
 /external/rust/crates/cfg-if pdk
 /external/rust/crates/clang-sys pdk
 /external/rust/crates/futures pdk
@@ -381,6 +383,7 @@
 /external/rust/crates/regex-syntax pdk
 /external/rust/crates/remain pdk
 /external/rust/crates/rustc-hash pdk
+/external/rust/crates/shlex pdk
 /external/rust/crates/slab pdk
 /external/rust/crates/syn pdk
 /external/rust/crates/thread_local pdk

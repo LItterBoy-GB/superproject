@@ -223,6 +223,9 @@
 [submodule "platform/external/aac"]
 	path = external/aac
 	url = ../external/aac
+[submodule "platform/external/abseil-cpp"]
+	path = external/abseil-cpp
+	url = ../external/abseil-cpp
 [submodule "platform/external/adhd"]
 	path = external/adhd
 	url = ../external/adhd
@@ -1054,6 +1057,9 @@
 [submodule "platform/external/rust/crates/bitflags"]
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/cexpr"]
+	path = external/rust/crates/cexpr
+	url = ../external/rust/crates/cexpr
 [submodule "platform/external/rust/crates/cfg-if"]
 	path = external/rust/crates/cfg-if
 	url = ../external/rust/crates/cfg-if
@@ -1147,6 +1153,9 @@
 [submodule "platform/external/rust/crates/rustc-hash"]
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/shlex"]
+	path = external/rust/crates/shlex
+	url = ../external/rust/crates/shlex
 [submodule "platform/external/rust/crates/slab"]
 	path = external/rust/crates/slab
 	url = ../external/rust/crates/slab
