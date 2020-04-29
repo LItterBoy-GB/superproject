@@ -230,6 +230,7 @@
 /external/libcxxabi pdk
 /external/libdivsufsort pdk
 /external/libdrm pdk
+/external/libedit
 /external/libepoxy pdk
 /external/libese pdk
 /external/libevent pdk
@@ -292,7 +293,6 @@
 /external/neon_2_sse pdk
 /external/neven pdk
 /external/newfs_msdos pdk
-/external/nfacct pdk
 /external/nist-pkits pdk
 /external/nist-sip pdk
 /external/nos/host/generic pixel
@@ -414,6 +414,7 @@
 /external/stressapptest pdk
 /external/subsampling-scale-image-view pdk
 /external/swiftshader pdk
+/external/swig
 /external/tagsoup pdk
 /external/tcpdump pdk
 /external/tensorflow pdk
@@ -682,8 +683,6 @@
 /prebuilts/jdk/jdk8 pdk
 /prebuilts/jdk/jdk9 pdk
 /prebuilts/ktlint pdk
-/prebuilts/libedit/darwin-x86
-/prebuilts/libedit/linux-x86
 /prebuilts/manifest-merger pdk
 /prebuilts/maven_repo/android pdk-fs pdk-cw-fs
 /prebuilts/maven_repo/bumptech pdk-fs pdk-cw-fs
@@ -700,9 +699,6 @@
 /prebuilts/remoteexecution-client pdk
 /prebuilts/rust pdk
 /prebuilts/sdk pdk
-/prebuilts/swig/darwin-x86
-/prebuilts/swig/linux-x86
-/prebuilts/swig/windows-x86
 /prebuilts/tools pdk tools
 /prebuilts/vndk/v27 pdk
 /prebuilts/vndk/v28 pdk

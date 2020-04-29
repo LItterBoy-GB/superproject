@@ -939,6 +939,10 @@
 	branch = master
 	path = external/libdrm
 	url = ../external/libdrm
+[submodule "platform/external/libedit"]
+	branch = master
+	path = external/libedit
+	url = ../external/libedit
 [submodule "platform/external/libepoxy"]
 	branch = master
 	path = external/libepoxy
@@ -1188,10 +1192,6 @@
 	branch = master
 	path = external/newfs_msdos
 	url = ../external/newfs_msdos
-[submodule "platform/external/nfacct"]
-	branch = master
-	path = external/nfacct
-	url = ../external/nfacct
 [submodule "platform/external/nist-pkits"]
 	branch = master
 	path = external/nist-pkits
@@ -1678,6 +1678,10 @@
 	branch = master
 	path = external/swiftshader
 	url = ../external/swiftshader
+[submodule "platform/external/swig"]
+	branch = master
+	path = external/swig
+	url = ../external/swig
 [submodule "platform/external/tagsoup"]
 	branch = master
 	path = external/tagsoup
@@ -2788,12 +2792,6 @@
 	shallow = true
 	path = prebuilts/ktlint
 	url = ../prebuilts/ktlint
-[submodule "platform/prebuilts/libedit/darwin-x86"]
-	path = prebuilts/libedit/darwin-x86
-	url = ../prebuilts/libedit/darwin-x86
-[submodule "platform/prebuilts/libedit/linux-x86"]
-	path = prebuilts/libedit/linux-x86
-	url = ../prebuilts/libedit/linux-x86
 [submodule "platform/prebuilts/manifest-merger"]
 	branch = master
 	shallow = true
@@ -2874,15 +2872,6 @@
 	shallow = true
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
-[submodule "platform/prebuilts/swig/darwin-x86"]
-	path = prebuilts/swig/darwin-x86
-	url = ../prebuilts/swig/darwin-x86
-[submodule "platform/prebuilts/swig/linux-x86"]
-	path = prebuilts/swig/linux-x86
-	url = ../prebuilts/swig/linux-x86
-[submodule "platform/prebuilts/swig/windows-x86"]
-	path = prebuilts/swig/windows-x86
-	url = ../prebuilts/swig/windows-x86
 [submodule "platform/prebuilts/tools"]
 	branch = master
 	shallow = true
