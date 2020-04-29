@@ -2,6 +2,14 @@
 	branch = master
 	path = bionic
 	url = ../bionic
+[submodule "platform/external/libedit"]
+	branch = master
+	path = external/libedit
+	url = ../external/libedit
+[submodule "platform/external/swig"]
+	branch = master
+	path = external/swig
+	url = ../external/swig
 [submodule "platform/external/toolchain-utils"]
 	branch = master
 	path = external/toolchain-utils
@@ -91,12 +99,6 @@
 	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
-[submodule "platform/prebuilts/libedit/darwin-x86"]
-	path = prebuilts/libedit/darwin-x86
-	url = ../prebuilts/libedit/darwin-x86
-[submodule "platform/prebuilts/libedit/linux-x86"]
-	path = prebuilts/libedit/linux-x86
-	url = ../prebuilts/libedit/linux-x86
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	branch = master
 	shallow = true
@@ -122,15 +124,6 @@
 	shallow = true
 	path = prebuilts/python/windows-x86
 	url = ../prebuilts/python/windows-x86
-[submodule "platform/prebuilts/swig/darwin-x86"]
-	path = prebuilts/swig/darwin-x86
-	url = ../prebuilts/swig/darwin-x86
-[submodule "platform/prebuilts/swig/linux-x86"]
-	path = prebuilts/swig/linux-x86
-	url = ../prebuilts/swig/linux-x86
-[submodule "platform/prebuilts/swig/windows-x86"]
-	path = prebuilts/swig/windows-x86
-	url = ../prebuilts/swig/windows-x86
 [submodule "toolchain/binutils"]
 	branch = master
 	path = toolchain/binutils

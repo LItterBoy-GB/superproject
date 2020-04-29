@@ -1,4 +1,6 @@
 /bionic
+/external/libedit
+/external/swig
 /external/toolchain-utils
 /prebuilts/clang/host/darwin-x86
 /prebuilts/clang/host/linux-x86
@@ -17,16 +19,11 @@
 /prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9 pdk linux x86
 /prebuilts/go/darwin-x86 tradefed darwin pdk
 /prebuilts/go/linux-x86 tradefed pdk linux
-/prebuilts/libedit/darwin-x86
-/prebuilts/libedit/linux-x86
 /prebuilts/ninja/darwin-x86
 /prebuilts/ninja/linux-x86
 /prebuilts/python/darwin-x86
 /prebuilts/python/linux-x86
 /prebuilts/python/windows-x86
-/prebuilts/swig/darwin-x86
-/prebuilts/swig/linux-x86
-/prebuilts/swig/windows-x86
 /toolchain/binutils
 /toolchain/llvm-project
 /toolchain/llvm_android
