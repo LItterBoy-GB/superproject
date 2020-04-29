@@ -14,14 +14,6 @@
 	branch = master
 	path = external/googletest
 	url = ../external/googletest
-[submodule "platform/external/libcxx"]
-	branch = ndk
-	path = external/libcxx
-	url = ../external/libcxx
-[submodule "platform/external/llvm"]
-	branch = master
-	path = external/llvm
-	url = ../external/llvm
 [submodule "platform/external/python/cpython3"]
 	path = external/python/cpython3
 	url = ../external/python/cpython3

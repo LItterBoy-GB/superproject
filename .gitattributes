@@ -2,8 +2,6 @@
 /development presubmit
 /external/effcee
 /external/googletest presubmit
-/external/libcxx
-/external/llvm
 /external/python/cpython3 presubmit
 /external/regex-re2
 /external/shaderc/glslang presubmit
