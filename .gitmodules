@@ -1188,10 +1188,6 @@
 	branch = master
 	path = external/newfs_msdos
 	url = ../external/newfs_msdos
-[submodule "platform/external/nfacct"]
-	branch = master
-	path = external/nfacct
-	url = ../external/nfacct
 [submodule "platform/external/nist-pkits"]
 	branch = master
 	path = external/nist-pkits
