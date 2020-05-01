@@ -1,4 +1,3 @@
-/external/python/cpython3 presubmit
 /ndk presubmit
 /prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9 darwin arm
 /prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8 darwin arm
@@ -13,4 +12,6 @@
 /prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 presubmit
 /prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9 presubmit linux x86
 /prebuilts/ndk presubmit
+/prebuilts/python3/darwin darwin
+/prebuilts/python3/linux presubmit linux
 /toolchain/binutils presubmit

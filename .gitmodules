@@ -1,6 +1,3 @@
-[submodule "platform/external/python/cpython3"]
-	path = external/python/cpython3
-	url = ../external/python/cpython3
 [submodule "platform/ndk"]
 	branch = master
 	path = ndk
@@ -56,6 +53,16 @@
 	branch = master
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
+[submodule "platform/prebuilts/python/darwin-x86"]
+	branch = llvm-toolchain
+	shallow = true
+	path = prebuilts/python3/darwin
+	url = ../prebuilts/python/darwin-x86
+[submodule "platform/prebuilts/python/linux-x86"]
+	branch = llvm-toolchain
+	shallow = true
+	path = prebuilts/python3/linux
+	url = ../prebuilts/python/linux-x86
 [submodule "toolchain/binutils"]
 	branch = master
 	path = toolchain/binutils
