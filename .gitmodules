@@ -14,9 +14,6 @@
 	branch = master
 	path = external/googletest
 	url = ../external/googletest
-[submodule "platform/external/python/cpython3"]
-	path = external/python/cpython3
-	url = ../external/python/cpython3
 [submodule "platform/external/regex-re2"]
 	branch = master
 	path = external/regex-re2
@@ -136,10 +133,20 @@
 	branch = master
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
+[submodule "platform/prebuilts/python/darwin-x86"]
+	branch = llvm-toolchain
+	shallow = true
+	path = prebuilts/python3/darwin
+	url = ../prebuilts/python/darwin-x86
 [submodule "platform/prebuilts/python/darwin-x86/2.7.5"]
 	branch = master
 	path = prebuilts/python/darwin-x86/2.7.5
 	url = ../prebuilts/python/darwin-x86/2.7.5
+[submodule "platform/prebuilts/python/linux-x86"]
+	branch = llvm-toolchain
+	shallow = true
+	path = prebuilts/python3/linux
+	url = ../prebuilts/python/linux-x86
 [submodule "platform/prebuilts/python/linux-x86/2.7.5"]
 	branch = master
 	path = prebuilts/python/linux-x86/2.7.5
