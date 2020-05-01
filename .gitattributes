@@ -1,10 +1,11 @@
-/external/python/cpython3 presubmit
 /ndk
 /prebuilts/gcc/darwin-x86/host/headers pdk darwin
 /prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 pdk darwin
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8 pdk linux
 /prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 pdk-fs
 /prebuilts/ndk pdk
+/prebuilts/python3/darwin darwin
+/prebuilts/python3/linux presubmit linux
 /toolchain/binutils
 /toolchain/build
 /toolchain/cloog
