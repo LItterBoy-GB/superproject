@@ -114,6 +114,7 @@
 /system/memory/libmeminfo pdk
 /system/netd pdk
 /system/sepolicy pdk
+/system/testing/gtest_extras pdk
 /system/timezone pdk
 /system/tools/aidl pdk
 /system/tools/sysprop pdk
