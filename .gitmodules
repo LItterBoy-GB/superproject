@@ -463,15 +463,15 @@
 	path = external/deqp
 	url = ../external/deqp
 [submodule "platform/external/deqp-deps/SPIRV-Headers"]
-	branch = android10-release
+	branch = android10-tests-dev
 	path = external/deqp-deps/SPIRV-Headers
 	url = ../external/deqp-deps/SPIRV-Headers
 [submodule "platform/external/deqp-deps/SPIRV-Tools"]
-	branch = android10-release
+	branch = android10-tests-dev
 	path = external/deqp-deps/SPIRV-Tools
 	url = ../external/deqp-deps/SPIRV-Tools
 [submodule "platform/external/deqp-deps/glslang"]
-	branch = android10-release
+	branch = android10-tests-dev
 	path = external/deqp-deps/glslang
 	url = ../external/deqp-deps/glslang
 [submodule "platform/external/desugar"]
