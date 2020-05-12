@@ -1344,6 +1344,10 @@
 	branch = master
 	path = external/python/oauth2client
 	url = ../external/python/oauth2client
+[submodule "platform/external/python/parse_type"]
+	branch = master
+	path = external/python/parse_type
+	url = ../external/python/parse_type
 [submodule "platform/external/python/pyasn1"]
 	branch = master
 	path = external/python/pyasn1
