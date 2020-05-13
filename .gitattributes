@@ -723,6 +723,7 @@
 /system/libvintf pdk
 /system/linkerconfig pdk
 /system/media pdk
+/system/memory/libdmabufheap pdk
 /system/memory/libion pdk
 /system/memory/libmeminfo pdk
 /system/memory/libmemtrack pdk
