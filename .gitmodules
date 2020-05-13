@@ -3004,6 +3004,10 @@
 	branch = master
 	path = system/media
 	url = ../system/media
+[submodule "platform/system/memory/libdmabufheap"]
+	branch = master
+	path = system/memory/libdmabufheap
+	url = ../system/memory/libdmabufheap
 [submodule "platform/system/memory/libion"]
 	branch = master
 	path = system/memory/libion
