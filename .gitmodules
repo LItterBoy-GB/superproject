@@ -1504,6 +1504,10 @@
 	branch = master
 	path = external/rust/crates/nom
 	url = ../external/rust/crates/nom
+[submodule "platform/external/rust/crates/once_cell"]
+	branch = master
+	path = external/rust/crates/once_cell
+	url = ../external/rust/crates/once_cell
 [submodule "platform/external/rust/crates/paste"]
 	branch = master
 	path = external/rust/crates/paste
@@ -1516,6 +1520,14 @@
 	branch = master
 	path = external/rust/crates/peeking_take_while
 	url = ../external/rust/crates/peeking_take_while
+[submodule "platform/external/rust/crates/pin-project"]
+	branch = master
+	path = external/rust/crates/pin-project
+	url = ../external/rust/crates/pin-project
+[submodule "platform/external/rust/crates/pin-project-internal"]
+	branch = master
+	path = external/rust/crates/pin-project-internal
+	url = ../external/rust/crates/pin-project-internal
 [submodule "platform/external/rust/crates/pin-utils"]
 	branch = master
 	path = external/rust/crates/pin-utils
