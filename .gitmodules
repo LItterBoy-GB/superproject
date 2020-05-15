@@ -2527,6 +2527,10 @@
 	branch = master
 	path = packages/modules/NetworkStack
 	url = ../packages/modules/NetworkStack
+[submodule "platform/packages/modules/RuntimeI18n"]
+	branch = master
+	path = packages/modules/RuntimeI18n
+	url = ../packages/modules/RuntimeI18n
 [submodule "platform/packages/modules/TestModule"]
 	branch = master
 	path = packages/modules/TestModule

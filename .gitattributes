@@ -626,6 +626,7 @@
 /packages/modules/ModuleMetadata pdk
 /packages/modules/NetworkPermissionConfig pdk-fs pdk-cw-fs
 /packages/modules/NetworkStack pdk-fs pdk-cw-fs
+/packages/modules/RuntimeI18n pdk-fs pdk-cw-fs
 /packages/modules/TestModule
 /packages/modules/vndk pdk-fs pdk-cw-fs
 /packages/providers/BlockedNumberProvider pdk-fs
