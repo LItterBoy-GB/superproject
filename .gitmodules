@@ -338,6 +338,10 @@
 	branch = master
 	path = packages/modules/DnsResolver
 	url = ../packages/modules/DnsResolver
+[submodule "platform/packages/modules/RuntimeI18n"]
+	branch = master
+	path = packages/modules/RuntimeI18n
+	url = ../packages/modules/RuntimeI18n
 [submodule "platform/packages/modules/vndk"]
 	branch = master
 	path = packages/modules/vndk
