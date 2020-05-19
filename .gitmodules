@@ -469,6 +469,10 @@
 	branch = master
 	path = system/libsysprop
 	url = ../system/libsysprop
+[submodule "platform/system/libziparchive"]
+	branch = master
+	path = system/libziparchive
+	url = ../system/libziparchive
 [submodule "platform/system/linkerconfig"]
 	branch = master
 	path = system/linkerconfig

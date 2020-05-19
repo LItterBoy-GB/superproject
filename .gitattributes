@@ -111,6 +111,7 @@
 /system/extras pdk
 /system/libartpalette pdk
 /system/libsysprop pdk
+/system/libziparchive pdk
 /system/linkerconfig pdk
 /system/memory/libmeminfo pdk
 /system/netd pdk
