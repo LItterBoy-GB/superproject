@@ -465,6 +465,10 @@
 	branch = master
 	path = system/libartpalette
 	url = ../system/libartpalette
+[submodule "platform/system/libbase"]
+	branch = master
+	path = system/libbase
+	url = ../system/libbase
 [submodule "platform/system/libsysprop"]
 	branch = master
 	path = system/libsysprop

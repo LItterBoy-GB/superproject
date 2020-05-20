@@ -110,6 +110,7 @@
 /system/core pdk
 /system/extras pdk
 /system/libartpalette pdk
+/system/libbase pdk
 /system/libsysprop pdk
 /system/libziparchive pdk
 /system/linkerconfig pdk
