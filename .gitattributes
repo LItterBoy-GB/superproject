@@ -719,6 +719,7 @@
 /system/iorap pdk
 /system/keymaster pdk
 /system/libartpalette pdk
+/system/libbase pdk
 /system/libfmq pdk
 /system/libhidl pdk
 /system/libhwbinder pdk
