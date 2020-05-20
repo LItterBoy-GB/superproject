@@ -214,3 +214,7 @@
 	branch = master
 	path = system/core
 	url = ../system/core
+[submodule "platform/system/libziparchive"]
+	branch = master
+	path = system/libziparchive
+	url = ../system/libziparchive
