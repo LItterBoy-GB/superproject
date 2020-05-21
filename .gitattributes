@@ -73,6 +73,7 @@
 /prebuilts/remoteexecution-client pdk
 /prebuilts/tools pdk tools
 /system/core
+/system/libbase
 /system/libziparchive
 /system/tools/aidl
 /system/tools/hidl

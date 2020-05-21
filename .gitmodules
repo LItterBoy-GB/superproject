@@ -320,6 +320,10 @@
 	branch = master
 	path = system/core
 	url = ../system/core
+[submodule "platform/system/libbase"]
+	branch = master
+	path = system/libbase
+	url = ../system/libbase
 [submodule "platform/system/libziparchive"]
 	branch = master
 	path = system/libziparchive
