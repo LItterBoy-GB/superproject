@@ -48,4 +48,5 @@
 /prebuilts/ninja/darwin-x86 darwin
 /prebuilts/ninja/linux-x86 linux
 /system/core
+/system/libbase
 /system/libziparchive
