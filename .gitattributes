@@ -292,7 +292,6 @@
 /external/neon_2_sse pdk
 /external/neven pdk
 /external/newfs_msdos pdk
-/external/nfacct pdk
 /external/nist-pkits pdk
 /external/nist-sip pdk
 /external/nos/host/generic pixel
@@ -332,6 +331,7 @@
 /external/python/ipaddress pdk
 /external/python/mock pdk
 /external/python/oauth2client vts pdk
+/external/python/parse_type vts pdk
 /external/python/pyasn1 vts pdk
 /external/python/pyasn1-modules vts pdk
 /external/python/pybind11 pdk
@@ -371,9 +371,12 @@
 /external/rust/crates/log pdk
 /external/rust/crates/memchr pdk
 /external/rust/crates/nom pdk
+/external/rust/crates/once_cell pdk
 /external/rust/crates/paste pdk
 /external/rust/crates/paste-impl pdk
 /external/rust/crates/peeking_take_while pdk
+/external/rust/crates/pin-project pdk
+/external/rust/crates/pin-project-internal pdk
 /external/rust/crates/pin-utils pdk
 /external/rust/crates/proc-macro-hack pdk
 /external/rust/crates/proc-macro-nested pdk
@@ -621,6 +624,8 @@
 /packages/modules/ModuleMetadata pdk
 /packages/modules/NetworkPermissionConfig pdk-fs pdk-cw-fs
 /packages/modules/NetworkStack pdk-fs pdk-cw-fs
+/packages/modules/RuntimeI18n pdk-fs pdk-cw-fs
+/packages/modules/SdkExtensions pdk-fs pdk-cw-fs
 /packages/modules/TestModule
 /packages/modules/vndk pdk-fs pdk-cw-fs
 /packages/providers/BlockedNumberProvider pdk-fs
@@ -715,14 +720,17 @@
 /system/iorap pdk
 /system/keymaster pdk
 /system/libartpalette pdk
+/system/libbase pdk
 /system/libfmq pdk
 /system/libhidl pdk
 /system/libhwbinder pdk
 /system/libsysprop pdk
 /system/libufdt pdk
 /system/libvintf pdk
+/system/libziparchive pdk
 /system/linkerconfig pdk
 /system/media pdk
+/system/memory/libdmabufheap pdk
 /system/memory/libion pdk
 /system/memory/libmeminfo pdk
 /system/memory/libmemtrack pdk

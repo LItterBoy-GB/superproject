@@ -880,9 +880,6 @@
 [submodule "platform/external/newfs_msdos"]
 	path = external/newfs_msdos
 	url = ../external/newfs_msdos
-[submodule "platform/external/nfacct"]
-	path = external/nfacct
-	url = ../external/nfacct
 [submodule "platform/external/nist-pkits"]
 	path = external/nist-pkits
 	url = ../external/nist-pkits
@@ -1000,6 +997,9 @@
 [submodule "platform/external/python/oauth2client"]
 	path = external/python/oauth2client
 	url = ../external/python/oauth2client
+[submodule "platform/external/python/parse_type"]
+	path = external/python/parse_type
+	url = ../external/python/parse_type
 [submodule "platform/external/python/pyasn1"]
 	path = external/python/pyasn1
 	url = ../external/python/pyasn1
@@ -1117,6 +1117,9 @@
 [submodule "platform/external/rust/crates/nom"]
 	path = external/rust/crates/nom
 	url = ../external/rust/crates/nom
+[submodule "platform/external/rust/crates/once_cell"]
+	path = external/rust/crates/once_cell
+	url = ../external/rust/crates/once_cell
 [submodule "platform/external/rust/crates/paste"]
 	path = external/rust/crates/paste
 	url = ../external/rust/crates/paste
@@ -1126,6 +1129,12 @@
 [submodule "platform/external/rust/crates/peeking_take_while"]
 	path = external/rust/crates/peeking_take_while
 	url = ../external/rust/crates/peeking_take_while
+[submodule "platform/external/rust/crates/pin-project"]
+	path = external/rust/crates/pin-project
+	url = ../external/rust/crates/pin-project
+[submodule "platform/external/rust/crates/pin-project-internal"]
+	path = external/rust/crates/pin-project-internal
+	url = ../external/rust/crates/pin-project-internal
 [submodule "platform/external/rust/crates/pin-utils"]
 	path = external/rust/crates/pin-utils
 	url = ../external/rust/crates/pin-utils
@@ -1867,6 +1876,12 @@
 [submodule "platform/packages/modules/NetworkStack"]
 	path = packages/modules/NetworkStack
 	url = ../packages/modules/NetworkStack
+[submodule "platform/packages/modules/RuntimeI18n"]
+	path = packages/modules/RuntimeI18n
+	url = ../packages/modules/RuntimeI18n
+[submodule "platform/packages/modules/SdkExtensions"]
+	path = packages/modules/SdkExtensions
+	url = ../packages/modules/SdkExtensions
 [submodule "platform/packages/modules/TestModule"]
 	path = packages/modules/TestModule
 	url = ../packages/modules/TestModule
@@ -2149,6 +2164,9 @@
 [submodule "platform/system/libartpalette"]
 	path = system/libartpalette
 	url = ../system/libartpalette
+[submodule "platform/system/libbase"]
+	path = system/libbase
+	url = ../system/libbase
 [submodule "platform/system/libfmq"]
 	path = system/libfmq
 	url = ../system/libfmq
@@ -2167,12 +2185,18 @@
 [submodule "platform/system/libvintf"]
 	path = system/libvintf
 	url = ../system/libvintf
+[submodule "platform/system/libziparchive"]
+	path = system/libziparchive
+	url = ../system/libziparchive
 [submodule "platform/system/linkerconfig"]
 	path = system/linkerconfig
 	url = ../system/linkerconfig
 [submodule "platform/system/media"]
 	path = system/media
 	url = ../system/media
+[submodule "platform/system/memory/libdmabufheap"]
+	path = system/memory/libdmabufheap
+	url = ../system/memory/libdmabufheap
 [submodule "platform/system/memory/libion"]
 	path = system/memory/libion
 	url = ../system/memory/libion
