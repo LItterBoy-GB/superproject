@@ -509,6 +509,10 @@
 	branch = master
 	path = system/tools/sysprop
 	url = ../system/tools/sysprop
+[submodule "platform/system/tools/xsdc"]
+	branch = master
+	path = system/tools/xsdc
+	url = ../system/tools/xsdc
 [submodule "platform/test/suite_harness"]
 	branch = master
 	path = test/suite_harness

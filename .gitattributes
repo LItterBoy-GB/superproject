@@ -121,6 +121,7 @@
 /system/timezone pdk
 /system/tools/aidl pdk
 /system/tools/sysprop pdk
+/system/tools/xsdc pdk
 /test/suite_harness pdk-fs cts pdk-cw-fs
 /tools/apifinder pdk tools
 /tools/apksig tradefed pdk
