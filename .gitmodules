@@ -64,3 +64,6 @@
 [submodule "toolchain/prebuilts/ndk/r20"]
 	path = prebuilts/ndk/r20
 	url = ../../toolchain/prebuilts/ndk/r20
+[submodule "toolchain/prebuilts/ndk/r21"]
+	path = prebuilts/ndk/r21
+	url = ../../toolchain/prebuilts/ndk/r21
