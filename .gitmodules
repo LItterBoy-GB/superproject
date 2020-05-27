@@ -2523,6 +2523,10 @@
 	branch = master
 	path = packages/modules/RuntimeI18n
 	url = ../packages/modules/RuntimeI18n
+[submodule "platform/packages/modules/SdkExtensions"]
+	branch = master
+	path = packages/modules/SdkExtensions
+	url = ../packages/modules/SdkExtensions
 [submodule "platform/packages/modules/TestModule"]
 	branch = master
 	path = packages/modules/TestModule
