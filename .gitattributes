@@ -478,7 +478,6 @@
 /frameworks/opt/chips pdk-fs pdk-cw-fs
 /frameworks/opt/colorpicker pdk-fs pdk-cw-fs
 /frameworks/opt/net/ethernet pdk-fs
-/frameworks/opt/net/ike pdk
 /frameworks/opt/net/ims pdk-fs pdk-cw-fs frameworks_ims
 /frameworks/opt/net/voip pdk-fs pdk-cw-fs
 /frameworks/opt/net/wifi pdk
@@ -621,6 +620,7 @@
 /packages/modules/Cronet pdk-fs pdk-cw-fs
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
 /packages/modules/ExtServices pdk-fs pdk-cw-fs
+/packages/modules/IPsec pdk
 /packages/modules/ModuleMetadata pdk
 /packages/modules/NetworkPermissionConfig pdk-fs pdk-cw-fs
 /packages/modules/NetworkStack pdk-fs pdk-cw-fs
