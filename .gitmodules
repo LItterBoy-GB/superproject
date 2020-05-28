@@ -2916,6 +2916,11 @@
 	shallow = true
 	path = prebuilts/vndk/v29
 	url = ../prebuilts/vndk/v29
+[submodule "platform/prebuilts/vndk/v30"]
+	branch = master
+	shallow = true
+	path = prebuilts/vndk/v30
+	url = ../prebuilts/vndk/v30
 [submodule "platform/sdk"]
 	branch = master
 	path = sdk
