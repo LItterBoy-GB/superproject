@@ -75,6 +75,26 @@
 	branch = studio-master-dev
 	path = tools/sherpa
 	url = ../frameworks/opt/sherpa
+[submodule "platform/prebuilts/android-emulator"]
+	branch = studio-master-dev
+	shallow = true
+	path = prebuilts/android-emulator
+	url = ../prebuilts/android-emulator
+[submodule "platform/prebuilts/clang/host/darwin-x86"]
+	branch = studio-master-dev
+	shallow = true
+	path = prebuilts/clang/host/darwin-x86
+	url = ../prebuilts/clang/host/darwin-x86
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = studio-master-dev
+	shallow = true
+	path = prebuilts/clang/host/linux-x86
+	url = ../prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/clang/host/windows-x86"]
+	branch = studio-master-dev
+	shallow = true
+	path = prebuilts/clang/host/windows-x86
+	url = ../prebuilts/clang/host/windows-x86
 [submodule "platform/prebuilts/google-breakpad/darwin-x86"]
 	branch = studio-master-dev
 	shallow = true
@@ -213,11 +233,16 @@
 	url = ../tools/external/fat32lib
 [submodule "platform/tools/external/gradle"]
 	branch = studio-master-dev
-	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
+[submodule "platform/tools/google_prebuilts/studio/sdk/remote"]
+	branch = studio-master-dev
+	shallow = true
+	path = prebuilts/studio/sdk/remote
+	url = ../tools/google_prebuilts/studio/sdk/remote
 [submodule "platform/tools/gradle"]
 	branch = studio-master-dev
+	shallow = true
 	path = tools/gradle
 	url = ../tools/gradle
 [submodule "platform/tools/idea"]

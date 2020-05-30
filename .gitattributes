@@ -17,6 +17,10 @@
 /tools/data-binding
 /frameworks/layoutlib notdefault layoutlib
 /tools/sherpa
+/prebuilts/android-emulator
+/prebuilts/clang/host/darwin-x86 notdefault platform-darwin
+/prebuilts/clang/host/linux-x86 platform-linux notdefault
+/prebuilts/clang/host/windows-x86 notdefault platform-windows
 /prebuilts/google-breakpad/darwin-x86 darwin notdefault lldb
 /prebuilts/google-breakpad/linux-x86 linux notdefault lldb
 /prebuilts/google-breakpad/windows-x86 notdefault lldb windows
@@ -47,6 +51,7 @@
 /tools/external/bazelbuild-rules-kotlin
 /tools/external/fat32lib
 /tools/external/gradle
+/prebuilts/studio/sdk/remote
 /tools/gradle
 /tools/idea
 /tools/repohooks
