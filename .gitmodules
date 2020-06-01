@@ -2410,10 +2410,6 @@
 	branch = master
 	path = packages/apps/SettingsIntelligence
 	url = ../packages/apps/SettingsIntelligence
-[submodule "platform/packages/apps/SoundRecorder"]
-	branch = master
-	path = packages/apps/SoundRecorder
-	url = ../packages/apps/SoundRecorder
 [submodule "platform/packages/apps/SpareParts"]
 	branch = master
 	path = packages/apps/SpareParts

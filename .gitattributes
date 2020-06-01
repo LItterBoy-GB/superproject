@@ -597,7 +597,6 @@
 /packages/apps/SecureElement pdk-fs apps_se
 /packages/apps/Settings pdk-fs
 /packages/apps/SettingsIntelligence pdk-fs
-/packages/apps/SoundRecorder pdk-fs
 /packages/apps/SpareParts pdk-fs
 /packages/apps/Stk apps_stk pdk-fs
 /packages/apps/StorageManager pdk-fs
