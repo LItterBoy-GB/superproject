@@ -20,6 +20,7 @@
 /external/flex
 /external/fmtlib
 /external/go-creachadair-stringset
+/external/go-etree
 /external/golang-protobuf
 /external/golang-x-sync
 /external/golang-x-tools
