@@ -27,7 +27,7 @@
 	path = external/noto-fonts
 	url = ../external/noto-fonts
 [submodule "platform/external/protobuf"]
-	branch = master
+	branch = androidx-master-dev
 	shallow = true
 	path = external/protobuf
 	url = ../external/protobuf
@@ -122,6 +122,11 @@
 	shallow = true
 	path = prebuilts/ktlint
 	url = ../prebuilts/ktlint
+[submodule "platform/prebuilts/protobuf"]
+	branch = androidx-master-dev
+	shallow = true
+	path = prebuilts/protobuf
+	url = ../prebuilts/protobuf
 [submodule "platform/tools/external/gradle"]
 	branch = androidx-master-dev
 	shallow = true
