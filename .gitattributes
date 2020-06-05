@@ -2,6 +2,7 @@
 /external/libedit
 /external/swig
 /external/toolchain-utils
+/prebuilts/build-tools
 /prebuilts/clang/host/darwin-x86
 /prebuilts/clang/host/linux-x86
 /prebuilts/clang/host/windows-x86
@@ -19,8 +20,6 @@
 /prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9 pdk linux x86
 /prebuilts/go/darwin-x86 tradefed darwin pdk
 /prebuilts/go/linux-x86 tradefed pdk linux
-/prebuilts/ninja/darwin-x86
-/prebuilts/ninja/linux-x86
 /prebuilts/python/darwin-x86
 /prebuilts/python/linux-x86
 /prebuilts/python/windows-x86

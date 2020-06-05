@@ -14,6 +14,11 @@
 	branch = master
 	path = external/toolchain-utils
 	url = ../external/toolchain-utils
+[submodule "platform/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../prebuilts/build-tools
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
 	branch = master
 	shallow = true
@@ -99,16 +104,6 @@
 	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
-[submodule "platform/prebuilts/ninja/darwin-x86"]
-	branch = master
-	shallow = true
-	path = prebuilts/ninja/darwin-x86
-	url = ../prebuilts/ninja/darwin-x86
-[submodule "platform/prebuilts/ninja/linux-x86"]
-	branch = master
-	shallow = true
-	path = prebuilts/ninja/linux-x86
-	url = ../prebuilts/ninja/linux-x86
 [submodule "platform/prebuilts/python/darwin-x86"]
 	branch = llvm-toolchain
 	shallow = true
