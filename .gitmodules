@@ -2915,16 +2915,6 @@
 	shallow = true
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
-[submodule "platform/prebuilts/ninja/darwin-x86"]
-	branch = master
-	shallow = true
-	path = prebuilts/ninja/darwin-x86
-	url = ../prebuilts/ninja/darwin-x86
-[submodule "platform/prebuilts/ninja/linux-x86"]
-	branch = master
-	shallow = true
-	path = prebuilts/ninja/linux-x86
-	url = ../prebuilts/ninja/linux-x86
 [submodule "platform/prebuilts/python/darwin-x86"]
 	branch = llvm-toolchain
 	shallow = true
