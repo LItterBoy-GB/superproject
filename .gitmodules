@@ -2282,6 +2282,10 @@
 	branch = master
 	path = packages/apps/Car/Cluster
 	url = ../packages/apps/Car/Cluster
+[submodule "platform/packages/apps/Car/CompanionDeviceSupport"]
+	branch = master
+	path = packages/apps/Car/CompanionDeviceSupport
+	url = ../packages/apps/Car/CompanionDeviceSupport
 [submodule "platform/packages/apps/Car/Dialer"]
 	branch = master
 	path = packages/apps/Car/Dialer
