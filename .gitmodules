@@ -1428,6 +1428,10 @@
 	branch = master
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/bytes"]
+	branch = master
+	path = external/rust/crates/bytes
+	url = ../external/rust/crates/bytes
 [submodule "platform/external/rust/crates/cexpr"]
 	branch = master
 	path = external/rust/crates/cexpr
@@ -1568,6 +1572,14 @@
 	branch = master
 	path = external/rust/crates/proc-macro2
 	url = ../external/rust/crates/proc-macro2
+[submodule "platform/external/rust/crates/protobuf"]
+	branch = master
+	path = external/rust/crates/protobuf
+	url = ../external/rust/crates/protobuf
+[submodule "platform/external/rust/crates/protobuf-codegen"]
+	branch = master
+	path = external/rust/crates/protobuf-codegen
+	url = ../external/rust/crates/protobuf-codegen
 [submodule "platform/external/rust/crates/quote"]
 	branch = master
 	path = external/rust/crates/quote

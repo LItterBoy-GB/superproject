@@ -352,6 +352,7 @@
 /external/rust/crates/anyhow pdk
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bitflags pdk
+/external/rust/crates/bytes pdk
 /external/rust/crates/cexpr pdk
 /external/rust/crates/cfg-if pdk
 /external/rust/crates/clang-sys pdk
@@ -387,6 +388,8 @@
 /external/rust/crates/proc-macro-hack pdk
 /external/rust/crates/proc-macro-nested pdk
 /external/rust/crates/proc-macro2 pdk
+/external/rust/crates/protobuf pdk
+/external/rust/crates/protobuf-codegen pdk
 /external/rust/crates/quote pdk
 /external/rust/crates/regex pdk
 /external/rust/crates/regex-syntax pdk
