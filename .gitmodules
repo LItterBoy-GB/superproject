@@ -127,11 +127,6 @@
 	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
-[submodule "platform/prebuilts/ktlint"]
-	branch = master
-	shallow = true
-	path = prebuilts/ktlint
-	url = ../prebuilts/ktlint
 [submodule "platform/prebuilts/protobuf"]
 	branch = androidx-master-dev
 	shallow = true
