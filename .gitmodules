@@ -378,6 +378,10 @@
 	branch = master
 	path = external/arm-trusted-firmware
 	url = ../external/arm-trusted-firmware
+[submodule "platform/external/auto"]
+	branch = master
+	path = external/auto
+	url = ../external/auto
 [submodule "platform/external/autotest"]
 	branch = master
 	path = external/autotest
@@ -583,6 +587,10 @@
 	branch = master
 	path = external/error_prone
 	url = ../external/error_prone
+[submodule "platform/external/escapevelocity"]
+	branch = master
+	path = external/escapevelocity
+	url = ../external/escapevelocity
 [submodule "platform/external/ethtool"]
 	branch = master
 	path = external/ethtool
@@ -707,6 +715,10 @@
 	branch = master
 	path = external/google-fruit
 	url = ../external/google-fruit
+[submodule "platform/external/google-java-format"]
+	branch = master
+	path = external/google-java-format
+	url = ../external/google-java-format
 [submodule "platform/external/google-styleguide"]
 	branch = master
 	path = external/google-styleguide
