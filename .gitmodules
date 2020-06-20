@@ -30,6 +30,10 @@
 	branch = master
 	path = external/arm-optimized-routines
 	url = ../external/arm-optimized-routines
+[submodule "platform/external/auto"]
+	branch = master
+	path = external/auto
+	url = ../external/auto
 [submodule "platform/external/bazelbuild-remote-apis"]
 	branch = master
 	path = external/bazelbuild-remote-apis
@@ -71,6 +75,10 @@
 	shallow = true
 	path = external/error_prone
 	url = ../external/error_prone
+[submodule "platform/external/escapevelocity"]
+	branch = master
+	path = external/escapevelocity
+	url = ../external/escapevelocity
 [submodule "platform/external/expat"]
 	branch = master
 	path = external/expat
@@ -103,6 +111,10 @@
 	branch = master
 	path = external/golang-x-tools
 	url = ../external/golang-x-tools
+[submodule "platform/external/google-java-format"]
+	branch = master
+	path = external/google-java-format
+	url = ../external/google-java-format
 [submodule "platform/external/googleapis"]
 	branch = master
 	path = external/googleapis
@@ -119,6 +131,10 @@
 	branch = master
 	path = external/icu
 	url = ../external/icu
+[submodule "platform/external/javapoet"]
+	branch = master
+	path = external/javapoet
+	url = ../external/javapoet
 [submodule "platform/external/jemalloc"]
 	branch = master
 	path = external/jemalloc

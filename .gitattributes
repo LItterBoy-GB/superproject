@@ -6,6 +6,7 @@
 /dalvik
 /development
 /external/arm-optimized-routines
+/external/auto
 /external/bazelbuild-remote-apis
 /external/bc
 /external/bison
@@ -16,6 +17,7 @@
 /external/dagger2
 /external/desugar
 /external/error_prone
+/external/escapevelocity
 /external/expat
 /external/flex
 /external/fmtlib
@@ -24,10 +26,12 @@
 /external/golang-protobuf
 /external/golang-x-sync
 /external/golang-x-tools
+/external/google-java-format
 /external/googleapis
 /external/googletest
 /external/guava
 /external/icu
+/external/javapoet
 /external/jemalloc
 /external/jsoncpp
 /external/jsr305
