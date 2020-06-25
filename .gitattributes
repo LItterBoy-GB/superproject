@@ -218,7 +218,9 @@
 /external/kernel-headers pdk
 /external/kmod pdk
 /external/kotlinc pdk
+/external/kotlinx.atomicfu pdk
 /external/kotlinx.coroutines pdk
+/external/kotlinx.metadata pdk
 /external/ksoap2 pdk
 /external/libaom pdk
 /external/libavc pdk
