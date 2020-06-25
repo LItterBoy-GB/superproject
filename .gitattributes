@@ -6,6 +6,7 @@
 /dalvik
 /development
 /external/arm-optimized-routines
+/external/auto
 /external/bazelbuild-remote-apis
 /external/bc
 /external/bison
@@ -16,17 +17,21 @@
 /external/dagger2
 /external/desugar
 /external/error_prone
+/external/escapevelocity
 /external/expat
 /external/flex
 /external/fmtlib
 /external/go-creachadair-stringset
+/external/go-etree
 /external/golang-protobuf
 /external/golang-x-sync
 /external/golang-x-tools
+/external/google-java-format
 /external/googleapis
 /external/googletest
 /external/guava
 /external/icu
+/external/javapoet
 /external/jemalloc
 /external/jsoncpp
 /external/jsr305
@@ -73,6 +78,8 @@
 /prebuilts/remoteexecution-client pdk
 /prebuilts/tools pdk tools
 /system/core
+/system/libbase
+/system/libziparchive
 /system/tools/aidl
 /system/tools/hidl
 /toolchain/go

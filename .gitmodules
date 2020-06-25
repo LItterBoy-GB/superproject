@@ -22,6 +22,9 @@
 [submodule "platform/external/arm-optimized-routines"]
 	path = external/arm-optimized-routines
 	url = ../external/arm-optimized-routines
+[submodule "platform/external/auto"]
+	path = external/auto
+	url = ../external/auto
 [submodule "platform/external/bazelbuild-remote-apis"]
 	path = external/bazelbuild-remote-apis
 	url = ../external/bazelbuild-remote-apis
@@ -52,6 +55,9 @@
 [submodule "platform/external/error_prone"]
 	path = external/error_prone
 	url = ../external/error_prone
+[submodule "platform/external/escapevelocity"]
+	path = external/escapevelocity
+	url = ../external/escapevelocity
 [submodule "platform/external/expat"]
 	path = external/expat
 	url = ../external/expat
@@ -64,6 +70,9 @@
 [submodule "platform/external/go-creachadair-stringset"]
 	path = external/go-creachadair-stringset
 	url = ../external/go-creachadair-stringset
+[submodule "platform/external/go-etree"]
+	path = external/go-etree
+	url = ../external/go-etree
 [submodule "platform/external/golang-protobuf"]
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
@@ -73,6 +82,9 @@
 [submodule "platform/external/golang-x-tools"]
 	path = external/golang-x-tools
 	url = ../external/golang-x-tools
+[submodule "platform/external/google-java-format"]
+	path = external/google-java-format
+	url = ../external/google-java-format
 [submodule "platform/external/googleapis"]
 	path = external/googleapis
 	url = ../external/googleapis
@@ -85,6 +97,9 @@
 [submodule "platform/external/icu"]
 	path = external/icu
 	url = ../external/icu
+[submodule "platform/external/javapoet"]
+	path = external/javapoet
+	url = ../external/javapoet
 [submodule "platform/external/jemalloc"]
 	path = external/jemalloc
 	url = ../external/jemalloc
@@ -223,6 +238,12 @@
 [submodule "platform/system/core"]
 	path = system/core
 	url = ../system/core
+[submodule "platform/system/libbase"]
+	path = system/libbase
+	url = ../system/libbase
+[submodule "platform/system/libziparchive"]
+	path = system/libziparchive
+	url = ../system/libziparchive
 [submodule "platform/system/tools/aidl"]
 	path = system/tools/aidl
 	url = ../system/tools/aidl
