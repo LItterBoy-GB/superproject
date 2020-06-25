@@ -891,10 +891,18 @@
 	branch = master
 	path = external/kotlinc
 	url = ../external/kotlinc
+[submodule "platform/external/kotlinx.atomicfu"]
+	branch = master
+	path = external/kotlinx.atomicfu
+	url = ../external/kotlinx.atomicfu
 [submodule "platform/external/kotlinx.coroutines"]
 	branch = master
 	path = external/kotlinx.coroutines
 	url = ../external/kotlinx.coroutines
+[submodule "platform/external/kotlinx.metadata"]
+	branch = master
+	path = external/kotlinx.metadata
+	url = ../external/kotlinx.metadata
 [submodule "platform/external/ksoap2"]
 	branch = master
 	path = external/ksoap2
