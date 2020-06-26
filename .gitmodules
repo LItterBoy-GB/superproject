@@ -6,10 +6,6 @@
 	branch = master
 	path = art
 	url = ../art
-[submodule "platform/bionic"]
-	branch = master
-	path = bionic
-	url = ../bionic
 [submodule "platform/build"]
 	branch = master
 	path = build/make
@@ -46,10 +42,10 @@
 	branch = master
 	path = external/apache-xml
 	url = ../external/apache-xml
-[submodule "platform/external/arm-optimized-routines"]
+[submodule "platform/external/auto"]
 	branch = master
-	path = external/arm-optimized-routines
-	url = ../external/arm-optimized-routines
+	path = external/auto
+	url = ../external/auto
 [submodule "platform/external/avb"]
 	branch = master
 	path = external/avb
@@ -106,6 +102,10 @@
 	branch = master
 	path = external/error_prone
 	url = ../external/error_prone
+[submodule "platform/external/escapevelocity"]
+	branch = master
+	path = external/escapevelocity
+	url = ../external/escapevelocity
 [submodule "platform/external/expat"]
 	branch = master
 	path = external/expat
@@ -134,10 +134,6 @@
 	branch = master
 	path = external/guice
 	url = ../external/guice
-[submodule "platform/external/gwp_asan"]
-	branch = master
-	path = external/gwp_asan
-	url = ../external/gwp_asan
 [submodule "platform/external/hamcrest"]
 	branch = master
 	path = external/hamcrest
@@ -278,10 +274,6 @@
 	branch = master
 	path = external/python/six
 	url = ../external/python/six
-[submodule "platform/external/scudo"]
-	branch = master
-	path = external/scudo
-	url = ../external/scudo
 [submodule "platform/external/selinux"]
 	branch = master
 	path = external/selinux

@@ -1,6 +1,5 @@
 /device/generic/art pdk
 /art pdk
-/bionic pdk
 /build/make pdk
 /build/blueprint tradefed pdk
 /build/soong tradefed pdk
@@ -10,7 +9,7 @@
 /external/apache-commons-math pdk
 /external/apache-harmony pdk
 /external/apache-xml pdk
-/external/arm-optimized-routines pdk
+/external/auto pdk
 /external/avb pdk
 /external/boringssl pdk
 /external/bouncycastle pdk
@@ -25,6 +24,7 @@
 /external/e2fsprogs pdk
 /external/easymock pdk
 /external/error_prone pdk
+/external/escapevelocity pdk
 /external/expat pdk
 /external/fdlibm pdk
 /external/fmtlib pdk
@@ -32,7 +32,6 @@
 /external/googletest pdk
 /external/guava pdk
 /external/guice pdk
-/external/gwp_asan pdk
 /external/hamcrest pdk
 /external/icu pdk
 /external/jacoco pdk
@@ -68,7 +67,6 @@
 /external/python/cpython2 pdk
 /external/python/cpython3 pdk
 /external/python/six pdk
-/external/scudo pdk
 /external/selinux pdk
 /external/slf4j pdk
 /external/smali pdk
