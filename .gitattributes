@@ -29,6 +29,7 @@
 /external/fdlibm pdk
 /external/fmtlib pdk
 /external/golang-protobuf pdk
+/external/google-java-format pdk
 /external/googletest pdk
 /external/guava pdk
 /external/guice pdk

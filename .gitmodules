@@ -122,6 +122,10 @@
 	branch = master
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
+[submodule "platform/external/google-java-format"]
+	branch = master
+	path = external/google-java-format
+	url = ../external/google-java-format
 [submodule "platform/external/googletest"]
 	branch = master
 	path = external/googletest
