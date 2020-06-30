@@ -14,7 +14,6 @@
 /external/boringssl pdk
 /external/bouncycastle pdk
 /external/caliper pdk
-/external/chromium-libpac pdk
 /external/compiler-rt pdk
 /external/cpu_features pdk
 /external/dagger2 pdk
@@ -34,7 +33,6 @@
 /external/guava pdk
 /external/guice pdk
 /external/hamcrest pdk
-/external/icu pdk
 /external/jacoco pdk
 /external/jarjar pdk
 /external/javapoet pdk
@@ -74,7 +72,6 @@
 /external/sqlite pdk
 /external/toybox pdk
 /external/turbine pdk
-/external/v8 pdk
 /external/vixl pdk
 /external/vogar pdk
 /external/zlib pdk
@@ -82,7 +79,6 @@
 /libcore pdk
 /libnativehelper pdk
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
-/packages/modules/RuntimeI18n pdk
 /packages/modules/vndk pdk-fs pdk-cw-fs
 /platform_testing pdk-fs cts pdk-cw-fs
 /prebuilts/asuite pdk
