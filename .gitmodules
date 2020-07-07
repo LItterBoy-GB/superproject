@@ -1440,6 +1440,14 @@
 	branch = master
 	path = external/rust/crates/aho-corasick
 	url = ../external/rust/crates/aho-corasick
+[submodule "platform/external/rust/crates/android_log-sys"]
+	branch = master
+	path = external/rust/crates/android_log-sys
+	url = ../external/rust/crates/android_log-sys
+[submodule "platform/external/rust/crates/android_logger"]
+	branch = master
+	path = external/rust/crates/android_logger
+	url = ../external/rust/crates/android_logger
 [submodule "platform/external/rust/crates/anyhow"]
 	branch = master
 	path = external/rust/crates/anyhow
@@ -1476,6 +1484,10 @@
 	branch = master
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
+[submodule "platform/external/rust/crates/env_logger"]
+	branch = master
+	path = external/rust/crates/env_logger
+	url = ../external/rust/crates/env_logger
 [submodule "platform/external/rust/crates/futures"]
 	branch = master
 	path = external/rust/crates/futures

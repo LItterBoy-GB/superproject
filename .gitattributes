@@ -355,6 +355,8 @@
 /external/roboto-fonts pdk
 /external/rootdev pdk
 /external/rust/crates/aho-corasick pdk
+/external/rust/crates/android_log-sys pdk
+/external/rust/crates/android_logger pdk
 /external/rust/crates/anyhow pdk
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bitflags pdk
@@ -364,6 +366,7 @@
 /external/rust/crates/clang-sys pdk
 /external/rust/crates/clap pdk
 /external/rust/crates/codespan-reporting pdk
+/external/rust/crates/env_logger pdk
 /external/rust/crates/futures pdk
 /external/rust/crates/futures-channel pdk
 /external/rust/crates/futures-core pdk
