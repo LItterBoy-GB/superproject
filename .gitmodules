@@ -91,6 +91,14 @@
 	branch = master
 	path = external/fmtlib
 	url = ../external/fmtlib
+[submodule "platform/external/go-cmp"]
+	branch = master
+	path = external/go-cmp
+	url = ../external/go-cmp
+[submodule "platform/external/go-creachadair-shell"]
+	branch = master
+	path = external/go-creachadair-shell
+	url = ../external/go-creachadair-shell
 [submodule "platform/external/go-creachadair-stringset"]
 	branch = master
 	path = external/go-creachadair-stringset
@@ -99,6 +107,10 @@
 	branch = master
 	path = external/go-etree
 	url = ../external/go-etree
+[submodule "platform/external/go-subcommands"]
+	branch = master
+	path = external/go-subcommands
+	url = ../external/go-subcommands
 [submodule "platform/external/golang-protobuf"]
 	branch = master
 	path = external/golang-protobuf
