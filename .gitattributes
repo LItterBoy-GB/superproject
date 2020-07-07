@@ -375,6 +375,7 @@
 /external/rust/crates/futures-sink pdk
 /external/rust/crates/futures-task pdk
 /external/rust/crates/futures-util pdk
+/external/rust/crates/getrandom pdk
 /external/rust/crates/glob pdk
 /external/rust/crates/heck pdk
 /external/rust/crates/lazy_static pdk
@@ -391,6 +392,7 @@
 /external/rust/crates/pin-project pdk
 /external/rust/crates/pin-project-internal pdk
 /external/rust/crates/pin-utils pdk
+/external/rust/crates/ppv-lite86 pdk
 /external/rust/crates/proc-macro-error pdk
 /external/rust/crates/proc-macro-error-attr pdk
 /external/rust/crates/proc-macro-hack pdk
@@ -399,6 +401,9 @@
 /external/rust/crates/protobuf pdk
 /external/rust/crates/protobuf-codegen pdk
 /external/rust/crates/quote pdk
+/external/rust/crates/rand pdk
+/external/rust/crates/rand_chacha pdk
+/external/rust/crates/rand_core pdk
 /external/rust/crates/regex pdk
 /external/rust/crates/regex-syntax pdk
 /external/rust/crates/remain pdk
