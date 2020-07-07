@@ -1524,6 +1524,10 @@
 	branch = master
 	path = external/rust/crates/futures-util
 	url = ../external/rust/crates/futures-util
+[submodule "platform/external/rust/crates/getrandom"]
+	branch = master
+	path = external/rust/crates/getrandom
+	url = ../external/rust/crates/getrandom
 [submodule "platform/external/rust/crates/glob"]
 	branch = master
 	path = external/rust/crates/glob
@@ -1588,6 +1592,10 @@
 	branch = master
 	path = external/rust/crates/pin-utils
 	url = ../external/rust/crates/pin-utils
+[submodule "platform/external/rust/crates/ppv-lite86"]
+	branch = master
+	path = external/rust/crates/ppv-lite86
+	url = ../external/rust/crates/ppv-lite86
 [submodule "platform/external/rust/crates/proc-macro-error"]
 	branch = master
 	path = external/rust/crates/proc-macro-error
@@ -1620,6 +1628,18 @@
 	branch = master
 	path = external/rust/crates/quote
 	url = ../external/rust/crates/quote
+[submodule "platform/external/rust/crates/rand"]
+	branch = master
+	path = external/rust/crates/rand
+	url = ../external/rust/crates/rand
+[submodule "platform/external/rust/crates/rand_chacha"]
+	branch = master
+	path = external/rust/crates/rand_chacha
+	url = ../external/rust/crates/rand_chacha
+[submodule "platform/external/rust/crates/rand_core"]
+	branch = master
+	path = external/rust/crates/rand_core
+	url = ../external/rust/crates/rand_core
 [submodule "platform/external/rust/crates/regex"]
 	branch = master
 	path = external/rust/crates/regex
