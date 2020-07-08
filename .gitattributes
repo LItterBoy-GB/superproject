@@ -574,6 +574,7 @@
 /hardware/ril pdk
 /hardware/st/nfc pdk
 /hardware/st/secure_element pdk
+/hardware/st/secure_element2 pdk
 /hardware/ti/am57x pdk
 /libcore pdk
 /libnativehelper pdk
