@@ -2310,6 +2310,10 @@
 	branch = master
 	path = hardware/st/secure_element
 	url = ../hardware/st/secure_element
+[submodule "platform/hardware/st/secure_element2"]
+	branch = master
+	path = hardware/st/secure_element2
+	url = ../hardware/st/secure_element2
 [submodule "platform/hardware/ti/am57x"]
 	branch = master
 	path = hardware/ti/am57x
