@@ -67,12 +67,21 @@
 [submodule "platform/external/fmtlib"]
 	path = external/fmtlib
 	url = ../external/fmtlib
+[submodule "platform/external/go-cmp"]
+	path = external/go-cmp
+	url = ../external/go-cmp
+[submodule "platform/external/go-creachadair-shell"]
+	path = external/go-creachadair-shell
+	url = ../external/go-creachadair-shell
 [submodule "platform/external/go-creachadair-stringset"]
 	path = external/go-creachadair-stringset
 	url = ../external/go-creachadair-stringset
 [submodule "platform/external/go-etree"]
 	path = external/go-etree
 	url = ../external/go-etree
+[submodule "platform/external/go-subcommands"]
+	path = external/go-subcommands
+	url = ../external/go-subcommands
 [submodule "platform/external/golang-protobuf"]
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf

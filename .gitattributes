@@ -21,8 +21,11 @@
 /external/expat
 /external/flex
 /external/fmtlib
+/external/go-cmp
+/external/go-creachadair-shell
 /external/go-creachadair-stringset
 /external/go-etree
+/external/go-subcommands
 /external/golang-protobuf
 /external/golang-x-sync
 /external/golang-x-tools
