@@ -352,6 +352,7 @@
 /external/rappor pdk
 /external/replicaisland pdk
 /external/rmi4utils pdk
+/external/rnnoise pdk
 /external/robolectric-shadows pdk-fs pdk-cw-fs
 /external/roboto-fonts pdk
 /external/rootdev pdk
@@ -469,6 +470,7 @@
 /external/ukey2 pdk
 /external/unicode pdk
 /external/universal-tween-engine
+/external/usrsctp pdk
 /external/v4l2_codec2 pdk
 /external/v8 pdk
 /external/vboot_reference pdk-fs vboot

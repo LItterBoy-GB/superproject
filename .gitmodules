@@ -1428,6 +1428,10 @@
 	branch = master
 	path = external/rmi4utils
 	url = ../external/rmi4utils
+[submodule "platform/external/rnnoise"]
+	branch = master
+	path = external/rnnoise
+	url = ../external/rnnoise
 [submodule "platform/external/robolectric-shadows"]
 	branch = master
 	path = external/robolectric-shadows
@@ -1898,6 +1902,10 @@
 	branch = master
 	path = external/universal-tween-engine
 	url = ../external/universal-tween-engine
+[submodule "platform/external/usrsctp"]
+	branch = master
+	path = external/usrsctp
+	url = ../external/usrsctp
 [submodule "platform/external/v4l2_codec2"]
 	branch = master
 	path = external/v4l2_codec2
