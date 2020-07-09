@@ -1276,6 +1276,10 @@
 	branch = master
 	path = external/perfetto
 	url = ../external/perfetto
+[submodule "platform/external/pffft"]
+	branch = master
+	path = external/pffft
+	url = ../external/pffft
 [submodule "platform/external/piex"]
 	branch = master
 	path = external/piex
