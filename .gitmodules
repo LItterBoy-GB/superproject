@@ -98,6 +98,10 @@
 	branch = emu-master-dev
 	path = external/libpng
 	url = ../external/libpng
+[submodule "platform/external/libusb"]
+	branch = emu-master-dev
+	path = external/libusb
+	url = ../external/libusb
 [submodule "platform/external/libvpx"]
 	branch = emu-master-dev
 	path = external/libvpx
