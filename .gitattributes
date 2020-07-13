@@ -23,6 +23,7 @@
 /third_party/libepoxy
 /external/libffi
 /external/libpng
+/external/libusb
 /external/libvpx
 /external/libyuv
 /external/lz4

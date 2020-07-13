@@ -73,6 +73,9 @@
 [submodule "platform/external/libpng"]
 	path = external/libpng
 	url = ../external/libpng
+[submodule "platform/external/libusb"]
+	path = external/libusb
+	url = ../external/libusb
 [submodule "platform/external/libvpx"]
 	path = external/libvpx
 	url = ../external/libvpx
