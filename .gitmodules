@@ -28,6 +28,9 @@
 [submodule "platform/frameworks/support-golden"]
 	path = golden
 	url = ../frameworks/support-golden
+[submodule "platform/manifest"]
+	path = manifest
+	url = ../manifest
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	path = prebuilts/androidx/exoplayer
 	url = ../prebuilts/androidx/exoplayer
@@ -67,24 +70,30 @@
 [submodule "platform/prebuilts/fullsdk/platforms/android-29"]
 	path = prebuilts/fullsdk-darwin/platforms/android-29
 	url = ../prebuilts/fullsdk/platforms/android-29
+[submodule "platform/prebuilts/fullsdk/platforms/android-30"]
+	path = prebuilts/fullsdk-darwin/platforms/android-30
+	url = ../prebuilts/fullsdk/platforms/android-30
 [submodule "platform/prebuilts/fullsdk/sources/android-29"]
 	path = prebuilts/fullsdk-darwin/sources/android-29
 	url = ../prebuilts/fullsdk/sources/android-29
+[submodule "platform/prebuilts/fullsdk/sources/android-30"]
+	path = prebuilts/fullsdk-darwin/sources/android-30
+	url = ../prebuilts/fullsdk/sources/android-30
 [submodule "platform/prebuilts/jdk/jdk11"]
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/jdk/jdk8"]
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
-[submodule "platform/prebuilts/ktlint"]
-	path = prebuilts/ktlint
-	url = ../prebuilts/ktlint
+[submodule "platform/prebuilts/protobuf"]
+	path = prebuilts/protobuf
+	url = ../prebuilts/protobuf
 [submodule "platform/tools/external/gradle"]
 	path = tools/external/gradle
 	url = ../tools/external/gradle
 [submodule "platform/tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks
-[submodule "toolchain/prebuilts/ndk/r20"]
+[submodule "toolchain/prebuilts/ndk/r21"]
 	path = prebuilts/fullsdk-darwin/ndk
-	url = ../../toolchain/prebuilts/ndk/r20
+	url = ../../toolchain/prebuilts/ndk/r21
