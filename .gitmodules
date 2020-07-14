@@ -1,0 +1,8 @@
+[submodule "platform/prebuilts/androidx/external"]
+	branch = master
+	path = prebuilts/androidx/external
+	url = ../prebuilts/androidx/external
+[submodule "platform/tools/dokka-devsite-plugin"]
+	branch = master
+	path = tools/dokka-devsite-plugin
+	url = ../tools/dokka-devsite-plugin
