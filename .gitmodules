@@ -943,6 +943,9 @@
 [submodule "platform/external/perfetto"]
 	path = external/perfetto
 	url = ../external/perfetto
+[submodule "platform/external/pffft"]
+	path = external/pffft
+	url = ../external/pffft
 [submodule "platform/external/piex"]
 	path = external/piex
 	url = ../external/piex
@@ -1054,6 +1057,9 @@
 [submodule "platform/external/rmi4utils"]
 	path = external/rmi4utils
 	url = ../external/rmi4utils
+[submodule "platform/external/rnnoise"]
+	path = external/rnnoise
+	url = ../external/rnnoise
 [submodule "platform/external/robolectric-shadows"]
 	path = external/robolectric-shadows
 	url = ../external/robolectric-shadows
@@ -1402,6 +1408,9 @@
 [submodule "platform/external/universal-tween-engine"]
 	path = external/universal-tween-engine
 	url = ../external/universal-tween-engine
+[submodule "platform/external/usrsctp"]
+	path = external/usrsctp
+	url = ../external/usrsctp
 [submodule "platform/external/v4l2_codec2"]
 	path = external/v4l2_codec2
 	url = ../external/v4l2_codec2
@@ -1720,6 +1729,9 @@
 [submodule "platform/hardware/st/secure_element"]
 	path = hardware/st/secure_element
 	url = ../hardware/st/secure_element
+[submodule "platform/hardware/st/secure_element2"]
+	path = hardware/st/secure_element2
+	url = ../hardware/st/secure_element2
 [submodule "platform/hardware/ti/am57x"]
 	path = hardware/ti/am57x
 	url = ../hardware/ti/am57x
