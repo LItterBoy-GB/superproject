@@ -1,3 +1,7 @@
+[submodule "platform/build"]
+	branch = androidx-paging-release
+	path = build/make
+	url = ../build
 [submodule "platform/external/doclava"]
 	path = external/doclava
 	url = ../external/doclava
