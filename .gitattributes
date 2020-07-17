@@ -277,6 +277,7 @@
 /external/lua pdk
 /external/lz4 pdk
 /external/lzma pdk
+/external/marisa-trie pdk
 /external/markdown pdk
 /external/mdnsresponder pdk
 /external/mesa3d pdk-fs pdk-cw-fs
