@@ -1132,6 +1132,10 @@
 	branch = master
 	path = external/lzma
 	url = ../external/lzma
+[submodule "platform/external/marisa-trie"]
+	branch = master
+	path = external/marisa-trie
+	url = ../external/marisa-trie
 [submodule "platform/external/markdown"]
 	branch = master
 	path = external/markdown
