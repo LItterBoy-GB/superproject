@@ -3491,6 +3491,10 @@
 	branch = master
 	path = toolchain/prebuilts/ndk/r20
 	url = ../../toolchain/prebuilts/ndk/r20
+[submodule "toolchain/xz"]
+	branch = master
+	path = toolchain/xz
+	url = ../../toolchain/xz
 [submodule "tools/platform-compat"]
 	branch = master
 	path = tools/platform-compat
