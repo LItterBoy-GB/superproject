@@ -135,3 +135,7 @@
 	branch = master
 	path = toolchain/prebuilts/ndk/r20
 	url = ../../toolchain/prebuilts/ndk/r20
+[submodule "toolchain/xz"]
+	branch = master
+	path = toolchain/xz
+	url = ../../toolchain/xz
