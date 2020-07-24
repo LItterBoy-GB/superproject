@@ -3427,6 +3427,10 @@
 	branch = master
 	path = tools/test/graphicsbenchmark
 	url = ../tools/test/graphicsbenchmark
+[submodule "platform/tools/test/openhst"]
+	branch = master
+	path = tools/test/openhst
+	url = ../tools/test/openhst
 [submodule "platform/tools/tradefederation"]
 	branch = master
 	path = tools/tradefederation/core
