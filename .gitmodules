@@ -170,18 +170,6 @@
 	branch = master
 	path = device/google_car
 	url = ../../device/google_car
-[submodule "device/linaro/bootloader/OpenPlatformPkg"]
-	branch = master
-	path = device/linaro/bootloader/OpenPlatformPkg
-	url = ../../device/linaro/bootloader/OpenPlatformPkg
-[submodule "device/linaro/bootloader/arm-trusted-firmware"]
-	branch = master
-	path = device/linaro/bootloader/arm-trusted-firmware
-	url = ../../device/linaro/bootloader/arm-trusted-firmware
-[submodule "device/linaro/bootloader/edk2"]
-	branch = master
-	path = device/linaro/bootloader/edk2
-	url = ../../device/linaro/bootloader/edk2
 [submodule "device/linaro/dragonboard"]
 	branch = master
 	path = device/linaro/dragonboard

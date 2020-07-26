@@ -39,9 +39,6 @@
 /device/google/wahoo generic_fs wahoo device
 /device/google/wahoo-kernel generic_fs wahoo device
 /device/google_car generic_fs device
-/device/linaro/bootloader/OpenPlatformPkg
-/device/linaro/bootloader/arm-trusted-firmware
-/device/linaro/bootloader/edk2
 /device/linaro/dragonboard dragonboard pdk device
 /device/linaro/dragonboard-kernel dragonboard pdk device
 /device/linaro/hikey hikey pdk device
