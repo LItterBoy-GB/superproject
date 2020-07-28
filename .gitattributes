@@ -456,6 +456,7 @@
 /external/tcpdump pdk
 /external/tensorflow pdk
 /external/testng pdk
+/external/timezone-boundary-builder pdk
 /external/tinyalsa pdk
 /external/tinycompress pdk
 /external/tinyxml pdk
