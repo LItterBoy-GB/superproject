@@ -1503,6 +1503,14 @@
 	branch = master
 	path = external/rust/crates/env_logger
 	url = ../external/rust/crates/env_logger
+[submodule "platform/external/rust/crates/fallible-iterator"]
+	branch = master
+	path = external/rust/crates/fallible-iterator
+	url = ../external/rust/crates/fallible-iterator
+[submodule "platform/external/rust/crates/fallible-streaming-iterator"]
+	branch = master
+	path = external/rust/crates/fallible-streaming-iterator
+	url = ../external/rust/crates/fallible-streaming-iterator
 [submodule "platform/external/rust/crates/futures"]
 	branch = master
 	path = external/rust/crates/futures
@@ -1567,10 +1575,22 @@
 	branch = master
 	path = external/rust/crates/libloading
 	url = ../external/rust/crates/libloading
+[submodule "platform/external/rust/crates/libsqlite3-sys"]
+	branch = master
+	path = external/rust/crates/libsqlite3-sys
+	url = ../external/rust/crates/libsqlite3-sys
+[submodule "platform/external/rust/crates/linked-hash-map"]
+	branch = master
+	path = external/rust/crates/linked-hash-map
+	url = ../external/rust/crates/linked-hash-map
 [submodule "platform/external/rust/crates/log"]
 	branch = master
 	path = external/rust/crates/log
 	url = ../external/rust/crates/log
+[submodule "platform/external/rust/crates/lru-cache"]
+	branch = master
+	path = external/rust/crates/lru-cache
+	url = ../external/rust/crates/lru-cache
 [submodule "platform/external/rust/crates/memchr"]
 	branch = master
 	path = external/rust/crates/memchr
@@ -1667,6 +1687,10 @@
 	branch = master
 	path = external/rust/crates/remain
 	url = ../external/rust/crates/remain
+[submodule "platform/external/rust/crates/rusqlite"]
+	branch = master
+	path = external/rust/crates/rusqlite
+	url = ../external/rust/crates/rusqlite
 [submodule "platform/external/rust/crates/rustc-hash"]
 	branch = master
 	path = external/rust/crates/rustc-hash
@@ -1679,6 +1703,10 @@
 	branch = master
 	path = external/rust/crates/slab
 	url = ../external/rust/crates/slab
+[submodule "platform/external/rust/crates/smallvec"]
+	branch = master
+	path = external/rust/crates/smallvec
+	url = ../external/rust/crates/smallvec
 [submodule "platform/external/rust/crates/structopt"]
 	branch = master
 	path = external/rust/crates/structopt
@@ -1715,6 +1743,10 @@
 	branch = master
 	path = external/rust/crates/thread_local
 	url = ../external/rust/crates/thread_local
+[submodule "platform/external/rust/crates/time"]
+	branch = master
+	path = external/rust/crates/time
+	url = ../external/rust/crates/time
 [submodule "platform/external/rust/crates/unicode-segmentation"]
 	branch = master
 	path = external/rust/crates/unicode-segmentation
