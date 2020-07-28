@@ -1857,6 +1857,11 @@
 	branch = master
 	path = external/testng
 	url = ../external/testng
+[submodule "platform/external/timezone-boundary-builder"]
+	branch = master
+	shallow = true
+	path = external/timezone-boundary-builder
+	url = ../external/timezone-boundary-builder
 [submodule "platform/external/tinyalsa"]
 	branch = master
 	path = external/tinyalsa
