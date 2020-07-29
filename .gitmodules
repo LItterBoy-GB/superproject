@@ -62,10 +62,6 @@
 	branch = master
 	path = external/caliper
 	url = ../external/caliper
-[submodule "platform/external/chromium-libpac"]
-	branch = master
-	path = external/chromium-libpac
-	url = ../external/chromium-libpac
 [submodule "platform/external/compiler-rt"]
 	branch = master
 	path = external/compiler-rt
@@ -142,10 +138,6 @@
 	branch = master
 	path = external/hamcrest
 	url = ../external/hamcrest
-[submodule "platform/external/icu"]
-	branch = master
-	path = external/icu
-	url = ../external/icu
 [submodule "platform/external/jacoco"]
 	branch = master
 	path = external/jacoco
@@ -302,10 +294,6 @@
 	branch = master
 	path = external/turbine
 	url = ../external/turbine
-[submodule "platform/external/v8"]
-	branch = master
-	path = external/v8
-	url = ../external/v8
 [submodule "platform/external/vixl"]
 	branch = master
 	path = external/vixl
@@ -334,10 +322,6 @@
 	branch = master
 	path = packages/modules/DnsResolver
 	url = ../packages/modules/DnsResolver
-[submodule "platform/packages/modules/RuntimeI18n"]
-	branch = master
-	path = packages/modules/RuntimeI18n
-	url = ../packages/modules/RuntimeI18n
 [submodule "platform/packages/modules/vndk"]
 	branch = master
 	path = packages/modules/vndk
