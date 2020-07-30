@@ -304,6 +304,7 @@
 /external/noto-fonts pdk
 /external/oauth pdk
 /external/objenesis pdk
+/external/oboe pdk
 /external/oj-libjdwp pdk
 /external/okhttp pdk
 /external/one-true-awk pdk
