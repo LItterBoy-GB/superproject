@@ -1243,6 +1243,10 @@
 	branch = master
 	path = external/objenesis
 	url = ../external/objenesis
+[submodule "platform/external/oboe"]
+	branch = master
+	path = external/oboe
+	url = ../external/oboe
 [submodule "platform/external/oj-libjdwp"]
 	branch = master
 	path = external/oj-libjdwp
