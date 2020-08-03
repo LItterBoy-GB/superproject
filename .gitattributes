@@ -396,7 +396,6 @@
 /external/rust/crates/nom pdk
 /external/rust/crates/once_cell pdk
 /external/rust/crates/paste pdk
-/external/rust/crates/paste-impl pdk
 /external/rust/crates/peeking_take_while pdk
 /external/rust/crates/pin-project pdk
 /external/rust/crates/pin-project-internal pdk

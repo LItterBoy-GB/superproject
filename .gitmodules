@@ -1607,10 +1607,6 @@
 	branch = master
 	path = external/rust/crates/paste
 	url = ../external/rust/crates/paste
-[submodule "platform/external/rust/crates/paste-impl"]
-	branch = master
-	path = external/rust/crates/paste-impl
-	url = ../external/rust/crates/paste-impl
 [submodule "platform/external/rust/crates/peeking_take_while"]
 	branch = master
 	path = external/rust/crates/peeking_take_while
