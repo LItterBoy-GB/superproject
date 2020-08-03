@@ -356,6 +356,10 @@
 	branch = master
 	path = system/libbase
 	url = ../system/libbase
+[submodule "platform/system/libhwbinder"]
+	branch = master
+	path = system/libhwbinder
+	url = ../system/libhwbinder
 [submodule "platform/system/libziparchive"]
 	branch = master
 	path = system/libziparchive
