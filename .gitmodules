@@ -250,6 +250,9 @@
 [submodule "platform/system/libbase"]
 	path = system/libbase
 	url = ../system/libbase
+[submodule "platform/system/libhwbinder"]
+	path = system/libhwbinder
+	url = ../system/libhwbinder
 [submodule "platform/system/libziparchive"]
 	path = system/libziparchive
 	url = ../system/libziparchive
