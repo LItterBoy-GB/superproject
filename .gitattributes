@@ -394,6 +394,8 @@
 /external/rust/crates/lru-cache pdk
 /external/rust/crates/memchr pdk
 /external/rust/crates/nom pdk
+/external/rust/crates/num-derive pdk
+/external/rust/crates/num-traits pdk
 /external/rust/crates/once_cell pdk
 /external/rust/crates/paste pdk
 /external/rust/crates/peeking_take_while pdk

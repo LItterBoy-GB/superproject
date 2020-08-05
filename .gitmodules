@@ -1599,6 +1599,14 @@
 	branch = master
 	path = external/rust/crates/nom
 	url = ../external/rust/crates/nom
+[submodule "platform/external/rust/crates/num-derive"]
+	branch = master
+	path = external/rust/crates/num-derive
+	url = ../external/rust/crates/num-derive
+[submodule "platform/external/rust/crates/num-traits"]
+	branch = master
+	path = external/rust/crates/num-traits
+	url = ../external/rust/crates/num-traits
 [submodule "platform/external/rust/crates/once_cell"]
 	branch = master
 	path = external/rust/crates/once_cell
