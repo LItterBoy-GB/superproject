@@ -6,6 +6,10 @@
 	branch = master
 	path = external/libedit
 	url = ../external/libedit
+[submodule "platform/external/libxml2"]
+	branch = master
+	path = external/libxml2
+	url = ../external/libxml2
 [submodule "platform/external/swig"]
 	branch = master
 	path = external/swig
