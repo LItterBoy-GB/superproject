@@ -30,5 +30,4 @@
 /prebuilts/protobuf pdk-fs
 /tools/external/gradle tools
 /tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev
-/prebuilts/fullsdk-darwin/ndk notdefault platform-darwin
-/prebuilts/fullsdk-linux/ndk platform-linux notdefault
+/prebuilts/fullsdk-darwin/ndk pdk
