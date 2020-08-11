@@ -104,7 +104,6 @@
 /system/apex pdk
 /system/core pdk
 /system/extras pdk
-/system/libartpalette pdk
 /system/libbase pdk
 /system/libsysprop pdk
 /system/libziparchive pdk

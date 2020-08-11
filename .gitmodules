@@ -441,10 +441,6 @@
 	branch = master
 	path = system/extras
 	url = ../system/extras
-[submodule "platform/system/libartpalette"]
-	branch = master
-	path = system/libartpalette
-	url = ../system/libartpalette
 [submodule "platform/system/libbase"]
 	branch = master
 	path = system/libbase
