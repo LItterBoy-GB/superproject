@@ -94,6 +94,9 @@
 [submodule "platform/tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks
-[submodule "toolchain/prebuilts/ndk/r21"]
+[submodule "toolchain/prebuilts/ndk-darwin/r21"]
 	path = prebuilts/fullsdk-darwin/ndk
+	url = ../../toolchain/prebuilts/ndk-darwin/r21
+[submodule "toolchain/prebuilts/ndk/r21"]
+	path = prebuilts/fullsdk-linux/ndk
 	url = ../../toolchain/prebuilts/ndk/r21
