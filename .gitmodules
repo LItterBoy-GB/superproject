@@ -1467,6 +1467,10 @@
 	branch = master
 	path = external/rust/crates/anyhow
 	url = ../external/rust/crates/anyhow
+[submodule "platform/external/rust/crates/async-trait"]
+	branch = master
+	path = external/rust/crates/async-trait
+	url = ../external/rust/crates/async-trait
 [submodule "platform/external/rust/crates/bindgen"]
 	branch = master
 	path = external/rust/crates/bindgen

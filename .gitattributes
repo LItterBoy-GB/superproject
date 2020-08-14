@@ -361,6 +361,7 @@
 /external/rust/crates/android_log-sys pdk
 /external/rust/crates/android_logger pdk
 /external/rust/crates/anyhow pdk
+/external/rust/crates/async-trait pdk
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bitflags pdk
 /external/rust/crates/bytes pdk
