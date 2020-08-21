@@ -453,10 +453,6 @@
 	branch = master
 	path = system/libziparchive
 	url = ../system/libziparchive
-[submodule "platform/system/linkerconfig"]
-	branch = master
-	path = system/linkerconfig
-	url = ../system/linkerconfig
 [submodule "platform/system/memory/libmeminfo"]
 	branch = master
 	path = system/memory/libmeminfo
