@@ -97,6 +97,7 @@
 /prebuilts/misc pdk
 /prebuilts/ndk pdk
 /prebuilts/r8 pdk
+/prebuilts/remoteexecution-client pdk
 /prebuilts/runtime pdk
 /prebuilts/sdk pdk
 /prebuilts/tools pdk tools
