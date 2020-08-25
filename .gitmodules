@@ -153,6 +153,19 @@
 	branch = master
 	path = device/google/muskie
 	url = ../../device/google/muskie
+[submodule "device/google/sunfish"]
+	branch = master
+	path = device/google/sunfish
+	url = ../../device/google/sunfish
+[submodule "device/google/sunfish-kernel"]
+	branch = master
+	shallow = true
+	path = device/google/sunfish-kernel
+	url = ../../device/google/sunfish-kernel
+[submodule "device/google/sunfish-sepolicy"]
+	branch = master
+	path = device/google/sunfish-sepolicy
+	url = ../../device/google/sunfish-sepolicy
 [submodule "device/google/taimen"]
 	branch = master
 	path = device/google/taimen
@@ -2347,6 +2360,22 @@
 	branch = master
 	path = hardware/qcom/sdm845/vr
 	url = ../hardware/qcom/sdm845/vr
+[submodule "platform/hardware/qcom/sm7150/display"]
+	branch = master
+	path = hardware/qcom/sm7150/display
+	url = ../hardware/qcom/sm7150/display
+[submodule "platform/hardware/qcom/sm7150/gps"]
+	branch = master
+	path = hardware/qcom/sm7150/gps
+	url = ../hardware/qcom/sm7150/gps
+[submodule "platform/hardware/qcom/sm7150/media"]
+	branch = master
+	path = hardware/qcom/sm7150/media
+	url = ../hardware/qcom/sm7150/media
+[submodule "platform/hardware/qcom/sm7150/vr"]
+	branch = master
+	path = hardware/qcom/sm7150/vr
+	url = ../hardware/qcom/sm7150/vr
 [submodule "platform/hardware/qcom/sm8150/data/ipacfg-mgr"]
 	branch = master
 	path = hardware/qcom/sm8150/data/ipacfg-mgr

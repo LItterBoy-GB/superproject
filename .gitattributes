@@ -35,6 +35,9 @@
 /device/google/cuttlefish_vmm pdk device
 /device/google/fuchsia device
 /device/google/muskie generic_fs muskie device
+/device/google/sunfish sunfish device
+/device/google/sunfish-kernel sunfish device
+/device/google/sunfish-sepolicy sunfish device
 /device/google/taimen taimen device
 /device/google/vrservices pdk
 /device/google/wahoo generic_fs wahoo device
@@ -580,6 +583,10 @@
 /hardware/qcom/sdm845/media generic_fs qcom_sdm845
 /hardware/qcom/sdm845/thermal generic_fs qcom_sdm845
 /hardware/qcom/sdm845/vr generic_fs qcom_sdm845
+/hardware/qcom/sm7150/display qcom_sm7150
+/hardware/qcom/sm7150/gps qcom_sm7150
+/hardware/qcom/sm7150/media qcom_sm7150
+/hardware/qcom/sm7150/vr qcom_sm7150
 /hardware/qcom/sm8150/data/ipacfg-mgr qcom_sm8150
 /hardware/qcom/sm8150/display qcom_sm8150
 /hardware/qcom/sm8150/gps qcom_sm8150
