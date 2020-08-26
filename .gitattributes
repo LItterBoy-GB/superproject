@@ -31,17 +31,18 @@
 /device/google/crosshatch-sepolicy crosshatch generic_fs device
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_kernel pdk device
+/device/google/cuttlefish_prebuilts pdk device
 /device/google/cuttlefish_vmm pdk device
 /device/google/fuchsia device
 /device/google/muskie generic_fs muskie device
+/device/google/sunfish sunfish device
+/device/google/sunfish-kernel sunfish device
+/device/google/sunfish-sepolicy sunfish device
 /device/google/taimen taimen device
 /device/google/vrservices pdk
 /device/google/wahoo generic_fs wahoo device
 /device/google/wahoo-kernel generic_fs wahoo device
 /device/google_car generic_fs device
-/device/linaro/bootloader/OpenPlatformPkg
-/device/linaro/bootloader/arm-trusted-firmware
-/device/linaro/bootloader/edk2
 /device/linaro/dragonboard dragonboard pdk device
 /device/linaro/dragonboard-kernel dragonboard pdk device
 /device/linaro/hikey hikey pdk device
@@ -52,6 +53,9 @@
 /device/ti/beagle_x15 pdk beagle_x15 device
 /device/ti/beagle_x15-kernel pdk beagle_x15 device
 /kernel/configs vts pdk
+/kernel/prebuilts/5.4/arm64 pdk
+/kernel/prebuilts/5.4/x86_64 pdk
+/kernel/prebuilts/mainline/arm64 pdk
 /kernel/tests vts pdk
 /art pdk
 /bionic pdk
@@ -90,6 +94,7 @@
 /external/arm-neon-tests vendor
 /external/arm-optimized-routines pdk
 /external/arm-trusted-firmware pdk
+/external/auto pdk
 /external/autotest pdk-fs
 /external/avb pdk
 /external/bc pdk
@@ -141,6 +146,7 @@
 /external/elfutils pdk
 /external/emma pdk
 /external/error_prone pdk
+/external/escapevelocity pdk
 /external/ethtool pdk
 /external/expat pdk
 /external/f2fs-tools pdk
@@ -172,6 +178,7 @@
 /external/google-fonts/source-sans-pro pdk
 /external/google-fonts/zilla-slab pdk
 /external/google-fruit pdk
+/external/google-java-format pdk
 /external/google-styleguide pdk
 /external/googletest pdk
 /external/gptfdisk pdk
@@ -215,7 +222,9 @@
 /external/kernel-headers pdk
 /external/kmod pdk
 /external/kotlinc pdk
+/external/kotlinx.atomicfu pdk
 /external/kotlinx.coroutines pdk
+/external/kotlinx.metadata pdk
 /external/ksoap2 pdk
 /external/libaom pdk
 /external/libavc pdk
@@ -272,6 +281,7 @@
 /external/lua pdk
 /external/lz4 pdk
 /external/lzma pdk
+/external/marisa-trie pdk
 /external/markdown pdk
 /external/mdnsresponder pdk
 /external/mesa3d pdk-fs pdk-cw-fs
@@ -298,6 +308,7 @@
 /external/noto-fonts pdk
 /external/oauth pdk
 /external/objenesis pdk
+/external/oboe pdk
 /external/oj-libjdwp pdk
 /external/okhttp pdk
 /external/one-true-awk pdk
@@ -308,6 +319,7 @@
 /external/pcre pdk
 /external/pdfium pdk
 /external/perfetto pdk
+/external/pffft pdk
 /external/piex pdk
 /external/ply pdk
 /external/ppp pdk
@@ -345,11 +357,15 @@
 /external/rappor pdk
 /external/replicaisland pdk
 /external/rmi4utils pdk
+/external/rnnoise pdk
 /external/robolectric-shadows pdk-fs pdk-cw-fs
 /external/roboto-fonts pdk
 /external/rootdev pdk
 /external/rust/crates/aho-corasick pdk
+/external/rust/crates/android_log-sys pdk
+/external/rust/crates/android_logger pdk
 /external/rust/crates/anyhow pdk
+/external/rust/crates/async-trait pdk
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bitflags pdk
 /external/rust/crates/bytes pdk
@@ -358,6 +374,9 @@
 /external/rust/crates/clang-sys pdk
 /external/rust/crates/clap pdk
 /external/rust/crates/codespan-reporting pdk
+/external/rust/crates/env_logger pdk
+/external/rust/crates/fallible-iterator pdk
+/external/rust/crates/fallible-streaming-iterator pdk
 /external/rust/crates/futures pdk
 /external/rust/crates/futures-channel pdk
 /external/rust/crates/futures-core pdk
@@ -367,22 +386,28 @@
 /external/rust/crates/futures-sink pdk
 /external/rust/crates/futures-task pdk
 /external/rust/crates/futures-util pdk
+/external/rust/crates/getrandom pdk
 /external/rust/crates/glob pdk
 /external/rust/crates/heck pdk
 /external/rust/crates/lazy_static pdk
 /external/rust/crates/lazycell pdk
 /external/rust/crates/libc pdk
 /external/rust/crates/libloading pdk
+/external/rust/crates/libsqlite3-sys pdk
+/external/rust/crates/linked-hash-map pdk
 /external/rust/crates/log pdk
+/external/rust/crates/lru-cache pdk
 /external/rust/crates/memchr pdk
 /external/rust/crates/nom pdk
+/external/rust/crates/num-derive pdk
+/external/rust/crates/num-traits pdk
 /external/rust/crates/once_cell pdk
 /external/rust/crates/paste pdk
-/external/rust/crates/paste-impl pdk
 /external/rust/crates/peeking_take_while pdk
 /external/rust/crates/pin-project pdk
 /external/rust/crates/pin-project-internal pdk
 /external/rust/crates/pin-utils pdk
+/external/rust/crates/ppv-lite86 pdk
 /external/rust/crates/proc-macro-error pdk
 /external/rust/crates/proc-macro-error-attr pdk
 /external/rust/crates/proc-macro-hack pdk
@@ -391,12 +416,17 @@
 /external/rust/crates/protobuf pdk
 /external/rust/crates/protobuf-codegen pdk
 /external/rust/crates/quote pdk
+/external/rust/crates/rand pdk
+/external/rust/crates/rand_chacha pdk
+/external/rust/crates/rand_core pdk
 /external/rust/crates/regex pdk
 /external/rust/crates/regex-syntax pdk
 /external/rust/crates/remain pdk
+/external/rust/crates/rusqlite pdk
 /external/rust/crates/rustc-hash pdk
 /external/rust/crates/shlex pdk
 /external/rust/crates/slab pdk
+/external/rust/crates/smallvec pdk
 /external/rust/crates/structopt pdk
 /external/rust/crates/structopt-derive pdk
 /external/rust/crates/syn pdk
@@ -406,6 +436,7 @@
 /external/rust/crates/thiserror pdk
 /external/rust/crates/thiserror-impl pdk
 /external/rust/crates/thread_local pdk
+/external/rust/crates/time pdk
 /external/rust/crates/unicode-segmentation pdk
 /external/rust/crates/unicode-width pdk
 /external/rust/crates/unicode-xid pdk
@@ -440,6 +471,7 @@
 /external/tcpdump pdk
 /external/tensorflow pdk
 /external/testng pdk
+/external/timezone-boundary-builder pdk
 /external/tinyalsa pdk
 /external/tinycompress pdk
 /external/tinyxml pdk
@@ -453,6 +485,7 @@
 /external/ukey2 pdk
 /external/unicode pdk
 /external/universal-tween-engine
+/external/usrsctp pdk
 /external/v4l2_codec2 pdk
 /external/v8 pdk
 /external/vboot_reference pdk-fs vboot
@@ -467,6 +500,7 @@
 /external/wayland-protocols pdk
 /external/webp pdk qcom_msm8x26
 /external/webrtc pdk
+/external/webrtc_legacy pdk
 /external/wpa_supplicant_8 pdk
 /external/wycheproof pdk
 /external/xmp_toolkit pdk
@@ -549,6 +583,10 @@
 /hardware/qcom/sdm845/media generic_fs qcom_sdm845
 /hardware/qcom/sdm845/thermal generic_fs qcom_sdm845
 /hardware/qcom/sdm845/vr generic_fs qcom_sdm845
+/hardware/qcom/sm7150/display qcom_sm7150
+/hardware/qcom/sm7150/gps qcom_sm7150
+/hardware/qcom/sm7150/media qcom_sm7150
+/hardware/qcom/sm7150/vr qcom_sm7150
 /hardware/qcom/sm8150/data/ipacfg-mgr qcom_sm8150
 /hardware/qcom/sm8150/display qcom_sm8150
 /hardware/qcom/sm8150/gps qcom_sm8150
@@ -559,6 +597,7 @@
 /hardware/ril pdk
 /hardware/st/nfc pdk
 /hardware/st/secure_element pdk
+/hardware/st/secure_element2 pdk
 /hardware/ti/am57x pdk
 /libcore pdk
 /libnativehelper pdk
@@ -815,6 +854,7 @@
 /tools/swt notdefault tools
 /tools/test/connectivity pdk
 /tools/test/graphicsbenchmark pdk
+/tools/test/openhst tools
 /tools/tradefederation/core tradefed pdk
 /tools/tradefederation/contrib tradefed pdk
 /tools/treble pdk tools
