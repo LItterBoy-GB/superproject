@@ -389,6 +389,7 @@
 /external/rust/crates/getrandom pdk
 /external/rust/crates/glob pdk
 /external/rust/crates/heck pdk
+/external/rust/crates/itoa pdk
 /external/rust/crates/lazy_static pdk
 /external/rust/crates/lazycell pdk
 /external/rust/crates/libc pdk
@@ -424,6 +425,9 @@
 /external/rust/crates/remain pdk
 /external/rust/crates/rusqlite pdk
 /external/rust/crates/rustc-hash pdk
+/external/rust/crates/ryu pdk
+/external/rust/crates/serde pdk
+/external/rust/crates/serde_json pdk
 /external/rust/crates/shlex pdk
 /external/rust/crates/slab pdk
 /external/rust/crates/smallvec pdk

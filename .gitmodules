@@ -1171,6 +1171,9 @@
 [submodule "platform/external/rust/crates/heck"]
 	path = external/rust/crates/heck
 	url = ../external/rust/crates/heck
+[submodule "platform/external/rust/crates/itoa"]
+	path = external/rust/crates/itoa
+	url = ../external/rust/crates/itoa
 [submodule "platform/external/rust/crates/lazy_static"]
 	path = external/rust/crates/lazy_static
 	url = ../external/rust/crates/lazy_static
@@ -1276,6 +1279,15 @@
 [submodule "platform/external/rust/crates/rustc-hash"]
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/ryu"]
+	path = external/rust/crates/ryu
+	url = ../external/rust/crates/ryu
+[submodule "platform/external/rust/crates/serde"]
+	path = external/rust/crates/serde
+	url = ../external/rust/crates/serde
+[submodule "platform/external/rust/crates/serde_json"]
+	path = external/rust/crates/serde_json
+	url = ../external/rust/crates/serde_json
 [submodule "platform/external/rust/crates/shlex"]
 	path = external/rust/crates/shlex
 	url = ../external/rust/crates/shlex
