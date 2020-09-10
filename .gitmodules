@@ -170,9 +170,12 @@
 	branch = master
 	path = device/google/taimen
 	url = ../../device/google/taimen
+[submodule "device/google/trout"]
+	branch = master
+	path = device/google/trout
+	url = ../../device/google/trout
 [submodule "device/google/vrservices"]
 	branch = master
-	shallow = true
 	path = device/google/vrservices
 	url = ../../device/google/vrservices
 [submodule "device/google/wahoo"]
@@ -215,6 +218,10 @@
 	shallow = true
 	path = device/linaro/poplar-kernel
 	url = ../../device/linaro/poplar-kernel
+[submodule "device/mediatek/wembley-sepolicy"]
+	branch = master
+	path = device/mediatek/wembley-sepolicy
+	url = ../../device/mediatek/wembley-sepolicy
 [submodule "device/sample"]
 	branch = master
 	path = device/sample
@@ -232,6 +239,11 @@
 	branch = master
 	path = kernel/configs
 	url = ../../kernel/configs
+[submodule "kernel/prebuilts/4.19/arm64"]
+	branch = master
+	shallow = true
+	path = kernel/prebuilts/4.19/arm64
+	url = ../../kernel/prebuilts/4.19/arm64
 [submodule "kernel/prebuilts/5.4/arm64"]
 	branch = master
 	shallow = true
@@ -315,6 +327,10 @@
 	branch = master
 	path = external/ImageMagick
 	url = ../external/ImageMagick
+[submodule "platform/external/OpenCL-CTS"]
+	branch = master
+	path = external/OpenCL-CTS
+	url = ../external/OpenCL-CTS
 [submodule "platform/external/OpenCSD"]
 	branch = master
 	path = external/OpenCSD
@@ -536,6 +552,10 @@
 	branch = master
 	path = external/deqp-deps/SPIRV-Tools
 	url = ../external/deqp-deps/SPIRV-Tools
+[submodule "platform/external/deqp-deps/amber"]
+	branch = master
+	path = external/deqp-deps/amber
+	url = ../external/deqp-deps/amber
 [submodule "platform/external/deqp-deps/glslang"]
 	branch = master
 	path = external/deqp-deps/glslang
@@ -616,6 +636,10 @@
 	branch = master
 	path = external/ethtool
 	url = ../external/ethtool
+[submodule "platform/external/exoplayer"]
+	branch = master
+	path = external/exoplayer
+	url = ../external/exoplayer
 [submodule "platform/external/expat"]
 	branch = master
 	path = external/expat
@@ -700,6 +724,14 @@
 	branch = master
 	path = external/google-fonts/arvo
 	url = ../external/google-fonts/arvo
+[submodule "platform/external/google-fonts/barlow"]
+	branch = master
+	path = external/google-fonts/barlow
+	url = ../external/google-fonts/barlow
+[submodule "platform/external/google-fonts/big-shoulders-text"]
+	branch = master
+	path = external/google-fonts/big-shoulders-text
+	url = ../external/google-fonts/big-shoulders-text
 [submodule "platform/external/google-fonts/carrois-gothic-sc"]
 	branch = master
 	path = external/google-fonts/carrois-gothic-sc
@@ -716,10 +748,22 @@
 	branch = master
 	path = external/google-fonts/dancing-script
 	url = ../external/google-fonts/dancing-script
+[submodule "platform/external/google-fonts/fraunces"]
+	branch = master
+	path = external/google-fonts/fraunces
+	url = ../external/google-fonts/fraunces
+[submodule "platform/external/google-fonts/karla"]
+	branch = master
+	path = external/google-fonts/karla
+	url = ../external/google-fonts/karla
 [submodule "platform/external/google-fonts/lato"]
 	branch = master
 	path = external/google-fonts/lato
 	url = ../external/google-fonts/lato
+[submodule "platform/external/google-fonts/lustria"]
+	branch = master
+	path = external/google-fonts/lustria
+	url = ../external/google-fonts/lustria
 [submodule "platform/external/google-fonts/rubik"]
 	branch = master
 	path = external/google-fonts/rubik
@@ -1016,6 +1060,10 @@
 	branch = master
 	path = external/libhevc
 	url = ../external/libhevc
+[submodule "platform/external/libiio"]
+	branch = master
+	path = external/libiio
+	url = ../external/libiio
 [submodule "platform/external/libjpeg-turbo"]
 	branch = master
 	path = external/libjpeg-turbo
@@ -2120,6 +2168,10 @@
 	branch = master
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
+[submodule "platform/frameworks/libs/modules-utils"]
+	branch = master
+	path = frameworks/libs/modules-utils
+	url = ../frameworks/libs/modules-utils
 [submodule "platform/frameworks/libs/native_bridge_support"]
 	branch = master
 	path = frameworks/libs/native_bridge_support
@@ -2128,6 +2180,10 @@
 	branch = master
 	path = frameworks/libs/net
 	url = ../frameworks/libs/net
+[submodule "platform/frameworks/libs/systemui"]
+	branch = master
+	path = frameworks/libs/systemui
+	url = ../frameworks/libs/systemui
 [submodule "platform/frameworks/minikin"]
 	branch = master
 	path = frameworks/minikin
@@ -2168,6 +2224,10 @@
 	branch = master
 	path = frameworks/opt/colorpicker
 	url = ../frameworks/opt/colorpicker
+[submodule "platform/frameworks/opt/localepicker"]
+	branch = master
+	path = frameworks/opt/localepicker
+	url = ../frameworks/opt/localepicker
 [submodule "platform/frameworks/opt/net/ethernet"]
 	branch = master
 	path = frameworks/opt/net/ethernet
@@ -2200,6 +2260,10 @@
 	branch = master
 	path = frameworks/opt/timezonepicker
 	url = ../frameworks/opt/timezonepicker
+[submodule "platform/frameworks/opt/tv/tvsystem"]
+	branch = master
+	path = frameworks/opt/tv/tvsystem
+	url = ../frameworks/opt/tv/tvsystem
 [submodule "platform/frameworks/opt/vcard"]
 	branch = master
 	path = frameworks/opt/vcard
@@ -2228,6 +2292,10 @@
 	branch = master
 	path = hardware/google/av
 	url = ../hardware/google/av
+[submodule "platform/hardware/google/camera"]
+	branch = master
+	path = hardware/google/camera
+	url = ../hardware/google/camera
 [submodule "platform/hardware/google/easel"]
 	branch = master
 	path = hardware/google/easel
@@ -2376,22 +2444,10 @@
 	branch = master
 	path = hardware/qcom/sdm845/vr
 	url = ../hardware/qcom/sdm845/vr
-[submodule "platform/hardware/qcom/sm7150/display"]
-	branch = master
-	path = hardware/qcom/sm7150/display
-	url = ../hardware/qcom/sm7150/display
 [submodule "platform/hardware/qcom/sm7150/gps"]
 	branch = master
 	path = hardware/qcom/sm7150/gps
 	url = ../hardware/qcom/sm7150/gps
-[submodule "platform/hardware/qcom/sm7150/media"]
-	branch = master
-	path = hardware/qcom/sm7150/media
-	url = ../hardware/qcom/sm7150/media
-[submodule "platform/hardware/qcom/sm7150/vr"]
-	branch = master
-	path = hardware/qcom/sm7150/vr
-	url = ../hardware/qcom/sm7150/vr
 [submodule "platform/hardware/qcom/sm8150/data/ipacfg-mgr"]
 	branch = master
 	path = hardware/qcom/sm8150/data/ipacfg-mgr
@@ -2416,6 +2472,10 @@
 	branch = master
 	path = hardware/qcom/sm8150/vr
 	url = ../hardware/qcom/sm8150/vr
+[submodule "platform/hardware/qcom/sm8150p/gps"]
+	branch = master
+	path = hardware/qcom/sm8150p/gps
+	url = ../hardware/qcom/sm8150p/gps
 [submodule "platform/hardware/qcom/wlan"]
 	branch = master
 	path = hardware/qcom/wlan
@@ -2468,6 +2528,10 @@
 	branch = master
 	path = packages/apps/Camera2
 	url = ../packages/apps/Camera2
+[submodule "platform/packages/apps/Car/Calendar"]
+	branch = master
+	path = packages/apps/Car/Calendar
+	url = ../packages/apps/Car/Calendar
 [submodule "platform/packages/apps/Car/Cluster"]
 	branch = master
 	path = packages/apps/Car/Cluster
@@ -2492,10 +2556,6 @@
 	branch = master
 	path = packages/apps/Car/Launcher
 	url = ../packages/apps/Car/Launcher
-[submodule "platform/packages/apps/Car/LensPicker"]
-	branch = master
-	path = packages/apps/Car/LensPicker
-	url = ../packages/apps/Car/LensPicker
 [submodule "platform/packages/apps/Car/LinkViewer"]
 	branch = master
 	path = packages/apps/Car/LinkViewer
@@ -2516,22 +2576,18 @@
 	branch = master
 	path = packages/apps/Car/Notification
 	url = ../packages/apps/Car/Notification
-[submodule "platform/packages/apps/Car/Overview"]
-	branch = master
-	path = packages/apps/Car/Overview
-	url = ../packages/apps/Car/Overview
 [submodule "platform/packages/apps/Car/Radio"]
 	branch = master
 	path = packages/apps/Car/Radio
 	url = ../packages/apps/Car/Radio
+[submodule "platform/packages/apps/Car/RotaryController"]
+	branch = master
+	path = packages/apps/Car/RotaryController
+	url = ../packages/apps/Car/RotaryController
 [submodule "platform/packages/apps/Car/Settings"]
 	branch = master
 	path = packages/apps/Car/Settings
 	url = ../packages/apps/Car/Settings
-[submodule "platform/packages/apps/Car/Stream"]
-	branch = master
-	path = packages/apps/Car/Stream
-	url = ../packages/apps/Car/Stream
 [submodule "platform/packages/apps/Car/SystemUpdater"]
 	branch = master
 	path = packages/apps/Car/SystemUpdater
@@ -2624,6 +2680,10 @@
 	branch = master
 	path = packages/apps/Nfc
 	url = ../packages/apps/Nfc
+[submodule "platform/packages/apps/OnDeviceAppPrediction"]
+	branch = master
+	path = packages/apps/OnDeviceAppPrediction
+	url = ../packages/apps/OnDeviceAppPrediction
 [submodule "platform/packages/apps/OneTimeInitializer"]
 	branch = master
 	path = packages/apps/OneTimeInitializer
@@ -2644,6 +2704,10 @@
 	branch = master
 	path = packages/apps/Provision
 	url = ../packages/apps/Provision
+[submodule "platform/packages/apps/QuickAccessWallet"]
+	branch = master
+	path = packages/apps/QuickAccessWallet
+	url = ../packages/apps/QuickAccessWallet
 [submodule "platform/packages/apps/QuickSearchBox"]
 	branch = master
 	path = packages/apps/QuickSearchBox
@@ -2861,6 +2925,10 @@
 	branch = master
 	path = packages/services/Mms
 	url = ../packages/services/Mms
+[submodule "platform/packages/services/Mtp"]
+	branch = master
+	path = packages/services/Mtp
+	url = ../packages/services/Mtp
 [submodule "platform/packages/services/Telecomm"]
 	branch = master
 	path = packages/services/Telecomm
@@ -2869,6 +2937,10 @@
 	branch = master
 	path = packages/services/Telephony
 	url = ../packages/services/Telephony
+[submodule "platform/packages/wallpapers/ImageWallpaper"]
+	branch = master
+	path = packages/wallpapers/ImageWallpaper
+	url = ../packages/wallpapers/ImageWallpaper
 [submodule "platform/packages/wallpapers/LivePicker"]
 	branch = master
 	path = packages/wallpapers/LivePicker
@@ -3454,6 +3526,10 @@
 	branch = master
 	path = tools/build
 	url = ../tools/build
+[submodule "platform/tools/carrier_settings"]
+	branch = master
+	path = tools/carrier_settings
+	url = ../tools/carrier_settings
 [submodule "platform/tools/currysrc"]
 	branch = master
 	path = tools/currysrc
@@ -3490,6 +3566,10 @@
 	branch = master
 	path = tools/motodev
 	url = ../tools/motodev
+[submodule "platform/tools/ndkports"]
+	branch = master
+	path = tools/ndkports
+	url = ../tools/ndkports
 [submodule "platform/tools/repohooks"]
 	branch = master
 	path = tools/repohooks
