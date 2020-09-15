@@ -230,7 +230,7 @@
 	path = bootable/recovery
 	url = ../bootable/recovery
 [submodule "platform/build"]
-	branch = android10-release
+	branch = android10-tests-dev
 	path = build/make
 	url = ../build
 [submodule "platform/build/blueprint"]
