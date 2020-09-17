@@ -121,6 +121,9 @@
 [submodule "device/google/taimen"]
 	path = device/google/taimen
 	url = ../../device/google/taimen
+[submodule "device/google/trout"]
+	path = device/google/trout
+	url = ../../device/google/trout
 [submodule "device/google/vrservices"]
 	path = device/google/vrservices
 	url = ../../device/google/vrservices
@@ -151,6 +154,9 @@
 [submodule "device/linaro/poplar-kernel"]
 	path = device/linaro/poplar-kernel
 	url = ../../device/linaro/poplar-kernel
+[submodule "device/mediatek/wembley-sepolicy"]
+	path = device/mediatek/wembley-sepolicy
+	url = ../../device/mediatek/wembley-sepolicy
 [submodule "device/sample"]
 	path = device/sample
 	url = ../../device/sample
@@ -163,6 +169,9 @@
 [submodule "kernel/configs"]
 	path = kernel/configs
 	url = ../../kernel/configs
+[submodule "kernel/prebuilts/4.19/arm64"]
+	path = kernel/prebuilts/4.19/arm64
+	url = ../../kernel/prebuilts/4.19/arm64
 [submodule "kernel/prebuilts/5.4/arm64"]
 	path = kernel/prebuilts/5.4/arm64
 	url = ../../kernel/prebuilts/5.4/arm64
@@ -223,6 +232,9 @@
 [submodule "platform/external/ImageMagick"]
 	path = external/ImageMagick
 	url = ../external/ImageMagick
+[submodule "platform/external/OpenCL-CTS"]
+	path = external/OpenCL-CTS
+	url = ../external/OpenCL-CTS
 [submodule "platform/external/OpenCSD"]
 	path = external/OpenCSD
 	url = ../external/OpenCSD
@@ -388,6 +400,9 @@
 [submodule "platform/external/deqp-deps/SPIRV-Tools"]
 	path = external/deqp-deps/SPIRV-Tools
 	url = ../external/deqp-deps/SPIRV-Tools
+[submodule "platform/external/deqp-deps/amber"]
+	path = external/deqp-deps/amber
+	url = ../external/deqp-deps/amber
 [submodule "platform/external/deqp-deps/glslang"]
 	path = external/deqp-deps/glslang
 	url = ../external/deqp-deps/glslang
@@ -448,6 +463,9 @@
 [submodule "platform/external/ethtool"]
 	path = external/ethtool
 	url = ../external/ethtool
+[submodule "platform/external/exoplayer"]
+	path = external/exoplayer
+	url = ../external/exoplayer
 [submodule "platform/external/expat"]
 	path = external/expat
 	url = ../external/expat
@@ -511,6 +529,12 @@
 [submodule "platform/external/google-fonts/arvo"]
 	path = external/google-fonts/arvo
 	url = ../external/google-fonts/arvo
+[submodule "platform/external/google-fonts/barlow"]
+	path = external/google-fonts/barlow
+	url = ../external/google-fonts/barlow
+[submodule "platform/external/google-fonts/big-shoulders-text"]
+	path = external/google-fonts/big-shoulders-text
+	url = ../external/google-fonts/big-shoulders-text
 [submodule "platform/external/google-fonts/carrois-gothic-sc"]
 	path = external/google-fonts/carrois-gothic-sc
 	url = ../external/google-fonts/carrois-gothic-sc
@@ -523,9 +547,18 @@
 [submodule "platform/external/google-fonts/dancing-script"]
 	path = external/google-fonts/dancing-script
 	url = ../external/google-fonts/dancing-script
+[submodule "platform/external/google-fonts/fraunces"]
+	path = external/google-fonts/fraunces
+	url = ../external/google-fonts/fraunces
+[submodule "platform/external/google-fonts/karla"]
+	path = external/google-fonts/karla
+	url = ../external/google-fonts/karla
 [submodule "platform/external/google-fonts/lato"]
 	path = external/google-fonts/lato
 	url = ../external/google-fonts/lato
+[submodule "platform/external/google-fonts/lustria"]
+	path = external/google-fonts/lustria
+	url = ../external/google-fonts/lustria
 [submodule "platform/external/google-fonts/rubik"]
 	path = external/google-fonts/rubik
 	url = ../external/google-fonts/rubik
@@ -748,6 +781,9 @@
 [submodule "platform/external/libhevc"]
 	path = external/libhevc
 	url = ../external/libhevc
+[submodule "platform/external/libiio"]
+	path = external/libiio
+	url = ../external/libiio
 [submodule "platform/external/libjpeg-turbo"]
 	path = external/libjpeg-turbo
 	url = ../external/libjpeg-turbo
@@ -1573,12 +1609,18 @@
 [submodule "platform/frameworks/layoutlib"]
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
+[submodule "platform/frameworks/libs/modules-utils"]
+	path = frameworks/libs/modules-utils
+	url = ../frameworks/libs/modules-utils
 [submodule "platform/frameworks/libs/native_bridge_support"]
 	path = frameworks/libs/native_bridge_support
 	url = ../frameworks/libs/native_bridge_support
 [submodule "platform/frameworks/libs/net"]
 	path = frameworks/libs/net
 	url = ../frameworks/libs/net
+[submodule "platform/frameworks/libs/systemui"]
+	path = frameworks/libs/systemui
+	url = ../frameworks/libs/systemui
 [submodule "platform/frameworks/minikin"]
 	path = frameworks/minikin
 	url = ../frameworks/minikin
@@ -1609,6 +1651,9 @@
 [submodule "platform/frameworks/opt/colorpicker"]
 	path = frameworks/opt/colorpicker
 	url = ../frameworks/opt/colorpicker
+[submodule "platform/frameworks/opt/localepicker"]
+	path = frameworks/opt/localepicker
+	url = ../frameworks/opt/localepicker
 [submodule "platform/frameworks/opt/net/ethernet"]
 	path = frameworks/opt/net/ethernet
 	url = ../frameworks/opt/net/ethernet
@@ -1633,6 +1678,9 @@
 [submodule "platform/frameworks/opt/timezonepicker"]
 	path = frameworks/opt/timezonepicker
 	url = ../frameworks/opt/timezonepicker
+[submodule "platform/frameworks/opt/tv/tvsystem"]
+	path = frameworks/opt/tv/tvsystem
+	url = ../frameworks/opt/tv/tvsystem
 [submodule "platform/frameworks/opt/vcard"]
 	path = frameworks/opt/vcard
 	url = ../frameworks/opt/vcard
@@ -1654,6 +1702,9 @@
 [submodule "platform/hardware/google/av"]
 	path = hardware/google/av
 	url = ../hardware/google/av
+[submodule "platform/hardware/google/camera"]
+	path = hardware/google/camera
+	url = ../hardware/google/camera
 [submodule "platform/hardware/google/easel"]
 	path = hardware/google/easel
 	url = ../hardware/google/easel
@@ -1765,18 +1816,9 @@
 [submodule "platform/hardware/qcom/sdm845/vr"]
 	path = hardware/qcom/sdm845/vr
 	url = ../hardware/qcom/sdm845/vr
-[submodule "platform/hardware/qcom/sm7150/display"]
-	path = hardware/qcom/sm7150/display
-	url = ../hardware/qcom/sm7150/display
 [submodule "platform/hardware/qcom/sm7150/gps"]
 	path = hardware/qcom/sm7150/gps
 	url = ../hardware/qcom/sm7150/gps
-[submodule "platform/hardware/qcom/sm7150/media"]
-	path = hardware/qcom/sm7150/media
-	url = ../hardware/qcom/sm7150/media
-[submodule "platform/hardware/qcom/sm7150/vr"]
-	path = hardware/qcom/sm7150/vr
-	url = ../hardware/qcom/sm7150/vr
 [submodule "platform/hardware/qcom/sm8150/data/ipacfg-mgr"]
 	path = hardware/qcom/sm8150/data/ipacfg-mgr
 	url = ../hardware/qcom/sm8150/data/ipacfg-mgr
@@ -1795,6 +1837,9 @@
 [submodule "platform/hardware/qcom/sm8150/vr"]
 	path = hardware/qcom/sm8150/vr
 	url = ../hardware/qcom/sm8150/vr
+[submodule "platform/hardware/qcom/sm8150p/gps"]
+	path = hardware/qcom/sm8150p/gps
+	url = ../hardware/qcom/sm8150p/gps
 [submodule "platform/hardware/qcom/wlan"]
 	path = hardware/qcom/wlan
 	url = ../hardware/qcom/wlan
@@ -1834,6 +1879,9 @@
 [submodule "platform/packages/apps/Camera2"]
 	path = packages/apps/Camera2
 	url = ../packages/apps/Camera2
+[submodule "platform/packages/apps/Car/Calendar"]
+	path = packages/apps/Car/Calendar
+	url = ../packages/apps/Car/Calendar
 [submodule "platform/packages/apps/Car/Cluster"]
 	path = packages/apps/Car/Cluster
 	url = ../packages/apps/Car/Cluster
@@ -1852,9 +1900,6 @@
 [submodule "platform/packages/apps/Car/Launcher"]
 	path = packages/apps/Car/Launcher
 	url = ../packages/apps/Car/Launcher
-[submodule "platform/packages/apps/Car/LensPicker"]
-	path = packages/apps/Car/LensPicker
-	url = ../packages/apps/Car/LensPicker
 [submodule "platform/packages/apps/Car/LinkViewer"]
 	path = packages/apps/Car/LinkViewer
 	url = ../packages/apps/Car/LinkViewer
@@ -1870,18 +1915,15 @@
 [submodule "platform/packages/apps/Car/Notification"]
 	path = packages/apps/Car/Notification
 	url = ../packages/apps/Car/Notification
-[submodule "platform/packages/apps/Car/Overview"]
-	path = packages/apps/Car/Overview
-	url = ../packages/apps/Car/Overview
 [submodule "platform/packages/apps/Car/Radio"]
 	path = packages/apps/Car/Radio
 	url = ../packages/apps/Car/Radio
+[submodule "platform/packages/apps/Car/RotaryController"]
+	path = packages/apps/Car/RotaryController
+	url = ../packages/apps/Car/RotaryController
 [submodule "platform/packages/apps/Car/Settings"]
 	path = packages/apps/Car/Settings
 	url = ../packages/apps/Car/Settings
-[submodule "platform/packages/apps/Car/Stream"]
-	path = packages/apps/Car/Stream
-	url = ../packages/apps/Car/Stream
 [submodule "platform/packages/apps/Car/SystemUpdater"]
 	path = packages/apps/Car/SystemUpdater
 	url = ../packages/apps/Car/SystemUpdater
@@ -1951,6 +1993,9 @@
 [submodule "platform/packages/apps/Nfc"]
 	path = packages/apps/Nfc
 	url = ../packages/apps/Nfc
+[submodule "platform/packages/apps/OnDeviceAppPrediction"]
+	path = packages/apps/OnDeviceAppPrediction
+	url = ../packages/apps/OnDeviceAppPrediction
 [submodule "platform/packages/apps/OneTimeInitializer"]
 	path = packages/apps/OneTimeInitializer
 	url = ../packages/apps/OneTimeInitializer
@@ -1966,6 +2011,9 @@
 [submodule "platform/packages/apps/Provision"]
 	path = packages/apps/Provision
 	url = ../packages/apps/Provision
+[submodule "platform/packages/apps/QuickAccessWallet"]
+	path = packages/apps/QuickAccessWallet
+	url = ../packages/apps/QuickAccessWallet
 [submodule "platform/packages/apps/QuickSearchBox"]
 	path = packages/apps/QuickSearchBox
 	url = ../packages/apps/QuickSearchBox
@@ -2128,12 +2176,18 @@
 [submodule "platform/packages/services/Mms"]
 	path = packages/services/Mms
 	url = ../packages/services/Mms
+[submodule "platform/packages/services/Mtp"]
+	path = packages/services/Mtp
+	url = ../packages/services/Mtp
 [submodule "platform/packages/services/Telecomm"]
 	path = packages/services/Telecomm
 	url = ../packages/services/Telecomm
 [submodule "platform/packages/services/Telephony"]
 	path = packages/services/Telephony
 	url = ../packages/services/Telephony
+[submodule "platform/packages/wallpapers/ImageWallpaper"]
+	path = packages/wallpapers/ImageWallpaper
+	url = ../packages/wallpapers/ImageWallpaper
 [submodule "platform/packages/wallpapers/LivePicker"]
 	path = packages/wallpapers/LivePicker
 	url = ../packages/wallpapers/LivePicker
@@ -2533,6 +2587,9 @@
 [submodule "platform/tools/build"]
 	path = tools/build
 	url = ../tools/build
+[submodule "platform/tools/carrier_settings"]
+	path = tools/carrier_settings
+	url = ../tools/carrier_settings
 [submodule "platform/tools/currysrc"]
 	path = tools/currysrc
 	url = ../tools/currysrc
@@ -2560,6 +2617,9 @@
 [submodule "platform/tools/motodev"]
 	path = tools/motodev
 	url = ../tools/motodev
+[submodule "platform/tools/ndkports"]
+	path = tools/ndkports
+	url = ../tools/ndkports
 [submodule "platform/tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks
