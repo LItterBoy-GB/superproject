@@ -1,61 +1,12 @@
-/device/amlogic/yukawa yukawa pdk device
-/device/amlogic/yukawa-kernel yukawa pdk device
-/device/common pdk-cw-fs pdk
-/device/generic/arm64 pdk
-/device/generic/armv7-a-neon pdk
-/device/generic/art pdk
 /device/generic/car pdk
 /device/generic/common pdk
 /device/generic/goldfish pdk
 /device/generic/goldfish-opengl pdk
-/device/generic/mini-emulator-arm64 pdk
-/device/generic/mini-emulator-armv7-a-neon pdk
-/device/generic/mini-emulator-x86 pdk
-/device/generic/mini-emulator-x86_64 pdk
-/device/generic/opengl-transport pdk
-/device/generic/qemu pdk
-/device/generic/trusty pdk
-/device/generic/uml pdk device
-/device/generic/x86 pdk
-/device/generic/x86_64 pdk
-/device/google/atv broadcom_pdk generic_fs pdk device
-/device/google/bonito bonito device
-/device/google/bonito-kernel bonito device
-/device/google/bonito-sepolicy bonito device
-/device/google/contexthub pdk device
-/device/google/coral generic_fs coral device
-/device/google/coral-kernel generic_fs coral device
-/device/google/coral-sepolicy generic_fs coral device
-/device/google/crosshatch crosshatch generic_fs device
-/device/google/crosshatch-kernel crosshatch generic_fs device
-/device/google/crosshatch-sepolicy crosshatch generic_fs device
-/device/google/cuttlefish pdk device
-/device/google/cuttlefish_kernel pdk device
-/device/google/cuttlefish_vmm pdk device
-/device/google/fuchsia device
-/device/google/muskie generic_fs muskie device
-/device/google/sunfish sunfish device
-/device/google/sunfish-kernel sunfish device
-/device/google/sunfish-sepolicy sunfish device
-/device/google/taimen taimen device
+/device/google/cuttlefish device
+/device/google/cuttlefish_kernel device
+/device/google/cuttlefish_vmm device
 /device/google/trout trout device gull
-/device/google/vrservices pdk
-/device/google/wahoo generic_fs wahoo device
-/device/google/wahoo-kernel generic_fs wahoo device
-/device/google_car pdk
-/device/linaro/bootloader/OpenPlatformPkg
-/device/linaro/bootloader/arm-trusted-firmware
-/device/linaro/bootloader/edk2
-/device/linaro/dragonboard dragonboard pdk device
-/device/linaro/dragonboard-kernel dragonboard pdk device
-/device/linaro/hikey hikey pdk device
-/device/linaro/hikey-kernel hikey pdk device
-/device/linaro/poplar poplar pdk device
-/device/linaro/poplar-kernel poplar pdk device
-/device/mediatek/wembley-sepolicy device
 /device/sample pdk
-/device/ti/beagle_x15 pdk beagle_x15 device
-/device/ti/beagle_x15-kernel pdk beagle_x15 device
 /kernel/build
 /kernel/configs vts pdk
 /kernel/prebuilts/4.19/arm64 pdk
@@ -76,11 +27,12 @@
 /external/FP16 pdk
 /external/FXdiv pdk
 /external/ImageMagick pdk
-/external/OpenCL-CTS pdk
+/external/OpenCL-CTS
 /external/OpenCSD pdk
 /external/Reactive-Extensions/RxCpp pdk
 /external/XNNPACK pdk
 /external/aac pdk
+/external/abseil-cpp pdk
 /external/adeb pdk
 /external/adhd pdk
 /external/adt-infra pdk-fs notdefault adt-infra
@@ -275,6 +227,7 @@
 /external/libutf pdk
 /external/libvpx pdk
 /external/libvterm pdk
+/external/libwebsockets pdk
 /external/libxaac pdk
 /external/libxkbcommon pdk
 /external/libxml2 pdk libxml2
@@ -323,6 +276,7 @@
 /external/pcre pdk
 /external/pdfium pdk
 /external/perfetto pdk
+/external/pffft pdk
 /external/piex pdk
 /external/ply pdk
 /external/ppp pdk
@@ -359,6 +313,7 @@
 /external/rappor pdk
 /external/replicaisland pdk
 /external/rmi4utils pdk
+/external/rnnoise pdk
 /external/robolectric-shadows pdk-fs pdk-cw-fs
 /external/roboto-fonts pdk
 /external/rootdev pdk
@@ -410,6 +365,7 @@
 /external/ukey2 pdk
 /external/unicode pdk
 /external/universal-tween-engine
+/external/usrsctp pdk
 /external/v4l2_codec2 pdk
 /external/v8 pdk
 /external/vboot_reference pdk-fs vboot
@@ -424,6 +380,7 @@
 /external/wayland-protocols pdk
 /external/webp pdk qcom_msm8x26
 /external/webrtc pdk
+/external/webrtc_legacy pdk
 /external/wpa_supplicant_8 pdk
 /external/wycheproof pdk
 /external/xmp_toolkit pdk
@@ -530,7 +487,6 @@
 /packages/apps/Browser2 pdk-fs
 /packages/apps/Calendar pdk-fs
 /packages/apps/Camera2 pdk-fs
-/packages/apps/Car/Calendar pdk-fs
 /packages/apps/Car/Cluster pdk-fs
 /packages/apps/Car/CompanionDeviceSupport pdk-fs
 /packages/apps/Car/Dialer pdk-fs
