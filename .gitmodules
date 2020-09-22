@@ -2926,7 +2926,7 @@
 	path = system/libsysprop
 	url = ../system/libsysprop
 [submodule "platform/system/libufdt"]
-	branch = android11-release
+	branch = android11-tests-dev
 	path = system/libufdt
 	url = ../system/libufdt
 [submodule "platform/system/libvintf"]
