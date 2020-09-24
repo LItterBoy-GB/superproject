@@ -2101,6 +2101,9 @@
 [submodule "platform/packages/modules/ExtServices"]
 	path = packages/modules/ExtServices
 	url = ../packages/modules/ExtServices
+[submodule "platform/packages/modules/Gki"]
+	path = packages/modules/Gki
+	url = ../packages/modules/Gki
 [submodule "platform/packages/modules/IPsec"]
 	path = packages/modules/IPsec
 	url = ../packages/modules/IPsec
