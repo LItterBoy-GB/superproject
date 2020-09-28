@@ -1325,6 +1325,10 @@
 	branch = master
 	path = external/opencensus-java
 	url = ../external/opencensus-java
+[submodule "platform/external/openssh"]
+	branch = master
+	path = external/openssh
+	url = ../external/openssh
 [submodule "platform/external/oss-fuzz"]
 	branch = master
 	path = external/oss-fuzz
