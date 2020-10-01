@@ -23,35 +23,42 @@
 /device/google/bonito-kernel bonito device
 /device/google/bonito-sepolicy bonito device
 /device/google/contexthub pdk device
-/device/google/coral coral device
-/device/google/coral-kernel coral device
-/device/google/coral-sepolicy coral device
+/device/google/coral generic_fs coral device
+/device/google/coral-kernel generic_fs coral device
+/device/google/coral-sepolicy generic_fs coral device
 /device/google/crosshatch crosshatch generic_fs device
 /device/google/crosshatch-kernel crosshatch generic_fs device
 /device/google/crosshatch-sepolicy crosshatch generic_fs device
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_kernel pdk device
+/device/google/cuttlefish_prebuilts pdk device
 /device/google/cuttlefish_vmm pdk device
 /device/google/fuchsia device
 /device/google/muskie generic_fs muskie device
+/device/google/sunfish sunfish device
+/device/google/sunfish-kernel sunfish device
+/device/google/sunfish-sepolicy sunfish device
 /device/google/taimen taimen device
+/device/google/trout trout device gull
 /device/google/vrservices pdk
 /device/google/wahoo generic_fs wahoo device
 /device/google/wahoo-kernel generic_fs wahoo device
-/device/google_car generic_fs device
-/device/linaro/bootloader/OpenPlatformPkg
-/device/linaro/bootloader/arm-trusted-firmware
-/device/linaro/bootloader/edk2
+/device/google_car pdk
 /device/linaro/dragonboard dragonboard pdk device
 /device/linaro/dragonboard-kernel dragonboard pdk device
 /device/linaro/hikey hikey pdk device
 /device/linaro/hikey-kernel hikey pdk device
 /device/linaro/poplar poplar pdk device
 /device/linaro/poplar-kernel poplar pdk device
+/device/mediatek/wembley-sepolicy device
 /device/sample pdk
 /device/ti/beagle_x15 pdk beagle_x15 device
 /device/ti/beagle_x15-kernel pdk beagle_x15 device
 /kernel/configs vts pdk
+/kernel/prebuilts/4.19/arm64 pdk
+/kernel/prebuilts/5.4/arm64 pdk
+/kernel/prebuilts/5.4/x86_64 pdk
+/kernel/prebuilts/mainline/arm64 pdk
 /kernel/tests vts pdk
 /art pdk
 /bionic pdk
@@ -69,6 +76,7 @@
 /external/FP16 pdk
 /external/FXdiv pdk
 /external/ImageMagick pdk
+/external/OpenCL-CTS
 /external/OpenCSD pdk
 /external/Reactive-Extensions/RxCpp pdk
 /external/XNNPACK pdk
@@ -124,6 +132,7 @@
 /external/deqp pdk-fs
 /external/deqp-deps/SPIRV-Headers pdk-fs
 /external/deqp-deps/SPIRV-Tools pdk-fs
+/external/deqp-deps/amber pdk-fs
 /external/deqp-deps/glslang pdk-fs
 /external/desugar pdk
 /external/dexmaker pdk
@@ -144,6 +153,7 @@
 /external/error_prone pdk
 /external/escapevelocity pdk
 /external/ethtool pdk
+/external/exoplayer pdk
 /external/expat pdk
 /external/f2fs-tools pdk
 /external/fastrpc pdk
@@ -165,11 +175,16 @@
 /external/google-breakpad pdk-fs
 /external/google-fonts/arbutus-slab pdk
 /external/google-fonts/arvo pdk
+/external/google-fonts/barlow pdk
+/external/google-fonts/big-shoulders-text pdk
 /external/google-fonts/carrois-gothic-sc pdk
 /external/google-fonts/coming-soon pdk
 /external/google-fonts/cutive-mono pdk
 /external/google-fonts/dancing-script pdk
+/external/google-fonts/fraunces pdk
+/external/google-fonts/karla pdk
 /external/google-fonts/lato pdk
+/external/google-fonts/lustria pdk
 /external/google-fonts/rubik pdk
 /external/google-fonts/source-sans-pro pdk
 /external/google-fonts/zilla-slab pdk
@@ -244,6 +259,7 @@
 /external/libgav1 pdk
 /external/libgsm pdk
 /external/libhevc pdk
+/external/libiio pdk
 /external/libjpeg-turbo pdk
 /external/libkmsxx pdk
 /external/libldac pdk
@@ -277,6 +293,7 @@
 /external/lua pdk
 /external/lz4 pdk
 /external/lzma pdk
+/external/marisa-trie pdk
 /external/markdown pdk
 /external/mdnsresponder pdk
 /external/mesa3d pdk-fs pdk-cw-fs
@@ -303,10 +320,12 @@
 /external/noto-fonts pdk
 /external/oauth pdk
 /external/objenesis pdk
+/external/oboe pdk
 /external/oj-libjdwp pdk
 /external/okhttp pdk
 /external/one-true-awk pdk
 /external/opencensus-java tradefed pdk
+/external/openssh pdk
 /external/oss-fuzz pdk
 /external/owasp/sanitizer pdk
 /external/parameter-framework pdk
@@ -359,6 +378,7 @@
 /external/rust/crates/android_log-sys pdk
 /external/rust/crates/android_logger pdk
 /external/rust/crates/anyhow pdk
+/external/rust/crates/async-trait pdk
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bitflags pdk
 /external/rust/crates/bytes pdk
@@ -368,6 +388,8 @@
 /external/rust/crates/clap pdk
 /external/rust/crates/codespan-reporting pdk
 /external/rust/crates/env_logger pdk
+/external/rust/crates/fallible-iterator pdk
+/external/rust/crates/fallible-streaming-iterator pdk
 /external/rust/crates/futures pdk
 /external/rust/crates/futures-channel pdk
 /external/rust/crates/futures-core pdk
@@ -380,16 +402,21 @@
 /external/rust/crates/getrandom pdk
 /external/rust/crates/glob pdk
 /external/rust/crates/heck pdk
+/external/rust/crates/itoa pdk
 /external/rust/crates/lazy_static pdk
 /external/rust/crates/lazycell pdk
 /external/rust/crates/libc pdk
 /external/rust/crates/libloading pdk
+/external/rust/crates/libsqlite3-sys pdk
+/external/rust/crates/linked-hash-map pdk
 /external/rust/crates/log pdk
+/external/rust/crates/lru-cache pdk
 /external/rust/crates/memchr pdk
 /external/rust/crates/nom pdk
+/external/rust/crates/num-derive pdk
+/external/rust/crates/num-traits pdk
 /external/rust/crates/once_cell pdk
 /external/rust/crates/paste pdk
-/external/rust/crates/paste-impl pdk
 /external/rust/crates/peeking_take_while pdk
 /external/rust/crates/pin-project pdk
 /external/rust/crates/pin-project-internal pdk
@@ -409,9 +436,14 @@
 /external/rust/crates/regex pdk
 /external/rust/crates/regex-syntax pdk
 /external/rust/crates/remain pdk
+/external/rust/crates/rusqlite pdk
 /external/rust/crates/rustc-hash pdk
+/external/rust/crates/ryu pdk
+/external/rust/crates/serde pdk
+/external/rust/crates/serde_json pdk
 /external/rust/crates/shlex pdk
 /external/rust/crates/slab pdk
+/external/rust/crates/smallvec pdk
 /external/rust/crates/structopt pdk
 /external/rust/crates/structopt-derive pdk
 /external/rust/crates/syn pdk
@@ -421,6 +453,7 @@
 /external/rust/crates/thiserror pdk
 /external/rust/crates/thiserror-impl pdk
 /external/rust/crates/thread_local pdk
+/external/rust/crates/time pdk
 /external/rust/crates/unicode-segmentation pdk
 /external/rust/crates/unicode-width pdk
 /external/rust/crates/unicode-xid pdk
@@ -437,7 +470,7 @@
 /external/shaderc/spirv-headers pdk
 /external/shflags pdk
 /external/skia pdk qcom_msm8x26
-/external/skqp cts
+/external/skqp cts pdk
 /external/sl4a pdk
 /external/slf4j pdk
 /external/smali pdk
@@ -455,6 +488,7 @@
 /external/tcpdump pdk
 /external/tensorflow pdk
 /external/testng pdk
+/external/timezone-boundary-builder pdk
 /external/tinyalsa pdk
 /external/tinycompress pdk
 /external/tinyxml pdk
@@ -483,6 +517,7 @@
 /external/wayland-protocols pdk
 /external/webp pdk qcom_msm8x26
 /external/webrtc pdk
+/external/webrtc_legacy pdk
 /external/wpa_supplicant_8 pdk
 /external/wycheproof pdk
 /external/xmp_toolkit pdk
@@ -501,8 +536,10 @@
 /frameworks/ex pdk-fs pdk-cw-fs
 /frameworks/hardware/interfaces pdk
 /frameworks/layoutlib pdk-fs pdk-cw-fs
+/frameworks/libs/modules-utils pdk-fs pdk-cw-fs
 /frameworks/libs/native_bridge_support pdk
 /frameworks/libs/net pdk-fs pdk-cw-fs
+/frameworks/libs/systemui pdk-fs pdk-cw-fs
 /frameworks/minikin pdk-fs pdk-cw-fs
 /frameworks/ml pdk
 /frameworks/multidex pdk-fs pdk-cw-fs
@@ -513,6 +550,7 @@
 /frameworks/opt/car/setupwizard pdk
 /frameworks/opt/chips pdk-fs pdk-cw-fs
 /frameworks/opt/colorpicker pdk-fs pdk-cw-fs
+/frameworks/opt/localepicker
 /frameworks/opt/net/ethernet pdk-fs
 /frameworks/opt/net/ims pdk-fs pdk-cw-fs frameworks_ims
 /frameworks/opt/net/voip pdk-fs pdk-cw-fs
@@ -521,6 +559,7 @@
 /frameworks/opt/setupwizard pdk-fs pdk-cw-fs
 /frameworks/opt/telephony pdk
 /frameworks/opt/timezonepicker pdk-fs pdk-cw-fs
+/frameworks/opt/tv/tvsystem pdk-fs pdk-cw-fs
 /frameworks/opt/vcard pdk-fs pdk-cw-fs
 /frameworks/rs pdk
 /frameworks/wilhelm pdk-fs pdk-cw-fs
@@ -528,13 +567,14 @@
 /hardware/broadcom/wlan broadcom_wlan pdk
 /hardware/google/apf pdk
 /hardware/google/av pdk
+/hardware/google/camera pdk
 /hardware/google/easel easel pdk
 /hardware/google/interfaces pdk
 /hardware/google/pixel generic_fs pixel
 /hardware/google/pixel-sepolicy generic_fs pixel
 /hardware/interfaces pdk
 /hardware/invensense invensense pdk
-/hardware/knowles/athletico/sound_trigger_hal coral
+/hardware/knowles/athletico/sound_trigger_hal generic_fs coral
 /hardware/libhardware pdk
 /hardware/libhardware_legacy pdk
 /hardware/nxp/nfc pdk
@@ -565,12 +605,14 @@
 /hardware/qcom/sdm845/media generic_fs qcom_sdm845
 /hardware/qcom/sdm845/thermal generic_fs qcom_sdm845
 /hardware/qcom/sdm845/vr generic_fs qcom_sdm845
+/hardware/qcom/sm7150/gps qcom_sm7150
 /hardware/qcom/sm8150/data/ipacfg-mgr qcom_sm8150
 /hardware/qcom/sm8150/display qcom_sm8150
 /hardware/qcom/sm8150/gps qcom_sm8150
 /hardware/qcom/sm8150/media qcom_sm8150
 /hardware/qcom/sm8150/thermal qcom_sm8150
 /hardware/qcom/sm8150/vr qcom_sm8150
+/hardware/qcom/sm8150p/gps qcom_sm8150p
 /hardware/qcom/wlan qcom_wlan pdk-qcom
 /hardware/ril pdk
 /hardware/st/nfc pdk
@@ -584,22 +626,21 @@
 /packages/apps/Browser2 pdk-fs
 /packages/apps/Calendar pdk-fs
 /packages/apps/Camera2 pdk-fs
+/packages/apps/Car/Calendar pdk-fs
 /packages/apps/Car/Cluster pdk-fs
 /packages/apps/Car/CompanionDeviceSupport pdk-fs
 /packages/apps/Car/Dialer pdk-fs
 /packages/apps/Car/Hvac pdk-fs
 /packages/apps/Car/LatinIME pdk-fs
 /packages/apps/Car/Launcher pdk-fs
-/packages/apps/Car/LensPicker pdk-fs
 /packages/apps/Car/LinkViewer pdk-fs
 /packages/apps/Car/LocalMediaPlayer pdk-fs
 /packages/apps/Car/Media pdk-fs
 /packages/apps/Car/Messenger pdk-fs
 /packages/apps/Car/Notification pdk-fs
-/packages/apps/Car/Overview pdk-fs
 /packages/apps/Car/Radio pdk-fs
+/packages/apps/Car/RotaryController pdk-fs
 /packages/apps/Car/Settings pdk-fs
-/packages/apps/Car/Stream pdk-fs
 /packages/apps/Car/SystemUpdater pdk-fs
 /packages/apps/Car/libs pdk-fs
 /packages/apps/Car/tests pdk-fs
@@ -623,11 +664,13 @@
 /packages/apps/Music pdk-fs
 /packages/apps/MusicFX pdk-fs
 /packages/apps/Nfc apps_nfc pdk-fs
+/packages/apps/OnDeviceAppPrediction pdk-fs
 /packages/apps/OneTimeInitializer pdk-fs
 /packages/apps/PermissionController pdk-fs pdk-cw-fs
 /packages/apps/PhoneCommon pdk-fs pdk-cw-fs
 /packages/apps/Protips pdk-fs
 /packages/apps/Provision pdk-fs
+/packages/apps/QuickAccessWallet pdk-fs
 /packages/apps/QuickSearchBox pdk-fs
 /packages/apps/SafetyRegulatoryInfo pdk-fs
 /packages/apps/SampleLocationAttribution pdk-fs
@@ -657,6 +700,7 @@
 /packages/modules/Cronet pdk-fs pdk-cw-fs
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
 /packages/modules/ExtServices pdk-fs pdk-cw-fs
+/packages/modules/Gki pdk-fs pdk-cw-fs
 /packages/modules/IPsec pdk
 /packages/modules/ModuleMetadata pdk
 /packages/modules/NetworkPermissionConfig pdk-fs pdk-cw-fs
@@ -682,8 +726,10 @@
 /packages/services/BuiltInPrintService pdk-fs pdk-cw-fs
 /packages/services/Car pdk-fs pdk-cw-fs
 /packages/services/Mms pdk-fs pdk-cw-fs
+/packages/services/Mtp pdk-fs pdk-cw-fs
 /packages/services/Telecomm pdk-fs pdk-cw-fs
 /packages/services/Telephony pdk-fs pdk-cw-fs
+/packages/wallpapers/ImageWallpaper pdk-fs
 /packages/wallpapers/LivePicker pdk-fs
 /pdk pdk
 /platform_testing pdk-fs cts pdk-cw-fs
@@ -733,6 +779,7 @@
 /prebuilts/qemu-kernel pdk
 /prebuilts/r8 pdk
 /prebuilts/remoteexecution-client pdk
+/prebuilts/runtime pdk
 /prebuilts/rust pdk
 /prebuilts/sdk pdk
 /prebuilts/tools pdk tools
@@ -817,21 +864,24 @@
 /tools/asuite pdk
 /tools/base notdefault tools
 /tools/build notdefault tools
+/tools/carrier_settings tools
 /tools/currysrc pdk
 /tools/dexter pdk-fs tools
-/tools/doc_generation tools
+/tools/doc_generation pdk tools
 /tools/external/fat32lib tools
 /tools/external_updater tools
 /tools/idea notdefault tools
 /tools/loganalysis tradefed pdk nopresubmit
 /tools/metalava pdk tools
 /tools/motodev notdefault motodev
+/tools/ndkports pdk
 /tools/repohooks cts tradefed developers pdk tools adt-infra motodev
 /tools/security pdk tools
 /tools/studio/cloud notdefault tools
 /tools/swt notdefault tools
 /tools/test/connectivity pdk
 /tools/test/graphicsbenchmark pdk
+/tools/test/openhst tools
 /tools/tradefederation/core tradefed pdk
 /tools/tradefederation/contrib tradefed pdk
 /tools/treble pdk tools
