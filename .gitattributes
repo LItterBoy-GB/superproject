@@ -421,6 +421,7 @@
 /external/rust/crates/peeking_take_while pdk
 /external/rust/crates/pin-project pdk
 /external/rust/crates/pin-project-internal pdk
+/external/rust/crates/pin-project-lite pdk
 /external/rust/crates/pin-utils pdk
 /external/rust/crates/ppv-lite86 pdk
 /external/rust/crates/proc-macro-error pdk
@@ -455,6 +456,7 @@
 /external/rust/crates/thiserror-impl pdk
 /external/rust/crates/thread_local pdk
 /external/rust/crates/time pdk
+/external/rust/crates/tokio pdk
 /external/rust/crates/unicode-segmentation pdk
 /external/rust/crates/unicode-width pdk
 /external/rust/crates/unicode-xid pdk

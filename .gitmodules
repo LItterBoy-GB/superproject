@@ -1709,6 +1709,10 @@
 	branch = master
 	path = external/rust/crates/pin-project-internal
 	url = ../external/rust/crates/pin-project-internal
+[submodule "platform/external/rust/crates/pin-project-lite"]
+	branch = master
+	path = external/rust/crates/pin-project-lite
+	url = ../external/rust/crates/pin-project-lite
 [submodule "platform/external/rust/crates/pin-utils"]
 	branch = master
 	path = external/rust/crates/pin-utils
@@ -1845,6 +1849,10 @@
 	branch = master
 	path = external/rust/crates/time
 	url = ../external/rust/crates/time
+[submodule "platform/external/rust/crates/tokio"]
+	branch = master
+	path = external/rust/crates/tokio
+	url = ../external/rust/crates/tokio
 [submodule "platform/external/rust/crates/unicode-segmentation"]
 	branch = master
 	path = external/rust/crates/unicode-segmentation
