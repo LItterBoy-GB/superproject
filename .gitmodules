@@ -130,6 +130,9 @@
 	branch = emu-master-dev
 	path = external/openssl
 	url = ../external/openssl
+[submodule "platform/external/perfetto"]
+	path = external/perfetto
+	url = ../external/perfetto
 [submodule "platform/external/pixman"]
 	branch = emu-master-dev
 	path = external/pixman

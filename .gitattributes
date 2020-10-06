@@ -31,6 +31,7 @@
 /aosp/external/minijail
 /external/nasm
 /external/openssl
+/external/perfetto
 /external/pixman
 /external/protobuf
 /external/qemu
