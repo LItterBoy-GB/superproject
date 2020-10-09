@@ -84,6 +84,7 @@
 /system/libbase
 /system/libhwbinder
 /system/libziparchive
+/system/logging
 /system/tools/aidl
 /system/tools/hidl
 /toolchain/go
