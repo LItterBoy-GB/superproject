@@ -3371,6 +3371,10 @@
 	branch = master
 	path = system/linkerconfig
 	url = ../system/linkerconfig
+[submodule "platform/system/logging"]
+	branch = master
+	path = system/logging
+	url = ../system/logging
 [submodule "platform/system/media"]
 	branch = master
 	path = system/media

@@ -821,6 +821,7 @@
 /system/libvintf pdk
 /system/libziparchive pdk
 /system/linkerconfig pdk
+/system/logging pdk
 /system/media pdk
 /system/memory/libdmabufheap pdk
 /system/memory/libion pdk
