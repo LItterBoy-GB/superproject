@@ -64,6 +64,7 @@
 /bionic pdk
 /bootable/recovery pdk
 /build/make pdk
+/build/bazel pdk
 /build/blueprint tradefed pdk
 /build/soong tradefed pdk
 /compatibility/cdd pdk
@@ -739,6 +740,8 @@
 /prebuilts/abi-dumps/vndk pdk-fs
 /prebuilts/android-emulator pdk-fs
 /prebuilts/asuite pdk
+/prebuilts/bazel/darwin-x86_64 darwin pdk
+/prebuilts/bazel/linux-x86_64 pdk linux
 /prebuilts/build-tools pdk
 /prebuilts/bundletool pdk
 /prebuilts/checkcolor pdk
@@ -816,6 +819,7 @@
 /system/libvintf pdk
 /system/libziparchive pdk
 /system/linkerconfig pdk
+/system/logging pdk
 /system/media pdk
 /system/memory/libdmabufheap pdk
 /system/memory/libion pdk
