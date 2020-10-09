@@ -279,6 +279,10 @@
 	branch = master
 	path = build/make
 	url = ../build
+[submodule "platform/build/bazel"]
+	branch = master
+	path = build/bazel
+	url = ../build/bazel
 [submodule "platform/build/blueprint"]
 	branch = master
 	path = build/blueprint
@@ -2994,6 +2998,16 @@
 	shallow = true
 	path = prebuilts/asuite
 	url = ../prebuilts/asuite
+[submodule "platform/prebuilts/bazel/darwin-x86_64"]
+	branch = master
+	shallow = true
+	path = prebuilts/bazel/darwin-x86_64
+	url = ../prebuilts/bazel/darwin-x86_64
+[submodule "platform/prebuilts/bazel/linux-x86_64"]
+	branch = master
+	shallow = true
+	path = prebuilts/bazel/linux-x86_64
+	url = ../prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/build-tools"]
 	branch = master
 	shallow = true
