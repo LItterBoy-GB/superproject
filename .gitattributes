@@ -108,7 +108,6 @@
 /system/libbase pdk
 /system/libsysprop pdk
 /system/libziparchive pdk
-/system/logging pdk
 /system/memory/libmeminfo pdk
 /system/netd pdk
 /system/sepolicy pdk
