@@ -1869,6 +1869,10 @@
 	branch = master
 	path = external/rust/crates/unicode-xid
 	url = ../external/rust/crates/unicode-xid
+[submodule "platform/external/rust/crates/weak-table"]
+	branch = master
+	path = external/rust/crates/weak-table
+	url = ../external/rust/crates/weak-table
 [submodule "platform/external/rust/crates/which"]
 	branch = master
 	path = external/rust/crates/which

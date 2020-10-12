@@ -461,6 +461,7 @@
 /external/rust/crates/unicode-segmentation pdk
 /external/rust/crates/unicode-width pdk
 /external/rust/crates/unicode-xid pdk
+/external/rust/crates/weak-table pdk
 /external/rust/crates/which pdk
 /external/rust/cxx pdk
 /external/scapy pdk-fs
