@@ -69,17 +69,13 @@
 	url = ../frameworks/data-binding
 [submodule "platform/frameworks/layoutlib"]
 	branch = studio-master-dev
+	shallow = true
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
 [submodule "platform/frameworks/opt/sherpa"]
 	branch = studio-master-dev
 	path = tools/sherpa
 	url = ../frameworks/opt/sherpa
-[submodule "platform/prebuilts/android-emulator"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/android-emulator
-	url = ../prebuilts/android-emulator
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
 	branch = studio-master-dev
 	shallow = true
@@ -233,16 +229,11 @@
 	url = ../tools/external/fat32lib
 [submodule "platform/tools/external/gradle"]
 	branch = studio-master-dev
+	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
-[submodule "platform/tools/google_prebuilts/studio/sdk/remote"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/studio/sdk/remote
-	url = ../tools/google_prebuilts/studio/sdk/remote
 [submodule "platform/tools/gradle"]
 	branch = studio-master-dev
-	shallow = true
 	path = tools/gradle
 	url = ../tools/gradle
 [submodule "platform/tools/idea"]
@@ -269,10 +260,6 @@
 	branch = studio-master-dev
 	path = tools/studio/google/samples
 	url = ../tools/studio/google/samples
-[submodule "platform/tools/studio/google/services"]
-	branch = studio-master-dev
-	path = tools/studio/google/services
-	url = ../tools/studio/google/services
 [submodule "platform/tools/swing-testing"]
 	branch = studio-master-dev
 	path = tools/swing-testing
