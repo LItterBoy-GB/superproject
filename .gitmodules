@@ -2869,6 +2869,10 @@
 	branch = master
 	path = packages/modules/TestModule
 	url = ../packages/modules/TestModule
+[submodule "platform/packages/modules/Virtualization"]
+	branch = master
+	path = packages/modules/Virtualization
+	url = ../packages/modules/Virtualization
 [submodule "platform/packages/modules/vndk"]
 	branch = master
 	path = packages/modules/vndk
