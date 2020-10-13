@@ -256,6 +256,9 @@
 [submodule "platform/system/libziparchive"]
 	path = system/libziparchive
 	url = ../system/libziparchive
+[submodule "platform/system/logging"]
+	path = system/logging
+	url = ../system/logging
 [submodule "platform/system/tools/aidl"]
 	path = system/tools/aidl
 	url = ../system/tools/aidl
