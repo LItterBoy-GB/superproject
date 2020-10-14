@@ -1677,6 +1677,10 @@
 	branch = master
 	path = external/rust/crates/memchr
 	url = ../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/nix"]
+	branch = master
+	path = external/rust/crates/nix
+	url = ../external/rust/crates/nix
 [submodule "platform/external/rust/crates/nom"]
 	branch = master
 	path = external/rust/crates/nom
