@@ -1633,6 +1633,14 @@
 	branch = master
 	path = external/rust/crates/glob
 	url = ../external/rust/crates/glob
+[submodule "platform/external/rust/crates/grpcio"]
+	branch = master
+	path = external/rust/crates/grpcio
+	url = ../external/rust/crates/grpcio
+[submodule "platform/external/rust/crates/grpcio-sys"]
+	branch = master
+	path = external/rust/crates/grpcio-sys
+	url = ../external/rust/crates/grpcio-sys
 [submodule "platform/external/rust/crates/heck"]
 	branch = master
 	path = external/rust/crates/heck
@@ -1661,10 +1669,18 @@
 	branch = master
 	path = external/rust/crates/libsqlite3-sys
 	url = ../external/rust/crates/libsqlite3-sys
+[submodule "platform/external/rust/crates/libz-sys"]
+	branch = master
+	path = external/rust/crates/libz-sys
+	url = ../external/rust/crates/libz-sys
 [submodule "platform/external/rust/crates/linked-hash-map"]
 	branch = master
 	path = external/rust/crates/linked-hash-map
 	url = ../external/rust/crates/linked-hash-map
+[submodule "platform/external/rust/crates/lock_api"]
+	branch = master
+	path = external/rust/crates/lock_api
+	url = ../external/rust/crates/lock_api
 [submodule "platform/external/rust/crates/log"]
 	branch = master
 	path = external/rust/crates/log
@@ -1697,6 +1713,14 @@
 	branch = master
 	path = external/rust/crates/once_cell
 	url = ../external/rust/crates/once_cell
+[submodule "platform/external/rust/crates/parking_lot"]
+	branch = master
+	path = external/rust/crates/parking_lot
+	url = ../external/rust/crates/parking_lot
+[submodule "platform/external/rust/crates/parking_lot_core"]
+	branch = master
+	path = external/rust/crates/parking_lot_core
+	url = ../external/rust/crates/parking_lot_core
 [submodule "platform/external/rust/crates/paste"]
 	branch = master
 	path = external/rust/crates/paste
@@ -1793,6 +1817,10 @@
 	branch = master
 	path = external/rust/crates/ryu
 	url = ../external/rust/crates/ryu
+[submodule "platform/external/rust/crates/scopeguard"]
+	branch = master
+	path = external/rust/crates/scopeguard
+	url = ../external/rust/crates/scopeguard
 [submodule "platform/external/rust/crates/serde"]
 	branch = master
 	path = external/rust/crates/serde
