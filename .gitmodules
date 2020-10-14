@@ -238,3 +238,7 @@
 	branch = master
 	path = system/libziparchive
 	url = ../system/libziparchive
+[submodule "platform/system/logging"]
+	branch = master
+	path = system/logging
+	url = ../system/logging
