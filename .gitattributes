@@ -403,6 +403,8 @@
 /external/rust/crates/futures-util pdk
 /external/rust/crates/getrandom pdk
 /external/rust/crates/glob pdk
+/external/rust/crates/grpcio pdk
+/external/rust/crates/grpcio-sys pdk
 /external/rust/crates/heck pdk
 /external/rust/crates/itoa pdk
 /external/rust/crates/lazy_static pdk
@@ -410,7 +412,9 @@
 /external/rust/crates/libc pdk
 /external/rust/crates/libloading pdk
 /external/rust/crates/libsqlite3-sys pdk
+/external/rust/crates/libz-sys pdk
 /external/rust/crates/linked-hash-map pdk
+/external/rust/crates/lock_api pdk
 /external/rust/crates/log pdk
 /external/rust/crates/lru-cache pdk
 /external/rust/crates/memchr pdk
@@ -419,6 +423,8 @@
 /external/rust/crates/num-derive pdk
 /external/rust/crates/num-traits pdk
 /external/rust/crates/once_cell pdk
+/external/rust/crates/parking_lot pdk
+/external/rust/crates/parking_lot_core pdk
 /external/rust/crates/paste pdk
 /external/rust/crates/peeking_take_while pdk
 /external/rust/crates/pin-project pdk
@@ -443,6 +449,7 @@
 /external/rust/crates/rusqlite pdk
 /external/rust/crates/rustc-hash pdk
 /external/rust/crates/ryu pdk
+/external/rust/crates/scopeguard pdk
 /external/rust/crates/serde pdk
 /external/rust/crates/serde_json pdk
 /external/rust/crates/shlex pdk
