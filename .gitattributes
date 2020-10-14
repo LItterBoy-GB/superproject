@@ -414,6 +414,7 @@
 /external/rust/crates/log pdk
 /external/rust/crates/lru-cache pdk
 /external/rust/crates/memchr pdk
+/external/rust/crates/nix pdk
 /external/rust/crates/nom pdk
 /external/rust/crates/num-derive pdk
 /external/rust/crates/num-traits pdk
