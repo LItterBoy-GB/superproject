@@ -106,6 +106,7 @@
 /system/core pdk
 /system/extras pdk
 /system/libbase pdk
+/system/libprocinfo pdk
 /system/libsysprop pdk
 /system/libziparchive pdk
 /system/memory/libmeminfo pdk
@@ -116,6 +117,7 @@
 /system/tools/aidl pdk
 /system/tools/sysprop pdk
 /system/tools/xsdc pdk
+/system/unwinding pdk
 /test/suite_harness pdk-fs cts pdk-cw-fs
 /tools/apifinder pdk tools
 /tools/apksig tradefed pdk
