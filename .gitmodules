@@ -376,6 +376,10 @@
 	branch = master
 	path = system/tools/hidl
 	url = ../system/tools/hidl
+[submodule "platform/system/unwinding"]
+	branch = master
+	path = system/unwinding
+	url = ../system/unwinding
 [submodule "toolchain/go"]
 	branch = master
 	path = toolchain/go

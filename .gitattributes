@@ -87,6 +87,7 @@
 /system/logging
 /system/tools/aidl
 /system/tools/hidl
+/system/unwinding
 /toolchain/go
 /toolchain/m4
 /toolchain/make
