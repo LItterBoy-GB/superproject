@@ -829,6 +829,7 @@
 /system/libfmq pdk
 /system/libhidl pdk
 /system/libhwbinder pdk
+/system/libprocinfo pdk
 /system/libsysprop pdk
 /system/libufdt pdk
 /system/libvintf pdk
@@ -856,6 +857,7 @@
 /system/tools/mkbootimg pdk
 /system/tools/sysprop pdk
 /system/tools/xsdc pdk
+/system/unwinding pdk
 /system/update_engine pdk
 /system/vold pdk
 /test/app_compat/csuite
