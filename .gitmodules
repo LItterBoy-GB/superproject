@@ -2,3 +2,7 @@
 	branch = master
 	path = packages/apps/Car/CompanionDeviceSupport
 	url = ../packages/apps/Car/CompanionDeviceSupport
+[submodule "platform/tools/repohooks"]
+	branch = master
+	path = tools/repohooks
+	url = ../tools/repohooks
