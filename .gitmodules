@@ -3381,6 +3381,10 @@
 	branch = master
 	path = system/libhwbinder
 	url = ../system/libhwbinder
+[submodule "platform/system/libprocinfo"]
+	branch = master
+	path = system/libprocinfo
+	url = ../system/libprocinfo
 [submodule "platform/system/libsysprop"]
 	branch = master
 	path = system/libsysprop
@@ -3489,6 +3493,10 @@
 	branch = master
 	path = system/tools/xsdc
 	url = ../system/tools/xsdc
+[submodule "platform/system/unwinding"]
+	branch = master
+	path = system/unwinding
+	url = ../system/unwinding
 [submodule "platform/system/update_engine"]
 	branch = master
 	path = system/update_engine
