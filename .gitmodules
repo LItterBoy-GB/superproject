@@ -96,6 +96,19 @@
 	branch = master
 	path = device/google/bonito-sepolicy
 	url = ../../device/google/bonito-sepolicy
+[submodule "device/google/bramble"]
+	branch = master
+	path = device/google/bramble
+	url = ../../device/google/bramble
+[submodule "device/google/bramble-kernel"]
+	branch = master
+	shallow = true
+	path = device/google/bramble-kernel
+	url = ../../device/google/bramble-kernel
+[submodule "device/google/bramble-sepolicy"]
+	branch = master
+	path = device/google/bramble-sepolicy
+	url = ../../device/google/bramble-sepolicy
 [submodule "device/google/contexthub"]
 	branch = master
 	path = device/google/contexthub
@@ -153,6 +166,27 @@
 	branch = master
 	path = device/google/muskie
 	url = ../../device/google/muskie
+[submodule "device/google/redbull"]
+	branch = master
+	path = device/google/redbull
+	url = ../../device/google/redbull
+[submodule "device/google/redbull-sepolicy"]
+	branch = master
+	path = device/google/redbull-sepolicy
+	url = ../../device/google/redbull-sepolicy
+[submodule "device/google/redfin"]
+	branch = master
+	path = device/google/redfin
+	url = ../../device/google/redfin
+[submodule "device/google/redfin-kernel"]
+	branch = master
+	shallow = true
+	path = device/google/redfin-kernel
+	url = ../../device/google/redfin-kernel
+[submodule "device/google/redfin-sepolicy"]
+	branch = master
+	path = device/google/redfin-sepolicy
+	url = ../../device/google/redfin-sepolicy
 [submodule "device/google/sunfish"]
 	branch = master
 	path = device/google/sunfish
@@ -2504,6 +2538,18 @@
 	branch = master
 	path = hardware/qcom/sm7150/gps
 	url = ../hardware/qcom/sm7150/gps
+[submodule "platform/hardware/qcom/sm7250/display"]
+	branch = master
+	path = hardware/qcom/sm7250/display
+	url = ../hardware/qcom/sm7250/display
+[submodule "platform/hardware/qcom/sm7250/gps"]
+	branch = master
+	path = hardware/qcom/sm7250/gps
+	url = ../hardware/qcom/sm7250/gps
+[submodule "platform/hardware/qcom/sm7250/media"]
+	branch = master
+	path = hardware/qcom/sm7250/media
+	url = ../hardware/qcom/sm7250/media
 [submodule "platform/hardware/qcom/sm8150/data/ipacfg-mgr"]
 	branch = master
 	path = hardware/qcom/sm8150/data/ipacfg-mgr

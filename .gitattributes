@@ -22,6 +22,9 @@
 /device/google/bonito bonito device
 /device/google/bonito-kernel bonito device
 /device/google/bonito-sepolicy bonito device
+/device/google/bramble bramble device
+/device/google/bramble-kernel bramble device
+/device/google/bramble-sepolicy bramble device
 /device/google/contexthub pdk device
 /device/google/coral generic_fs coral device
 /device/google/coral-kernel generic_fs coral device
@@ -35,6 +38,11 @@
 /device/google/cuttlefish_vmm pdk device
 /device/google/fuchsia device
 /device/google/muskie generic_fs muskie device
+/device/google/redbull redbull device
+/device/google/redbull-sepolicy redbull device
+/device/google/redfin redfin device
+/device/google/redfin-kernel redfin device
+/device/google/redfin-sepolicy redfin device
 /device/google/sunfish sunfish device
 /device/google/sunfish-kernel sunfish device
 /device/google/sunfish-sepolicy sunfish device
@@ -619,6 +627,9 @@
 /hardware/qcom/sdm845/thermal generic_fs qcom_sdm845
 /hardware/qcom/sdm845/vr generic_fs qcom_sdm845
 /hardware/qcom/sm7150/gps qcom_sm7150
+/hardware/qcom/sm7250/display qcom_sm7250
+/hardware/qcom/sm7250/gps qcom_sm7250
+/hardware/qcom/sm7250/media qcom_sm7250
 /hardware/qcom/sm8150/data/ipacfg-mgr qcom_sm8150
 /hardware/qcom/sm8150/display qcom_sm8150
 /hardware/qcom/sm8150/gps qcom_sm8150
