@@ -265,6 +265,9 @@
 [submodule "platform/system/tools/hidl"]
 	path = system/tools/hidl
 	url = ../system/tools/hidl
+[submodule "platform/system/unwinding"]
+	path = system/unwinding
+	url = ../system/unwinding
 [submodule "toolchain/go"]
 	path = toolchain/go
 	url = ../../toolchain/go
