@@ -533,6 +533,7 @@
 /external/vboot_reference pdk-fs vboot
 /external/virglrenderer pdk
 /external/vixl pdk
+/external/vm_tools/p9 pdk
 /external/vogar pdk
 /external/volley pdk
 /external/vulkan-headers pdk

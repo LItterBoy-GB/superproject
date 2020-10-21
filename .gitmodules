@@ -2161,6 +2161,10 @@
 	branch = master
 	path = external/vixl
 	url = ../external/vixl
+[submodule "platform/external/vm_tools/p9"]
+	branch = master
+	path = external/vm_tools/p9
+	url = ../external/vm_tools/p9
 [submodule "platform/external/vogar"]
 	branch = master
 	path = external/vogar
