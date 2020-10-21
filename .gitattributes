@@ -414,6 +414,7 @@
 /external/rust/crates/grpcio pdk
 /external/rust/crates/grpcio-sys pdk
 /external/rust/crates/heck pdk
+/external/rust/crates/instant pdk
 /external/rust/crates/itoa pdk
 /external/rust/crates/lazy_static pdk
 /external/rust/crates/lazycell pdk

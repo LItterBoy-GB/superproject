@@ -1682,6 +1682,10 @@
 	branch = master
 	path = external/rust/crates/heck
 	url = ../external/rust/crates/heck
+[submodule "platform/external/rust/crates/instant"]
+	branch = master
+	path = external/rust/crates/instant
+	url = ../external/rust/crates/instant
 [submodule "platform/external/rust/crates/itoa"]
 	branch = master
 	path = external/rust/crates/itoa
