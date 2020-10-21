@@ -395,6 +395,7 @@
 /external/rust/crates/clang-sys pdk
 /external/rust/crates/clap pdk
 /external/rust/crates/codespan-reporting pdk
+/external/rust/crates/const_fn pdk
 /external/rust/crates/env_logger pdk
 /external/rust/crates/fallible-iterator pdk
 /external/rust/crates/fallible-streaming-iterator pdk
@@ -461,6 +462,7 @@
 /external/rust/crates/shlex pdk
 /external/rust/crates/slab pdk
 /external/rust/crates/smallvec pdk
+/external/rust/crates/standback pdk
 /external/rust/crates/structopt pdk
 /external/rust/crates/structopt-derive pdk
 /external/rust/crates/syn pdk
@@ -471,6 +473,8 @@
 /external/rust/crates/thiserror-impl pdk
 /external/rust/crates/thread_local pdk
 /external/rust/crates/time pdk
+/external/rust/crates/time-macros pdk
+/external/rust/crates/time-macros-impl pdk
 /external/rust/crates/tokio pdk
 /external/rust/crates/unicode-segmentation pdk
 /external/rust/crates/unicode-width pdk
