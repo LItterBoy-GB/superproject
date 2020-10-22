@@ -28,6 +28,9 @@
 [submodule "platform/frameworks/support-golden"]
 	path = golden
 	url = ../frameworks/support-golden
+[submodule "platform/manifest"]
+	path = manifest
+	url = ../manifest
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	path = prebuilts/androidx/exoplayer
 	url = ../prebuilts/androidx/exoplayer
@@ -49,6 +52,9 @@
 [submodule "platform/prebuilts/fullsdk-darwin/build-tools/29.0.3"]
 	path = prebuilts/fullsdk-darwin/build-tools/29.0.3
 	url = ../prebuilts/fullsdk-darwin/build-tools/29.0.3
+[submodule "platform/prebuilts/fullsdk-darwin/build-tools/30.0.2"]
+	path = prebuilts/fullsdk-darwin/build-tools/30.0.2
+	url = ../prebuilts/fullsdk-darwin/build-tools/30.0.2
 [submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
 	path = prebuilts/fullsdk-darwin/platform-tools
 	url = ../prebuilts/fullsdk-darwin/platform-tools
@@ -58,21 +64,18 @@
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/29.0.3"]
 	path = prebuilts/fullsdk-linux/build-tools/29.0.3
 	url = ../prebuilts/fullsdk-linux/build-tools/29.0.3
+[submodule "platform/prebuilts/fullsdk-linux/build-tools/30.0.2"]
+	path = prebuilts/fullsdk-linux/build-tools/30.0.2
+	url = ../prebuilts/fullsdk-linux/build-tools/30.0.2
 [submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
 	path = prebuilts/fullsdk-linux/platform-tools
 	url = ../prebuilts/fullsdk-linux/platform-tools
 [submodule "platform/prebuilts/fullsdk-linux/tools"]
 	path = prebuilts/fullsdk-linux/tools
 	url = ../prebuilts/fullsdk-linux/tools
-[submodule "platform/prebuilts/fullsdk/platforms/android-29"]
-	path = prebuilts/fullsdk-darwin/platforms/android-29
-	url = ../prebuilts/fullsdk/platforms/android-29
 [submodule "platform/prebuilts/fullsdk/platforms/android-30"]
 	path = prebuilts/fullsdk-darwin/platforms/android-30
 	url = ../prebuilts/fullsdk/platforms/android-30
-[submodule "platform/prebuilts/fullsdk/sources/android-29"]
-	path = prebuilts/fullsdk-darwin/sources/android-29
-	url = ../prebuilts/fullsdk/sources/android-29
 [submodule "platform/prebuilts/fullsdk/sources/android-30"]
 	path = prebuilts/fullsdk-darwin/sources/android-30
 	url = ../prebuilts/fullsdk/sources/android-30
@@ -91,6 +94,9 @@
 [submodule "platform/tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks
-[submodule "toolchain/prebuilts/ndk/r20"]
+[submodule "toolchain/prebuilts/ndk-darwin/r21"]
 	path = prebuilts/fullsdk-darwin/ndk
-	url = ../../toolchain/prebuilts/ndk/r20
+	url = ../../toolchain/prebuilts/ndk-darwin/r21
+[submodule "toolchain/prebuilts/ndk/r21"]
+	path = prebuilts/fullsdk-linux/ndk
+	url = ../../toolchain/prebuilts/ndk/r21
