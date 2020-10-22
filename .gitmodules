@@ -3638,6 +3638,10 @@
 	branch = master
 	path = test/vts-testcase/vndk
 	url = ../test/vts-testcase/vndk
+[submodule "platform/tools/aadevtools"]
+	branch = master
+	path = tools/aadevtools
+	url = ../tools/aadevtools
 [submodule "platform/tools/acloud"]
 	branch = master
 	path = tools/acloud
