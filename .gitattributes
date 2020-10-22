@@ -894,6 +894,7 @@
 /test/vts-testcase/performance vts pdk projectarch
 /test/vts-testcase/security vts pdk projectarch
 /test/vts-testcase/vndk vts pdk
+/tools/aadevtools pdk
 /tools/acloud vts tradefed pdk tools projectarch
 /tools/adt/idea notdefault tools
 /tools/apifinder pdk tools
