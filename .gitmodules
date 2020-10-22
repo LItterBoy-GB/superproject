@@ -1950,6 +1950,10 @@
 	branch = master
 	path = external/rust/crates/unicode-xid
 	url = ../external/rust/crates/unicode-xid
+[submodule "platform/external/rust/crates/vsock"]
+	branch = master
+	path = external/rust/crates/vsock
+	url = ../external/rust/crates/vsock
 [submodule "platform/external/rust/crates/weak-table"]
 	branch = master
 	path = external/rust/crates/weak-table
