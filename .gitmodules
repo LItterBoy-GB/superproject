@@ -1622,6 +1622,10 @@
 	branch = master
 	path = external/rust/crates/fallible-streaming-iterator
 	url = ../external/rust/crates/fallible-streaming-iterator
+[submodule "platform/external/rust/crates/fnv"]
+	branch = master
+	path = external/rust/crates/fnv
+	url = ../external/rust/crates/fnv
 [submodule "platform/external/rust/crates/futures"]
 	branch = master
 	path = external/rust/crates/futures
@@ -1730,6 +1734,10 @@
 	branch = master
 	path = external/rust/crates/memchr
 	url = ../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/mio"]
+	branch = master
+	path = external/rust/crates/mio
+	url = ../external/rust/crates/mio
 [submodule "platform/external/rust/crates/nix"]
 	branch = master
 	path = external/rust/crates/nix
@@ -1746,6 +1754,10 @@
 	branch = master
 	path = external/rust/crates/num-traits
 	url = ../external/rust/crates/num-traits
+[submodule "platform/external/rust/crates/num_cpus"]
+	branch = master
+	path = external/rust/crates/num_cpus
+	url = ../external/rust/crates/num_cpus
 [submodule "platform/external/rust/crates/once_cell"]
 	branch = master
 	path = external/rust/crates/once_cell
@@ -1934,6 +1946,10 @@
 	branch = master
 	path = external/rust/crates/tokio
 	url = ../external/rust/crates/tokio
+[submodule "platform/external/rust/crates/tokio-macros"]
+	branch = master
+	path = external/rust/crates/tokio-macros
+	url = ../external/rust/crates/tokio-macros
 [submodule "platform/external/rust/crates/unicode-segmentation"]
 	branch = master
 	path = external/rust/crates/unicode-segmentation
