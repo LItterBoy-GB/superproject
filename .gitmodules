@@ -97,6 +97,9 @@
 [submodule "platform/external/openssl"]
 	path = external/openssl
 	url = ../external/openssl
+[submodule "platform/external/perfetto"]
+	path = external/perfetto
+	url = ../external/perfetto
 [submodule "platform/external/pixman"]
 	path = external/pixman
 	url = ../external/pixman
