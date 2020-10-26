@@ -322,6 +322,10 @@
 	branch = master
 	path = packages/modules/DnsResolver
 	url = ../packages/modules/DnsResolver
+[submodule "platform/packages/modules/adb"]
+	branch = master
+	path = packages/modules/adb
+	url = ../packages/modules/adb
 [submodule "platform/packages/modules/vndk"]
 	branch = master
 	path = packages/modules/vndk
