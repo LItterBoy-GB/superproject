@@ -740,6 +740,7 @@
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
 /packages/modules/TestModule
 /packages/modules/Virtualization pdk
+/packages/modules/adb pdk
 /packages/modules/vndk pdk-fs pdk-cw-fs
 /packages/providers/BlockedNumberProvider pdk-fs
 /packages/providers/BookmarkProvider pdk-fs
