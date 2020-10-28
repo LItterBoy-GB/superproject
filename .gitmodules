@@ -1608,7 +1608,7 @@
 	path = external/tcpdump
 	url = ../external/tcpdump
 [submodule "platform/external/tensorflow"]
-	branch = android11-release
+	branch = android11-tests-dev
 	path = external/tensorflow
 	url = ../external/tensorflow
 [submodule "platform/external/testng"]
