@@ -158,6 +158,7 @@
 /external/eigen pdk
 /external/elfutils pdk
 /external/emma pdk
+/external/erofs-utils pdk
 /external/error_prone pdk
 /external/escapevelocity pdk
 /external/ethtool pdk
