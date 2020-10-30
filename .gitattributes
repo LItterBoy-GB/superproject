@@ -16,9 +16,11 @@
 /prebuilts/fullsdk-darwin/cmake notdefault platform-darwin
 /prebuilts/fullsdk-linux/cmake platform-linux notdefault
 /prebuilts/fullsdk-darwin/build-tools/29.0.3 notdefault platform-darwin
+/prebuilts/fullsdk-darwin/build-tools/30.0.2 notdefault platform-darwin
 /prebuilts/fullsdk-darwin/platform-tools notdefault platform-darwin
 /prebuilts/fullsdk-darwin/tools notdefault platform-darwin
 /prebuilts/fullsdk-linux/build-tools/29.0.3 platform-linux notdefault
+/prebuilts/fullsdk-linux/build-tools/30.0.2 platform-linux notdefault
 /prebuilts/fullsdk-linux/platform-tools platform-linux notdefault
 /prebuilts/fullsdk-linux/tools platform-linux notdefault
 /prebuilts/fullsdk-darwin/platforms/android-30
