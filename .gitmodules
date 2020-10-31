@@ -2954,6 +2954,10 @@
 	branch = master
 	path = packages/modules/CellBroadcastService
 	url = ../packages/modules/CellBroadcastService
+[submodule "platform/packages/modules/Connectivity"]
+	branch = master
+	path = packages/modules/Connectivity
+	url = ../packages/modules/Connectivity
 [submodule "platform/packages/modules/Cronet"]
 	branch = master
 	path = packages/modules/Cronet
