@@ -413,6 +413,7 @@
 /external/rust/crates/getrandom pdk
 /external/rust/crates/glob pdk
 /external/rust/crates/grpcio pdk
+/external/rust/crates/grpcio-compiler pdk
 /external/rust/crates/grpcio-sys pdk
 /external/rust/crates/heck pdk
 /external/rust/crates/instant pdk
