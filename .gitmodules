@@ -12,3 +12,7 @@
 	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
+[submodule "platform/tools/repohooks"]
+	branch = master
+	path = tools/repohooks
+	url = ../tools/repohooks
