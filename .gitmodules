@@ -1682,6 +1682,10 @@
 	branch = master
 	path = external/rust/crates/grpcio
 	url = ../external/rust/crates/grpcio
+[submodule "platform/external/rust/crates/grpcio-compiler"]
+	branch = master
+	path = external/rust/crates/grpcio-compiler
+	url = ../external/rust/crates/grpcio-compiler
 [submodule "platform/external/rust/crates/grpcio-sys"]
 	branch = master
 	path = external/rust/crates/grpcio-sys
