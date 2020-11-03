@@ -10,18 +10,10 @@
 	branch = master
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
-[submodule "device/google/cuttlefish_vmm"]
-	branch = master
-	path = device/google/cuttlefish_vmm
-	url = ../../device/google/cuttlefish_vmm
 [submodule "platform/build"]
 	branch = emu-master-dev
 	path = build
 	url = ../build
-[submodule "platform/external/adhd"]
-	branch = crosvm-master
-	path = third_party/adhd
-	url = ../external/adhd
 [submodule "platform/external/adt-infra"]
 	branch = emu-master-dev
 	path = external/adt-infra
@@ -47,10 +39,6 @@
 	branch = emu-master-dev
 	path = external/cares
 	url = ../external/c-ares
-[submodule "platform/external/crosvm"]
-	branch = crosvm-master
-	path = platform/crosvm
-	url = ../external/crosvm
 [submodule "platform/external/curl"]
 	branch = emu-master-dev
 	path = external/curl
@@ -78,18 +66,6 @@
 	branch = emu-master-dev
 	path = external/grpc
 	url = ../external/grpc-grpc
-[submodule "platform/external/libcap"]
-	branch = master
-	path = external/libcap
-	url = ../external/libcap
-[submodule "platform/external/libdrm"]
-	branch = master
-	path = external/libdrm
-	url = ../external/libdrm
-[submodule "platform/external/libepoxy"]
-	branch = crosvm-master
-	path = third_party/libepoxy
-	url = ../external/libepoxy
 [submodule "platform/external/libffi"]
 	branch = emu-master-dev
 	path = external/libffi
@@ -114,14 +90,6 @@
 	branch = emu-master-dev
 	path = external/lz4
 	url = ../external/lz4
-[submodule "platform/external/minigbm"]
-	branch = crosvm-master
-	path = third_party/minigbm
-	url = ../external/minigbm
-[submodule "platform/external/minijail"]
-	branch = master
-	path = aosp/external/minijail
-	url = ../external/minijail
 [submodule "platform/external/nasm"]
 	branch = emu-master-dev
 	path = external/nasm
@@ -149,38 +117,6 @@
 	branch = emu-master-dev
 	path = external/qt
 	url = ../external/qt
-[submodule "platform/external/rust/crates/bitflags"]
-	branch = master
-	path = external/rust/crates/bitflags
-	url = ../external/rust/crates/bitflags
-[submodule "platform/external/rust/crates/byteorder"]
-	branch = master
-	path = external/rust/crates/byteorder
-	url = ../external/rust/crates/byteorder
-[submodule "platform/external/rust/crates/libc"]
-	branch = master
-	path = external/rust/crates/libc
-	url = ../external/rust/crates/libc
-[submodule "platform/external/rust/crates/proc-macro2"]
-	branch = master
-	path = external/rust/crates/proc-macro2
-	url = ../external/rust/crates/proc-macro2
-[submodule "platform/external/rust/crates/quote"]
-	branch = master
-	path = external/rust/crates/quote
-	url = ../external/rust/crates/quote
-[submodule "platform/external/rust/crates/remain"]
-	branch = master
-	path = external/rust/crates/remain
-	url = ../external/rust/crates/remain
-[submodule "platform/external/rust/crates/syn"]
-	branch = master
-	path = external/rust/crates/syn
-	url = ../external/rust/crates/syn
-[submodule "platform/external/rust/crates/unicode-xid"]
-	branch = master
-	path = external/rust/crates/unicode-xid
-	url = ../external/rust/crates/unicode-xid
 [submodule "platform/external/sdl2"]
 	branch = emu-master-dev
 	path = external/sdl2
@@ -308,11 +244,6 @@
 	shallow = true
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
-[submodule "platform/prebuilts/rust"]
-	branch = master
-	shallow = true
-	path = prebuilts/rust
-	url = ../prebuilts/rust
 [submodule "platform/prebuilts/tools"]
 	branch = master
 	shallow = true
