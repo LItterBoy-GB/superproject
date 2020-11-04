@@ -1614,10 +1614,6 @@
 	branch = master
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
-[submodule "platform/external/rust/crates/const_fn"]
-	branch = master
-	path = external/rust/crates/const_fn
-	url = ../external/rust/crates/const_fn
 [submodule "platform/external/rust/crates/env_logger"]
 	branch = master
 	path = external/rust/crates/env_logger
@@ -1902,10 +1898,6 @@
 	branch = master
 	path = external/rust/crates/smallvec
 	url = ../external/rust/crates/smallvec
-[submodule "platform/external/rust/crates/standback"]
-	branch = master
-	path = external/rust/crates/standback
-	url = ../external/rust/crates/standback
 [submodule "platform/external/rust/crates/structopt"]
 	branch = master
 	path = external/rust/crates/structopt
@@ -1942,18 +1934,6 @@
 	branch = master
 	path = external/rust/crates/thread_local
 	url = ../external/rust/crates/thread_local
-[submodule "platform/external/rust/crates/time"]
-	branch = master
-	path = external/rust/crates/time
-	url = ../external/rust/crates/time
-[submodule "platform/external/rust/crates/time-macros"]
-	branch = master
-	path = external/rust/crates/time-macros
-	url = ../external/rust/crates/time-macros
-[submodule "platform/external/rust/crates/time-macros-impl"]
-	branch = master
-	path = external/rust/crates/time-macros-impl
-	url = ../external/rust/crates/time-macros-impl
 [submodule "platform/external/rust/crates/tokio"]
 	branch = master
 	path = external/rust/crates/tokio
