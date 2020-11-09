@@ -1614,6 +1614,10 @@
 	branch = master
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
+[submodule "platform/external/rust/crates/downcast-rs"]
+	branch = master
+	path = external/rust/crates/downcast-rs
+	url = ../external/rust/crates/downcast-rs
 [submodule "platform/external/rust/crates/env_logger"]
 	branch = master
 	path = external/rust/crates/env_logger
