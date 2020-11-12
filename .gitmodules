@@ -1562,6 +1562,10 @@
 	branch = master
 	path = external/rootdev
 	url = ../external/rootdev
+[submodule "platform/external/rust/crates/ahash"]
+	branch = master
+	path = external/rust/crates/ahash
+	url = ../external/rust/crates/ahash
 [submodule "platform/external/rust/crates/aho-corasick"]
 	branch = master
 	path = external/rust/crates/aho-corasick
@@ -1690,6 +1694,14 @@
 	branch = master
 	path = external/rust/crates/grpcio-sys
 	url = ../external/rust/crates/grpcio-sys
+[submodule "platform/external/rust/crates/hashbrown"]
+	branch = master
+	path = external/rust/crates/hashbrown
+	url = ../external/rust/crates/hashbrown
+[submodule "platform/external/rust/crates/hashlink"]
+	branch = master
+	path = external/rust/crates/hashlink
+	url = ../external/rust/crates/hashlink
 [submodule "platform/external/rust/crates/heck"]
 	branch = master
 	path = external/rust/crates/heck

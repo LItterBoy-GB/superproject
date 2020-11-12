@@ -384,6 +384,7 @@
 /external/robolectric-shadows pdk-fs pdk-cw-fs
 /external/roboto-fonts pdk
 /external/rootdev pdk
+/external/rust/crates/ahash pdk
 /external/rust/crates/aho-corasick pdk
 /external/rust/crates/android_log-sys pdk
 /external/rust/crates/android_logger pdk
@@ -416,6 +417,8 @@
 /external/rust/crates/grpcio pdk
 /external/rust/crates/grpcio-compiler pdk
 /external/rust/crates/grpcio-sys pdk
+/external/rust/crates/hashbrown pdk
+/external/rust/crates/hashlink pdk
 /external/rust/crates/heck pdk
 /external/rust/crates/instant pdk
 /external/rust/crates/itoa pdk
