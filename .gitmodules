@@ -1,7 +1,26 @@
+[submodule "platform/external/ukey2"]
+	branch = master
+	path = external/ukey2
+	url = ../external/ukey2
 [submodule "platform/packages/apps/Car/CompanionDeviceSupport"]
 	branch = master
 	path = packages/apps/Car/CompanionDeviceSupport
 	url = ../packages/apps/Car/CompanionDeviceSupport
+[submodule "platform/prebuilts/checkstyle"]
+	branch = master
+	shallow = true
+	path = prebuilts/checkstyle
+	url = ../prebuilts/checkstyle
+[submodule "platform/prebuilts/ktlint"]
+	branch = master
+	shallow = true
+	path = prebuilts/ktlint
+	url = ../prebuilts/ktlint
+[submodule "platform/prebuilts/sdk"]
+	branch = master
+	shallow = true
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
 [submodule "platform/tools/repohooks"]
 	branch = master
 	path = tools/repohooks

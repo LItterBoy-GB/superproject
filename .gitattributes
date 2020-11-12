@@ -1,2 +1,6 @@
+/external/ukey2 pdk
 /packages/apps/Car/CompanionDeviceSupport pdk-fs
+/prebuilts/checkstyle pdk
+/prebuilts/ktlint pdk
+/prebuilts/sdk pdk
 /tools/repohooks cts tradefed developers pdk tools adt-infra motodev
