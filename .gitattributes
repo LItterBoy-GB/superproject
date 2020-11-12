@@ -6,6 +6,8 @@
 /device/google/cuttlefish_kernel device
 /device/google/cuttlefish_vmm device
 /device/google/trout trout device gull
+/device/linaro/dragonboard dragonboard pdk device
+/device/linaro/dragonboard-kernel dragonboard pdk device
 /device/sample pdk
 /kernel/build
 /kernel/configs vts pdk
