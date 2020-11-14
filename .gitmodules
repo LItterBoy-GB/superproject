@@ -3414,10 +3414,6 @@
 	branch = master
 	path = system/connectivity/wificond
 	url = ../system/connectivity/wificond
-[submodule "platform/system/connectivity/wifilogd"]
-	branch = master
-	path = system/connectivity/wifilogd
-	url = ../system/connectivity/wifilogd
 [submodule "platform/system/core"]
 	branch = master
 	path = system/core
