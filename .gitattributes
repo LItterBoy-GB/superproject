@@ -838,7 +838,6 @@
 /system/ca-certificates pdk
 /system/chre pdk
 /system/connectivity/wificond pdk
-/system/connectivity/wifilogd pdk
 /system/core pdk
 /system/extras pdk
 /system/gatekeeper pdk
