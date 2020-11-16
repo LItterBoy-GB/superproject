@@ -1578,6 +1578,10 @@
 	branch = master
 	path = external/rust/crates/anyhow
 	url = ../external/rust/crates/anyhow
+[submodule "platform/external/rust/crates/arbitrary"]
+	branch = master
+	path = external/rust/crates/arbitrary
+	url = ../external/rust/crates/arbitrary
 [submodule "platform/external/rust/crates/async-trait"]
 	branch = master
 	path = external/rust/crates/async-trait
@@ -1722,6 +1726,10 @@
 	branch = master
 	path = external/rust/crates/libc
 	url = ../external/rust/crates/libc
+[submodule "platform/external/rust/crates/libfuzzer-sys"]
+	branch = master
+	path = external/rust/crates/libfuzzer-sys
+	url = ../external/rust/crates/libfuzzer-sys
 [submodule "platform/external/rust/crates/libloading"]
 	branch = master
 	path = external/rust/crates/libloading
