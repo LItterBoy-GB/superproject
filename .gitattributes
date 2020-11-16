@@ -595,6 +595,7 @@
 /frameworks/opt/timezonepicker pdk-fs pdk-cw-fs
 /frameworks/opt/tv/tvsystem pdk-fs pdk-cw-fs
 /frameworks/opt/vcard pdk-fs pdk-cw-fs
+/frameworks/proto_logging pdk-fs pdk-cw-fs
 /frameworks/rs pdk
 /frameworks/wilhelm pdk-fs pdk-cw-fs
 /hardware/broadcom/libbt pdk
