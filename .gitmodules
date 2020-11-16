@@ -2401,6 +2401,10 @@
 	branch = master
 	path = frameworks/opt/vcard
 	url = ../frameworks/opt/vcard
+[submodule "platform/frameworks/proto_logging"]
+	branch = master
+	path = frameworks/proto_logging
+	url = ../frameworks/proto_logging
 [submodule "platform/frameworks/rs"]
 	branch = master
 	path = frameworks/rs
