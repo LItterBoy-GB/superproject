@@ -823,7 +823,6 @@
 /prebuilts/rust pdk
 /prebuilts/sdk pdk
 /prebuilts/tools pdk tools
-/prebuilts/vndk/v27 pdk
 /prebuilts/vndk/v28 pdk
 /prebuilts/vndk/v29 pdk
 /prebuilts/vndk/v30 pdk

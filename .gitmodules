@@ -3374,11 +3374,6 @@
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
-[submodule "platform/prebuilts/vndk/v27"]
-	branch = master
-	shallow = true
-	path = prebuilts/vndk/v27
-	url = ../prebuilts/vndk/v27
 [submodule "platform/prebuilts/vndk/v28"]
 	branch = master
 	shallow = true
