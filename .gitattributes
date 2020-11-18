@@ -932,6 +932,7 @@
 /tools/test/openhst tools
 /tools/tradefederation/core tradefed pdk
 /tools/tradefederation/contrib tradefed pdk
+/tools/tradefederation/prebuilts tradefed pdk
 /tools/treble pdk tools
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
 /toolchain/benchmark

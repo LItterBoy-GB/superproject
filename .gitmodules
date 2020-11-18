@@ -3817,6 +3817,10 @@
 	branch = master
 	path = tools/tradefederation/contrib
 	url = ../tools/tradefederation/contrib
+[submodule "platform/tools/tradefederation/prebuilts"]
+	branch = master
+	path = tools/tradefederation/prebuilts
+	url = ../tools/tradefederation/prebuilts
 [submodule "platform/tools/treble"]
 	branch = master
 	path = tools/treble
