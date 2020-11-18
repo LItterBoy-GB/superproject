@@ -3565,6 +3565,10 @@
 	branch = master
 	path = system/memory/lmkd
 	url = ../system/memory/lmkd
+[submodule "platform/system/memory/mm_eventsd"]
+	branch = master
+	path = system/memory/mm_eventsd
+	url = ../system/memory/mm_eventsd
 [submodule "platform/system/netd"]
 	branch = master
 	path = system/netd
