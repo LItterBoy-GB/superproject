@@ -16,6 +16,7 @@
 /device/generic/qemu pdk
 /device/generic/trusty pdk
 /device/generic/uml pdk device
+/device/generic/vulkan-cereal pdk
 /device/generic/x86 pdk
 /device/generic/x86_64 pdk
 /device/google/atv broadcom_pdk generic_fs pdk device
