@@ -1,5 +1,5 @@
 [submodule "platform/build"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	path = build/make
 	url = ../build
 [submodule "platform/external/doclava"]
@@ -13,7 +13,7 @@
 	path = external/dokka
 	url = ../external/dokka
 [submodule "platform/external/icing"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	path = external/icing
 	url = ../external/icing
 [submodule "platform/external/icu"]
@@ -22,12 +22,12 @@
 	path = external/icu
 	url = ../external/icu
 [submodule "platform/external/noto-fonts"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	shallow = true
 	path = external/noto-fonts
 	url = ../external/noto-fonts
 [submodule "platform/external/protobuf"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	shallow = true
 	path = external/protobuf
 	url = ../external/protobuf
@@ -35,30 +35,30 @@
 	path = external/webview_support_interfaces
 	url = ../external/webview_support_interfaces
 [submodule "platform/frameworks/support"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	path = frameworks/support
 	url = ../frameworks/support
 [submodule "platform/frameworks/support-golden"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	shallow = true
 	path = golden
 	url = ../frameworks/support-golden
 [submodule "platform/manifest"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	path = manifest
 	url = ../manifest
 [submodule "platform/prebuilts/androidx/exoplayer"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	shallow = true
 	path = prebuilts/androidx/exoplayer
 	url = ../prebuilts/androidx/exoplayer
 [submodule "platform/prebuilts/androidx/external"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	shallow = true
 	path = prebuilts/androidx/external
 	url = ../prebuilts/androidx/external
 [submodule "platform/prebuilts/androidx/internal"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	shallow = true
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
@@ -129,17 +129,17 @@
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/jdk/jdk8"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
 [submodule "platform/prebuilts/protobuf"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	shallow = true
 	path = prebuilts/protobuf
 	url = ../prebuilts/protobuf
 [submodule "platform/tools/external/gradle"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
