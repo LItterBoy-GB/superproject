@@ -25,6 +25,7 @@
 /external/error_prone pdk
 /external/escapevelocity pdk
 /external/expat pdk
+/external/f2fs-tools pdk
 /external/fdlibm pdk
 /external/fmtlib pdk
 /external/golang-protobuf pdk
@@ -69,7 +70,9 @@
 /external/selinux pdk
 /external/slf4j pdk
 /external/smali pdk
+/external/snakeyaml pdk
 /external/sqlite pdk
+/external/testng pdk
 /external/toybox pdk
 /external/turbine pdk
 /external/vixl pdk

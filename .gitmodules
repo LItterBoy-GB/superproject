@@ -106,6 +106,10 @@
 	branch = master
 	path = external/expat
 	url = ../external/expat
+[submodule "platform/external/f2fs-tools"]
+	branch = master
+	path = external/f2fs-tools
+	url = ../external/f2fs-tools
 [submodule "platform/external/fdlibm"]
 	branch = master
 	path = external/fdlibm
@@ -282,10 +286,18 @@
 	branch = master
 	path = external/smali
 	url = ../external/smali
+[submodule "platform/external/snakeyaml"]
+	branch = master
+	path = external/snakeyaml
+	url = ../external/snakeyaml
 [submodule "platform/external/sqlite"]
 	branch = master
 	path = external/sqlite
 	url = ../external/sqlite
+[submodule "platform/external/testng"]
+	branch = master
+	path = external/testng
+	url = ../external/testng
 [submodule "platform/external/toybox"]
 	branch = master
 	path = external/toybox
