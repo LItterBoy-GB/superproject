@@ -292,6 +292,7 @@
 /external/libutf pdk
 /external/libvpx pdk
 /external/libvterm pdk
+/external/libwebm pdk
 /external/libwebsockets pdk
 /external/libxaac pdk
 /external/libxkbcommon pdk
