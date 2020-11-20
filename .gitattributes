@@ -89,6 +89,7 @@
 /prebuilts/build-tools pdk
 /prebuilts/clang-tools pdk
 /prebuilts/clang/host/linux-x86 pdk
+/prebuilts/cmdline-tools pdk-fs
 /prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9 pdk linux arm
 /prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9 pdk linux arm
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 pdk linux

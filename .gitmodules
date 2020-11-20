@@ -366,6 +366,11 @@
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/cmdline-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/cmdline-tools
+	url = ../prebuilts/cmdline-tools
 [submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
 	branch = master
 	shallow = true
