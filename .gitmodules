@@ -190,6 +190,10 @@
 	branch = master
 	path = external/kotlinc
 	url = ../external/kotlinc
+[submodule "platform/external/kotlinx.metadata"]
+	branch = master
+	path = external/kotlinx.metadata
+	url = ../external/kotlinx.metadata
 [submodule "platform/external/libcxx"]
 	branch = master
 	path = external/libcxx
