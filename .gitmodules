@@ -147,6 +147,7 @@
 	url = ../frameworks/native
 [submodule "platform/prebuilts/android-emulator"]
 	branch = emu-master-dev
+	shallow = true
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
 [submodule "platform/prebuilts/android-emulator-build/archive"]
@@ -267,6 +268,7 @@
 	url = ../tools/emulator
 [submodule "platform/tools/external/gradle"]
 	branch = emu-master-dev
+	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
 [submodule "platform/tools/gradle"]
