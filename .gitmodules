@@ -1626,6 +1626,10 @@
 	branch = master
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
+[submodule "platform/external/rust/crates/derive_arbitrary"]
+	branch = master
+	path = external/rust/crates/derive_arbitrary
+	url = ../external/rust/crates/derive_arbitrary
 [submodule "platform/external/rust/crates/downcast-rs"]
 	branch = master
 	path = external/rust/crates/downcast-rs
