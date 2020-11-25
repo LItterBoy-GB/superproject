@@ -2333,10 +2333,6 @@
 	branch = master
 	path = frameworks/minikin
 	url = ../frameworks/minikin
-[submodule "platform/frameworks/ml"]
-	branch = master
-	path = frameworks/ml
-	url = ../frameworks/ml
 [submodule "platform/frameworks/multidex"]
 	branch = master
 	path = frameworks/multidex
@@ -3006,6 +3002,10 @@
 	branch = master
 	path = packages/modules/NetworkStack
 	url = ../packages/modules/NetworkStack
+[submodule "platform/packages/modules/NeuralNetworks"]
+	branch = master
+	path = packages/modules/NeuralNetworks
+	url = ../packages/modules/NeuralNetworks
 [submodule "platform/packages/modules/RuntimeI18n"]
 	branch = master
 	path = packages/modules/RuntimeI18n
