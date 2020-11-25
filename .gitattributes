@@ -578,7 +578,6 @@
 /frameworks/libs/net pdk-fs pdk-cw-fs
 /frameworks/libs/systemui pdk-fs pdk-cw-fs
 /frameworks/minikin pdk-fs pdk-cw-fs
-/frameworks/ml pdk
 /frameworks/multidex pdk-fs pdk-cw-fs
 /frameworks/native pdk
 /frameworks/opt/bitmap pdk-fs
@@ -746,6 +745,7 @@
 /packages/modules/ModuleMetadata pdk
 /packages/modules/NetworkPermissionConfig pdk-fs pdk-cw-fs
 /packages/modules/NetworkStack pdk-fs pdk-cw-fs
+/packages/modules/NeuralNetworks pdk-fs pdk-cw-fs
 /packages/modules/RuntimeI18n pdk-fs pdk-cw-fs
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
 /packages/modules/TestModule
