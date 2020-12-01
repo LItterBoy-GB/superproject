@@ -10,6 +10,10 @@
 	branch = master
 	path = external/libxml2
 	url = ../external/libxml2
+[submodule "platform/external/ncurses"]
+	branch = master
+	path = external/libncurses
+	url = ../external/ncurses
 [submodule "platform/external/swig"]
 	branch = master
 	path = external/swig

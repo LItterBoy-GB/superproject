@@ -1,6 +1,7 @@
 /bionic
 /external/libedit
 /external/libxml2
+/external/libncurses
 /external/swig
 /external/toolchain-utils
 /prebuilts/build-tools
