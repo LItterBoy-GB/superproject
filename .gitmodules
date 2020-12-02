@@ -7,7 +7,6 @@
 	path = art
 	url = ../art
 [submodule "platform/build"]
-	branch = master
 	path = build/make
 	url = ../build
 [submodule "platform/build/blueprint"]
