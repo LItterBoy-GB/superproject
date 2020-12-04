@@ -2953,6 +2953,11 @@
 	shallow = true
 	path = packages/modules/ArtPrebuilt
 	url = ../packages/modules/ArtPrebuilt
+[submodule "platform/packages/modules/BootPrebuilt/5.4/arm64"]
+	branch = master
+	shallow = true
+	path = packages/modules/BootPrebuilt/5.4/arm64
+	url = ../packages/modules/BootPrebuilt/5.4/arm64
 [submodule "platform/packages/modules/CaptivePortalLogin"]
 	branch = master
 	path = packages/modules/CaptivePortalLogin
