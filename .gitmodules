@@ -3014,6 +3014,10 @@
 	branch = master
 	path = packages/modules/SdkExtensions
 	url = ../packages/modules/SdkExtensions
+[submodule "platform/packages/modules/StatsD"]
+	branch = master
+	path = packages/modules/StatsD
+	url = ../packages/modules/StatsD
 [submodule "platform/packages/modules/TestModule"]
 	branch = master
 	path = packages/modules/TestModule
