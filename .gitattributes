@@ -749,6 +749,7 @@
 /packages/modules/NeuralNetworks pdk-fs pdk-cw-fs
 /packages/modules/RuntimeI18n pdk-fs pdk-cw-fs
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
+/packages/modules/StatsD pdk-fs pdk-cw-fs
 /packages/modules/TestModule
 /packages/modules/Virtualization pdk
 /packages/modules/adb pdk
