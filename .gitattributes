@@ -322,6 +322,7 @@
 /external/nanohttpd pdk
 /external/nanopb-c pdk
 /external/naver-fonts pdk
+/external/libncurses
 /external/neon_2_sse pdk
 /external/neven pdk
 /external/newfs_msdos pdk
@@ -733,6 +734,7 @@
 /packages/inputmethods/LatinIME pdk-fs
 /packages/inputmethods/LeanbackIME pdk-fs
 /packages/modules/ArtPrebuilt pdk
+/packages/modules/BootPrebuilt/5.4/arm64 pdk
 /packages/modules/CaptivePortalLogin pdk-fs pdk-cw-fs
 /packages/modules/CellBroadcastService pdk
 /packages/modules/Connectivity pdk-fs pdk-cw-fs
