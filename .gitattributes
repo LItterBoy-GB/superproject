@@ -35,7 +35,6 @@
 /device/google/crosshatch-sepolicy crosshatch generic_fs device
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
-/device/google/cuttlefish_vmm pdk device
 /device/google/fuchsia device
 /device/google/muskie generic_fs muskie device
 /device/google/redbull redbull device
@@ -732,6 +731,7 @@
 /packages/inputmethods/LatinIME pdk-fs
 /packages/inputmethods/LeanbackIME pdk-fs
 /packages/modules/ArtPrebuilt pdk
+/packages/modules/BootPrebuilt/5.4/arm64 pdk
 /packages/modules/CaptivePortalLogin pdk-fs pdk-cw-fs
 /packages/modules/CellBroadcastService pdk
 /packages/modules/Connectivity pdk-fs pdk-cw-fs
@@ -746,6 +746,7 @@
 /packages/modules/NeuralNetworks pdk-fs pdk-cw-fs
 /packages/modules/RuntimeI18n pdk-fs pdk-cw-fs
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
+/packages/modules/StatsD pdk-fs pdk-cw-fs
 /packages/modules/TestModule
 /packages/modules/Virtualization pdk
 /packages/modules/adb pdk
