@@ -1741,6 +1741,10 @@
 	branch = master
 	path = external/rust/crates/libloading
 	url = ../external/rust/crates/libloading
+[submodule "platform/external/rust/crates/libm"]
+	branch = master
+	path = external/rust/crates/libm
+	url = ../external/rust/crates/libm
 [submodule "platform/external/rust/crates/libsqlite3-sys"]
 	branch = master
 	path = external/rust/crates/libsqlite3-sys
@@ -1861,6 +1865,10 @@
 	branch = master
 	path = external/rust/crates/protobuf-codegen
 	url = ../external/rust/crates/protobuf-codegen
+[submodule "platform/external/rust/crates/quiche"]
+	branch = master
+	path = external/rust/crates/quiche
+	url = ../external/rust/crates/quiche
 [submodule "platform/external/rust/crates/quote"]
 	branch = master
 	path = external/rust/crates/quote
@@ -1889,6 +1897,10 @@
 	branch = master
 	path = external/rust/crates/remain
 	url = ../external/rust/crates/remain
+[submodule "platform/external/rust/crates/ring"]
+	branch = master
+	path = external/rust/crates/ring
+	url = ../external/rust/crates/ring
 [submodule "platform/external/rust/crates/rusqlite"]
 	branch = master
 	path = external/rust/crates/rusqlite
@@ -1925,6 +1937,10 @@
 	branch = master
 	path = external/rust/crates/smallvec
 	url = ../external/rust/crates/smallvec
+[submodule "platform/external/rust/crates/spin"]
+	branch = master
+	path = external/rust/crates/spin
+	url = ../external/rust/crates/spin
 [submodule "platform/external/rust/crates/structopt"]
 	branch = master
 	path = external/rust/crates/structopt
@@ -1981,6 +1997,10 @@
 	branch = master
 	path = external/rust/crates/unicode-xid
 	url = ../external/rust/crates/unicode-xid
+[submodule "platform/external/rust/crates/untrusted"]
+	branch = master
+	path = external/rust/crates/untrusted
+	url = ../external/rust/crates/untrusted
 [submodule "platform/external/rust/crates/vsock"]
 	branch = master
 	path = external/rust/crates/vsock
