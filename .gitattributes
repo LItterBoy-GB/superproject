@@ -431,6 +431,7 @@
 /external/rust/crates/libc pdk
 /external/rust/crates/libfuzzer-sys pdk
 /external/rust/crates/libloading pdk
+/external/rust/crates/libm pdk
 /external/rust/crates/libsqlite3-sys pdk
 /external/rust/crates/libz-sys pdk
 /external/rust/crates/linked-hash-map pdk
@@ -461,6 +462,7 @@
 /external/rust/crates/proc-macro2 pdk
 /external/rust/crates/protobuf pdk
 /external/rust/crates/protobuf-codegen pdk
+/external/rust/crates/quiche pdk
 /external/rust/crates/quote pdk
 /external/rust/crates/rand pdk
 /external/rust/crates/rand_chacha pdk
@@ -468,6 +470,7 @@
 /external/rust/crates/regex pdk
 /external/rust/crates/regex-syntax pdk
 /external/rust/crates/remain pdk
+/external/rust/crates/ring pdk
 /external/rust/crates/rusqlite pdk
 /external/rust/crates/rustc-hash pdk
 /external/rust/crates/ryu pdk
@@ -477,6 +480,7 @@
 /external/rust/crates/shlex pdk
 /external/rust/crates/slab pdk
 /external/rust/crates/smallvec pdk
+/external/rust/crates/spin pdk
 /external/rust/crates/structopt pdk
 /external/rust/crates/structopt-derive pdk
 /external/rust/crates/syn pdk
@@ -491,6 +495,7 @@
 /external/rust/crates/unicode-segmentation pdk
 /external/rust/crates/unicode-width pdk
 /external/rust/crates/unicode-xid pdk
+/external/rust/crates/untrusted pdk
 /external/rust/crates/vsock pdk
 /external/rust/crates/weak-table pdk
 /external/rust/crates/which pdk
