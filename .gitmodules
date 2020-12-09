@@ -1929,6 +1929,10 @@
 	branch = master
 	path = external/rust/crates/serde
 	url = ../external/rust/crates/serde
+[submodule "platform/external/rust/crates/serde_derive"]
+	branch = master
+	path = external/rust/crates/serde_derive
+	url = ../external/rust/crates/serde_derive
 [submodule "platform/external/rust/crates/serde_json"]
 	branch = master
 	path = external/rust/crates/serde_json
