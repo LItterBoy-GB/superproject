@@ -474,6 +474,7 @@
 /external/rust/crates/ryu pdk
 /external/rust/crates/scopeguard pdk
 /external/rust/crates/serde pdk
+/external/rust/crates/serde_derive pdk
 /external/rust/crates/serde_json pdk
 /external/rust/crates/shlex pdk
 /external/rust/crates/slab pdk
