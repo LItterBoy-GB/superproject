@@ -1772,6 +1772,10 @@
 	branch = master
 	path = external/rust/crates/nix
 	url = ../external/rust/crates/nix
+[submodule "platform/external/rust/crates/no-panic"]
+	branch = master
+	path = external/rust/crates/no-panic
+	url = ../external/rust/crates/no-panic
 [submodule "platform/external/rust/crates/nom"]
 	branch = master
 	path = external/rust/crates/nom

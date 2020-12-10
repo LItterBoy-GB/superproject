@@ -437,6 +437,7 @@
 /external/rust/crates/memchr pdk
 /external/rust/crates/mio pdk
 /external/rust/crates/nix pdk
+/external/rust/crates/no-panic pdk
 /external/rust/crates/nom pdk
 /external/rust/crates/num-derive pdk
 /external/rust/crates/num-traits pdk
