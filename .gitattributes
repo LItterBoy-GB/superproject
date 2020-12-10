@@ -36,7 +36,6 @@
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
 /device/google/fuchsia device
-/device/google/muskie generic_fs muskie device
 /device/google/redbull redbull device
 /device/google/redbull-sepolicy redbull device
 /device/google/redfin redfin device
@@ -45,11 +44,8 @@
 /device/google/sunfish sunfish device
 /device/google/sunfish-kernel sunfish device
 /device/google/sunfish-sepolicy sunfish device
-/device/google/taimen taimen device
 /device/google/trout trout device gull
 /device/google/vrservices pdk
-/device/google/wahoo generic_fs wahoo device
-/device/google/wahoo-kernel generic_fs wahoo device
 /device/google_car pdk
 /device/linaro/dragonboard dragonboard pdk device
 /device/linaro/dragonboard-kernel dragonboard pdk device
@@ -439,6 +435,7 @@
 /external/rust/crates/memchr pdk
 /external/rust/crates/mio pdk
 /external/rust/crates/nix pdk
+/external/rust/crates/no-panic pdk
 /external/rust/crates/nom pdk
 /external/rust/crates/num-derive pdk
 /external/rust/crates/num-traits pdk
@@ -631,12 +628,10 @@
 /hardware/qcom/msm8960 qcom_msm8960 pdk-qcom
 /hardware/qcom/msm8994 qcom_msm8994 pdk-qcom
 /hardware/qcom/msm8996 qcom_msm8996 pdk-qcom
-/hardware/qcom/msm8998 qcom_msm8998 pdk-qcom
 /hardware/qcom/msm8x09 qcom_msm8x09
 /hardware/qcom/msm8x26 qcom_msm8x26 pdk-qcom
 /hardware/qcom/msm8x27 qcom_msm8x27 pdk-qcom
 /hardware/qcom/msm8x84 qcom_msm8x84 pdk-qcom
-/hardware/qcom/neuralnetworks/hvxservice wahoo
 /hardware/qcom/power qcom pdk-qcom
 /hardware/qcom/sdm845/bt generic_fs qcom_sdm845
 /hardware/qcom/sdm845/data/ipacfg-mgr generic_fs vendor qcom_sdm845

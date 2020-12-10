@@ -156,10 +156,6 @@
 	branch = master
 	path = device/google/fuchsia
 	url = ../../device/google/fuchsia
-[submodule "device/google/muskie"]
-	branch = master
-	path = device/google/muskie
-	url = ../../device/google/muskie
 [submodule "device/google/redbull"]
 	branch = master
 	path = device/google/redbull
@@ -194,10 +190,6 @@
 	branch = master
 	path = device/google/sunfish-sepolicy
 	url = ../../device/google/sunfish-sepolicy
-[submodule "device/google/taimen"]
-	branch = master
-	path = device/google/taimen
-	url = ../../device/google/taimen
 [submodule "device/google/trout"]
 	branch = master
 	path = device/google/trout
@@ -206,15 +198,6 @@
 	branch = master
 	path = device/google/vrservices
 	url = ../../device/google/vrservices
-[submodule "device/google/wahoo"]
-	branch = master
-	path = device/google/wahoo
-	url = ../../device/google/wahoo
-[submodule "device/google/wahoo-kernel"]
-	branch = master
-	shallow = true
-	path = device/google/wahoo-kernel
-	url = ../../device/google/wahoo-kernel
 [submodule "device/google_car"]
 	branch = master
 	path = device/google_car
@@ -1781,6 +1764,10 @@
 	branch = master
 	path = external/rust/crates/nix
 	url = ../external/rust/crates/nix
+[submodule "platform/external/rust/crates/no-panic"]
+	branch = master
+	path = external/rust/crates/no-panic
+	url = ../external/rust/crates/no-panic
 [submodule "platform/external/rust/crates/nom"]
 	branch = master
 	path = external/rust/crates/nom
@@ -2552,10 +2539,6 @@
 	branch = master
 	path = hardware/qcom/msm8996
 	url = ../hardware/qcom/msm8996
-[submodule "platform/hardware/qcom/msm8998"]
-	branch = master
-	path = hardware/qcom/msm8998
-	url = ../hardware/qcom/msm8998
 [submodule "platform/hardware/qcom/msm8x09"]
 	branch = master
 	path = hardware/qcom/msm8x09
@@ -2572,10 +2555,6 @@
 	branch = master
 	path = hardware/qcom/msm8x84
 	url = ../hardware/qcom/msm8x84
-[submodule "platform/hardware/qcom/neuralnetworks/hvxservice"]
-	branch = master
-	path = hardware/qcom/neuralnetworks/hvxservice
-	url = ../hardware/qcom/neuralnetworks/hvxservice
 [submodule "platform/hardware/qcom/power"]
 	branch = master
 	path = hardware/qcom/power
