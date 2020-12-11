@@ -944,6 +944,7 @@
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
 /toolchain/benchmark
 /toolchain/binutils
+/external/llvm-project pdk
 /toolchain/llvm-project
 /toolchain/llvm_android
 /toolchain/pgo-profiles pdk
