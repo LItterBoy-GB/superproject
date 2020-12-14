@@ -7,15 +7,9 @@
 [submodule "device/google/cuttlefish"]
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
-[submodule "device/google/cuttlefish_vmm"]
-	path = device/google/cuttlefish_vmm
-	url = ../../device/google/cuttlefish_vmm
 [submodule "platform/build"]
 	path = build
 	url = ../build
-[submodule "platform/external/adhd"]
-	path = third_party/adhd
-	url = ../external/adhd
 [submodule "platform/external/adt-infra"]
 	path = external/adt-infra
 	url = ../external/adt-infra
@@ -34,9 +28,6 @@
 [submodule "platform/external/c-ares"]
 	path = external/cares
 	url = ../external/c-ares
-[submodule "platform/external/crosvm"]
-	path = platform/crosvm
-	url = ../external/crosvm
 [submodule "platform/external/curl"]
 	path = external/curl
 	url = ../external/curl
@@ -58,15 +49,6 @@
 [submodule "platform/external/grpc-grpc"]
 	path = external/grpc
 	url = ../external/grpc-grpc
-[submodule "platform/external/libcap"]
-	path = external/libcap
-	url = ../external/libcap
-[submodule "platform/external/libdrm"]
-	path = external/libdrm
-	url = ../external/libdrm
-[submodule "platform/external/libepoxy"]
-	path = third_party/libepoxy
-	url = ../external/libepoxy
 [submodule "platform/external/libffi"]
 	path = external/libffi
 	url = ../external/libffi
@@ -85,12 +67,6 @@
 [submodule "platform/external/lz4"]
 	path = external/lz4
 	url = ../external/lz4
-[submodule "platform/external/minigbm"]
-	path = third_party/minigbm
-	url = ../external/minigbm
-[submodule "platform/external/minijail"]
-	path = aosp/external/minijail
-	url = ../external/minijail
 [submodule "platform/external/nasm"]
 	path = external/nasm
 	url = ../external/nasm
@@ -112,30 +88,6 @@
 [submodule "platform/external/qt"]
 	path = external/qt
 	url = ../external/qt
-[submodule "platform/external/rust/crates/bitflags"]
-	path = external/rust/crates/bitflags
-	url = ../external/rust/crates/bitflags
-[submodule "platform/external/rust/crates/byteorder"]
-	path = external/rust/crates/byteorder
-	url = ../external/rust/crates/byteorder
-[submodule "platform/external/rust/crates/libc"]
-	path = external/rust/crates/libc
-	url = ../external/rust/crates/libc
-[submodule "platform/external/rust/crates/proc-macro2"]
-	path = external/rust/crates/proc-macro2
-	url = ../external/rust/crates/proc-macro2
-[submodule "platform/external/rust/crates/quote"]
-	path = external/rust/crates/quote
-	url = ../external/rust/crates/quote
-[submodule "platform/external/rust/crates/remain"]
-	path = external/rust/crates/remain
-	url = ../external/rust/crates/remain
-[submodule "platform/external/rust/crates/syn"]
-	path = external/rust/crates/syn
-	url = ../external/rust/crates/syn
-[submodule "platform/external/rust/crates/unicode-xid"]
-	path = external/rust/crates/unicode-xid
-	url = ../external/rust/crates/unicode-xid
 [submodule "platform/external/sdl2"]
 	path = external/sdl2
 	url = ../external/sdl2
@@ -217,9 +169,6 @@
 [submodule "platform/prebuilts/qemu-kernel"]
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
-[submodule "platform/prebuilts/rust"]
-	path = prebuilts/rust
-	url = ../prebuilts/rust
 [submodule "platform/prebuilts/tools"]
 	path = prebuilts/tools
 	url = ../prebuilts/tools
