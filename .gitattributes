@@ -59,6 +59,8 @@
 /device/ti/beagle_x15-kernel pdk beagle_x15 device
 /kernel/configs vts pdk
 /kernel/prebuilts/4.19/arm64 pdk
+/kernel/prebuilts/5.10/arm64 pdk
+/kernel/prebuilts/5.10/x86_64 pdk
 /kernel/prebuilts/5.4/arm64 pdk
 /kernel/prebuilts/5.4/x86_64 pdk
 /kernel/prebuilts/mainline/arm64 pdk
