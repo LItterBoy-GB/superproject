@@ -48,6 +48,7 @@
 /external/ninja
 /external/nsjail
 /external/one-true-awk
+/external/openssl
 /external/pcre
 /external/protobuf
 /external/python/cpython2

@@ -199,6 +199,10 @@
 	branch = master
 	path = external/one-true-awk
 	url = ../external/one-true-awk
+[submodule "platform/external/openssl"]
+	branch = build-tools
+	path = external/openssl
+	url = ../external/openssl
 [submodule "platform/external/pcre"]
 	branch = master
 	path = external/pcre
