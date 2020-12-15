@@ -26,6 +26,10 @@
 	branch = master
 	path = development
 	url = ../development
+[submodule "platform/external/abseil-cpp"]
+	branch = master
+	path = external/abseil-cpp
+	url = ../external/abseil-cpp
 [submodule "platform/external/arm-optimized-routines"]
 	branch = master
 	path = external/arm-optimized-routines
@@ -46,6 +50,10 @@
 	branch = master
 	path = external/bison
 	url = ../external/bison
+[submodule "platform/external/bloaty"]
+	branch = master
+	path = external/bloaty
+	url = ../external/bloaty
 [submodule "platform/external/boringssl"]
 	branch = master
 	path = external/boringssl
@@ -54,6 +62,10 @@
 	branch = master
 	path = external/bzip2
 	url = ../external/bzip2
+[submodule "platform/external/capstone"]
+	branch = master
+	path = external/capstone
+	url = ../external/capstone
 [submodule "platform/external/clang"]
 	branch = master
 	path = external/clang
