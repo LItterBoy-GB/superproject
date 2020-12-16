@@ -251,6 +251,7 @@
 /external/libcap pdk
 /external/libcap-ng pdk
 /external/libchrome pdk
+/external/libchromeos-rs pdk
 /external/libcppbor pdk
 /external/libcups pdk-fs pdk-cw-fs
 /external/libcxx pdk
@@ -423,6 +424,7 @@
 /external/rust/crates/hashlink pdk
 /external/rust/crates/heck pdk
 /external/rust/crates/instant pdk
+/external/rust/crates/intrusive-collections pdk
 /external/rust/crates/itoa pdk
 /external/rust/crates/lazy_static pdk
 /external/rust/crates/lazycell pdk
@@ -437,6 +439,7 @@
 /external/rust/crates/log pdk
 /external/rust/crates/lru-cache pdk
 /external/rust/crates/memchr pdk
+/external/rust/crates/memoffset pdk
 /external/rust/crates/mio pdk
 /external/rust/crates/nix pdk
 /external/rust/crates/no-panic pdk
@@ -466,6 +469,7 @@
 /external/rust/crates/rand pdk
 /external/rust/crates/rand_chacha pdk
 /external/rust/crates/rand_core pdk
+/external/rust/crates/rand_xorshift pdk
 /external/rust/crates/regex pdk
 /external/rust/crates/regex-syntax pdk
 /external/rust/crates/remain pdk
