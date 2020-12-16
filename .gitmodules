@@ -19,6 +19,9 @@
 [submodule "platform/development"]
 	path = development
 	url = ../development
+[submodule "platform/external/abseil-cpp"]
+	path = external/abseil-cpp
+	url = ../external/abseil-cpp
 [submodule "platform/external/arm-optimized-routines"]
 	path = external/arm-optimized-routines
 	url = ../external/arm-optimized-routines
@@ -34,12 +37,18 @@
 [submodule "platform/external/bison"]
 	path = external/bison
 	url = ../external/bison
+[submodule "platform/external/bloaty"]
+	path = external/bloaty
+	url = ../external/bloaty
 [submodule "platform/external/boringssl"]
 	path = external/boringssl
 	url = ../external/boringssl
 [submodule "platform/external/bzip2"]
 	path = external/bzip2
 	url = ../external/bzip2
+[submodule "platform/external/capstone"]
+	path = external/capstone
+	url = ../external/capstone
 [submodule "platform/external/clang"]
 	path = external/clang
 	url = ../external/clang
@@ -148,6 +157,9 @@
 [submodule "platform/external/one-true-awk"]
 	path = external/one-true-awk
 	url = ../external/one-true-awk
+[submodule "platform/external/openssl"]
+	path = external/openssl
+	url = ../external/openssl
 [submodule "platform/external/pcre"]
 	path = external/pcre
 	url = ../external/pcre

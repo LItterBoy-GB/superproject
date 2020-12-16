@@ -5,13 +5,16 @@
 /build/soong
 /dalvik
 /development
+/external/abseil-cpp
 /external/arm-optimized-routines
 /external/auto
 /external/bazelbuild-remote-apis
 /external/bc
 /external/bison
+/external/bloaty
 /external/boringssl
 /external/bzip2
+/external/capstone
 /external/clang
 /external/compiler-rt
 /external/dagger2
@@ -48,6 +51,7 @@
 /external/ninja
 /external/nsjail
 /external/one-true-awk
+/external/openssl
 /external/pcre
 /external/protobuf
 /external/python/cpython2
