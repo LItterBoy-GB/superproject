@@ -1029,6 +1029,10 @@
 	branch = master
 	path = external/libchrome
 	url = ../external/libchrome
+[submodule "platform/external/libchromeos-rs"]
+	branch = master
+	path = external/libchromeos-rs
+	url = ../external/libchromeos-rs
 [submodule "platform/external/libcppbor"]
 	branch = master
 	path = external/libcppbor
@@ -1710,6 +1714,10 @@
 	branch = master
 	path = external/rust/crates/instant
 	url = ../external/rust/crates/instant
+[submodule "platform/external/rust/crates/intrusive-collections"]
+	branch = master
+	path = external/rust/crates/intrusive-collections
+	url = ../external/rust/crates/intrusive-collections
 [submodule "platform/external/rust/crates/itoa"]
 	branch = master
 	path = external/rust/crates/itoa
@@ -1766,6 +1774,10 @@
 	branch = master
 	path = external/rust/crates/memchr
 	url = ../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/memoffset"]
+	branch = master
+	path = external/rust/crates/memoffset
+	url = ../external/rust/crates/memoffset
 [submodule "platform/external/rust/crates/mio"]
 	branch = master
 	path = external/rust/crates/mio
@@ -1882,6 +1894,10 @@
 	branch = master
 	path = external/rust/crates/rand_core
 	url = ../external/rust/crates/rand_core
+[submodule "platform/external/rust/crates/rand_xorshift"]
+	branch = master
+	path = external/rust/crates/rand_xorshift
+	url = ../external/rust/crates/rand_xorshift
 [submodule "platform/external/rust/crates/regex"]
 	branch = master
 	path = external/rust/crates/regex
