@@ -7,6 +7,7 @@
 	path = art
 	url = ../art
 [submodule "platform/build"]
+	branch = master
 	path = build/make
 	url = ../build
 [submodule "platform/build/blueprint"]
@@ -462,7 +463,12 @@
 	branch = master
 	path = system/apex
 	url = ../system/apex
+[submodule "platform/system/bpf"]
+	branch = master
+	path = system/bpf
+	url = ../system/bpf
 [submodule "platform/system/core"]
+	branch = master
 	path = system/core
 	url = ../system/core
 [submodule "platform/system/extras"]

@@ -109,6 +109,7 @@
 /prebuilts/tools pdk tools
 /sdk pdk-fs pdk-cw-fs
 /system/apex pdk
+/system/bpf pdk
 /system/core pdk
 /system/extras pdk
 /system/libbase pdk
