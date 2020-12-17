@@ -1594,6 +1594,10 @@
 	branch = master
 	path = external/rust/crates/async-trait
 	url = ../external/rust/crates/async-trait
+[submodule "platform/external/rust/crates/bencher"]
+	branch = master
+	path = external/rust/crates/bencher
+	url = ../external/rust/crates/bencher
 [submodule "platform/external/rust/crates/bindgen"]
 	branch = master
 	path = external/rust/crates/bindgen
@@ -1650,6 +1654,10 @@
 	branch = master
 	path = external/rust/crates/fnv
 	url = ../external/rust/crates/fnv
+[submodule "platform/external/rust/crates/form_urlencoded"]
+	branch = master
+	path = external/rust/crates/form_urlencoded
+	url = ../external/rust/crates/form_urlencoded
 [submodule "platform/external/rust/crates/futures"]
 	branch = master
 	path = external/rust/crates/futures
@@ -1718,6 +1726,10 @@
 	branch = master
 	path = external/rust/crates/heck
 	url = ../external/rust/crates/heck
+[submodule "platform/external/rust/crates/idna"]
+	branch = master
+	path = external/rust/crates/idna
+	url = ../external/rust/crates/idna
 [submodule "platform/external/rust/crates/instant"]
 	branch = master
 	path = external/rust/crates/instant
@@ -1778,6 +1790,10 @@
 	branch = master
 	path = external/rust/crates/lru-cache
 	url = ../external/rust/crates/lru-cache
+[submodule "platform/external/rust/crates/matches"]
+	branch = master
+	path = external/rust/crates/matches
+	url = ../external/rust/crates/matches
 [submodule "platform/external/rust/crates/memchr"]
 	branch = master
 	path = external/rust/crates/memchr
@@ -1834,6 +1850,10 @@
 	branch = master
 	path = external/rust/crates/peeking_take_while
 	url = ../external/rust/crates/peeking_take_while
+[submodule "platform/external/rust/crates/percent-encoding"]
+	branch = master
+	path = external/rust/crates/percent-encoding
+	url = ../external/rust/crates/percent-encoding
 [submodule "platform/external/rust/crates/pin-project"]
 	branch = master
 	path = external/rust/crates/pin-project
@@ -1950,6 +1970,10 @@
 	branch = master
 	path = external/rust/crates/serde_json
 	url = ../external/rust/crates/serde_json
+[submodule "platform/external/rust/crates/serde_test"]
+	branch = master
+	path = external/rust/crates/serde_test
+	url = ../external/rust/crates/serde_test
 [submodule "platform/external/rust/crates/shlex"]
 	branch = master
 	path = external/rust/crates/shlex
@@ -2002,6 +2026,14 @@
 	branch = master
 	path = external/rust/crates/thread_local
 	url = ../external/rust/crates/thread_local
+[submodule "platform/external/rust/crates/tinyvec"]
+	branch = master
+	path = external/rust/crates/tinyvec
+	url = ../external/rust/crates/tinyvec
+[submodule "platform/external/rust/crates/tinyvec_macros"]
+	branch = master
+	path = external/rust/crates/tinyvec_macros
+	url = ../external/rust/crates/tinyvec_macros
 [submodule "platform/external/rust/crates/tokio"]
 	branch = master
 	path = external/rust/crates/tokio
@@ -2010,6 +2042,14 @@
 	branch = master
 	path = external/rust/crates/tokio-macros
 	url = ../external/rust/crates/tokio-macros
+[submodule "platform/external/rust/crates/unicode-bidi"]
+	branch = master
+	path = external/rust/crates/unicode-bidi
+	url = ../external/rust/crates/unicode-bidi
+[submodule "platform/external/rust/crates/unicode-normalization"]
+	branch = master
+	path = external/rust/crates/unicode-normalization
+	url = ../external/rust/crates/unicode-normalization
 [submodule "platform/external/rust/crates/unicode-segmentation"]
 	branch = master
 	path = external/rust/crates/unicode-segmentation
@@ -2026,6 +2066,10 @@
 	branch = master
 	path = external/rust/crates/untrusted
 	url = ../external/rust/crates/untrusted
+[submodule "platform/external/rust/crates/url"]
+	branch = master
+	path = external/rust/crates/url
+	url = ../external/rust/crates/url
 [submodule "platform/external/rust/crates/vsock"]
 	branch = master
 	path = external/rust/crates/vsock
