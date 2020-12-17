@@ -32,6 +32,8 @@
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/webview_support_interfaces"]
+	branch = androidx-main
+	shallow = true
 	path = external/webview_support_interfaces
 	url = ../external/webview_support_interfaces
 [submodule "platform/frameworks/support"]
