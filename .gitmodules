@@ -3111,6 +3111,10 @@
 	branch = master
 	path = packages/modules/Virtualization
 	url = ../packages/modules/Virtualization
+[submodule "platform/packages/modules/Wifi"]
+	branch = master
+	path = packages/modules/Wifi
+	url = ../packages/modules/Wifi
 [submodule "platform/packages/modules/adb"]
 	branch = master
 	path = packages/modules/adb
