@@ -2902,7 +2902,7 @@
 	path = system/iorap
 	url = ../system/iorap
 [submodule "platform/system/keymaster"]
-	branch = android11-release
+	branch = android11-tests-dev
 	path = system/keymaster
 	url = ../system/keymaster
 [submodule "platform/system/libartpalette"]
