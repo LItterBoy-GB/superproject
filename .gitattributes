@@ -571,7 +571,6 @@
 /external/wayland-protocols pdk
 /external/webp pdk qcom_msm8x26
 /external/webrtc pdk
-/external/webrtc_legacy pdk
 /external/wpa_supplicant_8 pdk
 /external/wycheproof pdk
 /external/xmp_toolkit pdk
@@ -767,6 +766,7 @@
 /packages/modules/StatsD pdk-fs pdk-cw-fs
 /packages/modules/TestModule
 /packages/modules/Virtualization pdk
+/packages/modules/Wifi pdk-fs pdk-cw-fs
 /packages/modules/adb pdk
 /packages/modules/vndk pdk-fs pdk-cw-fs
 /packages/providers/BlockedNumberProvider pdk-fs

@@ -2313,10 +2313,6 @@
 	branch = master
 	path = external/webrtc
 	url = ../external/webrtc
-[submodule "platform/external/webrtc_legacy"]
-	branch = master
-	path = external/webrtc_legacy
-	url = ../external/webrtc_legacy
 [submodule "platform/external/wpa_supplicant_8"]
 	branch = master
 	path = external/wpa_supplicant_8
@@ -3099,6 +3095,10 @@
 	branch = master
 	path = packages/modules/Virtualization
 	url = ../packages/modules/Virtualization
+[submodule "platform/packages/modules/Wifi"]
+	branch = master
+	path = packages/modules/Wifi
+	url = ../packages/modules/Wifi
 [submodule "platform/packages/modules/adb"]
 	branch = master
 	path = packages/modules/adb
