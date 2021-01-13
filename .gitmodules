@@ -2209,10 +2209,6 @@
 	branch = master
 	path = external/tinycompress
 	url = ../external/tinycompress
-[submodule "platform/external/tinyxml"]
-	branch = master
-	path = external/tinyxml
-	url = ../external/tinyxml
 [submodule "platform/external/tinyxml2"]
 	branch = master
 	path = external/tinyxml2
