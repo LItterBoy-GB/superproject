@@ -548,7 +548,6 @@
 /external/timezone-boundary-builder pdk
 /external/tinyalsa pdk
 /external/tinycompress pdk
-/external/tinyxml pdk
 /external/tinyxml2 pdk
 /external/toolchain-utils
 /external/toybox pdk
