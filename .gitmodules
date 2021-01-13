@@ -1001,6 +1001,10 @@
 	branch = master
 	path = external/ksoap2
 	url = ../external/ksoap2
+[submodule "platform/external/libabigail"]
+	branch = master
+	path = external/libabigail
+	url = ../external/libabigail
 [submodule "platform/external/libaom"]
 	branch = master
 	path = external/libaom
