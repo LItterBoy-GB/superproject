@@ -1,14 +1,19 @@
 [submodule "platform/prebuilts/androidx/external"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	shallow = true
 	path = prebuilts/androidx/external
 	url = ../prebuilts/androidx/external
+[submodule "platform/prebuilts/jdk/jdk11"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk11
+	url = ../prebuilts/jdk/jdk11
 [submodule "platform/tools/dokka-devsite-plugin"]
 	branch = master
 	path = tools/dokka-devsite-plugin
 	url = ../tools/dokka-devsite-plugin
 [submodule "platform/tools/external/gradle"]
-	branch = androidx-master-dev
+	branch = androidx-main
 	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle

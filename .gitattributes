@@ -1,4 +1,5 @@
 /prebuilts/androidx/external
+/prebuilts/jdk/jdk11 pdk
 /tools/dokka-devsite-plugin
 /tools/external/gradle tools
 /tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev
