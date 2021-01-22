@@ -335,6 +335,7 @@
 /external/okhttp pdk
 /external/one-true-awk pdk
 /external/opencensus-java tradefed pdk
+/external/openscreen pdk
 /external/openssh pdk
 /external/oss-fuzz pdk
 /external/owasp/sanitizer pdk

@@ -1366,6 +1366,10 @@
 	branch = master
 	path = external/opencensus-java
 	url = ../external/opencensus-java
+[submodule "platform/external/openscreen"]
+	branch = master
+	path = external/openscreen
+	url = ../external/openscreen
 [submodule "platform/external/openssh"]
 	branch = master
 	path = external/openssh
