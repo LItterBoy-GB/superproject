@@ -2042,6 +2042,10 @@
 	branch = master
 	path = external/rust/crates/tokio-macros
 	url = ../external/rust/crates/tokio-macros
+[submodule "platform/external/rust/crates/tokio-stream"]
+	branch = master
+	path = external/rust/crates/tokio-stream
+	url = ../external/rust/crates/tokio-stream
 [submodule "platform/external/rust/crates/unicode-bidi"]
 	branch = master
 	path = external/rust/crates/unicode-bidi

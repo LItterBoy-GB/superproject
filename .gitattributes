@@ -504,6 +504,7 @@
 /external/rust/crates/tinyvec_macros pdk
 /external/rust/crates/tokio pdk
 /external/rust/crates/tokio-macros pdk
+/external/rust/crates/tokio-stream pdk
 /external/rust/crates/unicode-bidi pdk
 /external/rust/crates/unicode-normalization pdk
 /external/rust/crates/unicode-segmentation pdk
