@@ -2229,6 +2229,10 @@
 	branch = master
 	path = external/tinyalsa
 	url = ../external/tinyalsa
+[submodule "platform/external/tinyalsa_new"]
+	branch = master
+	path = external/tinyalsa_new
+	url = ../external/tinyalsa_new
 [submodule "platform/external/tinycompress"]
 	branch = master
 	path = external/tinycompress

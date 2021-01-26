@@ -550,6 +550,7 @@
 /external/testng pdk
 /external/timezone-boundary-builder pdk
 /external/tinyalsa pdk
+/external/tinyalsa_new pdk
 /external/tinycompress pdk
 /external/tinyxml2 pdk
 /external/toolchain-utils
