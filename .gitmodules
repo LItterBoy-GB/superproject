@@ -3092,6 +3092,10 @@
 	branch = master
 	path = packages/modules/NeuralNetworks
 	url = ../packages/modules/NeuralNetworks
+[submodule "platform/packages/modules/Permission"]
+	branch = master
+	path = packages/modules/Permission
+	url = ../packages/modules/Permission
 [submodule "platform/packages/modules/RuntimeI18n"]
 	branch = master
 	path = packages/modules/RuntimeI18n
