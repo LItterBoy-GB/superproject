@@ -773,6 +773,7 @@
 /packages/modules/Virtualization pdk
 /packages/modules/Wifi pdk-fs pdk-cw-fs
 /packages/modules/adb pdk
+/packages/modules/common pdk-fs pdk-cw-fs
 /packages/modules/vndk pdk-fs pdk-cw-fs
 /packages/providers/BlockedNumberProvider pdk-fs
 /packages/providers/BookmarkProvider pdk-fs
