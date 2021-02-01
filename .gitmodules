@@ -112,9 +112,6 @@
 [submodule "device/google/fuchsia"]
 	path = device/google/fuchsia
 	url = ../../device/google/fuchsia
-[submodule "device/google/muskie"]
-	path = device/google/muskie
-	url = ../../device/google/muskie
 [submodule "device/google/redbull"]
 	path = device/google/redbull
 	url = ../../device/google/redbull
@@ -139,21 +136,12 @@
 [submodule "device/google/sunfish-sepolicy"]
 	path = device/google/sunfish-sepolicy
 	url = ../../device/google/sunfish-sepolicy
-[submodule "device/google/taimen"]
-	path = device/google/taimen
-	url = ../../device/google/taimen
 [submodule "device/google/trout"]
 	path = device/google/trout
 	url = ../../device/google/trout
 [submodule "device/google/vrservices"]
 	path = device/google/vrservices
 	url = ../../device/google/vrservices
-[submodule "device/google/wahoo"]
-	path = device/google/wahoo
-	url = ../../device/google/wahoo
-[submodule "device/google/wahoo-kernel"]
-	path = device/google/wahoo-kernel
-	url = ../../device/google/wahoo-kernel
 [submodule "device/google_car"]
 	path = device/google_car
 	url = ../../device/google_car
@@ -193,6 +181,12 @@
 [submodule "kernel/prebuilts/4.19/arm64"]
 	path = kernel/prebuilts/4.19/arm64
 	url = ../../kernel/prebuilts/4.19/arm64
+[submodule "kernel/prebuilts/5.10/arm64"]
+	path = kernel/prebuilts/5.10/arm64
+	url = ../../kernel/prebuilts/5.10/arm64
+[submodule "kernel/prebuilts/5.10/x86-64"]
+	path = kernel/prebuilts/5.10/x86_64
+	url = ../../kernel/prebuilts/5.10/x86-64
 [submodule "kernel/prebuilts/5.4/arm64"]
 	path = kernel/prebuilts/5.4/arm64
 	url = ../../kernel/prebuilts/5.4/arm64
@@ -742,6 +736,9 @@
 [submodule "platform/external/ksoap2"]
 	path = external/ksoap2
 	url = ../external/ksoap2
+[submodule "platform/external/libabigail"]
+	path = external/libabigail
+	url = ../external/libabigail
 [submodule "platform/external/libaom"]
 	path = external/libaom
 	url = ../external/libaom
@@ -763,6 +760,9 @@
 [submodule "platform/external/libchrome"]
 	path = external/libchrome
 	url = ../external/libchrome
+[submodule "platform/external/libchromeos-rs"]
+	path = external/libchromeos-rs
+	url = ../external/libchromeos-rs
 [submodule "platform/external/libcppbor"]
 	path = external/libcppbor
 	url = ../external/libcppbor
@@ -1009,6 +1009,9 @@
 [submodule "platform/external/opencensus-java"]
 	path = external/opencensus-java
 	url = ../external/opencensus-java
+[submodule "platform/external/openscreen"]
+	path = external/openscreen
+	url = ../external/openscreen
 [submodule "platform/external/openssh"]
 	path = external/openssh
 	url = ../external/openssh
@@ -1177,6 +1180,9 @@
 [submodule "platform/external/rust/crates/async-trait"]
 	path = external/rust/crates/async-trait
 	url = ../external/rust/crates/async-trait
+[submodule "platform/external/rust/crates/bencher"]
+	path = external/rust/crates/bencher
+	url = ../external/rust/crates/bencher
 [submodule "platform/external/rust/crates/bindgen"]
 	path = external/rust/crates/bindgen
 	url = ../external/rust/crates/bindgen
@@ -1219,6 +1225,9 @@
 [submodule "platform/external/rust/crates/fnv"]
 	path = external/rust/crates/fnv
 	url = ../external/rust/crates/fnv
+[submodule "platform/external/rust/crates/form_urlencoded"]
+	path = external/rust/crates/form_urlencoded
+	url = ../external/rust/crates/form_urlencoded
 [submodule "platform/external/rust/crates/futures"]
 	path = external/rust/crates/futures
 	url = ../external/rust/crates/futures
@@ -1270,9 +1279,15 @@
 [submodule "platform/external/rust/crates/heck"]
 	path = external/rust/crates/heck
 	url = ../external/rust/crates/heck
+[submodule "platform/external/rust/crates/idna"]
+	path = external/rust/crates/idna
+	url = ../external/rust/crates/idna
 [submodule "platform/external/rust/crates/instant"]
 	path = external/rust/crates/instant
 	url = ../external/rust/crates/instant
+[submodule "platform/external/rust/crates/intrusive-collections"]
+	path = external/rust/crates/intrusive-collections
+	url = ../external/rust/crates/intrusive-collections
 [submodule "platform/external/rust/crates/itoa"]
 	path = external/rust/crates/itoa
 	url = ../external/rust/crates/itoa
@@ -1291,6 +1306,9 @@
 [submodule "platform/external/rust/crates/libloading"]
 	path = external/rust/crates/libloading
 	url = ../external/rust/crates/libloading
+[submodule "platform/external/rust/crates/libm"]
+	path = external/rust/crates/libm
+	url = ../external/rust/crates/libm
 [submodule "platform/external/rust/crates/libsqlite3-sys"]
 	path = external/rust/crates/libsqlite3-sys
 	url = ../external/rust/crates/libsqlite3-sys
@@ -1309,15 +1327,24 @@
 [submodule "platform/external/rust/crates/lru-cache"]
 	path = external/rust/crates/lru-cache
 	url = ../external/rust/crates/lru-cache
+[submodule "platform/external/rust/crates/matches"]
+	path = external/rust/crates/matches
+	url = ../external/rust/crates/matches
 [submodule "platform/external/rust/crates/memchr"]
 	path = external/rust/crates/memchr
 	url = ../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/memoffset"]
+	path = external/rust/crates/memoffset
+	url = ../external/rust/crates/memoffset
 [submodule "platform/external/rust/crates/mio"]
 	path = external/rust/crates/mio
 	url = ../external/rust/crates/mio
 [submodule "platform/external/rust/crates/nix"]
 	path = external/rust/crates/nix
 	url = ../external/rust/crates/nix
+[submodule "platform/external/rust/crates/no-panic"]
+	path = external/rust/crates/no-panic
+	url = ../external/rust/crates/no-panic
 [submodule "platform/external/rust/crates/nom"]
 	path = external/rust/crates/nom
 	url = ../external/rust/crates/nom
@@ -1345,6 +1372,9 @@
 [submodule "platform/external/rust/crates/peeking_take_while"]
 	path = external/rust/crates/peeking_take_while
 	url = ../external/rust/crates/peeking_take_while
+[submodule "platform/external/rust/crates/percent-encoding"]
+	path = external/rust/crates/percent-encoding
+	url = ../external/rust/crates/percent-encoding
 [submodule "platform/external/rust/crates/pin-project"]
 	path = external/rust/crates/pin-project
 	url = ../external/rust/crates/pin-project
@@ -1381,6 +1411,9 @@
 [submodule "platform/external/rust/crates/protobuf-codegen"]
 	path = external/rust/crates/protobuf-codegen
 	url = ../external/rust/crates/protobuf-codegen
+[submodule "platform/external/rust/crates/quiche"]
+	path = external/rust/crates/quiche
+	url = ../external/rust/crates/quiche
 [submodule "platform/external/rust/crates/quote"]
 	path = external/rust/crates/quote
 	url = ../external/rust/crates/quote
@@ -1393,6 +1426,9 @@
 [submodule "platform/external/rust/crates/rand_core"]
 	path = external/rust/crates/rand_core
 	url = ../external/rust/crates/rand_core
+[submodule "platform/external/rust/crates/rand_xorshift"]
+	path = external/rust/crates/rand_xorshift
+	url = ../external/rust/crates/rand_xorshift
 [submodule "platform/external/rust/crates/regex"]
 	path = external/rust/crates/regex
 	url = ../external/rust/crates/regex
@@ -1402,6 +1438,9 @@
 [submodule "platform/external/rust/crates/remain"]
 	path = external/rust/crates/remain
 	url = ../external/rust/crates/remain
+[submodule "platform/external/rust/crates/ring"]
+	path = external/rust/crates/ring
+	url = ../external/rust/crates/ring
 [submodule "platform/external/rust/crates/rusqlite"]
 	path = external/rust/crates/rusqlite
 	url = ../external/rust/crates/rusqlite
@@ -1417,9 +1456,15 @@
 [submodule "platform/external/rust/crates/serde"]
 	path = external/rust/crates/serde
 	url = ../external/rust/crates/serde
+[submodule "platform/external/rust/crates/serde_derive"]
+	path = external/rust/crates/serde_derive
+	url = ../external/rust/crates/serde_derive
 [submodule "platform/external/rust/crates/serde_json"]
 	path = external/rust/crates/serde_json
 	url = ../external/rust/crates/serde_json
+[submodule "platform/external/rust/crates/serde_test"]
+	path = external/rust/crates/serde_test
+	url = ../external/rust/crates/serde_test
 [submodule "platform/external/rust/crates/shlex"]
 	path = external/rust/crates/shlex
 	url = ../external/rust/crates/shlex
@@ -1429,6 +1474,9 @@
 [submodule "platform/external/rust/crates/smallvec"]
 	path = external/rust/crates/smallvec
 	url = ../external/rust/crates/smallvec
+[submodule "platform/external/rust/crates/spin"]
+	path = external/rust/crates/spin
+	url = ../external/rust/crates/spin
 [submodule "platform/external/rust/crates/structopt"]
 	path = external/rust/crates/structopt
 	url = ../external/rust/crates/structopt
@@ -1456,12 +1504,27 @@
 [submodule "platform/external/rust/crates/thread_local"]
 	path = external/rust/crates/thread_local
 	url = ../external/rust/crates/thread_local
+[submodule "platform/external/rust/crates/tinyvec"]
+	path = external/rust/crates/tinyvec
+	url = ../external/rust/crates/tinyvec
+[submodule "platform/external/rust/crates/tinyvec_macros"]
+	path = external/rust/crates/tinyvec_macros
+	url = ../external/rust/crates/tinyvec_macros
 [submodule "platform/external/rust/crates/tokio"]
 	path = external/rust/crates/tokio
 	url = ../external/rust/crates/tokio
 [submodule "platform/external/rust/crates/tokio-macros"]
 	path = external/rust/crates/tokio-macros
 	url = ../external/rust/crates/tokio-macros
+[submodule "platform/external/rust/crates/tokio-stream"]
+	path = external/rust/crates/tokio-stream
+	url = ../external/rust/crates/tokio-stream
+[submodule "platform/external/rust/crates/unicode-bidi"]
+	path = external/rust/crates/unicode-bidi
+	url = ../external/rust/crates/unicode-bidi
+[submodule "platform/external/rust/crates/unicode-normalization"]
+	path = external/rust/crates/unicode-normalization
+	url = ../external/rust/crates/unicode-normalization
 [submodule "platform/external/rust/crates/unicode-segmentation"]
 	path = external/rust/crates/unicode-segmentation
 	url = ../external/rust/crates/unicode-segmentation
@@ -1471,6 +1534,12 @@
 [submodule "platform/external/rust/crates/unicode-xid"]
 	path = external/rust/crates/unicode-xid
 	url = ../external/rust/crates/unicode-xid
+[submodule "platform/external/rust/crates/untrusted"]
+	path = external/rust/crates/untrusted
+	url = ../external/rust/crates/untrusted
+[submodule "platform/external/rust/crates/url"]
+	path = external/rust/crates/url
+	url = ../external/rust/crates/url
 [submodule "platform/external/rust/crates/vsock"]
 	path = external/rust/crates/vsock
 	url = ../external/rust/crates/vsock
@@ -1576,12 +1645,12 @@
 [submodule "platform/external/tinyalsa"]
 	path = external/tinyalsa
 	url = ../external/tinyalsa
+[submodule "platform/external/tinyalsa_new"]
+	path = external/tinyalsa_new
+	url = ../external/tinyalsa_new
 [submodule "platform/external/tinycompress"]
 	path = external/tinycompress
 	url = ../external/tinycompress
-[submodule "platform/external/tinyxml"]
-	path = external/tinyxml
-	url = ../external/tinyxml
 [submodule "platform/external/tinyxml2"]
 	path = external/tinyxml2
 	url = ../external/tinyxml2
@@ -1657,9 +1726,6 @@
 [submodule "platform/external/webrtc"]
 	path = external/webrtc
 	url = ../external/webrtc
-[submodule "platform/external/webrtc_legacy"]
-	path = external/webrtc_legacy
-	url = ../external/webrtc_legacy
 [submodule "platform/external/wpa_supplicant_8"]
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
@@ -1879,9 +1945,6 @@
 [submodule "platform/hardware/qcom/msm8996"]
 	path = hardware/qcom/msm8996
 	url = ../hardware/qcom/msm8996
-[submodule "platform/hardware/qcom/msm8998"]
-	path = hardware/qcom/msm8998
-	url = ../hardware/qcom/msm8998
 [submodule "platform/hardware/qcom/msm8x09"]
 	path = hardware/qcom/msm8x09
 	url = ../hardware/qcom/msm8x09
@@ -1894,9 +1957,6 @@
 [submodule "platform/hardware/qcom/msm8x84"]
 	path = hardware/qcom/msm8x84
 	url = ../hardware/qcom/msm8x84
-[submodule "platform/hardware/qcom/neuralnetworks/hvxservice"]
-	path = hardware/qcom/neuralnetworks/hvxservice
-	url = ../hardware/qcom/neuralnetworks/hvxservice
 [submodule "platform/hardware/qcom/power"]
 	path = hardware/qcom/power
 	url = ../hardware/qcom/power
@@ -2197,6 +2257,9 @@
 [submodule "platform/packages/modules/ArtPrebuilt"]
 	path = packages/modules/ArtPrebuilt
 	url = ../packages/modules/ArtPrebuilt
+[submodule "platform/packages/modules/BootPrebuilt/5.10/arm64"]
+	path = packages/modules/BootPrebuilt/5.10/arm64
+	url = ../packages/modules/BootPrebuilt/5.10/arm64
 [submodule "platform/packages/modules/BootPrebuilt/5.4/arm64"]
 	path = packages/modules/BootPrebuilt/5.4/arm64
 	url = ../packages/modules/BootPrebuilt/5.4/arm64
@@ -2236,6 +2299,9 @@
 [submodule "platform/packages/modules/NeuralNetworks"]
 	path = packages/modules/NeuralNetworks
 	url = ../packages/modules/NeuralNetworks
+[submodule "platform/packages/modules/Permission"]
+	path = packages/modules/Permission
+	url = ../packages/modules/Permission
 [submodule "platform/packages/modules/RuntimeI18n"]
 	path = packages/modules/RuntimeI18n
 	url = ../packages/modules/RuntimeI18n
@@ -2251,9 +2317,15 @@
 [submodule "platform/packages/modules/Virtualization"]
 	path = packages/modules/Virtualization
 	url = ../packages/modules/Virtualization
+[submodule "platform/packages/modules/Wifi"]
+	path = packages/modules/Wifi
+	url = ../packages/modules/Wifi
 [submodule "platform/packages/modules/adb"]
 	path = packages/modules/adb
 	url = ../packages/modules/adb
+[submodule "platform/packages/modules/common"]
+	path = packages/modules/common
+	url = ../packages/modules/common
 [submodule "platform/packages/modules/vndk"]
 	path = packages/modules/vndk
 	url = ../packages/modules/vndk
@@ -2809,6 +2881,9 @@
 [submodule "toolchain/benchmark"]
 	path = toolchain/benchmark
 	url = ../../toolchain/benchmark
+[submodule "toolchain/llvm-project"]
+	path = external/llvm-project
+	url = ../../toolchain/llvm-project
 [submodule "toolchain/pgo-profiles"]
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
