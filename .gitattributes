@@ -553,6 +553,7 @@
 /external/tcpdump pdk
 /external/tensorflow pdk
 /external/testng pdk
+/external/tflite-support pdk
 /external/timezone-boundary-builder pdk
 /external/tinyalsa pdk
 /external/tinyalsa_new pdk
