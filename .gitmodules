@@ -2260,6 +2260,10 @@
 	branch = master
 	path = external/testng
 	url = ../external/testng
+[submodule "platform/external/tflite-support"]
+	branch = master
+	path = external/tflite-support
+	url = ../external/tflite-support
 [submodule "platform/external/timezone-boundary-builder"]
 	branch = master
 	shallow = true
