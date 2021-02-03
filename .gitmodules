@@ -1658,6 +1658,10 @@
 	branch = master
 	path = external/rust/crates/cfg-if
 	url = ../external/rust/crates/cfg-if
+[submodule "platform/external/rust/crates/chrono"]
+	branch = master
+	path = external/rust/crates/chrono
+	url = ../external/rust/crates/chrono
 [submodule "platform/external/rust/crates/clang-sys"]
 	branch = master
 	path = external/rust/crates/clang-sys
@@ -1862,6 +1866,10 @@
 	branch = master
 	path = external/rust/crates/num-derive
 	url = ../external/rust/crates/num-derive
+[submodule "platform/external/rust/crates/num-integer"]
+	branch = master
+	path = external/rust/crates/num-integer
+	url = ../external/rust/crates/num-integer
 [submodule "platform/external/rust/crates/num-traits"]
 	branch = master
 	path = external/rust/crates/num-traits
