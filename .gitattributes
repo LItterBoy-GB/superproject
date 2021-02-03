@@ -408,6 +408,7 @@
 /external/rust/crates/bytes pdk
 /external/rust/crates/cexpr pdk
 /external/rust/crates/cfg-if pdk
+/external/rust/crates/chrono pdk
 /external/rust/crates/clang-sys pdk
 /external/rust/crates/clap pdk
 /external/rust/crates/codespan-reporting pdk
@@ -459,6 +460,7 @@
 /external/rust/crates/no-panic pdk
 /external/rust/crates/nom pdk
 /external/rust/crates/num-derive pdk
+/external/rust/crates/num-integer pdk
 /external/rust/crates/num-traits pdk
 /external/rust/crates/num_cpus pdk
 /external/rust/crates/once_cell pdk
