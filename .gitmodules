@@ -2727,7 +2727,7 @@
 	path = system/gatekeeper
 	url = ../system/gatekeeper
 [submodule "platform/system/gsid"]
-	branch = android10-release
+	branch = android10-tests-dev
 	path = system/gsid
 	url = ../system/gsid
 [submodule "platform/system/hardware/interfaces"]
