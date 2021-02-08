@@ -1225,10 +1225,6 @@
 	branch = master
 	path = external/libvpx
 	url = ../external/libvpx
-[submodule "platform/external/libvterm"]
-	branch = master
-	path = external/libvterm
-	url = ../external/libvterm
 [submodule "platform/external/libwebm"]
 	branch = master
 	path = external/libwebm
@@ -3045,10 +3041,6 @@
 	branch = master
 	path = packages/apps/Tag
 	url = ../packages/apps/Tag
-[submodule "platform/packages/apps/Terminal"]
-	branch = master
-	path = packages/apps/Terminal
-	url = ../packages/apps/Terminal
 [submodule "platform/packages/apps/Test/connectivity"]
 	branch = master
 	path = packages/apps/Test/connectivity
