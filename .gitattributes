@@ -735,7 +735,6 @@
 /packages/apps/Nfc apps_nfc pdk-fs
 /packages/apps/OnDeviceAppPrediction pdk-fs
 /packages/apps/OneTimeInitializer pdk-fs
-/packages/apps/PermissionController pdk-fs pdk-cw-fs
 /packages/apps/PhoneCommon pdk-fs pdk-cw-fs
 /packages/apps/Protips pdk-fs
 /packages/apps/Provision pdk-fs

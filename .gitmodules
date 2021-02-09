@@ -2977,10 +2977,6 @@
 	branch = master
 	path = packages/apps/OneTimeInitializer
 	url = ../packages/apps/OneTimeInitializer
-[submodule "platform/packages/apps/PackageInstaller"]
-	branch = master
-	path = packages/apps/PermissionController
-	url = ../packages/apps/PackageInstaller
 [submodule "platform/packages/apps/PhoneCommon"]
 	branch = master
 	path = packages/apps/PhoneCommon
