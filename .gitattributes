@@ -340,6 +340,7 @@
 /external/oboe pdk
 /external/oj-libjdwp pdk
 /external/okhttp pdk
+/external/okhttp4 pdk
 /external/one-true-awk pdk
 /external/opencensus-java tradefed pdk
 /external/openscreen pdk
