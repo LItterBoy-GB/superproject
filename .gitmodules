@@ -3767,6 +3767,10 @@
 	branch = master
 	path = test/app_compat/csuite
 	url = ../test/app_compat/csuite
+[submodule "platform/test/cts-root"]
+	branch = master
+	path = test/cts-root
+	url = ../test/cts-root
 [submodule "platform/test/framework"]
 	branch = master
 	path = test/framework

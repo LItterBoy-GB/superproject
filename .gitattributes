@@ -918,6 +918,7 @@
 /system/update_engine pdk
 /system/vold pdk
 /test/app_compat/csuite
+/test/cts-root
 /test/framework vts pdk projectarch
 /test/mlts/benchmark pdk
 /test/mlts/models pdk
