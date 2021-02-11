@@ -1,69 +1,72 @@
 [submodule "platform/external/python/cpython3"]
+	branch = busytown-mac1008-release
 	path = external/python/cpython3
 	url = ../external/python/cpython3
 [submodule "platform/ndk"]
+	branch = busytown-mac1008-release
 	path = ndk
 	url = ../ndk
 [submodule "platform/prebuilts/gcc/darwin-x86/host/headers"]
-	branch = master
+	branch = busytown-mac1008-release
 	path = prebuilts/gcc/darwin-x86/host/headers
 	url = ../prebuilts/gcc/darwin-x86/host/headers
 [submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
-	branch = master
+	branch = busytown-mac1008-release
 	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
-	branch = master
+	branch = busytown-mac1008-release
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	branch = busytown-mac1008-release
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "platform/prebuilts/ndk"]
-	branch = dev
+	branch = busytown-mac1008-release
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
 [submodule "toolchain/binutils"]
-	branch = master
+	branch = busytown-mac1008-release
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
 [submodule "toolchain/build"]
-	branch = master
+	branch = busytown-mac1008-release
 	path = toolchain/build
 	url = ../../toolchain/build
 [submodule "toolchain/cloog"]
-	branch = master
+	branch = busytown-mac1008-release
 	path = toolchain/cloog
 	url = ../../toolchain/cloog
 [submodule "toolchain/expat"]
-	branch = master
+	branch = busytown-mac1008-release
 	path = toolchain/expat
 	url = ../../toolchain/expat
 [submodule "toolchain/gcc"]
-	branch = master
+	branch = busytown-mac1008-release
 	path = toolchain/gcc
 	url = ../../toolchain/gcc
 [submodule "toolchain/gmp"]
-	branch = master
+	branch = busytown-mac1008-release
 	path = toolchain/gmp
 	url = ../../toolchain/gmp
 [submodule "toolchain/isl"]
-	branch = master
+	branch = busytown-mac1008-release
 	path = toolchain/isl
 	url = ../../toolchain/isl
 [submodule "toolchain/mpc"]
-	branch = master
+	branch = busytown-mac1008-release
 	path = toolchain/mpc
 	url = ../../toolchain/mpc
 [submodule "toolchain/mpfr"]
-	branch = master
+	branch = busytown-mac1008-release
 	path = toolchain/mpfr
 	url = ../../toolchain/mpfr
 [submodule "toolchain/ppl"]
-	branch = master
+	branch = busytown-mac1008-release
 	path = toolchain/ppl
 	url = ../../toolchain/ppl
 [submodule "toolchain/sed"]
-	branch = master
+	branch = busytown-mac1008-release
 	path = toolchain/sed
 	url = ../../toolchain/sed
