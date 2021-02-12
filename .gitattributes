@@ -6,6 +6,7 @@
 /dalvik pdk-fs pdk-cw-fs
 /development pdk-fs pdk-cw-fs
 /external/antlr pdk
+/external/apache-commons-bcel pdk
 /external/apache-commons-math pdk
 /external/apache-harmony pdk
 /external/apache-xml pdk
@@ -120,7 +121,6 @@
 /system/netd pdk
 /system/sepolicy pdk
 /system/testing/gtest_extras pdk
-/system/timezone pdk
 /system/tools/aidl pdk
 /system/tools/sysprop pdk
 /system/tools/xsdc pdk

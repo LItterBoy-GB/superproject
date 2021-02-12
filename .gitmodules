@@ -30,6 +30,10 @@
 	branch = master
 	path = external/antlr
 	url = ../external/antlr
+[submodule "platform/external/apache-commons-bcel"]
+	branch = master
+	path = external/apache-commons-bcel
+	url = ../external/apache-commons-bcel
 [submodule "platform/external/apache-commons-math"]
 	branch = master
 	path = external/apache-commons-math
@@ -507,10 +511,6 @@
 	branch = master
 	path = system/testing/gtest_extras
 	url = ../system/testing/gtest_extras
-[submodule "platform/system/timezone"]
-	branch = master
-	path = system/timezone
-	url = ../system/timezone
 [submodule "platform/system/tools/aidl"]
 	branch = master
 	path = system/tools/aidl
