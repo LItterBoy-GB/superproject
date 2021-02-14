@@ -653,6 +653,10 @@
 	branch = master
 	path = external/dokka
 	url = ../external/dokka
+[submodule "platform/external/downloader"]
+	branch = master
+	path = external/downloader
+	url = ../external/downloader
 [submodule "platform/external/drm_hwcomposer"]
 	branch = master
 	path = external/drm_hwcomposer

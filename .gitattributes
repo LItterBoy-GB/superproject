@@ -155,6 +155,7 @@
 /external/dnsmasq pdk
 /external/doclava pdk
 /external/dokka pdk
+/external/downloader pdk
 /external/drm_hwcomposer pdk-fs drm_hwcomposer
 /external/drrickorang pdk
 /external/dtc pdk
