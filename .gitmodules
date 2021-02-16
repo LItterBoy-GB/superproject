@@ -1023,6 +1023,10 @@
 	branch = android11-gsi
 	path = external/mp4parser
 	url = ../external/mp4parser
+[submodule "platform/external/ms-tpm-20-ref"]
+	branch = android11-gsi
+	path = external/ms-tpm-20-ref
+	url = ../external/ms-tpm-20-ref
 [submodule "platform/external/mtpd"]
 	branch = android11-gsi
 	path = external/mtpd
