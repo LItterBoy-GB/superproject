@@ -332,6 +332,10 @@
 	branch = master
 	path = bionic
 	url = ../bionic
+[submodule "platform/bootable/libbootloader"]
+	branch = master
+	path = bootable/libbootloader
+	url = ../bootable/libbootloader
 [submodule "platform/bootable/recovery"]
 	branch = master
 	path = bootable/recovery
