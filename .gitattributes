@@ -75,6 +75,7 @@
 /kernel/tests vts pdk
 /art pdk
 /bionic pdk
+/bootable/libbootloader vts pdk
 /bootable/recovery pdk
 /build/make pdk
 /build/bazel pdk
