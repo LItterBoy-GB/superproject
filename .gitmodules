@@ -1634,6 +1634,10 @@
 	branch = master
 	path = external/rust/crates/arbitrary
 	url = ../external/rust/crates/arbitrary
+[submodule "platform/external/rust/crates/async-task"]
+	branch = master
+	path = external/rust/crates/async-task
+	url = ../external/rust/crates/async-task
 [submodule "platform/external/rust/crates/async-trait"]
 	branch = master
 	path = external/rust/crates/async-trait
