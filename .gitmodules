@@ -2018,6 +2018,10 @@
 	branch = master
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/rustversion"]
+	branch = master
+	path = external/rust/crates/rustversion
+	url = ../external/rust/crates/rustversion
 [submodule "platform/external/rust/crates/ryu"]
 	branch = master
 	path = external/rust/crates/ryu

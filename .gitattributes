@@ -496,6 +496,7 @@
 /external/rust/crates/ring pdk
 /external/rust/crates/rusqlite pdk
 /external/rust/crates/rustc-hash pdk
+/external/rust/crates/rustversion pdk
 /external/rust/crates/ryu pdk
 /external/rust/crates/scopeguard pdk
 /external/rust/crates/serde pdk
