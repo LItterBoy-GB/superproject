@@ -401,6 +401,8 @@
 /external/rust/crates/android_logger pdk
 /external/rust/crates/anyhow pdk
 /external/rust/crates/arbitrary pdk
+/external/rust/crates/async-stream pdk
+/external/rust/crates/async-stream-impl pdk
 /external/rust/crates/async-task pdk
 /external/rust/crates/async-trait pdk
 /external/rust/crates/bencher pdk
@@ -518,6 +520,7 @@
 /external/rust/crates/tokio pdk
 /external/rust/crates/tokio-macros pdk
 /external/rust/crates/tokio-stream pdk
+/external/rust/crates/tokio-test pdk
 /external/rust/crates/unicode-bidi pdk
 /external/rust/crates/unicode-normalization pdk
 /external/rust/crates/unicode-segmentation pdk
