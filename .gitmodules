@@ -1646,6 +1646,14 @@
 	branch = master
 	path = external/rust/crates/arbitrary
 	url = ../external/rust/crates/arbitrary
+[submodule "platform/external/rust/crates/async-stream"]
+	branch = master
+	path = external/rust/crates/async-stream
+	url = ../external/rust/crates/async-stream
+[submodule "platform/external/rust/crates/async-stream-impl"]
+	branch = master
+	path = external/rust/crates/async-stream-impl
+	url = ../external/rust/crates/async-stream-impl
 [submodule "platform/external/rust/crates/async-task"]
 	branch = master
 	path = external/rust/crates/async-task
@@ -2114,6 +2122,10 @@
 	branch = master
 	path = external/rust/crates/tokio-stream
 	url = ../external/rust/crates/tokio-stream
+[submodule "platform/external/rust/crates/tokio-test"]
+	branch = master
+	path = external/rust/crates/tokio-test
+	url = ../external/rust/crates/tokio-test
 [submodule "platform/external/rust/crates/unicode-bidi"]
 	branch = master
 	path = external/rust/crates/unicode-bidi
