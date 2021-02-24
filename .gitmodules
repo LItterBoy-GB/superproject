@@ -229,6 +229,9 @@
 [submodule "platform/bionic"]
 	path = bionic
 	url = ../bionic
+[submodule "platform/bootable/libbootloader"]
+	path = bootable/libbootloader
+	url = ../bootable/libbootloader
 [submodule "platform/bootable/recovery"]
 	path = bootable/recovery
 	url = ../bootable/recovery
@@ -469,6 +472,9 @@
 [submodule "platform/external/dokka"]
 	path = external/dokka
 	url = ../external/dokka
+[submodule "platform/external/downloader"]
+	path = external/downloader
+	url = ../external/downloader
 [submodule "platform/external/drm_hwcomposer"]
 	path = external/drm_hwcomposer
 	url = ../external/drm_hwcomposer
@@ -895,9 +901,6 @@
 [submodule "platform/external/libvpx"]
 	path = external/libvpx
 	url = ../external/libvpx
-[submodule "platform/external/libvterm"]
-	path = external/libvterm
-	url = ../external/libvterm
 [submodule "platform/external/libwebm"]
 	path = external/libwebm
 	url = ../external/libwebm
@@ -1027,6 +1030,9 @@
 [submodule "platform/external/okhttp"]
 	path = external/okhttp
 	url = ../external/okhttp
+[submodule "platform/external/okhttp4"]
+	path = external/okhttp4
+	url = ../external/okhttp4
 [submodule "platform/external/one-true-awk"]
 	path = external/one-true-awk
 	url = ../external/one-true-awk
@@ -1201,6 +1207,15 @@
 [submodule "platform/external/rust/crates/arbitrary"]
 	path = external/rust/crates/arbitrary
 	url = ../external/rust/crates/arbitrary
+[submodule "platform/external/rust/crates/async-stream"]
+	path = external/rust/crates/async-stream
+	url = ../external/rust/crates/async-stream
+[submodule "platform/external/rust/crates/async-stream-impl"]
+	path = external/rust/crates/async-stream-impl
+	url = ../external/rust/crates/async-stream-impl
+[submodule "platform/external/rust/crates/async-task"]
+	path = external/rust/crates/async-task
+	url = ../external/rust/crates/async-task
 [submodule "platform/external/rust/crates/async-trait"]
 	path = external/rust/crates/async-trait
 	url = ../external/rust/crates/async-trait
@@ -1222,6 +1237,9 @@
 [submodule "platform/external/rust/crates/cfg-if"]
 	path = external/rust/crates/cfg-if
 	url = ../external/rust/crates/cfg-if
+[submodule "platform/external/rust/crates/chrono"]
+	path = external/rust/crates/chrono
+	url = ../external/rust/crates/chrono
 [submodule "platform/external/rust/crates/clang-sys"]
 	path = external/rust/crates/clang-sys
 	url = ../external/rust/crates/clang-sys
@@ -1375,6 +1393,9 @@
 [submodule "platform/external/rust/crates/num-derive"]
 	path = external/rust/crates/num-derive
 	url = ../external/rust/crates/num-derive
+[submodule "platform/external/rust/crates/num-integer"]
+	path = external/rust/crates/num-integer
+	url = ../external/rust/crates/num-integer
 [submodule "platform/external/rust/crates/num-traits"]
 	path = external/rust/crates/num-traits
 	url = ../external/rust/crates/num-traits
@@ -1471,6 +1492,9 @@
 [submodule "platform/external/rust/crates/rustc-hash"]
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/rustversion"]
+	path = external/rust/crates/rustversion
+	url = ../external/rust/crates/rustversion
 [submodule "platform/external/rust/crates/ryu"]
 	path = external/rust/crates/ryu
 	url = ../external/rust/crates/ryu
@@ -1543,6 +1567,9 @@
 [submodule "platform/external/rust/crates/tokio-stream"]
 	path = external/rust/crates/tokio-stream
 	url = ../external/rust/crates/tokio-stream
+[submodule "platform/external/rust/crates/tokio-test"]
+	path = external/rust/crates/tokio-test
+	url = ../external/rust/crates/tokio-test
 [submodule "platform/external/rust/crates/unicode-bidi"]
 	path = external/rust/crates/unicode-bidi
 	url = ../external/rust/crates/unicode-bidi
@@ -1639,6 +1666,9 @@
 [submodule "platform/external/squashfs-tools"]
 	path = external/squashfs-tools
 	url = ../external/squashfs-tools
+[submodule "platform/external/starlark-go"]
+	path = external/starlark-go
+	url = ../external/starlark-go
 [submodule "platform/external/strace"]
 	path = external/strace
 	url = ../external/strace
@@ -2197,9 +2227,6 @@
 [submodule "platform/packages/apps/OneTimeInitializer"]
 	path = packages/apps/OneTimeInitializer
 	url = ../packages/apps/OneTimeInitializer
-[submodule "platform/packages/apps/PackageInstaller"]
-	path = packages/apps/PermissionController
-	url = ../packages/apps/PackageInstaller
 [submodule "platform/packages/apps/PhoneCommon"]
 	path = packages/apps/PhoneCommon
 	url = ../packages/apps/PhoneCommon
@@ -2215,6 +2242,9 @@
 [submodule "platform/packages/apps/QuickSearchBox"]
 	path = packages/apps/QuickSearchBox
 	url = ../packages/apps/QuickSearchBox
+[submodule "platform/packages/apps/RemoteProvisioner"]
+	path = packages/apps/RemoteProvisioner
+	url = ../packages/apps/RemoteProvisioner
 [submodule "platform/packages/apps/SafetyRegulatoryInfo"]
 	path = packages/apps/SafetyRegulatoryInfo
 	url = ../packages/apps/SafetyRegulatoryInfo
@@ -2245,9 +2275,6 @@
 [submodule "platform/packages/apps/Tag"]
 	path = packages/apps/Tag
 	url = ../packages/apps/Tag
-[submodule "platform/packages/apps/Terminal"]
-	path = packages/apps/Terminal
-	url = ../packages/apps/Terminal
 [submodule "platform/packages/apps/Test/connectivity"]
 	path = packages/apps/Test/connectivity
 	url = ../packages/apps/Test/connectivity
@@ -2701,9 +2728,6 @@
 [submodule "platform/system/memory/lmkd"]
 	path = system/memory/lmkd
 	url = ../system/memory/lmkd
-[submodule "platform/system/memory/mm_eventsd"]
-	path = system/memory/mm_eventsd
-	url = ../system/memory/mm_eventsd
 [submodule "platform/system/netd"]
 	path = system/netd
 	url = ../system/netd
@@ -2758,6 +2782,9 @@
 [submodule "platform/test/app_compat/csuite"]
 	path = test/app_compat/csuite
 	url = ../test/app_compat/csuite
+[submodule "platform/test/cts-root"]
+	path = test/cts-root
+	url = ../test/cts-root
 [submodule "platform/test/framework"]
 	path = test/framework
 	url = ../test/framework

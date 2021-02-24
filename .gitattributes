@@ -75,6 +75,7 @@
 /kernel/tests vts pdk
 /art pdk
 /bionic pdk
+/bootable/libbootloader vts pdk
 /bootable/recovery pdk
 /build/make pdk
 /build/bazel pdk
@@ -155,6 +156,7 @@
 /external/dnsmasq pdk
 /external/doclava pdk
 /external/dokka pdk
+/external/downloader pdk
 /external/drm_hwcomposer pdk-fs drm_hwcomposer
 /external/drrickorang pdk
 /external/dtc pdk
@@ -297,7 +299,6 @@
 /external/libusb pdk
 /external/libutf pdk
 /external/libvpx pdk
-/external/libvterm pdk
 /external/libwebm pdk
 /external/libwebsockets pdk
 /external/libxaac pdk
@@ -341,6 +342,7 @@
 /external/oboe pdk
 /external/oj-libjdwp pdk
 /external/okhttp pdk
+/external/okhttp4 pdk
 /external/one-true-awk pdk
 /external/opencensus-java tradefed pdk
 /external/openscreen pdk
@@ -399,6 +401,9 @@
 /external/rust/crates/android_logger pdk
 /external/rust/crates/anyhow pdk
 /external/rust/crates/arbitrary pdk
+/external/rust/crates/async-stream pdk
+/external/rust/crates/async-stream-impl pdk
+/external/rust/crates/async-task pdk
 /external/rust/crates/async-trait pdk
 /external/rust/crates/bencher pdk
 /external/rust/crates/bindgen pdk
@@ -406,6 +411,7 @@
 /external/rust/crates/bytes pdk
 /external/rust/crates/cexpr pdk
 /external/rust/crates/cfg-if pdk
+/external/rust/crates/chrono pdk
 /external/rust/crates/clang-sys pdk
 /external/rust/crates/clap pdk
 /external/rust/crates/codespan-reporting pdk
@@ -457,6 +463,7 @@
 /external/rust/crates/no-panic pdk
 /external/rust/crates/nom pdk
 /external/rust/crates/num-derive pdk
+/external/rust/crates/num-integer pdk
 /external/rust/crates/num-traits pdk
 /external/rust/crates/num_cpus pdk
 /external/rust/crates/once_cell pdk
@@ -489,6 +496,7 @@
 /external/rust/crates/ring pdk
 /external/rust/crates/rusqlite pdk
 /external/rust/crates/rustc-hash pdk
+/external/rust/crates/rustversion pdk
 /external/rust/crates/ryu pdk
 /external/rust/crates/scopeguard pdk
 /external/rust/crates/serde pdk
@@ -513,6 +521,7 @@
 /external/rust/crates/tokio pdk
 /external/rust/crates/tokio-macros pdk
 /external/rust/crates/tokio-stream pdk
+/external/rust/crates/tokio-test pdk
 /external/rust/crates/unicode-bidi pdk
 /external/rust/crates/unicode-normalization pdk
 /external/rust/crates/unicode-segmentation pdk
@@ -545,6 +554,7 @@
 /external/speex pdk
 /external/sqlite pdk
 /external/squashfs-tools pdk
+/external/starlark-go pdk
 /external/strace pdk
 /external/stressapptest pdk
 /external/subsampling-scale-image-view pdk
@@ -731,12 +741,12 @@
 /packages/apps/Nfc apps_nfc pdk-fs
 /packages/apps/OnDeviceAppPrediction pdk-fs
 /packages/apps/OneTimeInitializer pdk-fs
-/packages/apps/PermissionController pdk-fs pdk-cw-fs
 /packages/apps/PhoneCommon pdk-fs pdk-cw-fs
 /packages/apps/Protips pdk-fs
 /packages/apps/Provision pdk-fs
 /packages/apps/QuickAccessWallet pdk-fs
 /packages/apps/QuickSearchBox pdk-fs
+/packages/apps/RemoteProvisioner pdk-fs
 /packages/apps/SafetyRegulatoryInfo pdk-fs
 /packages/apps/SampleLocationAttribution pdk-fs
 /packages/apps/SecureElement pdk-fs apps_se
@@ -747,7 +757,6 @@
 /packages/apps/StorageManager pdk-fs
 /packages/apps/TV pdk
 /packages/apps/Tag pdk-fs
-/packages/apps/Terminal pdk-fs
 /packages/apps/Test/connectivity pdk
 /packages/apps/ThemePicker pdk-fs
 /packages/apps/TimeZoneData pdk
@@ -899,7 +908,6 @@
 /system/memory/libmemtrack pdk
 /system/memory/libmemunreachable pdk
 /system/memory/lmkd pdk
-/system/memory/mm_eventsd pdk
 /system/netd pdk
 /system/nfc pdk
 /system/nvram pdk
@@ -918,6 +926,7 @@
 /system/update_engine pdk
 /system/vold pdk
 /test/app_compat/csuite
+/test/cts-root
 /test/framework vts pdk projectarch
 /test/mlts/benchmark pdk
 /test/mlts/models pdk
