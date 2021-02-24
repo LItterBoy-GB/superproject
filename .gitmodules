@@ -2259,6 +2259,10 @@
 	branch = master
 	path = external/squashfs-tools
 	url = ../external/squashfs-tools
+[submodule "platform/external/starlark-go"]
+	branch = master
+	path = external/starlark-go
+	url = ../external/starlark-go
 [submodule "platform/external/strace"]
 	branch = master
 	path = external/strace
