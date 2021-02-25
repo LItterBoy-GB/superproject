@@ -2174,6 +2174,10 @@
 	branch = master
 	path = external/rust/cxx
 	url = ../external/rust/cxx
+[submodule "platform/external/ruy"]
+	branch = master
+	path = external/ruy
+	url = ../external/ruy
 [submodule "platform/external/scapy"]
 	branch = master
 	path = external/scapy
