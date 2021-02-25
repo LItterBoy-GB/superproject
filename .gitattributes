@@ -533,6 +533,7 @@
 /external/rust/crates/weak-table pdk
 /external/rust/crates/which pdk
 /external/rust/cxx pdk
+/external/ruy pdk
 /external/scapy pdk-fs
 /external/scrypt pdk
 /external/scudo pdk
