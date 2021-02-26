@@ -408,6 +408,7 @@
 /external/rust/crates/bencher pdk
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bitflags pdk
+/external/rust/crates/byteorder pdk
 /external/rust/crates/bytes pdk
 /external/rust/crates/cexpr pdk
 /external/rust/crates/cfg-if pdk
@@ -415,6 +416,7 @@
 /external/rust/crates/clang-sys pdk
 /external/rust/crates/clap pdk
 /external/rust/crates/codespan-reporting pdk
+/external/rust/crates/crc32fast pdk
 /external/rust/crates/derive_arbitrary pdk
 /external/rust/crates/downcast-rs pdk
 /external/rust/crates/env_logger pdk
@@ -436,6 +438,7 @@
 /external/rust/crates/grpcio pdk
 /external/rust/crates/grpcio-compiler pdk
 /external/rust/crates/grpcio-sys pdk
+/external/rust/crates/half pdk
 /external/rust/crates/hashbrown pdk
 /external/rust/crates/hashlink pdk
 /external/rust/crates/heck pdk
@@ -500,6 +503,7 @@
 /external/rust/crates/ryu pdk
 /external/rust/crates/scopeguard pdk
 /external/rust/crates/serde pdk
+/external/rust/crates/serde_cbor pdk
 /external/rust/crates/serde_derive pdk
 /external/rust/crates/serde_json pdk
 /external/rust/crates/serde_test pdk
@@ -532,7 +536,9 @@
 /external/rust/crates/vsock pdk
 /external/rust/crates/weak-table pdk
 /external/rust/crates/which pdk
+/external/rust/crates/zip pdk
 /external/rust/cxx pdk
+/external/ruy pdk
 /external/scapy pdk-fs
 /external/scrypt pdk
 /external/scudo pdk
