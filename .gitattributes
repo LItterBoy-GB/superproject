@@ -416,6 +416,7 @@
 /external/rust/crates/clang-sys pdk
 /external/rust/crates/clap pdk
 /external/rust/crates/codespan-reporting pdk
+/external/rust/crates/crc32fast pdk
 /external/rust/crates/derive_arbitrary pdk
 /external/rust/crates/downcast-rs pdk
 /external/rust/crates/env_logger pdk
@@ -535,6 +536,7 @@
 /external/rust/crates/vsock pdk
 /external/rust/crates/weak-table pdk
 /external/rust/crates/which pdk
+/external/rust/crates/zip pdk
 /external/rust/cxx pdk
 /external/ruy pdk
 /external/scapy pdk-fs
