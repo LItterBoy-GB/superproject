@@ -1782,6 +1782,10 @@
 	branch = master
 	path = external/rust/crates/grpcio-sys
 	url = ../external/rust/crates/grpcio-sys
+[submodule "platform/external/rust/crates/half"]
+	branch = master
+	path = external/rust/crates/half
+	url = ../external/rust/crates/half
 [submodule "platform/external/rust/crates/hashbrown"]
 	branch = master
 	path = external/rust/crates/hashbrown
@@ -2038,6 +2042,10 @@
 	branch = master
 	path = external/rust/crates/serde
 	url = ../external/rust/crates/serde
+[submodule "platform/external/rust/crates/serde_cbor"]
+	branch = master
+	path = external/rust/crates/serde_cbor
+	url = ../external/rust/crates/serde_cbor
 [submodule "platform/external/rust/crates/serde_derive"]
 	branch = master
 	path = external/rust/crates/serde_derive
