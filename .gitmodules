@@ -1674,6 +1674,10 @@
 	branch = master
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/byteorder"]
+	branch = master
+	path = external/rust/crates/byteorder
+	url = ../external/rust/crates/byteorder
 [submodule "platform/external/rust/crates/bytes"]
 	branch = master
 	path = external/rust/crates/bytes
