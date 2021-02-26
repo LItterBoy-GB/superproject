@@ -1706,6 +1706,10 @@
 	branch = master
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
+[submodule "platform/external/rust/crates/crc32fast"]
+	branch = master
+	path = external/rust/crates/crc32fast
+	url = ../external/rust/crates/crc32fast
 [submodule "platform/external/rust/crates/derive_arbitrary"]
 	branch = master
 	path = external/rust/crates/derive_arbitrary
@@ -2182,6 +2186,10 @@
 	branch = master
 	path = external/rust/crates/which
 	url = ../external/rust/crates/which
+[submodule "platform/external/rust/crates/zip"]
+	branch = master
+	path = external/rust/crates/zip
+	url = ../external/rust/crates/zip
 [submodule "platform/external/rust/cxx"]
 	branch = master
 	path = external/rust/cxx
