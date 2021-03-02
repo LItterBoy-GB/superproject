@@ -64,7 +64,6 @@
 /external/oj-libjdwp pdk
 /external/okhttp pdk
 /external/pcre pdk
-/external/perfetto pdk
 /external/protobuf pdk
 /external/python/cpython2 pdk
 /external/python/cpython3 pdk

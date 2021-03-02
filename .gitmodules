@@ -262,10 +262,6 @@
 	branch = master
 	path = external/pcre
 	url = ../external/pcre
-[submodule "platform/external/perfetto"]
-	branch = master
-	path = external/perfetto
-	url = ../external/perfetto
 [submodule "platform/external/protobuf"]
 	branch = master
 	path = external/protobuf
