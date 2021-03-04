@@ -24,7 +24,6 @@
 /device/google/bonito-kernel bonito device
 /device/google/bonito-sepolicy bonito device
 /device/google/bramble bramble device
-/device/google/bramble-kernel bramble device
 /device/google/bramble-sepolicy bramble device
 /device/google/contexthub pdk device
 /device/google/coral generic_fs coral device
@@ -37,9 +36,9 @@
 /device/google/cuttlefish_prebuilts pdk device
 /device/google/fuchsia device
 /device/google/redbull redbull device
+/device/google/redbull-kernel bramble redfin device
 /device/google/redbull-sepolicy redbull device
 /device/google/redfin redfin device
-/device/google/redfin-kernel redfin device
 /device/google/redfin-sepolicy redfin device
 /device/google/sunfish sunfish device
 /device/google/sunfish-kernel sunfish device
@@ -63,10 +62,19 @@
 /kernel/prebuilts/5.10/x86_64 pdk
 /kernel/prebuilts/5.4/arm64 pdk
 /kernel/prebuilts/5.4/x86_64 pdk
+/kernel/prebuilts/common-modules/virtual-device/4.19/arm64 pdk
+/kernel/prebuilts/common-modules/virtual-device/4.19/x86-64 pdk
+/kernel/prebuilts/common-modules/virtual-device/5.10/arm64 pdk
+/kernel/prebuilts/common-modules/virtual-device/5.10/x86-64 pdk
+/kernel/prebuilts/common-modules/virtual-device/5.4/arm64 pdk
+/kernel/prebuilts/common-modules/virtual-device/5.4/x86-64 pdk
+/kernel/prebuilts/common-modules/virtual-device/mainline/arm64 pdk
+/kernel/prebuilts/common-modules/virtual-device/mainline/x86-64 pdk
 /kernel/prebuilts/mainline/arm64 pdk
 /kernel/tests vts pdk
 /art pdk
 /bionic pdk
+/bootable/libbootloader vts pdk
 /bootable/recovery pdk
 /build/make pdk
 /build/bazel pdk
@@ -147,6 +155,7 @@
 /external/dnsmasq pdk
 /external/doclava pdk
 /external/dokka pdk
+/external/downloader pdk
 /external/drm_hwcomposer pdk-fs drm_hwcomposer
 /external/drrickorang pdk
 /external/dtc pdk
@@ -289,7 +298,6 @@
 /external/libusb pdk
 /external/libutf pdk
 /external/libvpx pdk
-/external/libvterm pdk
 /external/libwebm pdk
 /external/libwebsockets pdk
 /external/libxaac pdk
@@ -333,6 +341,7 @@
 /external/oboe pdk
 /external/oj-libjdwp pdk
 /external/okhttp pdk
+/external/okhttp4 pdk
 /external/one-true-awk pdk
 /external/opencensus-java tradefed pdk
 /external/openscreen pdk
@@ -391,16 +400,22 @@
 /external/rust/crates/android_logger pdk
 /external/rust/crates/anyhow pdk
 /external/rust/crates/arbitrary pdk
+/external/rust/crates/async-stream pdk
+/external/rust/crates/async-stream-impl pdk
+/external/rust/crates/async-task pdk
 /external/rust/crates/async-trait pdk
 /external/rust/crates/bencher pdk
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bitflags pdk
+/external/rust/crates/byteorder pdk
 /external/rust/crates/bytes pdk
 /external/rust/crates/cexpr pdk
 /external/rust/crates/cfg-if pdk
+/external/rust/crates/chrono pdk
 /external/rust/crates/clang-sys pdk
 /external/rust/crates/clap pdk
 /external/rust/crates/codespan-reporting pdk
+/external/rust/crates/crc32fast pdk
 /external/rust/crates/derive_arbitrary pdk
 /external/rust/crates/downcast-rs pdk
 /external/rust/crates/env_logger pdk
@@ -422,6 +437,7 @@
 /external/rust/crates/grpcio pdk
 /external/rust/crates/grpcio-compiler pdk
 /external/rust/crates/grpcio-sys pdk
+/external/rust/crates/half pdk
 /external/rust/crates/hashbrown pdk
 /external/rust/crates/hashlink pdk
 /external/rust/crates/heck pdk
@@ -449,6 +465,7 @@
 /external/rust/crates/no-panic pdk
 /external/rust/crates/nom pdk
 /external/rust/crates/num-derive pdk
+/external/rust/crates/num-integer pdk
 /external/rust/crates/num-traits pdk
 /external/rust/crates/num_cpus pdk
 /external/rust/crates/once_cell pdk
@@ -481,9 +498,11 @@
 /external/rust/crates/ring pdk
 /external/rust/crates/rusqlite pdk
 /external/rust/crates/rustc-hash pdk
+/external/rust/crates/rustversion pdk
 /external/rust/crates/ryu pdk
 /external/rust/crates/scopeguard pdk
 /external/rust/crates/serde pdk
+/external/rust/crates/serde_cbor pdk
 /external/rust/crates/serde_derive pdk
 /external/rust/crates/serde_json pdk
 /external/rust/crates/serde_test pdk
@@ -505,6 +524,7 @@
 /external/rust/crates/tokio pdk
 /external/rust/crates/tokio-macros pdk
 /external/rust/crates/tokio-stream pdk
+/external/rust/crates/tokio-test pdk
 /external/rust/crates/unicode-bidi pdk
 /external/rust/crates/unicode-normalization pdk
 /external/rust/crates/unicode-segmentation pdk
@@ -515,7 +535,9 @@
 /external/rust/crates/vsock pdk
 /external/rust/crates/weak-table pdk
 /external/rust/crates/which pdk
+/external/rust/crates/zip pdk
 /external/rust/cxx pdk
+/external/ruy pdk
 /external/scapy pdk-fs
 /external/scrypt pdk
 /external/scudo pdk
@@ -537,6 +559,7 @@
 /external/speex pdk
 /external/sqlite pdk
 /external/squashfs-tools pdk
+/external/starlark-go pdk
 /external/strace pdk
 /external/stressapptest pdk
 /external/subsampling-scale-image-view pdk
@@ -545,6 +568,7 @@
 /external/tcpdump pdk
 /external/tensorflow pdk
 /external/testng pdk
+/external/tflite-support pdk
 /external/timezone-boundary-builder pdk
 /external/tinyalsa pdk
 /external/tinyalsa_new pdk
@@ -722,12 +746,12 @@
 /packages/apps/Nfc apps_nfc pdk-fs
 /packages/apps/OnDeviceAppPrediction pdk-fs
 /packages/apps/OneTimeInitializer pdk-fs
-/packages/apps/PermissionController pdk-fs pdk-cw-fs
 /packages/apps/PhoneCommon pdk-fs pdk-cw-fs
 /packages/apps/Protips pdk-fs
 /packages/apps/Provision pdk-fs
 /packages/apps/QuickAccessWallet pdk-fs
 /packages/apps/QuickSearchBox pdk-fs
+/packages/apps/RemoteProvisioner pdk-fs
 /packages/apps/SafetyRegulatoryInfo pdk-fs
 /packages/apps/SampleLocationAttribution pdk-fs
 /packages/apps/SecureElement pdk-fs apps_se
@@ -738,7 +762,6 @@
 /packages/apps/StorageManager pdk-fs
 /packages/apps/TV pdk
 /packages/apps/Tag pdk-fs
-/packages/apps/Terminal pdk-fs
 /packages/apps/Test/connectivity pdk
 /packages/apps/ThemePicker pdk-fs
 /packages/apps/TimeZoneData pdk
@@ -773,6 +796,7 @@
 /packages/modules/Virtualization pdk
 /packages/modules/Wifi pdk-fs pdk-cw-fs
 /packages/modules/adb pdk
+/packages/modules/common pdk-fs pdk-cw-fs
 /packages/modules/vndk pdk-fs pdk-cw-fs
 /packages/providers/BlockedNumberProvider pdk-fs
 /packages/providers/BookmarkProvider pdk-fs
@@ -889,7 +913,6 @@
 /system/memory/libmemtrack pdk
 /system/memory/libmemunreachable pdk
 /system/memory/lmkd pdk
-/system/memory/mm_eventsd pdk
 /system/netd pdk
 /system/nfc pdk
 /system/nvram pdk
@@ -908,6 +931,7 @@
 /system/update_engine pdk
 /system/vold pdk
 /test/app_compat/csuite
+/test/cts-root
 /test/framework vts pdk projectarch
 /test/mlts/benchmark pdk
 /test/mlts/models pdk
