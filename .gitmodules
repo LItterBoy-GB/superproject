@@ -1657,6 +1657,10 @@
 	branch = master
 	path = external/rust/crates/async-trait
 	url = ../external/rust/crates/async-trait
+[submodule "platform/external/rust/crates/atty"]
+	branch = master
+	path = external/rust/crates/atty
+	url = ../external/rust/crates/atty
 [submodule "platform/external/rust/crates/bencher"]
 	branch = master
 	path = external/rust/crates/bencher
@@ -1669,6 +1673,10 @@
 	branch = master
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/bstr"]
+	branch = master
+	path = external/rust/crates/bstr
+	url = ../external/rust/crates/bstr
 [submodule "platform/external/rust/crates/byteorder"]
 	branch = master
 	path = external/rust/crates/byteorder
@@ -1677,6 +1685,10 @@
 	branch = master
 	path = external/rust/crates/bytes
 	url = ../external/rust/crates/bytes
+[submodule "platform/external/rust/crates/cast"]
+	branch = master
+	path = external/rust/crates/cast
+	url = ../external/rust/crates/cast
 [submodule "platform/external/rust/crates/cexpr"]
 	branch = master
 	path = external/rust/crates/cexpr
@@ -1705,6 +1717,38 @@
 	branch = master
 	path = external/rust/crates/crc32fast
 	url = ../external/rust/crates/crc32fast
+[submodule "platform/external/rust/crates/criterion"]
+	branch = master
+	path = external/rust/crates/criterion
+	url = ../external/rust/crates/criterion
+[submodule "platform/external/rust/crates/criterion-plot"]
+	branch = master
+	path = external/rust/crates/criterion-plot
+	url = ../external/rust/crates/criterion-plot
+[submodule "platform/external/rust/crates/crossbeam-channel"]
+	branch = master
+	path = external/rust/crates/crossbeam-channel
+	url = ../external/rust/crates/crossbeam-channel
+[submodule "platform/external/rust/crates/crossbeam-deque"]
+	branch = master
+	path = external/rust/crates/crossbeam-deque
+	url = ../external/rust/crates/crossbeam-deque
+[submodule "platform/external/rust/crates/crossbeam-epoch"]
+	branch = master
+	path = external/rust/crates/crossbeam-epoch
+	url = ../external/rust/crates/crossbeam-epoch
+[submodule "platform/external/rust/crates/crossbeam-utils"]
+	branch = master
+	path = external/rust/crates/crossbeam-utils
+	url = ../external/rust/crates/crossbeam-utils
+[submodule "platform/external/rust/crates/csv"]
+	branch = master
+	path = external/rust/crates/csv
+	url = ../external/rust/crates/csv
+[submodule "platform/external/rust/crates/csv-core"]
+	branch = master
+	path = external/rust/crates/csv-core
+	url = ../external/rust/crates/csv-core
 [submodule "platform/external/rust/crates/derive_arbitrary"]
 	branch = master
 	path = external/rust/crates/derive_arbitrary
@@ -1713,6 +1757,10 @@
 	branch = master
 	path = external/rust/crates/downcast-rs
 	url = ../external/rust/crates/downcast-rs
+[submodule "platform/external/rust/crates/either"]
+	branch = master
+	path = external/rust/crates/either
+	url = ../external/rust/crates/either
 [submodule "platform/external/rust/crates/env_logger"]
 	branch = master
 	path = external/rust/crates/env_logger
@@ -1817,6 +1865,10 @@
 	branch = master
 	path = external/rust/crates/intrusive-collections
 	url = ../external/rust/crates/intrusive-collections
+[submodule "platform/external/rust/crates/itertools"]
+	branch = master
+	path = external/rust/crates/itertools
+	url = ../external/rust/crates/itertools
 [submodule "platform/external/rust/crates/itoa"]
 	branch = master
 	path = external/rust/crates/itoa
@@ -1917,6 +1969,10 @@
 	branch = master
 	path = external/rust/crates/once_cell
 	url = ../external/rust/crates/once_cell
+[submodule "platform/external/rust/crates/oorandom"]
+	branch = master
+	path = external/rust/crates/oorandom
+	url = ../external/rust/crates/oorandom
 [submodule "platform/external/rust/crates/parking_lot"]
 	branch = master
 	path = external/rust/crates/parking_lot
@@ -1953,6 +2009,18 @@
 	branch = master
 	path = external/rust/crates/pin-utils
 	url = ../external/rust/crates/pin-utils
+[submodule "platform/external/rust/crates/plotters"]
+	branch = master
+	path = external/rust/crates/plotters
+	url = ../external/rust/crates/plotters
+[submodule "platform/external/rust/crates/plotters-backend"]
+	branch = master
+	path = external/rust/crates/plotters-backend
+	url = ../external/rust/crates/plotters-backend
+[submodule "platform/external/rust/crates/plotters-svg"]
+	branch = master
+	path = external/rust/crates/plotters-svg
+	url = ../external/rust/crates/plotters-svg
 [submodule "platform/external/rust/crates/ppv-lite86"]
 	branch = master
 	path = external/rust/crates/ppv-lite86
@@ -2009,10 +2077,22 @@
 	branch = master
 	path = external/rust/crates/rand_xorshift
 	url = ../external/rust/crates/rand_xorshift
+[submodule "platform/external/rust/crates/rayon"]
+	branch = master
+	path = external/rust/crates/rayon
+	url = ../external/rust/crates/rayon
+[submodule "platform/external/rust/crates/rayon-core"]
+	branch = master
+	path = external/rust/crates/rayon-core
+	url = ../external/rust/crates/rayon-core
 [submodule "platform/external/rust/crates/regex"]
 	branch = master
 	path = external/rust/crates/regex
 	url = ../external/rust/crates/regex
+[submodule "platform/external/rust/crates/regex-automata"]
+	branch = master
+	path = external/rust/crates/regex-automata
+	url = ../external/rust/crates/regex-automata
 [submodule "platform/external/rust/crates/regex-syntax"]
 	branch = master
 	path = external/rust/crates/regex-syntax
@@ -2041,6 +2121,10 @@
 	branch = master
 	path = external/rust/crates/ryu
 	url = ../external/rust/crates/ryu
+[submodule "platform/external/rust/crates/same-file"]
+	branch = master
+	path = external/rust/crates/same-file
+	url = ../external/rust/crates/same-file
 [submodule "platform/external/rust/crates/scopeguard"]
 	branch = master
 	path = external/rust/crates/scopeguard
@@ -2117,6 +2201,10 @@
 	branch = master
 	path = external/rust/crates/thread_local
 	url = ../external/rust/crates/thread_local
+[submodule "platform/external/rust/crates/tinytemplate"]
+	branch = master
+	path = external/rust/crates/tinytemplate
+	url = ../external/rust/crates/tinytemplate
 [submodule "platform/external/rust/crates/tinyvec"]
 	branch = master
 	path = external/rust/crates/tinyvec
@@ -2173,6 +2261,10 @@
 	branch = master
 	path = external/rust/crates/vsock
 	url = ../external/rust/crates/vsock
+[submodule "platform/external/rust/crates/walkdir"]
+	branch = master
+	path = external/rust/crates/walkdir
+	url = ../external/rust/crates/walkdir
 [submodule "platform/external/rust/crates/weak-table"]
 	branch = master
 	path = external/rust/crates/weak-table

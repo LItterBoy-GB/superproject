@@ -406,11 +406,14 @@
 /external/rust/crates/async-stream-impl pdk
 /external/rust/crates/async-task pdk
 /external/rust/crates/async-trait pdk
+/external/rust/crates/atty pdk
 /external/rust/crates/bencher pdk
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bitflags pdk
+/external/rust/crates/bstr pdk
 /external/rust/crates/byteorder pdk
 /external/rust/crates/bytes pdk
+/external/rust/crates/cast pdk
 /external/rust/crates/cexpr pdk
 /external/rust/crates/cfg-if pdk
 /external/rust/crates/chrono pdk
@@ -418,8 +421,17 @@
 /external/rust/crates/clap pdk
 /external/rust/crates/codespan-reporting pdk
 /external/rust/crates/crc32fast pdk
+/external/rust/crates/criterion pdk
+/external/rust/crates/criterion-plot pdk
+/external/rust/crates/crossbeam-channel pdk
+/external/rust/crates/crossbeam-deque pdk
+/external/rust/crates/crossbeam-epoch pdk
+/external/rust/crates/crossbeam-utils pdk
+/external/rust/crates/csv pdk
+/external/rust/crates/csv-core pdk
 /external/rust/crates/derive_arbitrary pdk
 /external/rust/crates/downcast-rs pdk
+/external/rust/crates/either pdk
 /external/rust/crates/env_logger pdk
 /external/rust/crates/fallible-iterator pdk
 /external/rust/crates/fallible-streaming-iterator pdk
@@ -446,6 +458,7 @@
 /external/rust/crates/idna pdk
 /external/rust/crates/instant pdk
 /external/rust/crates/intrusive-collections pdk
+/external/rust/crates/itertools pdk
 /external/rust/crates/itoa pdk
 /external/rust/crates/lazy_static pdk
 /external/rust/crates/lazycell pdk
@@ -471,6 +484,7 @@
 /external/rust/crates/num-traits pdk
 /external/rust/crates/num_cpus pdk
 /external/rust/crates/once_cell pdk
+/external/rust/crates/oorandom pdk
 /external/rust/crates/parking_lot pdk
 /external/rust/crates/parking_lot_core pdk
 /external/rust/crates/paste pdk
@@ -480,6 +494,9 @@
 /external/rust/crates/pin-project-internal pdk
 /external/rust/crates/pin-project-lite pdk
 /external/rust/crates/pin-utils pdk
+/external/rust/crates/plotters pdk
+/external/rust/crates/plotters-backend pdk
+/external/rust/crates/plotters-svg pdk
 /external/rust/crates/ppv-lite86 pdk
 /external/rust/crates/proc-macro-error pdk
 /external/rust/crates/proc-macro-error-attr pdk
@@ -494,7 +511,10 @@
 /external/rust/crates/rand_chacha pdk
 /external/rust/crates/rand_core pdk
 /external/rust/crates/rand_xorshift pdk
+/external/rust/crates/rayon pdk
+/external/rust/crates/rayon-core pdk
 /external/rust/crates/regex pdk
+/external/rust/crates/regex-automata pdk
 /external/rust/crates/regex-syntax pdk
 /external/rust/crates/remain pdk
 /external/rust/crates/ring pdk
@@ -502,6 +522,7 @@
 /external/rust/crates/rustc-hash pdk
 /external/rust/crates/rustversion pdk
 /external/rust/crates/ryu pdk
+/external/rust/crates/same-file pdk
 /external/rust/crates/scopeguard pdk
 /external/rust/crates/serde pdk
 /external/rust/crates/serde_cbor pdk
@@ -521,6 +542,7 @@
 /external/rust/crates/thiserror pdk
 /external/rust/crates/thiserror-impl pdk
 /external/rust/crates/thread_local pdk
+/external/rust/crates/tinytemplate pdk
 /external/rust/crates/tinyvec pdk
 /external/rust/crates/tinyvec_macros pdk
 /external/rust/crates/tokio pdk
@@ -535,6 +557,7 @@
 /external/rust/crates/untrusted pdk
 /external/rust/crates/url pdk
 /external/rust/crates/vsock pdk
+/external/rust/crates/walkdir pdk
 /external/rust/crates/weak-table pdk
 /external/rust/crates/which pdk
 /external/rust/crates/zip pdk
