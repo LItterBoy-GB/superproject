@@ -14,6 +14,10 @@
 	branch = emu-master-dev
 	path = build
 	url = ../build
+[submodule "platform/external/abseil-cpp"]
+	branch = emu-master-dev
+	path = external/abseil-cpp
+	url = ../external/abseil-cpp
 [submodule "platform/external/adt-infra"]
 	branch = emu-master-dev
 	path = external/adt-infra
@@ -26,6 +30,10 @@
 	branch = master
 	path = external/astc-codec
 	url = ../external/astc-codec
+[submodule "platform/external/bison"]
+	branch = master
+	path = external/bison
+	url = ../external/bison
 [submodule "platform/external/bluetooth/glib"]
 	branch = emu-master-dev
 	path = external/bluetooth/glib
@@ -51,6 +59,10 @@
 	branch = emu-master-dev
 	path = external/ffmpeg
 	url = ../external/ffmpeg
+[submodule "platform/external/flex"]
+	branch = master
+	path = external/flex
+	url = ../external/flex
 [submodule "platform/external/google-benchmark"]
 	path = external/google-benchmark
 	url = ../external/google-benchmark
@@ -66,6 +78,10 @@
 	branch = emu-master-dev
 	path = external/grpc
 	url = ../external/grpc-grpc
+[submodule "platform/external/libchrome"]
+	branch = emu-master-dev
+	path = external/libchrome
+	url = ../external/libchrome
 [submodule "platform/external/libffi"]
 	branch = emu-master-dev
 	path = external/libffi
@@ -254,6 +270,10 @@
 	branch = emu-master-dev
 	path = sdk
 	url = ../sdk
+[submodule "platform/system/bt"]
+	branch = master
+	path = system/bt
+	url = ../system/bt
 [submodule "platform/tools/acloud"]
 	branch = master
 	path = tools/acloud
@@ -275,3 +295,7 @@
 	branch = emu-master-dev
 	path = tools/gradle
 	url = ../tools/gradle
+[submodule "toolchain/m4"]
+	branch = master
+	path = external/m4
+	url = ../../toolchain/m4
