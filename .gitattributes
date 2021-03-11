@@ -29,4 +29,5 @@
 /toolchain/llvm-project
 /toolchain/llvm_android
 /toolchain/prebuilts/ndk/r20
+/toolchain/prebuilts/ndk/r23
 /toolchain/xz
