@@ -1933,6 +1933,10 @@
 	branch = master
 	path = external/rust/crates/lru-cache
 	url = ../external/rust/crates/lru-cache
+[submodule "platform/external/rust/crates/managed"]
+	branch = master
+	path = external/rust/crates/managed
+	url = ../external/rust/crates/managed
 [submodule "platform/external/rust/crates/matches"]
 	branch = master
 	path = external/rust/crates/matches
