@@ -326,6 +326,7 @@
 /external/modp_b64 pdk
 /external/mp4parser pdk
 /external/ms-tpm-20-ref pdk
+/external/mtools pdk
 /external/mtpd pdk
 /external/nanohttpd pdk
 /external/nanopb-c pdk

@@ -1337,6 +1337,10 @@
 	branch = master
 	path = external/ms-tpm-20-ref
 	url = ../external/ms-tpm-20-ref
+[submodule "platform/external/mtools"]
+	branch = master
+	path = external/mtools
+	url = ../external/mtools
 [submodule "platform/external/mtpd"]
 	branch = master
 	path = external/mtpd
