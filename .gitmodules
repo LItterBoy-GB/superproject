@@ -491,6 +491,10 @@
 	branch = master
 	path = external/avb
 	url = ../external/avb
+[submodule "platform/external/bazelbuild-rules_android"]
+	branch = master
+	path = external/bazelbuild-rules_android
+	url = ../external/bazelbuild-rules_android
 [submodule "platform/external/bc"]
 	branch = master
 	path = external/bc
@@ -1705,6 +1709,10 @@
 	branch = master
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
+[submodule "platform/external/rust/crates/const_fn"]
+	branch = master
+	path = external/rust/crates/const_fn
+	url = ../external/rust/crates/const_fn
 [submodule "platform/external/rust/crates/crc32fast"]
 	branch = master
 	path = external/rust/crates/crc32fast
