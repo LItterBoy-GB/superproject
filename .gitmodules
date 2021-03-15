@@ -1829,6 +1829,10 @@
 	branch = master
 	path = external/rust/crates/futures-util
 	url = ../external/rust/crates/futures-util
+[submodule "platform/external/rust/crates/gdbstub"]
+	branch = master
+	path = external/rust/crates/gdbstub
+	url = ../external/rust/crates/gdbstub
 [submodule "platform/external/rust/crates/getrandom"]
 	branch = master
 	path = external/rust/crates/getrandom
