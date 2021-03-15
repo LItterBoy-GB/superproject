@@ -2940,6 +2940,10 @@
 	branch = master
 	path = hardware/ril
 	url = ../hardware/ril
+[submodule "platform/hardware/samsung/nfc"]
+	branch = master
+	path = hardware/samsung/nfc
+	url = ../hardware/samsung/nfc
 [submodule "platform/hardware/st/nfc"]
 	branch = master
 	path = hardware/st/nfc

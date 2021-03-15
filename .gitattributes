@@ -726,6 +726,7 @@
 /hardware/qcom/sm8150p/gps qcom_sm8150p
 /hardware/qcom/wlan qcom_wlan pdk-qcom
 /hardware/ril pdk
+/hardware/samsung/nfc pdk
 /hardware/st/nfc pdk
 /hardware/st/secure_element pdk
 /hardware/st/secure_element2 pdk
