@@ -342,6 +342,10 @@
 	branch = master
 	path = packages/modules/adb
 	url = ../packages/modules/adb
+[submodule "platform/packages/modules/common"]
+	branch = master
+	path = packages/modules/common
+	url = ../packages/modules/common
 [submodule "platform/packages/modules/vndk"]
 	branch = master
 	path = packages/modules/vndk
