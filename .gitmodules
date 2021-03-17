@@ -1937,6 +1937,10 @@
 	branch = master
 	path = external/rust/crates/lru-cache
 	url = ../external/rust/crates/lru-cache
+[submodule "platform/external/rust/crates/macaddr"]
+	branch = master
+	path = external/rust/crates/macaddr
+	url = ../external/rust/crates/macaddr
 [submodule "platform/external/rust/crates/managed"]
 	branch = master
 	path = external/rust/crates/managed
@@ -2277,6 +2281,10 @@
 	branch = master
 	path = external/rust/crates/url
 	url = ../external/rust/crates/url
+[submodule "platform/external/rust/crates/uuid"]
+	branch = master
+	path = external/rust/crates/uuid
+	url = ../external/rust/crates/uuid
 [submodule "platform/external/rust/crates/vsock"]
 	branch = master
 	path = external/rust/crates/vsock

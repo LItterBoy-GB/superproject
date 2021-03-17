@@ -476,6 +476,7 @@
 /external/rust/crates/lock_api pdk
 /external/rust/crates/log pdk
 /external/rust/crates/lru-cache pdk
+/external/rust/crates/macaddr pdk
 /external/rust/crates/managed pdk
 /external/rust/crates/matches pdk
 /external/rust/crates/memchr pdk
@@ -561,6 +562,7 @@
 /external/rust/crates/unicode-xid pdk
 /external/rust/crates/untrusted pdk
 /external/rust/crates/url pdk
+/external/rust/crates/uuid pdk
 /external/rust/crates/vsock pdk
 /external/rust/crates/walkdir pdk
 /external/rust/crates/weak-table pdk
