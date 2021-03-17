@@ -1426,6 +1426,9 @@
 [submodule "platform/external/rust/crates/lru-cache"]
 	path = external/rust/crates/lru-cache
 	url = ../external/rust/crates/lru-cache
+[submodule "platform/external/rust/crates/macaddr"]
+	path = external/rust/crates/macaddr
+	url = ../external/rust/crates/macaddr
 [submodule "platform/external/rust/crates/managed"]
 	path = external/rust/crates/managed
 	url = ../external/rust/crates/managed
@@ -1681,6 +1684,9 @@
 [submodule "platform/external/rust/crates/url"]
 	path = external/rust/crates/url
 	url = ../external/rust/crates/url
+[submodule "platform/external/rust/crates/uuid"]
+	path = external/rust/crates/uuid
+	url = ../external/rust/crates/uuid
 [submodule "platform/external/rust/crates/vsock"]
 	path = external/rust/crates/vsock
 	url = ../external/rust/crates/vsock
