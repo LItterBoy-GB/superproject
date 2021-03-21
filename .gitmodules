@@ -349,6 +349,9 @@
 [submodule "platform/external/avb"]
 	path = external/avb
 	url = ../external/avb
+[submodule "platform/external/bazelbuild-rules_android"]
+	path = external/bazelbuild-rules_android
+	url = ../external/bazelbuild-rules_android
 [submodule "platform/external/bc"]
 	path = external/bc
 	url = ../external/bc
@@ -979,6 +982,9 @@
 [submodule "platform/external/ms-tpm-20-ref"]
 	path = external/ms-tpm-20-ref
 	url = ../external/ms-tpm-20-ref
+[submodule "platform/external/mtools"]
+	path = external/mtools
+	url = ../external/mtools
 [submodule "platform/external/mtpd"]
 	path = external/mtpd
 	url = ../external/mtpd
@@ -1216,6 +1222,9 @@
 [submodule "platform/external/rust/crates/async-trait"]
 	path = external/rust/crates/async-trait
 	url = ../external/rust/crates/async-trait
+[submodule "platform/external/rust/crates/atty"]
+	path = external/rust/crates/atty
+	url = ../external/rust/crates/atty
 [submodule "platform/external/rust/crates/bencher"]
 	path = external/rust/crates/bencher
 	url = ../external/rust/crates/bencher
@@ -1225,12 +1234,18 @@
 [submodule "platform/external/rust/crates/bitflags"]
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/bstr"]
+	path = external/rust/crates/bstr
+	url = ../external/rust/crates/bstr
 [submodule "platform/external/rust/crates/byteorder"]
 	path = external/rust/crates/byteorder
 	url = ../external/rust/crates/byteorder
 [submodule "platform/external/rust/crates/bytes"]
 	path = external/rust/crates/bytes
 	url = ../external/rust/crates/bytes
+[submodule "platform/external/rust/crates/cast"]
+	path = external/rust/crates/cast
+	url = ../external/rust/crates/cast
 [submodule "platform/external/rust/crates/cexpr"]
 	path = external/rust/crates/cexpr
 	url = ../external/rust/crates/cexpr
@@ -1249,15 +1264,45 @@
 [submodule "platform/external/rust/crates/codespan-reporting"]
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
+[submodule "platform/external/rust/crates/const_fn"]
+	path = external/rust/crates/const_fn
+	url = ../external/rust/crates/const_fn
 [submodule "platform/external/rust/crates/crc32fast"]
 	path = external/rust/crates/crc32fast
 	url = ../external/rust/crates/crc32fast
+[submodule "platform/external/rust/crates/criterion"]
+	path = external/rust/crates/criterion
+	url = ../external/rust/crates/criterion
+[submodule "platform/external/rust/crates/criterion-plot"]
+	path = external/rust/crates/criterion-plot
+	url = ../external/rust/crates/criterion-plot
+[submodule "platform/external/rust/crates/crossbeam-channel"]
+	path = external/rust/crates/crossbeam-channel
+	url = ../external/rust/crates/crossbeam-channel
+[submodule "platform/external/rust/crates/crossbeam-deque"]
+	path = external/rust/crates/crossbeam-deque
+	url = ../external/rust/crates/crossbeam-deque
+[submodule "platform/external/rust/crates/crossbeam-epoch"]
+	path = external/rust/crates/crossbeam-epoch
+	url = ../external/rust/crates/crossbeam-epoch
+[submodule "platform/external/rust/crates/crossbeam-utils"]
+	path = external/rust/crates/crossbeam-utils
+	url = ../external/rust/crates/crossbeam-utils
+[submodule "platform/external/rust/crates/csv"]
+	path = external/rust/crates/csv
+	url = ../external/rust/crates/csv
+[submodule "platform/external/rust/crates/csv-core"]
+	path = external/rust/crates/csv-core
+	url = ../external/rust/crates/csv-core
 [submodule "platform/external/rust/crates/derive_arbitrary"]
 	path = external/rust/crates/derive_arbitrary
 	url = ../external/rust/crates/derive_arbitrary
 [submodule "platform/external/rust/crates/downcast-rs"]
 	path = external/rust/crates/downcast-rs
 	url = ../external/rust/crates/downcast-rs
+[submodule "platform/external/rust/crates/either"]
+	path = external/rust/crates/either
+	url = ../external/rust/crates/either
 [submodule "platform/external/rust/crates/env_logger"]
 	path = external/rust/crates/env_logger
 	url = ../external/rust/crates/env_logger
@@ -1300,6 +1345,9 @@
 [submodule "platform/external/rust/crates/futures-util"]
 	path = external/rust/crates/futures-util
 	url = ../external/rust/crates/futures-util
+[submodule "platform/external/rust/crates/gdbstub"]
+	path = external/rust/crates/gdbstub
+	url = ../external/rust/crates/gdbstub
 [submodule "platform/external/rust/crates/getrandom"]
 	path = external/rust/crates/getrandom
 	url = ../external/rust/crates/getrandom
@@ -1336,6 +1384,9 @@
 [submodule "platform/external/rust/crates/intrusive-collections"]
 	path = external/rust/crates/intrusive-collections
 	url = ../external/rust/crates/intrusive-collections
+[submodule "platform/external/rust/crates/itertools"]
+	path = external/rust/crates/itertools
+	url = ../external/rust/crates/itertools
 [submodule "platform/external/rust/crates/itoa"]
 	path = external/rust/crates/itoa
 	url = ../external/rust/crates/itoa
@@ -1375,6 +1426,12 @@
 [submodule "platform/external/rust/crates/lru-cache"]
 	path = external/rust/crates/lru-cache
 	url = ../external/rust/crates/lru-cache
+[submodule "platform/external/rust/crates/macaddr"]
+	path = external/rust/crates/macaddr
+	url = ../external/rust/crates/macaddr
+[submodule "platform/external/rust/crates/managed"]
+	path = external/rust/crates/managed
+	url = ../external/rust/crates/managed
 [submodule "platform/external/rust/crates/matches"]
 	path = external/rust/crates/matches
 	url = ../external/rust/crates/matches
@@ -1411,6 +1468,9 @@
 [submodule "platform/external/rust/crates/once_cell"]
 	path = external/rust/crates/once_cell
 	url = ../external/rust/crates/once_cell
+[submodule "platform/external/rust/crates/oorandom"]
+	path = external/rust/crates/oorandom
+	url = ../external/rust/crates/oorandom
 [submodule "platform/external/rust/crates/parking_lot"]
 	path = external/rust/crates/parking_lot
 	url = ../external/rust/crates/parking_lot
@@ -1438,6 +1498,15 @@
 [submodule "platform/external/rust/crates/pin-utils"]
 	path = external/rust/crates/pin-utils
 	url = ../external/rust/crates/pin-utils
+[submodule "platform/external/rust/crates/plotters"]
+	path = external/rust/crates/plotters
+	url = ../external/rust/crates/plotters
+[submodule "platform/external/rust/crates/plotters-backend"]
+	path = external/rust/crates/plotters-backend
+	url = ../external/rust/crates/plotters-backend
+[submodule "platform/external/rust/crates/plotters-svg"]
+	path = external/rust/crates/plotters-svg
+	url = ../external/rust/crates/plotters-svg
 [submodule "platform/external/rust/crates/ppv-lite86"]
 	path = external/rust/crates/ppv-lite86
 	url = ../external/rust/crates/ppv-lite86
@@ -1480,9 +1549,18 @@
 [submodule "platform/external/rust/crates/rand_xorshift"]
 	path = external/rust/crates/rand_xorshift
 	url = ../external/rust/crates/rand_xorshift
+[submodule "platform/external/rust/crates/rayon"]
+	path = external/rust/crates/rayon
+	url = ../external/rust/crates/rayon
+[submodule "platform/external/rust/crates/rayon-core"]
+	path = external/rust/crates/rayon-core
+	url = ../external/rust/crates/rayon-core
 [submodule "platform/external/rust/crates/regex"]
 	path = external/rust/crates/regex
 	url = ../external/rust/crates/regex
+[submodule "platform/external/rust/crates/regex-automata"]
+	path = external/rust/crates/regex-automata
+	url = ../external/rust/crates/regex-automata
 [submodule "platform/external/rust/crates/regex-syntax"]
 	path = external/rust/crates/regex-syntax
 	url = ../external/rust/crates/regex-syntax
@@ -1504,6 +1582,9 @@
 [submodule "platform/external/rust/crates/ryu"]
 	path = external/rust/crates/ryu
 	url = ../external/rust/crates/ryu
+[submodule "platform/external/rust/crates/same-file"]
+	path = external/rust/crates/same-file
+	url = ../external/rust/crates/same-file
 [submodule "platform/external/rust/crates/scopeguard"]
 	path = external/rust/crates/scopeguard
 	url = ../external/rust/crates/scopeguard
@@ -1561,6 +1642,9 @@
 [submodule "platform/external/rust/crates/thread_local"]
 	path = external/rust/crates/thread_local
 	url = ../external/rust/crates/thread_local
+[submodule "platform/external/rust/crates/tinytemplate"]
+	path = external/rust/crates/tinytemplate
+	url = ../external/rust/crates/tinytemplate
 [submodule "platform/external/rust/crates/tinyvec"]
 	path = external/rust/crates/tinyvec
 	url = ../external/rust/crates/tinyvec
@@ -1600,9 +1684,15 @@
 [submodule "platform/external/rust/crates/url"]
 	path = external/rust/crates/url
 	url = ../external/rust/crates/url
+[submodule "platform/external/rust/crates/uuid"]
+	path = external/rust/crates/uuid
+	url = ../external/rust/crates/uuid
 [submodule "platform/external/rust/crates/vsock"]
 	path = external/rust/crates/vsock
 	url = ../external/rust/crates/vsock
+[submodule "platform/external/rust/crates/walkdir"]
+	path = external/rust/crates/walkdir
+	url = ../external/rust/crates/walkdir
 [submodule "platform/external/rust/crates/weak-table"]
 	path = external/rust/crates/weak-table
 	url = ../external/rust/crates/weak-table
@@ -2092,6 +2182,9 @@
 [submodule "platform/hardware/ril"]
 	path = hardware/ril
 	url = ../hardware/ril
+[submodule "platform/hardware/samsung/nfc"]
+	path = hardware/samsung/nfc
+	url = ../hardware/samsung/nfc
 [submodule "platform/hardware/st/nfc"]
 	path = hardware/st/nfc
 	url = ../hardware/st/nfc
