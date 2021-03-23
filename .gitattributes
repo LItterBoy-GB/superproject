@@ -2,23 +2,19 @@
 /device/generic/vulkan-cereal
 /device/google/cuttlefish
 /build
-/external/abseil-cpp pdk
 /external/adt-infra
 /external/angle
 /external/astc-codec
-/external/bison pdk
 /external/bluetooth/glib
 /external/boringssl
 /external/cares
 /external/curl
 /external/deqp
 /external/ffmpeg
-/external/flex pdk
 /external/google-benchmark
 /external/google-breakpad
 /external/googletest
 /external/grpc
-/external/libchrome pdk
 /external/libffi
 /external/libpng
 /external/libusb
@@ -61,10 +57,8 @@
 /prebuilts/qemu-kernel
 /prebuilts/tools
 /sdk
-/system/bt pdk
 /tools/acloud
 /tools/buildSrc
 /tools/emulator
 /tools/external/gradle
 /tools/gradle
-/external/m4 pdk
