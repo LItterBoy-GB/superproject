@@ -1,3 +1,4 @@
+/art
 /bionic
 /build/make
 /build/blueprint
@@ -48,6 +49,7 @@
 /external/libunwind
 /external/libunwind_llvm
 /external/llvm
+/external/lzma
 /external/ninja
 /external/nsjail
 /external/one-true-awk
@@ -91,6 +93,7 @@
 /system/logging
 /system/tools/aidl
 /system/tools/hidl
+/system/tools/xsdc
 /system/unwinding
 /toolchain/go
 /toolchain/m4
