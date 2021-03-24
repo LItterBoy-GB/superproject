@@ -80,6 +80,7 @@
 /external/vogar pdk
 /external/zlib pdk
 /external/zopfli pdk-fs pdk-cw-fs
+/frameworks/proto_logging pdk
 /libcore pdk
 /libnativehelper pdk
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
