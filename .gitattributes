@@ -73,6 +73,7 @@
 /external/smali pdk
 /external/snakeyaml pdk
 /external/sqlite pdk
+/external/starlark-go pdk
 /external/testng pdk
 /external/toybox pdk
 /external/turbine pdk
