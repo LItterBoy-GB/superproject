@@ -12,6 +12,7 @@
 /prebuilts/androidx/exoplayer pdk
 /prebuilts/androidx/external pdk
 /prebuilts/androidx/internal pdk
+/prebuilts/androidx/traceprocessor pdk
 /prebuilts/checkstyle pdk-fs
 /prebuilts/fullsdk-darwin/cmake notdefault platform-darwin
 /prebuilts/fullsdk-linux/cmake platform-linux notdefault
