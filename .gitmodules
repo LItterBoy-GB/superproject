@@ -2719,7 +2719,7 @@
 	path = tools/motodev
 	url = ../tools/motodev
 [submodule "platform/tools/repohooks"]
-	branch = pie-release
+	branch = master
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "platform/tools/studio/cloud"]
