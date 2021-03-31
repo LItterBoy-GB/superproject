@@ -2165,6 +2165,10 @@
 	branch = master
 	path = external/rust/crates/serde_test
 	url = ../external/rust/crates/serde_test
+[submodule "platform/external/rust/crates/shared_child"]
+	branch = master
+	path = external/rust/crates/shared_child
+	url = ../external/rust/crates/shared_child
 [submodule "platform/external/rust/crates/shlex"]
 	branch = master
 	path = external/rust/crates/shlex
