@@ -309,6 +309,7 @@
 /external/linux-kselftest vts pdk
 /external/llvm pdk
 /external/lmfit pdk
+/external/lottie pdk
 /external/ltp vts pdk
 /external/lua pdk
 /external/lz4 pdk
@@ -535,6 +536,7 @@
 /external/rust/crates/serde_derive pdk
 /external/rust/crates/serde_json pdk
 /external/rust/crates/serde_test pdk
+/external/rust/crates/shared_child pdk
 /external/rust/crates/shlex pdk
 /external/rust/crates/slab pdk
 /external/rust/crates/smallvec pdk
