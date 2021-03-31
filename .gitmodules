@@ -138,6 +138,10 @@
 	branch = master
 	path = external/regex-re2
 	url = ../external/regex-re2
+[submodule "platform/external/starlark-go"]
+	branch = master
+	path = external/starlark-go
+	url = ../external/starlark-go
 [submodule "platform/external/zlib"]
 	branch = master
 	path = external/zlib

@@ -33,6 +33,7 @@
 /external/python/cpython3
 /external/rapidjson
 /external/regex-re2
+/external/starlark-go
 /external/zlib
 /external/zopfli
 /prebuilts/build-tools
