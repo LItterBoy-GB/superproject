@@ -61,6 +61,7 @@
 /external/safe-iop
 /external/selinux
 /external/sqlite
+/external/starlark-go
 /external/toybox
 /external/turbine
 /external/zlib

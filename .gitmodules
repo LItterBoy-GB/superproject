@@ -251,6 +251,10 @@
 	branch = master
 	path = external/sqlite
 	url = ../external/sqlite
+[submodule "platform/external/starlark-go"]
+	branch = master
+	path = external/starlark-go
+	url = ../external/starlark-go
 [submodule "platform/external/toybox"]
 	branch = master
 	path = external/toybox
