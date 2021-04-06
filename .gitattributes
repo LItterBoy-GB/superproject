@@ -217,7 +217,6 @@
 /external/gwp_asan pdk
 /external/hamcrest pdk
 /external/harfbuzz_ng pdk qcom_msm8x26
-/external/honggfuzz pdk
 /external/hyphenation-patterns pdk
 /external/icu pdk
 /external/igt-gpu-tools pdk

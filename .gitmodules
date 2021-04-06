@@ -900,10 +900,6 @@
 	branch = master
 	path = external/harfbuzz_ng
 	url = ../external/harfbuzz_ng
-[submodule "platform/external/honggfuzz"]
-	branch = master
-	path = external/honggfuzz
-	url = ../external/honggfuzz
 [submodule "platform/external/hyphenation-patterns"]
 	branch = master
 	path = external/hyphenation-patterns
