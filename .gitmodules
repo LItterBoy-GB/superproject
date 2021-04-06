@@ -40,6 +40,9 @@
 [submodule "platform/prebuilts/androidx/internal"]
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
+[submodule "platform/prebuilts/androidx/traceprocessor"]
+	path = prebuilts/androidx/traceprocessor
+	url = ../prebuilts/androidx/traceprocessor
 [submodule "platform/prebuilts/checkstyle"]
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
