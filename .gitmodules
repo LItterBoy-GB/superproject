@@ -655,9 +655,6 @@
 [submodule "platform/external/harfbuzz_ng"]
 	path = external/harfbuzz_ng
 	url = ../external/harfbuzz_ng
-[submodule "platform/external/honggfuzz"]
-	path = external/honggfuzz
-	url = ../external/honggfuzz
 [submodule "platform/external/hyphenation-patterns"]
 	path = external/hyphenation-patterns
 	url = ../external/hyphenation-patterns
@@ -928,6 +925,9 @@
 [submodule "platform/external/lmfit"]
 	path = external/lmfit
 	url = ../external/lmfit
+[submodule "platform/external/lottie"]
+	path = external/lottie
+	url = ../external/lottie
 [submodule "platform/external/ltp"]
 	path = external/ltp
 	url = ../external/ltp
@@ -1603,6 +1603,9 @@
 [submodule "platform/external/rust/crates/serde_test"]
 	path = external/rust/crates/serde_test
 	url = ../external/rust/crates/serde_test
+[submodule "platform/external/rust/crates/shared_child"]
+	path = external/rust/crates/shared_child
+	url = ../external/rust/crates/shared_child
 [submodule "platform/external/rust/crates/shlex"]
 	path = external/rust/crates/shlex
 	url = ../external/rust/crates/shlex
