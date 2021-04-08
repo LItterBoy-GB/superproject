@@ -149,6 +149,10 @@
 	branch = crosvm-master
 	path = external/virglrenderer
 	url = ../external/virglrenderer
+[submodule "platform/external/webrtc"]
+	branch = emu-master-dev
+	path = external/webrtc
+	url = ../external/webrtc
 [submodule "platform/external/wpa_supplicant_8"]
 	branch = emu-master-dev
 	path = external/wpa_supplicant_8
