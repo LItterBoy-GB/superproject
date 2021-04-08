@@ -90,7 +90,7 @@
 	path = compatibility/cdd
 	url = ../compatibility/cdd
 [submodule "platform/cts"]
-	branch = android11-gsi
+	branch = android11-platform-release
 	path = cts
 	url = ../cts
 [submodule "platform/dalvik"]
