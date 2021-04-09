@@ -18,6 +18,7 @@
 /external/google-breakpad
 /external/googletest
 /external/grpc
+/external/libaom
 /external/libchrome pdk
 /external/libffi
 /external/libpng

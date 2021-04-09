@@ -78,6 +78,10 @@
 	branch = emu-master-dev
 	path = external/grpc
 	url = ../external/grpc-grpc
+[submodule "platform/external/libaom"]
+	branch = master
+	path = external/libaom
+	url = ../external/libaom
 [submodule "platform/external/libchrome"]
 	branch = emu-master-dev
 	path = external/libchrome
