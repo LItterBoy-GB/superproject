@@ -235,7 +235,6 @@
 /external/javasqlite pdk
 /external/jcommander pdk
 /external/jdiff pdk
-/external/jemalloc pdk
 /external/jemalloc_new pdk
 /external/jimfs pdk
 /external/jline pdk-fs tradefed pdk
