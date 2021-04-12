@@ -18,10 +18,13 @@
 /external/google-breakpad
 /external/googletest
 /external/grpc
+/external/jsoncpp
 /external/libaom
 /external/libchrome pdk
 /external/libffi
+/external/libopus
 /external/libpng
+/external/libsrtp2
 /external/libusb
 /external/libvpx
 /external/libyuv
@@ -36,6 +39,7 @@
 /external/sdl2
 /external/swiftshader
 /external/tinyobjloader
+/external/usrsctp
 /external/virglrenderer
 /external/webrtc
 /external/wpa_supplicant_8

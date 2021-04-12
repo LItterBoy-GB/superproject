@@ -78,6 +78,10 @@
 	branch = emu-master-dev
 	path = external/grpc
 	url = ../external/grpc-grpc
+[submodule "platform/external/jsoncpp"]
+	branch = master
+	path = external/jsoncpp
+	url = ../external/jsoncpp
 [submodule "platform/external/libaom"]
 	branch = master
 	path = external/libaom
@@ -90,10 +94,18 @@
 	branch = emu-master-dev
 	path = external/libffi
 	url = ../external/libffi
+[submodule "platform/external/libopus"]
+	branch = master
+	path = external/libopus
+	url = ../external/libopus
 [submodule "platform/external/libpng"]
 	branch = emu-master-dev
 	path = external/libpng
 	url = ../external/libpng
+[submodule "platform/external/libsrtp2"]
+	branch = master
+	path = external/libsrtp2
+	url = ../external/libsrtp2
 [submodule "platform/external/libusb"]
 	branch = emu-master-dev
 	path = external/libusb
@@ -103,7 +115,7 @@
 	path = external/libvpx
 	url = ../external/libvpx
 [submodule "platform/external/libyuv"]
-	branch = master
+	branch = emu-master-dev
 	path = external/libyuv
 	url = ../external/libyuv
 [submodule "platform/external/lz4"]
@@ -149,6 +161,10 @@
 	branch = master
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
+[submodule "platform/external/usrsctp"]
+	branch = master
+	path = external/usrsctp
+	url = ../external/usrsctp
 [submodule "platform/external/virglrenderer"]
 	branch = crosvm-master
 	path = external/virglrenderer
