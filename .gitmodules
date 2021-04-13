@@ -1200,10 +1200,6 @@
 	branch = master
 	path = external/libtextclassifier
 	url = ../external/libtextclassifier
-[submodule "platform/external/libunwind"]
-	branch = master
-	path = external/libunwind
-	url = ../external/libunwind
 [submodule "platform/external/libunwind_llvm"]
 	branch = master
 	path = external/libunwind_llvm
