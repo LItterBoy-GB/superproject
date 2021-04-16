@@ -347,6 +347,10 @@
 	branch = master
 	path = build/blueprint
 	url = ../build/blueprint
+[submodule "platform/build/pesto"]
+	branch = master
+	path = build/pesto
+	url = ../build/pesto
 [submodule "platform/build/soong"]
 	branch = master
 	path = build/soong

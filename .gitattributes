@@ -79,6 +79,7 @@
 /build/make pdk
 /build/bazel pdk
 /build/blueprint tradefed pdk
+/build/pesto pdk
 /build/soong tradefed pdk
 /compatibility/cdd pdk
 /cts pdk-fs cts pdk-cw-fs
