@@ -1405,6 +1405,10 @@
 	branch = master
 	path = external/okhttp4
 	url = ../external/okhttp4
+[submodule "platform/external/okio"]
+	branch = master
+	path = external/okio
+	url = ../external/okio
 [submodule "platform/external/one-true-awk"]
 	branch = master
 	path = external/one-true-awk
