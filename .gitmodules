@@ -1,3 +1,6 @@
+[submodule "platform/art"]
+	path = art
+	url = ../art
 [submodule "platform/bionic"]
 	path = bionic
 	url = ../bionic
@@ -118,9 +121,9 @@
 [submodule "platform/external/javapoet"]
 	path = external/javapoet
 	url = ../external/javapoet
-[submodule "platform/external/jemalloc"]
-	path = external/jemalloc
-	url = ../external/jemalloc
+[submodule "platform/external/jemalloc_new"]
+	path = external/jemalloc_new
+	url = ../external/jemalloc_new
 [submodule "platform/external/jsoncpp"]
 	path = external/jsoncpp
 	url = ../external/jsoncpp
@@ -148,6 +151,9 @@
 [submodule "platform/external/llvm"]
 	path = external/llvm
 	url = ../external/llvm
+[submodule "platform/external/lzma"]
+	path = external/lzma
+	url = ../external/lzma
 [submodule "platform/external/ninja"]
 	path = external/ninja
 	url = ../external/ninja
@@ -181,6 +187,9 @@
 [submodule "platform/external/sqlite"]
 	path = external/sqlite
 	url = ../external/sqlite
+[submodule "platform/external/starlark-go"]
+	path = external/starlark-go
+	url = ../external/starlark-go
 [submodule "platform/external/toybox"]
 	path = external/toybox
 	url = ../external/toybox
@@ -277,6 +286,9 @@
 [submodule "platform/system/tools/hidl"]
 	path = system/tools/hidl
 	url = ../system/tools/hidl
+[submodule "platform/system/tools/xsdc"]
+	path = system/tools/xsdc
+	url = ../system/tools/xsdc
 [submodule "platform/system/unwinding"]
 	path = system/unwinding
 	url = ../system/unwinding

@@ -1,3 +1,4 @@
+/art
 /bionic
 /build/make
 /build/blueprint
@@ -38,7 +39,7 @@
 /external/guava
 /external/icu
 /external/javapoet
-/external/jemalloc
+/external/jemalloc_new
 /external/jsoncpp
 /external/jsr305
 /external/kythe
@@ -48,6 +49,7 @@
 /external/libunwind
 /external/libunwind_llvm
 /external/llvm
+/external/lzma
 /external/ninja
 /external/nsjail
 /external/one-true-awk
@@ -59,6 +61,7 @@
 /external/safe-iop
 /external/selinux
 /external/sqlite
+/external/starlark-go
 /external/toybox
 /external/turbine
 /external/zlib
@@ -91,6 +94,7 @@
 /system/logging
 /system/tools/aidl
 /system/tools/hidl
+/system/tools/xsdc
 /system/unwinding
 /toolchain/go
 /toolchain/m4
