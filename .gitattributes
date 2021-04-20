@@ -4,42 +4,29 @@
 /build
 /external/abseil-cpp pdk
 /external/adt-infra
-/external/angle
 /external/astc-codec
 /external/bison pdk
-/external/bluetooth/glib
 /external/boringssl
 /external/cares
 /external/curl
 /external/deqp
-/external/ffmpeg
 /external/flex pdk
 /external/google-benchmark
 /external/google-breakpad
 /external/googletest
 /external/grpc
-/external/jsoncpp
-/external/libaom
 /external/libchrome pdk
-/external/libffi
-/external/libopus
 /external/libpng
-/external/libsrtp2
 /external/libusb
-/external/libvpx
 /external/libyuv
 /external/lz4
 /external/nasm
-/external/openssl
 /external/perfetto
-/external/pixman
 /external/protobuf
 /external/qemu
 /external/qt
-/external/sdl2
 /external/swiftshader
 /external/tinyobjloader
-/external/usrsctp
 /external/virglrenderer
 /external/webrtc
 /external/wpa_supplicant_8
@@ -63,7 +50,6 @@
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 /prebuilts/ninja/darwin-x86
 /prebuilts/ninja/linux-x86
-/prebuilts/ninja/windows-x86
 /prebuilts/qemu-kernel
 /prebuilts/tools
 /sdk
@@ -71,6 +57,4 @@
 /tools/acloud
 /tools/buildSrc
 /tools/emulator
-/tools/external/gradle
-/tools/gradle
 /external/m4 pdk

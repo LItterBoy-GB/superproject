@@ -22,10 +22,6 @@
 	branch = emu-master-dev
 	path = external/adt-infra
 	url = ../external/adt-infra
-[submodule "platform/external/angle"]
-	branch = emu-master-dev
-	path = external/angle
-	url = ../external/angle
 [submodule "platform/external/astc-codec"]
 	branch = master
 	path = external/astc-codec
@@ -34,10 +30,6 @@
 	branch = master
 	path = external/bison
 	url = ../external/bison
-[submodule "platform/external/bluetooth/glib"]
-	branch = emu-master-dev
-	path = external/bluetooth/glib
-	url = ../external/bluetooth/glib
 [submodule "platform/external/boringssl"]
 	branch = master
 	shallow = true
@@ -55,10 +47,6 @@
 	branch = master
 	path = external/deqp
 	url = ../external/deqp
-[submodule "platform/external/ffmpeg"]
-	branch = emu-master-dev
-	path = external/ffmpeg
-	url = ../external/ffmpeg
 [submodule "platform/external/flex"]
 	branch = master
 	path = external/flex
@@ -78,42 +66,18 @@
 	branch = emu-master-dev
 	path = external/grpc
 	url = ../external/grpc-grpc
-[submodule "platform/external/jsoncpp"]
-	branch = master
-	path = external/jsoncpp
-	url = ../external/jsoncpp
-[submodule "platform/external/libaom"]
-	branch = master
-	path = external/libaom
-	url = ../external/libaom
 [submodule "platform/external/libchrome"]
 	branch = emu-master-dev
 	path = external/libchrome
 	url = ../external/libchrome
-[submodule "platform/external/libffi"]
-	branch = emu-master-dev
-	path = external/libffi
-	url = ../external/libffi
-[submodule "platform/external/libopus"]
-	branch = master
-	path = external/libopus
-	url = ../external/libopus
 [submodule "platform/external/libpng"]
 	branch = emu-master-dev
 	path = external/libpng
 	url = ../external/libpng
-[submodule "platform/external/libsrtp2"]
-	branch = master
-	path = external/libsrtp2
-	url = ../external/libsrtp2
 [submodule "platform/external/libusb"]
 	branch = emu-master-dev
 	path = external/libusb
 	url = ../external/libusb
-[submodule "platform/external/libvpx"]
-	branch = emu-master-dev
-	path = external/libvpx
-	url = ../external/libvpx
 [submodule "platform/external/libyuv"]
 	branch = emu-master-dev
 	path = external/libyuv
@@ -126,17 +90,9 @@
 	branch = emu-master-dev
 	path = external/nasm
 	url = ../external/nasm
-[submodule "platform/external/openssl"]
-	branch = emu-master-dev
-	path = external/openssl
-	url = ../external/openssl
 [submodule "platform/external/perfetto"]
 	path = external/perfetto
 	url = ../external/perfetto
-[submodule "platform/external/pixman"]
-	branch = emu-master-dev
-	path = external/pixman
-	url = ../external/pixman
 [submodule "platform/external/protobuf"]
 	branch = emu-master-dev
 	path = external/protobuf
@@ -149,10 +105,6 @@
 	branch = emu-master-dev
 	path = external/qt
 	url = ../external/qt
-[submodule "platform/external/sdl2"]
-	branch = emu-master-dev
-	path = external/sdl2
-	url = ../external/sdl2
 [submodule "platform/external/swiftshader"]
 	branch = emu-master-dev
 	path = external/swiftshader
@@ -161,10 +113,6 @@
 	branch = master
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
-[submodule "platform/external/usrsctp"]
-	branch = master
-	path = external/usrsctp
-	url = ../external/usrsctp
 [submodule "platform/external/virglrenderer"]
 	branch = crosvm-master
 	path = external/virglrenderer
@@ -275,11 +223,6 @@
 	shallow = true
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
-[submodule "platform/prebuilts/ninja/windows-x86"]
-	branch = emu-master-dev
-	shallow = true
-	path = prebuilts/ninja/windows-x86
-	url = ../prebuilts/ninja/windows-x86
 [submodule "platform/prebuilts/qemu-kernel"]
 	branch = master
 	shallow = true
@@ -310,15 +253,6 @@
 	branch = emu-master-dev
 	path = tools/emulator
 	url = ../tools/emulator
-[submodule "platform/tools/external/gradle"]
-	branch = emu-master-dev
-	shallow = true
-	path = tools/external/gradle
-	url = ../tools/external/gradle
-[submodule "platform/tools/gradle"]
-	branch = emu-master-dev
-	path = tools/gradle
-	url = ../tools/gradle
 [submodule "toolchain/m4"]
 	branch = master
 	path = external/m4
