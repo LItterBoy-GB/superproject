@@ -899,6 +899,15 @@
 /prebuilts/maven_repo/android pdk-fs pdk-cw-fs
 /prebuilts/maven_repo/bumptech pdk-fs pdk-cw-fs
 /prebuilts/misc pdk
+/prebuilts/module_sdk/Connectivity pdk
+/prebuilts/module_sdk/IPsec pdk
+/prebuilts/module_sdk/Media pdk
+/prebuilts/module_sdk/MediaProvider pdk
+/prebuilts/module_sdk/Permission pdk
+/prebuilts/module_sdk/Scheduling pdk
+/prebuilts/module_sdk/SdkExtensions pdk
+/prebuilts/module_sdk/StatsD pdk
+/prebuilts/module_sdk/Wifi pdk
 /prebuilts/module_sdk/art pdk
 /prebuilts/ndk pdk
 /prebuilts/python/darwin-x86
