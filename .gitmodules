@@ -3650,6 +3650,51 @@
 	shallow = true
 	path = prebuilts/misc
 	url = ../prebuilts/misc
+[submodule "platform/prebuilts/module_sdk/Connectivity"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/Connectivity
+	url = ../prebuilts/module_sdk/Connectivity
+[submodule "platform/prebuilts/module_sdk/IPsec"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/IPsec
+	url = ../prebuilts/module_sdk/IPsec
+[submodule "platform/prebuilts/module_sdk/Media"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/Media
+	url = ../prebuilts/module_sdk/Media
+[submodule "platform/prebuilts/module_sdk/MediaProvider"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/MediaProvider
+	url = ../prebuilts/module_sdk/MediaProvider
+[submodule "platform/prebuilts/module_sdk/Permission"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/Permission
+	url = ../prebuilts/module_sdk/Permission
+[submodule "platform/prebuilts/module_sdk/Scheduling"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/Scheduling
+	url = ../prebuilts/module_sdk/Scheduling
+[submodule "platform/prebuilts/module_sdk/SdkExtensions"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/SdkExtensions
+	url = ../prebuilts/module_sdk/SdkExtensions
+[submodule "platform/prebuilts/module_sdk/StatsD"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/StatsD
+	url = ../prebuilts/module_sdk/StatsD
+[submodule "platform/prebuilts/module_sdk/Wifi"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/Wifi
+	url = ../prebuilts/module_sdk/Wifi
 [submodule "platform/prebuilts/module_sdk/art"]
 	branch = master
 	shallow = true
