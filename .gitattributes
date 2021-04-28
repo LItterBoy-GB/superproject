@@ -909,6 +909,7 @@
 /prebuilts/module_sdk/StatsD pdk
 /prebuilts/module_sdk/Wifi pdk
 /prebuilts/module_sdk/art pdk
+/prebuilts/module_sdk/conscrypt pdk
 /prebuilts/ndk pdk
 /prebuilts/python/darwin-x86
 /prebuilts/python/linux-x86
