@@ -14,10 +14,6 @@
 	branch = emu-master-dev
 	path = build
 	url = ../build
-[submodule "platform/external/abseil-cpp"]
-	branch = emu-master-dev
-	path = external/abseil-cpp
-	url = ../external/abseil-cpp
 [submodule "platform/external/adt-infra"]
 	branch = emu-master-dev
 	path = external/adt-infra
@@ -101,14 +97,6 @@
 	branch = emu-master-dev
 	path = external/qemu
 	url = ../external/qemu
-[submodule "platform/external/qt"]
-	branch = emu-master-dev
-	path = external/qt
-	url = ../external/qt
-[submodule "platform/external/swiftshader"]
-	branch = emu-master-dev
-	path = external/swiftshader
-	url = ../external/swiftshader
 [submodule "platform/external/tinyobjloader"]
 	branch = master
 	path = external/tinyobjloader
@@ -148,11 +136,6 @@
 	shallow = true
 	path = prebuilts/android-emulator-build/common
 	url = ../prebuilts/android-emulator-build/common
-[submodule "platform/prebuilts/android-emulator-build/curl"]
-	branch = emu-master-dev
-	shallow = true
-	path = prebuilts/android-emulator-build/curl
-	url = ../prebuilts/android-emulator-build/curl
 [submodule "platform/prebuilts/android-emulator-build/mesa"]
 	branch = emu-master-dev
 	shallow = true
@@ -163,11 +146,6 @@
 	shallow = true
 	path = prebuilts/android-emulator-build/mesa-deps
 	url = ../prebuilts/android-emulator-build/mesa-deps
-[submodule "platform/prebuilts/android-emulator-build/protobuf"]
-	branch = emu-master-dev
-	shallow = true
-	path = prebuilts/android-emulator-build/protobuf
-	url = ../prebuilts/android-emulator-build/protobuf
 [submodule "platform/prebuilts/android-emulator-build/qemu-android-deps"]
 	branch = emu-master-dev
 	shallow = true

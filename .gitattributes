@@ -2,7 +2,6 @@
 /device/generic/vulkan-cereal
 /device/google/cuttlefish
 /build
-/external/abseil-cpp pdk
 /external/adt-infra
 /external/astc-codec
 /external/bison pdk
@@ -24,8 +23,6 @@
 /external/perfetto
 /external/protobuf
 /external/qemu
-/external/qt
-/external/swiftshader
 /external/tinyobjloader
 /external/virglrenderer
 /external/webrtc
@@ -35,10 +32,8 @@
 /prebuilts/android-emulator
 /prebuilts/android-emulator-build/archive
 /prebuilts/android-emulator-build/common
-/prebuilts/android-emulator-build/curl
 /prebuilts/android-emulator-build/mesa
 /prebuilts/android-emulator-build/mesa-deps
-/prebuilts/android-emulator-build/protobuf
 /prebuilts/android-emulator-build/qemu-android-deps
 /prebuilts/android-emulator-build/qt
 /prebuilts/clang/host/darwin-x86
