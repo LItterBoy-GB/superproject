@@ -272,7 +272,7 @@
 	path = bootable/recovery
 	url = ../bootable/recovery
 [submodule "platform/build"]
-	branch = android11-release
+	branch = android11-tests-dev
 	path = build/make
 	url = ../build
 [submodule "platform/build/blueprint"]
