@@ -15,30 +15,18 @@
 /external/skia
 /external/zlib
 /tools/data-binding
-/frameworks/layoutlib notdefault layoutlib
+/frameworks/layoutlib
 /tools/sherpa
+/prebuilts/android-emulator
 /prebuilts/clang/host/darwin-x86 notdefault platform-darwin
 /prebuilts/clang/host/linux-x86 platform-linux notdefault
 /prebuilts/clang/host/windows-x86 notdefault platform-windows
-/prebuilts/google-breakpad/darwin-x86 darwin notdefault lldb
-/prebuilts/google-breakpad/linux-x86 linux notdefault lldb
-/prebuilts/google-breakpad/windows-x86 notdefault lldb windows
-/prebuilts/libedit/darwin-x86 darwin notdefault lldb
-/prebuilts/libedit/linux-x86 linux notdefault lldb
-/prebuilts/libglog/darwin-x86 darwin notdefault lldb
-/prebuilts/libglog/linux-x86 linux notdefault lldb
-/prebuilts/libglog/windows-x86 notdefault lldb windows
-/prebuilts/libprotobuf/darwin-x86 darwin notdefault lldb
-/prebuilts/libprotobuf/linux-x86 linux notdefault lldb
-/prebuilts/libprotobuf/windows-x86 notdefault lldb windows
+/prebuilts/python/darwin-x86
 /prebuilts/python/linux-x86
 /prebuilts/python/windows-x86
 /prebuilts/r8
 /prebuilts/studio/jdk
 /prebuilts/studio/layoutlib
-/prebuilts/swig/darwin-x86 darwin notdefault lldb
-/prebuilts/swig/linux-x86 linux notdefault lldb
-/prebuilts/swig/windows-x86 notdefault lldb windows
 /prebuilts/tools
 /tools/adt/idea
 /tools/analytics-library
@@ -50,7 +38,9 @@
 /tools/external/bazelbuild-rules-kotlin
 /tools/external/fat32lib
 /tools/external/gradle
+/prebuilts/studio/sdk/remote
 /tools/gradle
+/tools/gradle-recipes
 /tools/idea
 /tools/repohooks
 /tools/studio/google/appindexing

@@ -1,266 +1,216 @@
 [submodule "assets/android-studio-ux-assets"]
-	branch = studio-master-dev
+	branch = studio-main
 	shallow = true
 	path = tools/assets
 	url = ../../assets/android-studio-ux-assets
 [submodule "platform/dalvik"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/dx/dalvik
 	url = ../dalvik
 [submodule "platform/external/desugar"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/external/desugar
 	url = ../external/desugar
 [submodule "platform/external/doclava"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = external/doclava
 	url = ../external/doclava
 [submodule "platform/external/dokka"]
-	branch = studio-master-dev
+	branch = studio-main
+	shallow = true
 	path = external/dokka
 	url = ../external/dokka
 [submodule "platform/external/freetype"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = external/freetype
 	url = ../external/freetype
 [submodule "platform/external/gflags"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = external/gflags
 	url = ../external/gflags
 [submodule "platform/external/googletest"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/grpc-grpc"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = external/grpc-grpc
 	url = ../external/grpc-grpc
 [submodule "platform/external/jetbrains/kotlin"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = external/jetbrains/kotlin
 	url = ../external/jetbrains/kotlin
 [submodule "platform/external/libpng"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = external/libpng
 	url = ../external/libpng
 [submodule "platform/external/nanopb-c"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = external/nanopb-c
 	url = ../external/nanopb-c
 [submodule "platform/external/perfetto"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = external/perfetto
 	url = ../external/perfetto
 [submodule "platform/external/protobuf"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/skia"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = external/skia
 	url = ../external/skia
 [submodule "platform/external/zlib"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = external/zlib
 	url = ../external/zlib
 [submodule "platform/frameworks/data-binding"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/data-binding
 	url = ../frameworks/data-binding
 [submodule "platform/frameworks/layoutlib"]
-	branch = studio-master-dev
+	branch = studio-main
 	shallow = true
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
 [submodule "platform/frameworks/opt/sherpa"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/sherpa
 	url = ../frameworks/opt/sherpa
+[submodule "platform/prebuilts/android-emulator"]
+	branch = studio-main
+	shallow = true
+	path = prebuilts/android-emulator
+	url = ../prebuilts/android-emulator
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
-	branch = studio-master-dev
+	branch = studio-main
 	shallow = true
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = studio-master-dev
+	branch = studio-main
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/clang/host/windows-x86"]
-	branch = studio-master-dev
+	branch = studio-main
 	shallow = true
 	path = prebuilts/clang/host/windows-x86
 	url = ../prebuilts/clang/host/windows-x86
-[submodule "platform/prebuilts/google-breakpad/darwin-x86"]
-	branch = studio-master-dev
+[submodule "platform/prebuilts/python/darwin-x86"]
+	branch = studio-main
 	shallow = true
-	path = prebuilts/google-breakpad/darwin-x86
-	url = ../prebuilts/google-breakpad/darwin-x86
-[submodule "platform/prebuilts/google-breakpad/linux-x86"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/google-breakpad/linux-x86
-	url = ../prebuilts/google-breakpad/linux-x86
-[submodule "platform/prebuilts/google-breakpad/windows-x86"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/google-breakpad/windows-x86
-	url = ../prebuilts/google-breakpad/windows-x86
-[submodule "platform/prebuilts/libedit/darwin-x86"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/libedit/darwin-x86
-	url = ../prebuilts/libedit/darwin-x86
-[submodule "platform/prebuilts/libedit/linux-x86"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/libedit/linux-x86
-	url = ../prebuilts/libedit/linux-x86
-[submodule "platform/prebuilts/libglog/darwin-x86"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/libglog/darwin-x86
-	url = ../prebuilts/libglog/darwin-x86
-[submodule "platform/prebuilts/libglog/linux-x86"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/libglog/linux-x86
-	url = ../prebuilts/libglog/linux-x86
-[submodule "platform/prebuilts/libglog/windows-x86"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/libglog/windows-x86
-	url = ../prebuilts/libglog/windows-x86
-[submodule "platform/prebuilts/libprotobuf/darwin-x86"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/libprotobuf/darwin-x86
-	url = ../prebuilts/libprotobuf/darwin-x86
-[submodule "platform/prebuilts/libprotobuf/linux-x86"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/libprotobuf/linux-x86
-	url = ../prebuilts/libprotobuf/linux-x86
-[submodule "platform/prebuilts/libprotobuf/windows-x86"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/libprotobuf/windows-x86
-	url = ../prebuilts/libprotobuf/windows-x86
+	path = prebuilts/python/darwin-x86
+	url = ../prebuilts/python/darwin-x86
 [submodule "platform/prebuilts/python/linux-x86"]
-	branch = studio-master-dev
+	branch = studio-main
 	shallow = true
 	path = prebuilts/python/linux-x86
 	url = ../prebuilts/python/linux-x86
 [submodule "platform/prebuilts/python/windows-x86"]
-	branch = studio-master-dev
+	branch = studio-main
 	shallow = true
 	path = prebuilts/python/windows-x86
 	url = ../prebuilts/python/windows-x86
 [submodule "platform/prebuilts/r8"]
-	branch = studio-master-dev
+	branch = studio-main
 	shallow = true
 	path = prebuilts/r8
 	url = ../prebuilts/r8
 [submodule "platform/prebuilts/studio/jdk"]
-	branch = studio-master-dev
+	branch = studio-main
 	shallow = true
 	path = prebuilts/studio/jdk
 	url = ../prebuilts/studio/jdk
 [submodule "platform/prebuilts/studio/layoutlib"]
-	branch = studio-master-dev
+	branch = studio-main
 	shallow = true
 	path = prebuilts/studio/layoutlib
 	url = ../prebuilts/studio/layoutlib
-[submodule "platform/prebuilts/swig/darwin-x86"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/swig/darwin-x86
-	url = ../prebuilts/swig/darwin-x86
-[submodule "platform/prebuilts/swig/linux-x86"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/swig/linux-x86
-	url = ../prebuilts/swig/linux-x86
-[submodule "platform/prebuilts/swig/windows-x86"]
-	branch = studio-master-dev
-	shallow = true
-	path = prebuilts/swig/windows-x86
-	url = ../prebuilts/swig/windows-x86
 [submodule "platform/prebuilts/tools"]
-	branch = studio-master-dev
+	branch = studio-main
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "platform/tools/adt/idea"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/adt/idea
 	url = ../tools/adt/idea
 [submodule "platform/tools/analytics-library"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/analytics-library
 	url = ../tools/analytics-library
 [submodule "platform/tools/apksig"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/apksig
 	url = ../tools/apksig
 [submodule "platform/tools/apkzlib"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/apkzlib
 	url = ../tools/apkzlib
 [submodule "platform/tools/base"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/base
 	url = ../tools/base
 [submodule "platform/tools/buildSrc"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/buildSrc
 	url = ../tools/buildSrc
 [submodule "platform/tools/dexter"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = external/dexter
 	url = ../tools/dexter
 [submodule "platform/tools/external/bazelbuild-rules-kotlin"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/external/bazelbuild-rules-kotlin
 	url = ../tools/external/bazelbuild-rules-kotlin
 [submodule "platform/tools/external/fat32lib"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/external/fat32lib
 	url = ../tools/external/fat32lib
 [submodule "platform/tools/external/gradle"]
-	branch = studio-master-dev
+	branch = studio-main
 	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
+[submodule "platform/tools/google_prebuilts/studio/sdk/remote"]
+	branch = studio-main
+	shallow = true
+	path = prebuilts/studio/sdk/remote
+	url = ../tools/google_prebuilts/studio/sdk/remote
 [submodule "platform/tools/gradle"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/gradle
 	url = ../tools/gradle
+[submodule "platform/tools/gradle-recipes"]
+	branch = studio-main
+	path = tools/gradle-recipes
+	url = ../tools/gradle-recipes
 [submodule "platform/tools/idea"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/idea
 	url = ../tools/idea
 [submodule "platform/tools/repohooks"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "platform/tools/studio/google/appindexing"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/studio/google/appindexing
 	url = ../tools/studio/google/appindexing
 [submodule "platform/tools/studio/google/cloud/testing"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/studio/google/cloud/testing
 	url = ../tools/studio/google/cloud/testing
 [submodule "platform/tools/studio/google/cloud/tools"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/studio/google/cloud/tools
 	url = ../tools/studio/google/cloud/tools
 [submodule "platform/tools/studio/google/samples"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/studio/google/samples
 	url = ../tools/studio/google/samples
 [submodule "platform/tools/swing-testing"]
-	branch = studio-master-dev
+	branch = studio-main
 	path = tools/swing-testing
 	url = ../tools/swing-testing
