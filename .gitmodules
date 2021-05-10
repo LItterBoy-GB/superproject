@@ -330,6 +330,10 @@
 	branch = master
 	path = external/zopfli
 	url = ../external/zopfli
+[submodule "platform/frameworks/libs/modules-utils"]
+	branch = master
+	path = frameworks/libs/modules-utils
+	url = ../frameworks/libs/modules-utils
 [submodule "platform/frameworks/proto_logging"]
 	branch = master
 	path = frameworks/proto_logging

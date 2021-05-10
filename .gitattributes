@@ -81,6 +81,7 @@
 /external/vogar pdk
 /external/zlib pdk
 /external/zopfli pdk-fs pdk-cw-fs
+/frameworks/libs/modules-utils pdk
 /frameworks/proto_logging pdk
 /libcore pdk
 /libnativehelper pdk
