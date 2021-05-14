@@ -293,7 +293,6 @@
 /external/libprotobuf-mutator pdk
 /external/libsrtp2 pdk
 /external/libtextclassifier pdk
-/external/libunwind_llvm pdk
 /external/libusb pdk
 /external/libutf pdk
 /external/libvpx pdk
