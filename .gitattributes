@@ -437,6 +437,7 @@
 /external/rust/crates/env_logger pdk
 /external/rust/crates/fallible-iterator pdk
 /external/rust/crates/fallible-streaming-iterator pdk
+/external/rust/crates/flate2 pdk
 /external/rust/crates/fnv pdk
 /external/rust/crates/form_urlencoded pdk
 /external/rust/crates/futures pdk
