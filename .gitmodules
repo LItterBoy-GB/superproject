@@ -1773,6 +1773,10 @@
 	branch = master
 	path = external/rust/crates/fallible-streaming-iterator
 	url = ../external/rust/crates/fallible-streaming-iterator
+[submodule "platform/external/rust/crates/flate2"]
+	branch = master
+	path = external/rust/crates/flate2
+	url = ../external/rust/crates/flate2
 [submodule "platform/external/rust/crates/fnv"]
 	branch = master
 	path = external/rust/crates/fnv
