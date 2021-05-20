@@ -241,6 +241,9 @@
 [submodule "platform/build/blueprint"]
 	path = build/blueprint
 	url = ../build/blueprint
+[submodule "platform/build/pesto"]
+	path = build/pesto
+	url = ../build/pesto
 [submodule "platform/build/soong"]
 	path = build/soong
 	url = ../build/soong
@@ -880,9 +883,6 @@
 [submodule "platform/external/libtextclassifier"]
 	path = external/libtextclassifier
 	url = ../external/libtextclassifier
-[submodule "platform/external/libunwind_llvm"]
-	path = external/libunwind_llvm
-	url = ../external/libunwind_llvm
 [submodule "platform/external/libusb"]
 	path = external/libusb
 	url = ../external/libusb
@@ -1030,6 +1030,9 @@
 [submodule "platform/external/okhttp4"]
 	path = external/okhttp4
 	url = ../external/okhttp4
+[submodule "platform/external/okio"]
+	path = external/okio
+	url = ../external/okio
 [submodule "platform/external/one-true-awk"]
 	path = external/one-true-awk
 	url = ../external/one-true-awk
@@ -1258,9 +1261,9 @@
 [submodule "platform/external/rust/crates/codespan-reporting"]
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
-[submodule "platform/external/rust/crates/const_fn"]
-	path = external/rust/crates/const_fn
-	url = ../external/rust/crates/const_fn
+[submodule "platform/external/rust/crates/command-fds"]
+	path = external/rust/crates/command-fds
+	url = ../external/rust/crates/command-fds
 [submodule "platform/external/rust/crates/crc32fast"]
 	path = external/rust/crates/crc32fast
 	url = ../external/rust/crates/crc32fast
@@ -1306,6 +1309,9 @@
 [submodule "platform/external/rust/crates/fallible-streaming-iterator"]
 	path = external/rust/crates/fallible-streaming-iterator
 	url = ../external/rust/crates/fallible-streaming-iterator
+[submodule "platform/external/rust/crates/flate2"]
+	path = external/rust/crates/flate2
+	url = ../external/rust/crates/flate2
 [submodule "platform/external/rust/crates/fnv"]
 	path = external/rust/crates/fnv
 	url = ../external/rust/crates/fnv
@@ -1685,7 +1691,7 @@
 	path = external/rust/crates/uuid
 	url = ../external/rust/crates/uuid
 [submodule "platform/external/rust/crates/vmm_vhost"]
-	path = external/rust/crates/vmm_vhost
+	path = external/rust/vmm_vhost
 	url = ../external/rust/crates/vmm_vhost
 [submodule "platform/external/rust/crates/vsock"]
 	path = external/rust/crates/vsock
@@ -2623,9 +2629,6 @@
 [submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
 	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
-[submodule "platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9"]
-	path = prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
-	url = ../prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
 [submodule "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
 	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
@@ -2641,9 +2644,6 @@
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
-[submodule "platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
-	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
-	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
@@ -2686,9 +2686,39 @@
 [submodule "platform/prebuilts/misc"]
 	path = prebuilts/misc
 	url = ../prebuilts/misc
+[submodule "platform/prebuilts/module_sdk/Connectivity"]
+	path = prebuilts/module_sdk/Connectivity
+	url = ../prebuilts/module_sdk/Connectivity
+[submodule "platform/prebuilts/module_sdk/IPsec"]
+	path = prebuilts/module_sdk/IPsec
+	url = ../prebuilts/module_sdk/IPsec
+[submodule "platform/prebuilts/module_sdk/Media"]
+	path = prebuilts/module_sdk/Media
+	url = ../prebuilts/module_sdk/Media
+[submodule "platform/prebuilts/module_sdk/MediaProvider"]
+	path = prebuilts/module_sdk/MediaProvider
+	url = ../prebuilts/module_sdk/MediaProvider
+[submodule "platform/prebuilts/module_sdk/Permission"]
+	path = prebuilts/module_sdk/Permission
+	url = ../prebuilts/module_sdk/Permission
+[submodule "platform/prebuilts/module_sdk/Scheduling"]
+	path = prebuilts/module_sdk/Scheduling
+	url = ../prebuilts/module_sdk/Scheduling
+[submodule "platform/prebuilts/module_sdk/SdkExtensions"]
+	path = prebuilts/module_sdk/SdkExtensions
+	url = ../prebuilts/module_sdk/SdkExtensions
+[submodule "platform/prebuilts/module_sdk/StatsD"]
+	path = prebuilts/module_sdk/StatsD
+	url = ../prebuilts/module_sdk/StatsD
+[submodule "platform/prebuilts/module_sdk/Wifi"]
+	path = prebuilts/module_sdk/Wifi
+	url = ../prebuilts/module_sdk/Wifi
 [submodule "platform/prebuilts/module_sdk/art"]
 	path = prebuilts/module_sdk/art
 	url = ../prebuilts/module_sdk/art
+[submodule "platform/prebuilts/module_sdk/conscrypt"]
+	path = prebuilts/module_sdk/conscrypt
+	url = ../prebuilts/module_sdk/conscrypt
 [submodule "platform/prebuilts/ndk"]
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
