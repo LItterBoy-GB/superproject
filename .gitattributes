@@ -564,7 +564,7 @@
 /external/rust/crates/untrusted pdk
 /external/rust/crates/url pdk
 /external/rust/crates/uuid pdk
-/external/rust/crates/vmm_vhost pdk
+/external/rust/vmm_vhost pdk
 /external/rust/crates/vsock pdk
 /external/rust/crates/walkdir pdk
 /external/rust/crates/weak-table pdk

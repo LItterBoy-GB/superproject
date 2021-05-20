@@ -2291,7 +2291,7 @@
 	url = ../external/rust/crates/uuid
 [submodule "platform/external/rust/crates/vmm_vhost"]
 	branch = master
-	path = external/rust/crates/vmm_vhost
+	path = external/rust/vmm_vhost
 	url = ../external/rust/crates/vmm_vhost
 [submodule "platform/external/rust/crates/vsock"]
 	branch = master
