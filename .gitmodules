@@ -716,6 +716,10 @@
 	branch = master
 	path = external/ethtool
 	url = ../external/ethtool
+[submodule "platform/external/exfatprogs"]
+	branch = master
+	path = external/exfatprogs
+	url = ../external/exfatprogs
 [submodule "platform/external/exoplayer"]
 	branch = master
 	path = external/exoplayer
