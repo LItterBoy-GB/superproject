@@ -517,6 +517,9 @@
 [submodule "platform/external/ethtool"]
 	path = external/ethtool
 	url = ../external/ethtool
+[submodule "platform/external/exfatprogs"]
+	path = external/exfatprogs
+	url = ../external/exfatprogs
 [submodule "platform/external/exoplayer"]
 	path = external/exoplayer
 	url = ../external/exoplayer
