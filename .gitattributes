@@ -189,6 +189,7 @@
 /external/gflags pdk
 /external/giflib pdk qcom_msm8x26
 /external/glide pdk
+/external/go-cmp pdk
 /external/golang-protobuf pdk
 /external/google-benchmark pdk
 /external/google-breakpad pdk-fs
