@@ -571,6 +571,9 @@
 [submodule "platform/external/glide"]
 	path = external/glide
 	url = ../external/glide
+[submodule "platform/external/go-cmp"]
+	path = external/go-cmp
+	url = ../external/go-cmp
 [submodule "platform/external/golang-protobuf"]
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
