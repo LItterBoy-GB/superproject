@@ -306,6 +306,10 @@
 	branch = master
 	path = external/testng
 	url = ../external/testng
+[submodule "platform/external/tinyxml2"]
+	branch = master
+	path = external/tinyxml2
+	url = ../external/tinyxml2
 [submodule "platform/external/toybox"]
 	branch = master
 	path = external/toybox

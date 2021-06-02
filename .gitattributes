@@ -75,6 +75,7 @@
 /external/sqlite pdk
 /external/starlark-go pdk
 /external/testng pdk
+/external/tinyxml2 pdk
 /external/toybox pdk
 /external/turbine pdk
 /external/vixl pdk
