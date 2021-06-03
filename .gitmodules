@@ -6,6 +6,10 @@
 	branch = master
 	path = device/generic/vulkan-cereal
 	url = ../../device/generic/vulkan-cereal
+[submodule "device/google/cuttlefish"]
+	branch = master
+	path = device/google/cuttlefish
+	url = ../../device/google/cuttlefish
 [submodule "platform/build"]
 	branch = emu-master-dev
 	path = build
@@ -14,18 +18,14 @@
 	branch = emu-master-dev
 	path = external/adt-infra
 	url = ../external/adt-infra
-[submodule "platform/external/angle"]
-	branch = emu-master-dev
-	path = external/angle
-	url = ../external/angle
 [submodule "platform/external/astc-codec"]
 	branch = master
 	path = external/astc-codec
 	url = ../external/astc-codec
-[submodule "platform/external/bluetooth/glib"]
-	branch = emu-master-dev
-	path = external/bluetooth/glib
-	url = ../external/bluetooth/glib
+[submodule "platform/external/bison"]
+	branch = master
+	path = external/bison
+	url = ../external/bison
 [submodule "platform/external/boringssl"]
 	branch = master
 	shallow = true
@@ -43,10 +43,10 @@
 	branch = master
 	path = external/deqp
 	url = ../external/deqp
-[submodule "platform/external/ffmpeg"]
-	branch = emu-master-dev
-	path = external/ffmpeg
-	url = ../external/ffmpeg
+[submodule "platform/external/flex"]
+	branch = master
+	path = external/flex
+	url = ../external/flex
 [submodule "platform/external/google-benchmark"]
 	path = external/google-benchmark
 	url = ../external/google-benchmark
@@ -62,24 +62,20 @@
 	branch = emu-master-dev
 	path = external/grpc
 	url = ../external/grpc-grpc
-[submodule "platform/external/gtest"]
-	branch = master
-	path = external/gtest
-	url = ../external/gtest
-[submodule "platform/external/libffi"]
+[submodule "platform/external/libchrome"]
 	branch = emu-master-dev
-	path = external/libffi
-	url = ../external/libffi
+	path = external/libchrome
+	url = ../external/libchrome
 [submodule "platform/external/libpng"]
 	branch = emu-master-dev
 	path = external/libpng
 	url = ../external/libpng
-[submodule "platform/external/libvpx"]
+[submodule "platform/external/libusb"]
 	branch = emu-master-dev
-	path = external/libvpx
-	url = ../external/libvpx
+	path = external/libusb
+	url = ../external/libusb
 [submodule "platform/external/libyuv"]
-	branch = master
+	branch = emu-master-dev
 	path = external/libyuv
 	url = ../external/libyuv
 [submodule "platform/external/lz4"]
@@ -90,14 +86,9 @@
 	branch = emu-master-dev
 	path = external/nasm
 	url = ../external/nasm
-[submodule "platform/external/openssl"]
-	branch = emu-master-dev
-	path = external/openssl
-	url = ../external/openssl
-[submodule "platform/external/pixman"]
-	branch = emu-master-dev
-	path = external/pixman
-	url = ../external/pixman
+[submodule "platform/external/perfetto"]
+	path = external/perfetto
+	url = ../external/perfetto
 [submodule "platform/external/protobuf"]
 	branch = emu-master-dev
 	path = external/protobuf
@@ -106,26 +97,18 @@
 	branch = emu-master-dev
 	path = external/qemu
 	url = ../external/qemu
-[submodule "platform/external/qt"]
-	branch = emu-master-dev
-	path = external/qt
-	url = ../external/qt
-[submodule "platform/external/sdl2"]
-	branch = emu-master-dev
-	path = external/sdl2
-	url = ../external/sdl2
-[submodule "platform/external/swiftshader"]
-	branch = emu-master-dev
-	path = external/swiftshader
-	url = ../external/swiftshader
 [submodule "platform/external/tinyobjloader"]
 	branch = master
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
 [submodule "platform/external/virglrenderer"]
-	branch = emu-master-dev
+	branch = crosvm-master
 	path = external/virglrenderer
 	url = ../external/virglrenderer
+[submodule "platform/external/webrtc"]
+	branch = emu-master-dev
+	path = external/webrtc
+	url = ../external/webrtc
 [submodule "platform/external/wpa_supplicant_8"]
 	branch = emu-master-dev
 	path = external/wpa_supplicant_8
@@ -140,6 +123,7 @@
 	url = ../frameworks/native
 [submodule "platform/prebuilts/android-emulator"]
 	branch = emu-master-dev
+	shallow = true
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
 [submodule "platform/prebuilts/android-emulator-build/archive"]
@@ -152,11 +136,6 @@
 	shallow = true
 	path = prebuilts/android-emulator-build/common
 	url = ../prebuilts/android-emulator-build/common
-[submodule "platform/prebuilts/android-emulator-build/curl"]
-	branch = emu-master-dev
-	shallow = true
-	path = prebuilts/android-emulator-build/curl
-	url = ../prebuilts/android-emulator-build/curl
 [submodule "platform/prebuilts/android-emulator-build/mesa"]
 	branch = emu-master-dev
 	shallow = true
@@ -167,11 +146,6 @@
 	shallow = true
 	path = prebuilts/android-emulator-build/mesa-deps
 	url = ../prebuilts/android-emulator-build/mesa-deps
-[submodule "platform/prebuilts/android-emulator-build/protobuf"]
-	branch = emu-master-dev
-	shallow = true
-	path = prebuilts/android-emulator-build/protobuf
-	url = ../prebuilts/android-emulator-build/protobuf
 [submodule "platform/prebuilts/android-emulator-build/qemu-android-deps"]
 	branch = emu-master-dev
 	shallow = true
@@ -217,11 +191,6 @@
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
-[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
-	branch = master
-	shallow = true
-	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
-	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	branch = emu-master-dev
 	shallow = true
@@ -232,11 +201,6 @@
 	shallow = true
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
-[submodule "platform/prebuilts/ninja/windows-x86"]
-	branch = emu-master-dev
-	shallow = true
-	path = prebuilts/ninja/windows-x86
-	url = ../prebuilts/ninja/windows-x86
 [submodule "platform/prebuilts/qemu-kernel"]
 	branch = master
 	shallow = true
@@ -251,6 +215,10 @@
 	branch = emu-master-dev
 	path = sdk
 	url = ../sdk
+[submodule "platform/system/bt"]
+	branch = master
+	path = system/bt
+	url = ../system/bt
 [submodule "platform/tools/acloud"]
 	branch = master
 	path = tools/acloud
@@ -263,11 +231,7 @@
 	branch = emu-master-dev
 	path = tools/emulator
 	url = ../tools/emulator
-[submodule "platform/tools/external/gradle"]
-	branch = emu-master-dev
-	path = tools/external/gradle
-	url = ../tools/external/gradle
-[submodule "platform/tools/gradle"]
-	branch = emu-master-dev
-	path = tools/gradle
-	url = ../tools/gradle
+[submodule "toolchain/m4"]
+	branch = master
+	path = external/m4
+	url = ../../toolchain/m4
