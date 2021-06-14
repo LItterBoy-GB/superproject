@@ -3222,6 +3222,6 @@
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
 [submodule "tools/platform-compat"]
-	branch = android11-release
+	branch = android11-tests-dev
 	path = tools/platform-compat
 	url = ../../tools/platform-compat
