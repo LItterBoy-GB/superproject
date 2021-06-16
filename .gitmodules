@@ -2,6 +2,10 @@
 	branch = master
 	path = external/ukey2
 	url = ../external/ukey2
+[submodule "platform/frameworks/opt/car/setupwizard"]
+	branch = master
+	path = frameworks/opt/car/setupwizard
+	url = ../frameworks/opt/car/setupwizard
 [submodule "platform/packages/apps/Car/CompanionDeviceSupport"]
 	branch = master
 	path = packages/apps/Car/CompanionDeviceSupport
