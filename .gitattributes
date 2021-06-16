@@ -492,7 +492,6 @@
 /packages/apps/Calendar pdk-fs
 /packages/apps/Camera2 pdk-fs
 /packages/apps/Car/Cluster pdk-fs
-/packages/apps/Car/CompanionDeviceSupport pdk-fs
 /packages/apps/Car/Dialer pdk-fs
 /packages/apps/Car/Hvac pdk-fs
 /packages/apps/Car/LatinIME pdk-fs
