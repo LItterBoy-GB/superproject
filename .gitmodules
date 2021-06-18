@@ -113,17 +113,17 @@
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
 [submodule "platform/prebuilts/python/darwin-x86"]
-	branch = llvm-toolchain
+	branch = llvm-r416183
 	shallow = true
 	path = prebuilts/python/darwin-x86
 	url = ../prebuilts/python/darwin-x86
 [submodule "platform/prebuilts/python/linux-x86"]
-	branch = llvm-toolchain
+	branch = llvm-r416183
 	shallow = true
 	path = prebuilts/python/linux-x86
 	url = ../prebuilts/python/linux-x86
 [submodule "platform/prebuilts/python/windows-x86"]
-	branch = llvm-toolchain
+	branch = llvm-r416183
 	shallow = true
 	path = prebuilts/python/windows-x86
 	url = ../prebuilts/python/windows-x86
