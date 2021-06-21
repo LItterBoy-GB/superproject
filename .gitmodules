@@ -13,15 +13,12 @@
 [submodule "platform/external/adt-infra"]
 	path = external/adt-infra
 	url = ../external/adt-infra
-[submodule "platform/external/angle"]
-	path = external/angle
-	url = ../external/angle
 [submodule "platform/external/astc-codec"]
 	path = external/astc-codec
 	url = ../external/astc-codec
-[submodule "platform/external/bluetooth/glib"]
-	path = external/bluetooth/glib
-	url = ../external/bluetooth/glib
+[submodule "platform/external/bison"]
+	path = external/bison
+	url = ../external/bison
 [submodule "platform/external/boringssl"]
 	path = external/boringssl
 	url = ../external/boringssl
@@ -34,9 +31,9 @@
 [submodule "platform/external/deqp"]
 	path = external/deqp
 	url = ../external/deqp
-[submodule "platform/external/ffmpeg"]
-	path = external/ffmpeg
-	url = ../external/ffmpeg
+[submodule "platform/external/flex"]
+	path = external/flex
+	url = ../external/flex
 [submodule "platform/external/google-benchmark"]
 	path = external/google-benchmark
 	url = ../external/google-benchmark
@@ -49,18 +46,15 @@
 [submodule "platform/external/grpc-grpc"]
 	path = external/grpc
 	url = ../external/grpc-grpc
-[submodule "platform/external/libffi"]
-	path = external/libffi
-	url = ../external/libffi
+[submodule "platform/external/libchrome"]
+	path = external/libchrome
+	url = ../external/libchrome
 [submodule "platform/external/libpng"]
 	path = external/libpng
 	url = ../external/libpng
 [submodule "platform/external/libusb"]
 	path = external/libusb
 	url = ../external/libusb
-[submodule "platform/external/libvpx"]
-	path = external/libvpx
-	url = ../external/libvpx
 [submodule "platform/external/libyuv"]
 	path = external/libyuv
 	url = ../external/libyuv
@@ -70,36 +64,24 @@
 [submodule "platform/external/nasm"]
 	path = external/nasm
 	url = ../external/nasm
-[submodule "platform/external/openssl"]
-	path = external/openssl
-	url = ../external/openssl
 [submodule "platform/external/perfetto"]
 	path = external/perfetto
 	url = ../external/perfetto
-[submodule "platform/external/pixman"]
-	path = external/pixman
-	url = ../external/pixman
 [submodule "platform/external/protobuf"]
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/qemu"]
 	path = external/qemu
 	url = ../external/qemu
-[submodule "platform/external/qt"]
-	path = external/qt
-	url = ../external/qt
-[submodule "platform/external/sdl2"]
-	path = external/sdl2
-	url = ../external/sdl2
-[submodule "platform/external/swiftshader"]
-	path = external/swiftshader
-	url = ../external/swiftshader
 [submodule "platform/external/tinyobjloader"]
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
 [submodule "platform/external/virglrenderer"]
 	path = external/virglrenderer
 	url = ../external/virglrenderer
+[submodule "platform/external/webrtc"]
+	path = external/webrtc
+	url = ../external/webrtc
 [submodule "platform/external/wpa_supplicant_8"]
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
@@ -118,18 +100,12 @@
 [submodule "platform/prebuilts/android-emulator-build/common"]
 	path = prebuilts/android-emulator-build/common
 	url = ../prebuilts/android-emulator-build/common
-[submodule "platform/prebuilts/android-emulator-build/curl"]
-	path = prebuilts/android-emulator-build/curl
-	url = ../prebuilts/android-emulator-build/curl
 [submodule "platform/prebuilts/android-emulator-build/mesa"]
 	path = prebuilts/android-emulator-build/mesa
 	url = ../prebuilts/android-emulator-build/mesa
 [submodule "platform/prebuilts/android-emulator-build/mesa-deps"]
 	path = prebuilts/android-emulator-build/mesa-deps
 	url = ../prebuilts/android-emulator-build/mesa-deps
-[submodule "platform/prebuilts/android-emulator-build/protobuf"]
-	path = prebuilts/android-emulator-build/protobuf
-	url = ../prebuilts/android-emulator-build/protobuf
 [submodule "platform/prebuilts/android-emulator-build/qemu-android-deps"]
 	path = prebuilts/android-emulator-build/qemu-android-deps
 	url = ../prebuilts/android-emulator-build/qemu-android-deps
@@ -163,9 +139,6 @@
 [submodule "platform/prebuilts/ninja/linux-x86"]
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
-[submodule "platform/prebuilts/ninja/windows-x86"]
-	path = prebuilts/ninja/windows-x86
-	url = ../prebuilts/ninja/windows-x86
 [submodule "platform/prebuilts/qemu-kernel"]
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
@@ -175,6 +148,9 @@
 [submodule "platform/sdk"]
 	path = sdk
 	url = ../sdk
+[submodule "platform/system/bt"]
+	path = system/bt
+	url = ../system/bt
 [submodule "platform/tools/acloud"]
 	path = tools/acloud
 	url = ../tools/acloud
@@ -184,9 +160,6 @@
 [submodule "platform/tools/emulator"]
 	path = tools/emulator
 	url = ../tools/emulator
-[submodule "platform/tools/external/gradle"]
-	path = tools/external/gradle
-	url = ../tools/external/gradle
-[submodule "platform/tools/gradle"]
-	path = tools/gradle
-	url = ../tools/gradle
+[submodule "toolchain/m4"]
+	path = external/m4
+	url = ../../toolchain/m4

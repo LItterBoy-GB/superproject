@@ -3,45 +3,37 @@
 /device/google/cuttlefish
 /build
 /external/adt-infra
-/external/angle
 /external/astc-codec
-/external/bluetooth/glib
+/external/bison pdk
 /external/boringssl
 /external/cares
 /external/curl
 /external/deqp
-/external/ffmpeg
+/external/flex pdk
 /external/google-benchmark
 /external/google-breakpad
 /external/googletest
 /external/grpc
-/external/libffi
+/external/libchrome pdk
 /external/libpng
 /external/libusb
-/external/libvpx
 /external/libyuv
 /external/lz4
 /external/nasm
-/external/openssl
 /external/perfetto
-/external/pixman
 /external/protobuf
 /external/qemu
-/external/qt
-/external/sdl2
-/external/swiftshader
 /external/tinyobjloader
 /external/virglrenderer
+/external/webrtc
 /external/wpa_supplicant_8
 /external/zlib
 /frameworks/native
 /prebuilts/android-emulator
 /prebuilts/android-emulator-build/archive
 /prebuilts/android-emulator-build/common
-/prebuilts/android-emulator-build/curl
 /prebuilts/android-emulator-build/mesa
 /prebuilts/android-emulator-build/mesa-deps
-/prebuilts/android-emulator-build/protobuf
 /prebuilts/android-emulator-build/qemu-android-deps
 /prebuilts/android-emulator-build/qt
 /prebuilts/clang/host/darwin-x86
@@ -53,12 +45,11 @@
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 /prebuilts/ninja/darwin-x86
 /prebuilts/ninja/linux-x86
-/prebuilts/ninja/windows-x86
 /prebuilts/qemu-kernel
 /prebuilts/tools
 /sdk
+/system/bt pdk
 /tools/acloud
 /tools/buildSrc
 /tools/emulator
-/tools/external/gradle
-/tools/gradle
+/external/m4 pdk
