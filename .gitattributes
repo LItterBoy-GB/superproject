@@ -464,6 +464,7 @@
 /external/rust/crates/intrusive-collections pdk
 /external/rust/crates/itertools pdk
 /external/rust/crates/itoa pdk
+/external/rust/crates/kernlog pdk
 /external/rust/crates/lazy_static pdk
 /external/rust/crates/lazycell pdk
 /external/rust/crates/libc pdk
