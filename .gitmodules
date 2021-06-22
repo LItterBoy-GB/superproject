@@ -1897,6 +1897,10 @@
 	branch = master
 	path = external/rust/crates/itoa
 	url = ../external/rust/crates/itoa
+[submodule "platform/external/rust/crates/kernlog"]
+	branch = master
+	path = external/rust/crates/kernlog
+	url = ../external/rust/crates/kernlog
 [submodule "platform/external/rust/crates/lazy_static"]
 	branch = master
 	path = external/rust/crates/lazy_static
