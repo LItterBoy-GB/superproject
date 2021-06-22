@@ -107,6 +107,7 @@
 /prebuilts/jdk/jdk9 pdk
 /prebuilts/misc pdk
 /prebuilts/module_sdk/StatsD pdk
+/prebuilts/module_sdk/conscrypt pdk
 /prebuilts/ndk pdk
 /prebuilts/r8 pdk
 /prebuilts/remoteexecution-client pdk
