@@ -13,6 +13,9 @@
 [submodule "platform/external/icu"]
 	path = external/icu
 	url = ../external/icu
+[submodule "platform/external/libyuv"]
+	path = external/libyuv
+	url = ../external/libyuv
 [submodule "platform/external/noto-fonts"]
 	path = external/noto-fonts
 	url = ../external/noto-fonts
@@ -40,6 +43,9 @@
 [submodule "platform/prebuilts/androidx/internal"]
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
+[submodule "platform/prebuilts/androidx/traceprocessor"]
+	path = prebuilts/androidx/traceprocessor
+	url = ../prebuilts/androidx/traceprocessor
 [submodule "platform/prebuilts/checkstyle"]
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
