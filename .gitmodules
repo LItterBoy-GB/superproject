@@ -1665,6 +1665,10 @@
 	branch = master
 	path = external/rust/crates/atty
 	url = ../external/rust/crates/atty
+[submodule "platform/external/rust/crates/base64"]
+	branch = master
+	path = external/rust/crates/base64
+	url = ../external/rust/crates/base64
 [submodule "platform/external/rust/crates/bencher"]
 	branch = master
 	path = external/rust/crates/bencher
