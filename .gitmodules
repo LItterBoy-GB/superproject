@@ -163,10 +163,10 @@
 	branch = master
 	path = external/javapoet
 	url = ../external/javapoet
-[submodule "platform/external/jemalloc"]
+[submodule "platform/external/jemalloc_new"]
 	branch = master
-	path = external/jemalloc
-	url = ../external/jemalloc
+	path = external/jemalloc_new
+	url = ../external/jemalloc_new
 [submodule "platform/external/jsoncpp"]
 	branch = master
 	path = external/jsoncpp
@@ -207,6 +207,10 @@
 	branch = master
 	path = external/lzma
 	url = ../external/lzma
+[submodule "platform/external/musl"]
+	branch = master
+	path = external/musl
+	url = ../external/musl
 [submodule "platform/external/ninja"]
 	branch = master
 	path = external/ninja
