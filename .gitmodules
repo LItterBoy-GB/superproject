@@ -2656,9 +2656,6 @@
 [submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
-[submodule "platform/prebuilts/gdb/darwin-x86"]
-	path = prebuilts/gdb/darwin-x86
-	url = ../prebuilts/gdb/darwin-x86
 [submodule "platform/prebuilts/gdb/linux-x86"]
 	path = prebuilts/gdb/linux-x86
 	url = ../prebuilts/gdb/linux-x86
