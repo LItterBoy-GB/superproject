@@ -26,7 +26,9 @@
 /prebuilts/fullsdk-linux/platform-tools platform-linux notdefault
 /prebuilts/fullsdk-linux/tools platform-linux notdefault
 /prebuilts/fullsdk-darwin/platforms/android-30
+/prebuilts/fullsdk-darwin/platforms/android-31
 /prebuilts/fullsdk-darwin/sources/android-30
+/prebuilts/fullsdk-darwin/sources/android-31
 /prebuilts/jdk/jdk11 pdk
 /prebuilts/jdk/jdk8 pdk
 /prebuilts/protobuf pdk-fs
