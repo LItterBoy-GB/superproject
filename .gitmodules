@@ -1228,6 +1228,9 @@
 [submodule "platform/external/rust/crates/atty"]
 	path = external/rust/crates/atty
 	url = ../external/rust/crates/atty
+[submodule "platform/external/rust/crates/base64"]
+	path = external/rust/crates/base64
+	url = ../external/rust/crates/base64
 [submodule "platform/external/rust/crates/bencher"]
 	path = external/rust/crates/bencher
 	url = ../external/rust/crates/bencher
@@ -1396,6 +1399,9 @@
 [submodule "platform/external/rust/crates/itoa"]
 	path = external/rust/crates/itoa
 	url = ../external/rust/crates/itoa
+[submodule "platform/external/rust/crates/kernlog"]
+	path = external/rust/crates/kernlog
+	url = ../external/rust/crates/kernlog
 [submodule "platform/external/rust/crates/lazy_static"]
 	path = external/rust/crates/lazy_static
 	url = ../external/rust/crates/lazy_static
@@ -2653,12 +2659,6 @@
 [submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
-[submodule "platform/prebuilts/gdb/darwin-x86"]
-	path = prebuilts/gdb/darwin-x86
-	url = ../prebuilts/gdb/darwin-x86
-[submodule "platform/prebuilts/gdb/linux-x86"]
-	path = prebuilts/gdb/linux-x86
-	url = ../prebuilts/gdb/linux-x86
 [submodule "platform/prebuilts/go/darwin-x86"]
 	path = prebuilts/go/darwin-x86
 	url = ../prebuilts/go/darwin-x86
