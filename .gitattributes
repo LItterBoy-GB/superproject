@@ -3,6 +3,7 @@
 /external/dokka pdk
 /external/icing pdk
 /external/icu pdk
+/external/libyuv pdk
 /external/noto-fonts pdk
 /external/protobuf pdk
 /external/webview_support_interfaces pdk

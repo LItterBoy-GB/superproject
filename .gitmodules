@@ -13,6 +13,9 @@
 [submodule "platform/external/icu"]
 	path = external/icu
 	url = ../external/icu
+[submodule "platform/external/libyuv"]
+	path = external/libyuv
+	url = ../external/libyuv
 [submodule "platform/external/noto-fonts"]
 	path = external/noto-fonts
 	url = ../external/noto-fonts
