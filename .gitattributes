@@ -3,6 +3,7 @@
 /external/modp_b64
 /external/nanopb-c
 /external/protobuf
+/external/six
 /gamesdk
 /prebuilts/cmake/darwin-x86
 /prebuilts/cmake/linux-x86

@@ -18,6 +18,10 @@
 	branch = master
 	path = external/protobuf
 	url = ../external/protobuf
+[submodule "platform/external/python/six"]
+	branch = master
+	path = external/six
+	url = ../external/python/six
 [submodule "platform/frameworks/opt/gamesdk"]
 	branch = master
 	path = gamesdk
