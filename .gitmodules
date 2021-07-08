@@ -13,6 +13,9 @@
 [submodule "platform/external/protobuf"]
 	path = external/protobuf
 	url = ../external/protobuf
+[submodule "platform/external/python/six"]
+	path = external/six
+	url = ../external/python/six
 [submodule "platform/frameworks/opt/gamesdk"]
 	path = gamesdk
 	url = ../frameworks/opt/gamesdk
