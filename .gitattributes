@@ -1,0 +1,399 @@
+/device/asus/deb flo device
+/device/asus/flo flo device
+/device/asus/flo-kernel flo device
+/device/asus/grouper grouper device
+/device/asus/tilapia grouper device
+/device/common
+/device/generic/armv7-a-neon pdk
+/device/generic/common pdk
+/device/generic/goldfish pdk
+/device/generic/mini-emulator-armv7-a-neon pdk
+/device/generic/mini-emulator-mips pdk
+/device/generic/mini-emulator-x86 pdk
+/device/generic/mips pdk
+/device/generic/x86 pdk
+/device/google/accessory/arduino device
+/device/google/accessory/demokit device
+/device/lge/hammerhead hammerhead device
+/device/lge/hammerhead-kernel hammerhead device
+/device/lge/mako mako device
+/device/lge/mako-kernel mako device
+/device/sample pdk
+/device/samsung/manta manta device
+/abi/cpp pdk
+/art
+/bionic pdk
+/bootable/bootloader/legacy
+/bootable/diskinstaller
+/bootable/recovery pdk
+/build pdk
+/cts cts
+/dalvik
+/developers/build
+/developers/demos
+/developers/docs
+/developers/samples/android
+/development
+/docs/source.android.com
+/external/aac pdk
+/external/android-clat
+/external/android-mock
+/external/ant-glob
+/external/antlr
+/external/apache-harmony
+/external/apache-http
+/external/apache-qp
+/external/apache-xml
+/external/arduino
+/external/bison pdk
+/external/blktrace
+/external/bluetooth/bluedroid pdk
+/external/bouncycastle
+/external/bsdiff pdk
+/external/bzip2 pdk
+/external/ceres-solver
+/external/checkpolicy pdk
+/external/chromium
+/external/chromium-libpac
+/external/chromium-trace pdk
+/external/chromium_org
+/external/clang pdk
+/external/compiler-rt pdk
+/external/dexmaker
+/external/dhcpcd
+/external/dnsmasq pdk
+/external/doclava
+/external/droiddriver
+/external/dropbear
+/external/e2fsprogs pdk
+/external/easymock
+/external/eclipse-basebuilder
+/external/eclipse-windowbuilder
+/external/eigen
+/external/elfutils
+/external/embunit
+/external/emma
+/external/esd
+/external/expat pdk
+/external/eyes-free
+/external/fdlibm
+/external/flac pdk
+/external/freetype pdk
+/external/fsck_msdos
+/external/ganymed-ssh2
+/external/gcc-demangle pdk
+/external/genext2fs
+/external/giflib
+/external/google-diff-match-patch
+/external/grub
+/external/gtest pdk
+/external/guava
+/external/hamcrest
+/external/harfbuzz
+/external/harfbuzz_ng
+/external/hyphenation
+/external/icu4c pdk
+/external/iproute2 pdk
+/external/ipsec-tools
+/external/iptables
+/external/iputils
+/external/jack
+/external/javasqlite
+/external/javassist
+/external/jdiff
+/external/jhead pdk
+/external/jmdns
+/external/jmonkeyengine
+/external/jpeg pdk
+/external/jsilver
+/external/jsr305
+/external/junit
+/external/kernel-headers
+/external/libcap-ng
+/external/libexif
+/external/libffi
+/external/libgsm pdk
+/external/liblzf pdk
+/external/libmtp
+/external/libnfc-nci pdk
+/external/libnfc-nxp pdk
+/external/libnl-headers pdk
+/external/libogg
+/external/libpcap
+/external/libphonenumber
+/external/libpng pdk
+/external/libppp
+/external/libselinux pdk
+/external/libsepol pdk
+/external/libssh2
+/external/libusb
+/external/libusb-compat
+/external/libvorbis
+/external/libvpx pdk
+/external/libxml2
+/external/libxslt
+/external/libyuv libyuv
+/external/linux-tools-perf
+/external/littlemock
+/external/llvm pdk
+/external/lzma
+/external/marisa-trie
+/external/markdown
+/external/mdnsresponder pdk
+/external/mesa3d
+/external/mksh pdk
+/external/mockito
+/external/mockwebserver
+/external/mp4parser
+/external/mtpd
+/external/naver-fonts
+/external/netcat
+/external/netperf
+/external/neven
+/external/nist-pkits
+/external/nist-sip
+/external/noto-fonts
+/external/oauth
+/external/objenesis
+/external/okhttp
+/external/open-vcdiff
+/external/opencv
+/external/openfst
+/external/openssh
+/external/openssl pdk
+/external/oprofile
+/external/pixman
+/external/ppp
+/external/proguard pdk-java
+/external/protobuf pdk
+/external/qemu
+/external/qemu-pc-bios
+/external/regex-re2
+/external/replicaisland
+/external/robolectric
+/external/safe-iop pdk
+/external/scrypt pdk
+/external/sepolicy pdk
+/external/sfntly
+/external/sil-fonts
+/external/skia
+/external/smack
+/external/smali
+/external/sonivox pdk
+/external/speex pdk
+/external/sqlite pdk
+/external/srec
+/external/srtp
+/external/stlport pdk
+/external/strace
+/external/stressapptest
+/external/svox
+/external/tagsoup
+/external/tcpdump
+/external/timezonepicker-support
+/external/tinyalsa pdk
+/external/tinycompress pdk
+/external/tinyxml pdk
+/external/tinyxml2 pdk
+/external/tremolo pdk
+/external/v8
+/external/valgrind pdk
+/external/webp
+/external/webrtc pdk
+/external/wpa_supplicant_8 pdk
+/external/xmlwriter
+/external/xmp_toolkit
+/external/yaffs2 pdk
+/external/zlib pdk
+/external/zxing
+/frameworks/av pdk
+/frameworks/base
+/frameworks/compile/libbcc pdk
+/frameworks/compile/mclinker pdk
+/frameworks/compile/slang pdk
+/frameworks/ex
+/frameworks/mff
+/frameworks/ml
+/frameworks/native pdk
+/frameworks/opt/calendar
+/frameworks/opt/carddav
+/frameworks/opt/colorpicker
+/frameworks/opt/datetimepicker
+/frameworks/opt/emoji
+/frameworks/opt/inputmethodcommon
+/frameworks/opt/mailcommon
+/frameworks/opt/mms
+/frameworks/opt/net/voip
+/frameworks/opt/photoviewer
+/frameworks/opt/telephony pdk
+/frameworks/opt/timezonepicker
+/frameworks/opt/vcard
+/frameworks/opt/widget
+/frameworks/rs pdk
+/frameworks/support
+/frameworks/testing
+/frameworks/volley
+/frameworks/webview
+/frameworks/wilhelm
+/hardware/akm
+/hardware/broadcom/libbt pdk
+/hardware/broadcom/wlan broadcom_wlan
+/hardware/invensense invensense
+/hardware/libhardware pdk
+/hardware/libhardware_legacy pdk
+/hardware/qcom/audio qcom
+/hardware/qcom/bt qcom
+/hardware/qcom/camera qcom
+/hardware/qcom/display qcom
+/hardware/qcom/keymaster qcom
+/hardware/qcom/media qcom
+/hardware/qcom/msm8960 qcom_msm8960
+/hardware/qcom/msm8x74 qcom_msm8x74
+/hardware/qcom/power qcom
+/hardware/qcom/sensors qcom
+/hardware/qcom/wlan qcom_wlan
+/hardware/ril pdk
+/hardware/samsung_slsi/exynos5 exynos5
+/hardware/ti/omap3
+/hardware/ti/omap4xxx omap4
+/hardware/ti/wlan
+/hardware/ti/wpan
+/libcore
+/libnativehelper pdk-java
+/ndk
+/packages/apps/BasicSmsReceiver
+/packages/apps/Bluetooth
+/packages/apps/Browser
+/packages/apps/Calculator
+/packages/apps/Calendar
+/packages/apps/Camera
+/packages/apps/Camera2
+/packages/apps/CellBroadcastReceiver
+/packages/apps/CertInstaller
+/packages/apps/Contacts
+/packages/apps/ContactsCommon
+/packages/apps/DeskClock
+/packages/apps/Dialer
+/packages/apps/Email
+/packages/apps/Exchange
+/packages/apps/Gallery
+/packages/apps/Gallery2
+/packages/apps/HTMLViewer
+/packages/apps/InCallUI
+/packages/apps/KeyChain
+/packages/apps/Launcher2
+/packages/apps/Launcher3
+/packages/apps/LegacyCamera
+/packages/apps/Mms
+/packages/apps/Music
+/packages/apps/MusicFX
+/packages/apps/Nfc
+/packages/apps/OneTimeInitializer
+/packages/apps/PackageInstaller
+/packages/apps/Phone
+/packages/apps/PhoneCommon
+/packages/apps/Protips
+/packages/apps/Provision
+/packages/apps/QuickSearchBox
+/packages/apps/Settings
+/packages/apps/SmartCardService
+/packages/apps/SoundRecorder
+/packages/apps/SpareParts
+/packages/apps/SpeechRecorder
+/packages/apps/Stk
+/packages/apps/Tag
+/packages/apps/UnifiedEmail
+/packages/apps/VideoEditor
+/packages/apps/VoiceDialer
+/packages/experimental
+/packages/inputmethods/LatinIME
+/packages/inputmethods/OpenWnn
+/packages/inputmethods/PinyinIME
+/packages/providers/ApplicationsProvider
+/packages/providers/CalendarProvider
+/packages/providers/ContactsProvider
+/packages/providers/DownloadProvider
+/packages/providers/MediaProvider
+/packages/providers/PartnerBookmarksProvider
+/packages/providers/TelephonyProvider
+/packages/providers/UserDictionaryProvider
+/packages/screensavers/Basic
+/packages/screensavers/PhotoTable
+/packages/screensavers/WebView
+/packages/services/Telephony
+/packages/wallpapers/Basic
+/packages/wallpapers/Galaxy4
+/packages/wallpapers/HoloSpiral
+/packages/wallpapers/LivePicker
+/packages/wallpapers/MagicSmoke
+/packages/wallpapers/MusicVisualization
+/packages/wallpapers/NoiseField
+/packages/wallpapers/PhaseBeam
+/pdk pdk
+/prebuilts/clang/darwin-x86/3.1 pdk darwin
+/prebuilts/clang/darwin-x86/3.2 pdk darwin
+/prebuilts/clang/darwin-x86/arm/3.3 darwin arm
+/prebuilts/clang/darwin-x86/host/3.3 darwin
+/prebuilts/clang/darwin-x86/mips/3.3 darwin mips
+/prebuilts/clang/darwin-x86/x86/3.3 darwin x86
+/prebuilts/clang/linux-x86/3.1 pdk linux
+/prebuilts/clang/linux-x86/3.2 pdk linux
+/prebuilts/clang/linux-x86/arm/3.3 linux arm
+/prebuilts/clang/linux-x86/host/3.3 linux
+/prebuilts/clang/linux-x86/mips/3.3 linux mips
+/prebuilts/clang/linux-x86/x86/3.3 linux x86
+/prebuilts/devtools
+/prebuilts/eclipse pdk
+/prebuilts/eclipse-build-deps notdefault eclipse
+/prebuilts/eclipse-build-deps-sources notdefault eclipse
+/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6 pdk darwin arm
+/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7 pdk darwin arm
+/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6 pdk darwin arm
+/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7 pdk darwin arm
+/prebuilts/gcc/darwin-x86/host/headers pdk darwin
+/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 pdk darwin
+/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6 pdk darwin mips
+/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7 pdk darwin mips
+/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6 pdk darwin x86
+/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7 pdk darwin x86
+/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7 pdk darwin x86
+/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6 pdk linux arm
+/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7 pdk linux arm
+/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6 pdk linux arm
+/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7 pdk linux arm
+/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3 pdk linux
+/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6 pdk linux
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6 pdk linux
+/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6 pdk linux mips
+/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7 pdk linux mips
+/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6 pdk linux x86
+/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7 pdk linux x86
+/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7 pdk linux x86
+/prebuilts/gradle-plugin
+/prebuilts/maven_repo/android
+/prebuilts/misc pdk
+/prebuilts/ndk pdk
+/prebuilts/python/darwin-x86/2.7.5 darwin
+/prebuilts/python/linux-x86/2.7.5 linux
+/prebuilts/qemu-kernel pdk
+/prebuilts/runtime
+/prebuilts/sdk pdk
+/prebuilts/tools pdk tools
+/sdk
+/system/core pdk
+/system/extras pdk
+/system/media pdk
+/system/netd pdk
+/system/security pdk
+/system/vold pdk
+/tools/adt/eclipse notdefault tools
+/tools/adt/idea notdefault tools
+/tools/base notdefault tools
+/tools/build notdefault tools
+/tools/emulator notdefault tools
+/tools/external/fat32lib tools
+/tools/external/gradle tools
+/tools/idea notdefault tools
+/tools/motodev notdefault motodev
+/tools/studio/cloud notdefault tools
+/tools/swt notdefault tools
