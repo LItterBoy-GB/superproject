@@ -1,0 +1,92 @@
+[submodule "platform/build"]
+	ref = refs/tags/android-tsl-4.0
+	path = build
+	url = ../build
+[submodule "platform/external/antlr"]
+	ref = refs/tags/android-tsl-4.0
+	path = external/antlr
+	url = ../external/antlr
+[submodule "platform/external/dexmaker"]
+	ref = refs/tags/android-tsl-4.0
+	path = external/dexmaker
+	url = ../external/dexmaker
+[submodule "platform/external/doclava"]
+	ref = refs/tags/android-tsl-4.0
+	path = external/doclava
+	url = ../external/doclava
+[submodule "platform/external/emma"]
+	ref = refs/tags/android-tsl-4.0
+	path = external/emma
+	url = ../external/emma
+[submodule "platform/external/guava"]
+	ref = refs/tags/android-tsl-4.0
+	path = external/guava
+	url = ../external/guava
+[submodule "platform/external/hamcrest"]
+	ref = refs/tags/android-tsl-4.0
+	path = external/hamcrest
+	url = ../external/hamcrest
+[submodule "platform/external/jarjar"]
+	ref = refs/tags/android-tsl-4.0
+	path = external/jarjar
+	url = ../external/jarjar
+[submodule "platform/external/jsilver"]
+	ref = refs/tags/android-tsl-4.0
+	path = external/jsilver
+	url = ../external/jsilver
+[submodule "platform/external/jsr305"]
+	ref = refs/tags/android-tsl-4.0
+	path = external/jsr305
+	url = ../external/jsr305
+[submodule "platform/external/junit"]
+	ref = refs/tags/android-tsl-4.0
+	path = external/junit
+	url = ../external/junit
+[submodule "platform/external/mockito"]
+	ref = refs/tags/android-tsl-4.0
+	path = external/mockito
+	url = ../external/mockito
+[submodule "platform/external/objenesis"]
+	ref = refs/tags/android-tsl-4.0
+	path = external/objenesis
+	url = ../external/objenesis
+[submodule "platform/external/proguard"]
+	ref = refs/tags/android-tsl-4.0
+	path = external/proguard
+	url = ../external/proguard
+[submodule "platform/external/tagsoup"]
+	ref = refs/tags/android-tsl-4.0
+	path = external/tagsoup
+	url = ../external/tagsoup
+[submodule "platform/frameworks/janktesthelper"]
+	ref = refs/tags/android-tsl-4.0
+	path = frameworks/janktesthelper
+	url = ../frameworks/janktesthelper
+[submodule "platform/frameworks/testing"]
+	ref = refs/tags/android-tsl-4.0
+	path = frameworks/testing
+	url = ../frameworks/testing
+[submodule "platform/frameworks/uiautomator"]
+	ref = refs/tags/android-tsl-4.0
+	path = frameworks/uiautomator
+	url = ../frameworks/uiautomator
+[submodule "platform/prebuilts/gradle-plugin"]
+	ref = refs/tags/android-tsl-4.0
+	path = prebuilts/gradle-plugin
+	url = ../prebuilts/gradle-plugin
+[submodule "platform/prebuilts/maven_repo/android"]
+	ref = refs/tags/android-tsl-4.0
+	path = prebuilts/maven_repo/android
+	url = ../prebuilts/maven_repo/android
+[submodule "platform/prebuilts/misc"]
+	ref = refs/tags/android-tsl-4.0
+	path = prebuilts/misc
+	url = ../prebuilts/misc
+[submodule "platform/prebuilts/sdk"]
+	ref = refs/tags/android-tsl-4.0
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "platform/prebuilts/tools"]
+	ref = refs/tags/android-tsl-4.0
+	path = prebuilts/tools
+	url = ../prebuilts/tools
