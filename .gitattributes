@@ -11,6 +11,8 @@
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 /prebuilts/ninja/darwin-x86
 /prebuilts/ninja/linux-x86
+/prebuilts/python/darwin-x86
+/prebuilts/python/linux-x86
 /prebuilts/rust
 /toolchain/android_rust
 /toolchain/prebuilts/ndk/r20
