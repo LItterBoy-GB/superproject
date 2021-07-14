@@ -1425,6 +1425,10 @@
 	branch = master
 	path = external/one-true-awk
 	url = ../external/one-true-awk
+[submodule "platform/external/open-dice"]
+	branch = master
+	path = external/open-dice
+	url = ../external/open-dice
 [submodule "platform/external/opencensus-java"]
 	branch = master
 	path = external/opencensus-java
