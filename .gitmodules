@@ -2169,6 +2169,10 @@
 	branch = master
 	path = external/rust/crates/serde
 	url = ../external/rust/crates/serde
+[submodule "platform/external/rust/crates/serde-xml-rs"]
+	branch = master
+	path = external/rust/crates/serde-xml-rs
+	url = ../external/rust/crates/serde-xml-rs
 [submodule "platform/external/rust/crates/serde_cbor"]
 	branch = master
 	path = external/rust/crates/serde_cbor
@@ -2321,6 +2325,10 @@
 	branch = master
 	path = external/rust/crates/which
 	url = ../external/rust/crates/which
+[submodule "platform/external/rust/crates/xml-rs"]
+	branch = master
+	path = external/rust/crates/xml-rs
+	url = ../external/rust/crates/xml-rs
 [submodule "platform/external/rust/crates/zip"]
 	branch = master
 	path = external/rust/crates/zip
