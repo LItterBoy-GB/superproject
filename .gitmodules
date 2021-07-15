@@ -2588,6 +2588,10 @@
 	branch = master
 	path = external/webrtc
 	url = ../external/webrtc
+[submodule "platform/external/wmediumd"]
+	branch = master
+	path = external/wmediumd
+	url = ../external/wmediumd
 [submodule "platform/external/wpa_supplicant_8"]
 	branch = master
 	path = external/wpa_supplicant_8
