@@ -1042,6 +1042,9 @@
 [submodule "platform/external/one-true-awk"]
 	path = external/one-true-awk
 	url = ../external/one-true-awk
+[submodule "platform/external/open-dice"]
+	path = external/open-dice
+	url = ../external/open-dice
 [submodule "platform/external/opencensus-java"]
 	path = external/opencensus-java
 	url = ../external/opencensus-java
