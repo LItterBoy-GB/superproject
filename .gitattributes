@@ -536,6 +536,7 @@
 /external/rust/crates/same-file pdk
 /external/rust/crates/scopeguard pdk
 /external/rust/crates/serde pdk
+/external/rust/crates/serde-xml-rs pdk
 /external/rust/crates/serde_cbor pdk
 /external/rust/crates/serde_derive pdk
 /external/rust/crates/serde_json pdk
@@ -574,6 +575,7 @@
 /external/rust/crates/walkdir pdk
 /external/rust/crates/weak-table pdk
 /external/rust/crates/which pdk
+/external/rust/crates/xml-rs pdk
 /external/rust/crates/zip pdk
 /external/rust/cxx pdk
 /external/ruy pdk
