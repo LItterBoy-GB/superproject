@@ -1,0 +1,12 @@
+[submodule "platform/tools/multitest_transport"]
+	branch = multitest-transport-dev
+	path = multitest_transport
+	url = ../tools/multitest_transport
+[submodule "platform/tools/repohooks"]
+	branch = master
+	path = tools/repohooks
+	url = ../tools/repohooks
+[submodule "platform/tools/tradefed_cluster"]
+	branch = multitest-transport-dev
+	path = tradefed_cluster
+	url = ../tools/tradefed_cluster
