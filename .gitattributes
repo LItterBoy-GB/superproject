@@ -435,6 +435,8 @@
 /external/rust/crates/crossbeam-utils pdk
 /external/rust/crates/csv pdk
 /external/rust/crates/csv-core pdk
+/external/rust/crates/der-oid-macro pdk
+/external/rust/crates/der-parser pdk
 /external/rust/crates/derive_arbitrary pdk
 /external/rust/crates/downcast-rs pdk
 /external/rust/crates/either pdk
@@ -490,6 +492,7 @@
 /external/rust/crates/nix pdk
 /external/rust/crates/no-panic pdk
 /external/rust/crates/nom pdk
+/external/rust/crates/num-bigint pdk
 /external/rust/crates/num-derive pdk
 /external/rust/crates/num-integer pdk
 /external/rust/crates/num-traits pdk
@@ -531,6 +534,7 @@
 /external/rust/crates/ring pdk
 /external/rust/crates/rusqlite pdk
 /external/rust/crates/rustc-hash pdk
+/external/rust/crates/rusticata-macros pdk
 /external/rust/crates/rustversion pdk
 /external/rust/crates/ryu pdk
 /external/rust/crates/same-file pdk
@@ -574,6 +578,7 @@
 /external/rust/crates/vsock pdk
 /external/rust/crates/walkdir pdk
 /external/rust/crates/weak-table pdk
+/external/rust/crates/webpki pdk
 /external/rust/crates/which pdk
 /external/rust/crates/xml-rs pdk
 /external/rust/crates/zip pdk

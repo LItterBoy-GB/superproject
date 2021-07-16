@@ -1773,6 +1773,14 @@
 	branch = master
 	path = external/rust/crates/csv-core
 	url = ../external/rust/crates/csv-core
+[submodule "platform/external/rust/crates/der-oid-macro"]
+	branch = master
+	path = external/rust/crates/der-oid-macro
+	url = ../external/rust/crates/der-oid-macro
+[submodule "platform/external/rust/crates/der-parser"]
+	branch = master
+	path = external/rust/crates/der-parser
+	url = ../external/rust/crates/der-parser
 [submodule "platform/external/rust/crates/derive_arbitrary"]
 	branch = master
 	path = external/rust/crates/derive_arbitrary
@@ -1993,6 +2001,10 @@
 	branch = master
 	path = external/rust/crates/nom
 	url = ../external/rust/crates/nom
+[submodule "platform/external/rust/crates/num-bigint"]
+	branch = master
+	path = external/rust/crates/num-bigint
+	url = ../external/rust/crates/num-bigint
 [submodule "platform/external/rust/crates/num-derive"]
 	branch = master
 	path = external/rust/crates/num-derive
@@ -2157,6 +2169,10 @@
 	branch = master
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/rusticata-macros"]
+	branch = master
+	path = external/rust/crates/rusticata-macros
+	url = ../external/rust/crates/rusticata-macros
 [submodule "platform/external/rust/crates/rustversion"]
 	branch = master
 	path = external/rust/crates/rustversion
@@ -2329,6 +2345,10 @@
 	branch = master
 	path = external/rust/crates/weak-table
 	url = ../external/rust/crates/weak-table
+[submodule "platform/external/rust/crates/webpki"]
+	branch = master
+	path = external/rust/crates/webpki
+	url = ../external/rust/crates/webpki
 [submodule "platform/external/rust/crates/which"]
 	branch = master
 	path = external/rust/crates/which
