@@ -1303,6 +1303,12 @@
 [submodule "platform/external/rust/crates/csv-core"]
 	path = external/rust/crates/csv-core
 	url = ../external/rust/crates/csv-core
+[submodule "platform/external/rust/crates/der-oid-macro"]
+	path = external/rust/crates/der-oid-macro
+	url = ../external/rust/crates/der-oid-macro
+[submodule "platform/external/rust/crates/der-parser"]
+	path = external/rust/crates/der-parser
+	url = ../external/rust/crates/der-parser
 [submodule "platform/external/rust/crates/derive_arbitrary"]
 	path = external/rust/crates/derive_arbitrary
 	url = ../external/rust/crates/derive_arbitrary
@@ -1468,6 +1474,9 @@
 [submodule "platform/external/rust/crates/nom"]
 	path = external/rust/crates/nom
 	url = ../external/rust/crates/nom
+[submodule "platform/external/rust/crates/num-bigint"]
+	path = external/rust/crates/num-bigint
+	url = ../external/rust/crates/num-bigint
 [submodule "platform/external/rust/crates/num-derive"]
 	path = external/rust/crates/num-derive
 	url = ../external/rust/crates/num-derive
@@ -1591,6 +1600,9 @@
 [submodule "platform/external/rust/crates/rustc-hash"]
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/rusticata-macros"]
+	path = external/rust/crates/rusticata-macros
+	url = ../external/rust/crates/rusticata-macros
 [submodule "platform/external/rust/crates/rustversion"]
 	path = external/rust/crates/rustversion
 	url = ../external/rust/crates/rustversion
@@ -1606,6 +1618,9 @@
 [submodule "platform/external/rust/crates/serde"]
 	path = external/rust/crates/serde
 	url = ../external/rust/crates/serde
+[submodule "platform/external/rust/crates/serde-xml-rs"]
+	path = external/rust/crates/serde-xml-rs
+	url = ../external/rust/crates/serde-xml-rs
 [submodule "platform/external/rust/crates/serde_cbor"]
 	path = external/rust/crates/serde_cbor
 	url = ../external/rust/crates/serde_cbor
@@ -1717,9 +1732,15 @@
 [submodule "platform/external/rust/crates/weak-table"]
 	path = external/rust/crates/weak-table
 	url = ../external/rust/crates/weak-table
+[submodule "platform/external/rust/crates/webpki"]
+	path = external/rust/crates/webpki
+	url = ../external/rust/crates/webpki
 [submodule "platform/external/rust/crates/which"]
 	path = external/rust/crates/which
 	url = ../external/rust/crates/which
+[submodule "platform/external/rust/crates/xml-rs"]
+	path = external/rust/crates/xml-rs
+	url = ../external/rust/crates/xml-rs
 [submodule "platform/external/rust/crates/zip"]
 	path = external/rust/crates/zip
 	url = ../external/rust/crates/zip
@@ -1909,6 +1930,9 @@
 [submodule "platform/external/webrtc"]
 	path = external/webrtc
 	url = ../external/webrtc
+[submodule "platform/external/wmediumd"]
+	path = external/wmediumd
+	url = ../external/wmediumd
 [submodule "platform/external/wpa_supplicant_8"]
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
