@@ -1,6 +1,7 @@
 /external/ukey2 pdk
 /frameworks/opt/car/setupwizard pdk
 /packages/apps/Car/CompanionDeviceSupport pdk-fs
+/packages/apps/Car/Templates pdk-fs
 /packages/apps/Car/libs pdk-fs
 /prebuilts/checkstyle pdk
 /prebuilts/ktlint pdk

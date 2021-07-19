@@ -10,6 +10,10 @@
 	branch = master
 	path = packages/apps/Car/CompanionDeviceSupport
 	url = ../packages/apps/Car/CompanionDeviceSupport
+[submodule "platform/packages/apps/Car/Templates"]
+	branch = master
+	path = packages/apps/Car/Templates
+	url = ../packages/apps/Car/Templates
 [submodule "platform/packages/apps/Car/libs"]
 	branch = master
 	path = packages/apps/Car/libs
