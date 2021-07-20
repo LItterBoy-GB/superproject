@@ -264,6 +264,7 @@
 /external/libcap-ng pdk
 /external/libchrome pdk
 /external/libchromeos-rs pdk
+/external/libconfig pdk
 /external/libcppbor pdk
 /external/libcups pdk-fs pdk-cw-fs
 /external/libcxx pdk
