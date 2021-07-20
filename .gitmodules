@@ -1088,6 +1088,10 @@
 	branch = master
 	path = external/libchromeos-rs
 	url = ../external/libchromeos-rs
+[submodule "platform/external/libconfig"]
+	branch = master
+	path = external/libconfig
+	url = ../external/libconfig
 [submodule "platform/external/libcppbor"]
 	branch = master
 	path = external/libcppbor
