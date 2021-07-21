@@ -1216,6 +1216,10 @@
 	branch = master
 	path = external/libtextclassifier
 	url = ../external/libtextclassifier
+[submodule "platform/external/liburing"]
+	branch = master
+	path = external/liburing
+	url = ../external/liburing
 [submodule "platform/external/libusb"]
 	branch = master
 	path = external/libusb
