@@ -796,6 +796,9 @@
 [submodule "platform/external/libchromeos-rs"]
 	path = external/libchromeos-rs
 	url = ../external/libchromeos-rs
+[submodule "platform/external/libconfig"]
+	path = external/libconfig
+	url = ../external/libconfig
 [submodule "platform/external/libcppbor"]
 	path = external/libcppbor
 	url = ../external/libcppbor
@@ -889,6 +892,9 @@
 [submodule "platform/external/libtextclassifier"]
 	path = external/libtextclassifier
 	url = ../external/libtextclassifier
+[submodule "platform/external/liburing"]
+	path = external/liburing
+	url = ../external/liburing
 [submodule "platform/external/libusb"]
 	path = external/libusb
 	url = ../external/libusb
