@@ -34,7 +34,6 @@
 /device/google/crosshatch-sepolicy crosshatch generic_fs device
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
-/device/google/fuchsia device
 /device/google/redbull redbull device
 /device/google/redbull-kernel bramble redfin device
 /device/google/redbull-sepolicy redbull device
@@ -886,7 +885,6 @@
 /prebuilts/clang/host/linux-x86 pdk
 /prebuilts/cmdline-tools pdk-fs
 /prebuilts/devtools pdk-fs
-/prebuilts/fuchsia_sdk pdk-fs
 /prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9 pdk darwin arm
 /prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9 pdk darwin arm
 /prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 pdk darwin
