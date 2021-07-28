@@ -50,6 +50,7 @@
 /external/libunwind_llvm
 /external/llvm
 /external/lzma
+/external/musl
 /external/ninja
 /external/nsjail
 /external/one-true-awk

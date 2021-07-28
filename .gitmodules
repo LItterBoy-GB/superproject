@@ -154,6 +154,9 @@
 [submodule "platform/external/lzma"]
 	path = external/lzma
 	url = ../external/lzma
+[submodule "platform/external/musl"]
+	path = external/musl
+	url = ../external/musl
 [submodule "platform/external/ninja"]
 	path = external/ninja
 	url = ../external/ninja
