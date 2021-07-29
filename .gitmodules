@@ -2017,6 +2017,10 @@
 	branch = master
 	path = external/rust/crates/num_cpus
 	url = ../external/rust/crates/num_cpus
+[submodule "platform/external/rust/crates/oid-registry"]
+	branch = master
+	path = external/rust/crates/oid-registry
+	url = ../external/rust/crates/oid-registry
 [submodule "platform/external/rust/crates/once_cell"]
 	branch = master
 	path = external/rust/crates/once_cell
@@ -2349,6 +2353,10 @@
 	branch = master
 	path = external/rust/crates/which
 	url = ../external/rust/crates/which
+[submodule "platform/external/rust/crates/x509-parser"]
+	branch = master
+	path = external/rust/crates/x509-parser
+	url = ../external/rust/crates/x509-parser
 [submodule "platform/external/rust/crates/xml-rs"]
 	branch = master
 	path = external/rust/crates/xml-rs
