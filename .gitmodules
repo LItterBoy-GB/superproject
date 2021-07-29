@@ -106,9 +106,6 @@
 [submodule "device/google/cuttlefish_prebuilts"]
 	path = device/google/cuttlefish_prebuilts
 	url = ../../device/google/cuttlefish_prebuilts
-[submodule "device/google/fuchsia"]
-	path = device/google/fuchsia
-	url = ../../device/google/fuchsia
 [submodule "device/google/redbull"]
 	path = device/google/redbull
 	url = ../../device/google/redbull
@@ -2662,9 +2659,6 @@
 [submodule "platform/prebuilts/devtools"]
 	path = prebuilts/devtools
 	url = ../prebuilts/devtools
-[submodule "platform/prebuilts/fuchsia_sdk"]
-	path = prebuilts/fuchsia_sdk
-	url = ../prebuilts/fuchsia_sdk
 [submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
 	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
 	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
