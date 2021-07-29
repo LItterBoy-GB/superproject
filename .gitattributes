@@ -498,6 +498,7 @@
 /external/rust/crates/num-integer pdk
 /external/rust/crates/num-traits pdk
 /external/rust/crates/num_cpus pdk
+/external/rust/crates/oid-registry pdk
 /external/rust/crates/once_cell pdk
 /external/rust/crates/oorandom pdk
 /external/rust/crates/parking_lot pdk
@@ -581,6 +582,7 @@
 /external/rust/crates/weak-table pdk
 /external/rust/crates/webpki pdk
 /external/rust/crates/which pdk
+/external/rust/crates/x509-parser pdk
 /external/rust/crates/xml-rs pdk
 /external/rust/crates/zip pdk
 /external/rust/cxx pdk
