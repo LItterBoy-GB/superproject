@@ -608,6 +608,7 @@
 /external/speex pdk
 /external/sqlite pdk
 /external/squashfs-tools pdk
+/external/stardoc pdk
 /external/starlark-go pdk
 /external/strace pdk
 /external/stressapptest pdk

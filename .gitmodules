@@ -2466,6 +2466,10 @@
 	branch = master
 	path = external/squashfs-tools
 	url = ../external/squashfs-tools
+[submodule "platform/external/stardoc"]
+	branch = master
+	path = external/stardoc
+	url = ../external/stardoc
 [submodule "platform/external/starlark-go"]
 	branch = master
 	path = external/starlark-go
