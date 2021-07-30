@@ -955,6 +955,7 @@
 /system/libhidl pdk
 /system/libhwbinder pdk
 /system/libprocinfo pdk
+/system/librustutils pdk
 /system/libsysprop pdk
 /system/libufdt pdk
 /system/libvintf pdk

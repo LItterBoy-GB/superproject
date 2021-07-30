@@ -3919,6 +3919,10 @@
 	branch = master
 	path = system/libprocinfo
 	url = ../system/libprocinfo
+[submodule "platform/system/librustutils"]
+	branch = master
+	path = system/librustutils
+	url = ../system/librustutils
 [submodule "platform/system/libsysprop"]
 	branch = master
 	path = system/libsysprop
