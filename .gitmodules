@@ -1861,6 +1861,10 @@
 	branch = master
 	path = external/rust/crates/gdbstub
 	url = ../external/rust/crates/gdbstub
+[submodule "platform/external/rust/crates/gdbstub_arch"]
+	branch = master
+	path = external/rust/crates/gdbstub_arch
+	url = ../external/rust/crates/gdbstub_arch
 [submodule "platform/external/rust/crates/getrandom"]
 	branch = master
 	path = external/rust/crates/getrandom
