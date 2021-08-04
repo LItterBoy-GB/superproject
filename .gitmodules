@@ -491,6 +491,10 @@
 	branch = master
 	path = external/avb
 	url = ../external/avb
+[submodule "platform/external/bazel-skylib"]
+	branch = master
+	path = external/bazel-skylib
+	url = ../external/bazel-skylib
 [submodule "platform/external/bazelbuild-rules_android"]
 	branch = master
 	path = external/bazelbuild-rules_android
