@@ -115,6 +115,7 @@
 /external/auto pdk
 /external/autotest pdk-fs
 /external/avb pdk
+/external/bazel-skylib pdk
 /external/bazelbuild-rules_android pdk
 /external/bc pdk
 /external/bcc pdk
