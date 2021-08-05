@@ -115,6 +115,7 @@
 /external/auto pdk
 /external/autotest pdk-fs
 /external/avb pdk
+/external/bazel-skylib pdk
 /external/bazelbuild-rules_android pdk
 /external/bc pdk
 /external/bcc pdk
@@ -455,6 +456,7 @@
 /external/rust/crates/futures-task pdk
 /external/rust/crates/futures-util pdk
 /external/rust/crates/gdbstub pdk
+/external/rust/crates/gdbstub_arch pdk
 /external/rust/crates/getrandom pdk
 /external/rust/crates/glob pdk
 /external/rust/crates/grpcio pdk
@@ -496,6 +498,7 @@
 /external/rust/crates/num-integer pdk
 /external/rust/crates/num-traits pdk
 /external/rust/crates/num_cpus pdk
+/external/rust/crates/oid-registry pdk
 /external/rust/crates/once_cell pdk
 /external/rust/crates/oorandom pdk
 /external/rust/crates/parking_lot pdk
@@ -579,6 +582,7 @@
 /external/rust/crates/weak-table pdk
 /external/rust/crates/webpki pdk
 /external/rust/crates/which pdk
+/external/rust/crates/x509-parser pdk
 /external/rust/crates/xml-rs pdk
 /external/rust/crates/zip pdk
 /external/rust/cxx pdk
@@ -604,6 +608,7 @@
 /external/speex pdk
 /external/sqlite pdk
 /external/squashfs-tools pdk
+/external/stardoc pdk
 /external/starlark-go pdk
 /external/strace pdk
 /external/stressapptest pdk
@@ -952,6 +957,7 @@
 /system/libhidl pdk
 /system/libhwbinder pdk
 /system/libprocinfo pdk
+/system/librustutils pdk
 /system/libsysprop pdk
 /system/libufdt pdk
 /system/libvintf pdk
