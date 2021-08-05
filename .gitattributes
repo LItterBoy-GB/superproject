@@ -96,7 +96,6 @@
 /external/XNNPACK pdk
 /external/aac pdk
 /external/abseil-cpp pdk
-/external/adhd pdk
 /external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
 /external/androidplot pdk
