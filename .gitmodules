@@ -415,10 +415,6 @@
 	branch = master
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
-[submodule "platform/external/adhd"]
-	branch = master
-	path = external/adhd
-	url = ../external/adhd
 [submodule "platform/external/adt-infra"]
 	branch = master
 	path = external/adt-infra
