@@ -16,7 +16,6 @@
 /prebuilts/cmake/linux-x86 presubmit
 /prebuilts/gcc/darwin-x86/host/headers darwin
 /prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 darwin
-/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8 presubmit
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 presubmit
 /prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 presubmit
 /prebuilts/ndk presubmit
@@ -31,5 +30,4 @@
 /toolchain/binutils presubmit
 /toolchain/llvm-project presubmit
 /toolchain/make presubmit
-/toolchain/python presubmit
 /toolchain/yasm presubmit

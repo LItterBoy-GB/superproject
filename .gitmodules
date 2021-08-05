@@ -70,10 +70,6 @@
 	branch = master
 	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
-[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
-	branch = master
-	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
-	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
 	branch = master
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
@@ -132,10 +128,6 @@
 	branch = master
 	path = toolchain/make
 	url = ../../toolchain/make
-[submodule "toolchain/python"]
-	branch = master
-	path = toolchain/python
-	url = ../../toolchain/python
 [submodule "toolchain/yasm"]
 	branch = master
 	path = toolchain/yasm
