@@ -403,6 +403,10 @@
 	branch = master
 	path = external/Reactive-Extensions/RxCpp
 	url = ../external/Reactive-Extensions/RxCpp
+[submodule "platform/external/TestParameterInjector"]
+	branch = master
+	path = external/TestParameterInjector
+	url = ../external/TestParameterInjector
 [submodule "platform/external/XNNPACK"]
 	branch = master
 	path = external/XNNPACK
