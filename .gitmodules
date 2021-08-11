@@ -14,10 +14,11 @@
 	url = ../external/dokka
 [submodule "platform/external/icing"]
 	branch = androidx-main
+	shallow = true
 	path = external/icing
 	url = ../external/icing
 [submodule "platform/external/icu"]
-	branch = master
+	branch = androidx-main
 	shallow = true
 	path = external/icu
 	url = ../external/icu
