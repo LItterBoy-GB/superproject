@@ -83,49 +83,10 @@
 	branch = android11-platform-release
 	path = device/google/atv
 	url = ../../device/google/atv
-[submodule "device/google/bonito"]
-	branch = android11-platform-release
-	path = device/google/bonito
-	url = ../../device/google/bonito
-[submodule "device/google/bonito-kernel"]
-	branch = android11-platform-release
-	shallow = true
-	path = device/google/bonito-kernel
-	url = ../../device/google/bonito-kernel
-[submodule "device/google/bonito-sepolicy"]
-	branch = android11-platform-release
-	path = device/google/bonito-sepolicy
-	url = ../../device/google/bonito-sepolicy
 [submodule "device/google/contexthub"]
 	branch = android11-platform-release
 	path = device/google/contexthub
 	url = ../../device/google/contexthub
-[submodule "device/google/coral"]
-	branch = android11-platform-release
-	path = device/google/coral
-	url = ../../device/google/coral
-[submodule "device/google/coral-kernel"]
-	branch = android11-platform-release
-	shallow = true
-	path = device/google/coral-kernel
-	url = ../../device/google/coral-kernel
-[submodule "device/google/coral-sepolicy"]
-	branch = android11-platform-release
-	path = device/google/coral-sepolicy
-	url = ../../device/google/coral-sepolicy
-[submodule "device/google/crosshatch"]
-	branch = android11-platform-release
-	path = device/google/crosshatch
-	url = ../../device/google/crosshatch
-[submodule "device/google/crosshatch-kernel"]
-	branch = android11-platform-release
-	shallow = true
-	path = device/google/crosshatch-kernel
-	url = ../../device/google/crosshatch-kernel
-[submodule "device/google/crosshatch-sepolicy"]
-	branch = android11-platform-release
-	path = device/google/crosshatch-sepolicy
-	url = ../../device/google/crosshatch-sepolicy
 [submodule "device/google/cuttlefish"]
 	branch = android11-platform-release
 	path = device/google/cuttlefish
@@ -140,48 +101,10 @@
 	shallow = true
 	path = device/google/cuttlefish_vmm
 	url = ../../device/google/cuttlefish_vmm
-[submodule "device/google/fuchsia"]
-	branch = android11-platform-release
-	path = device/google/fuchsia
-	url = ../../device/google/fuchsia
-[submodule "device/google/muskie"]
-	branch = android11-platform-release
-	path = device/google/muskie
-	url = ../../device/google/muskie
-[submodule "device/google/sunfish"]
-	branch = android11-platform-release
-	path = device/google/sunfish
-	url = ../../device/google/sunfish
-[submodule "device/google/sunfish-kernel"]
-	branch = android11-platform-release
-	shallow = true
-	path = device/google/sunfish-kernel
-	url = ../../device/google/sunfish-kernel
-[submodule "device/google/sunfish-sepolicy"]
-	branch = android11-platform-release
-	path = device/google/sunfish-sepolicy
-	url = ../../device/google/sunfish-sepolicy
-[submodule "device/google/taimen"]
-	branch = android11-platform-release
-	path = device/google/taimen
-	url = ../../device/google/taimen
-[submodule "device/google/trout"]
-	branch = android11-platform-release
-	path = device/google/trout
-	url = ../../device/google/trout
 [submodule "device/google/vrservices"]
 	branch = android11-platform-release
 	path = device/google/vrservices
 	url = ../../device/google/vrservices
-[submodule "device/google/wahoo"]
-	branch = android11-platform-release
-	path = device/google/wahoo
-	url = ../../device/google/wahoo
-[submodule "device/google/wahoo-kernel"]
-	branch = android11-platform-release
-	shallow = true
-	path = device/google/wahoo-kernel
-	url = ../../device/google/wahoo-kernel
 [submodule "device/google_car"]
 	branch = android11-platform-release
 	path = device/google_car
@@ -225,10 +148,6 @@
 	shallow = true
 	path = device/linaro/poplar-kernel
 	url = ../../device/linaro/poplar-kernel
-[submodule "device/mediatek/wembley-sepolicy"]
-	branch = android11-platform-release
-	path = device/mediatek/wembley-sepolicy
-	url = ../../device/mediatek/wembley-sepolicy
 [submodule "device/sample"]
 	branch = android11-platform-release
 	path = device/sample
@@ -242,10 +161,6 @@
 	shallow = true
 	path = device/ti/beagle_x15-kernel
 	url = ../../device/ti/beagle-x15-kernel
-[submodule "kernel/build"]
-	branch = android11-platform-release
-	path = kernel/build
-	url = ../../kernel/build
 [submodule "kernel/configs"]
 	branch = android11-platform-release
 	path = kernel/configs
@@ -2007,10 +1922,6 @@
 	branch = android11-platform-release
 	path = hardware/qcom/msm8996
 	url = ../hardware/qcom/msm8996
-[submodule "platform/hardware/qcom/msm8998"]
-	branch = android11-platform-release
-	path = hardware/qcom/msm8998
-	url = ../hardware/qcom/msm8998
 [submodule "platform/hardware/qcom/msm8x09"]
 	branch = android11-platform-release
 	path = hardware/qcom/msm8x09
@@ -2027,10 +1938,6 @@
 	branch = android11-platform-release
 	path = hardware/qcom/msm8x84
 	url = ../hardware/qcom/msm8x84
-[submodule "platform/hardware/qcom/neuralnetworks/hvxservice"]
-	branch = android11-platform-release
-	path = hardware/qcom/neuralnetworks/hvxservice
-	url = ../hardware/qcom/neuralnetworks/hvxservice
 [submodule "platform/hardware/qcom/power"]
 	branch = android11-platform-release
 	path = hardware/qcom/power
@@ -2151,10 +2058,6 @@
 	branch = android11-platform-release
 	path = packages/apps/Car/Cluster
 	url = ../packages/apps/Car/Cluster
-[submodule "platform/packages/apps/Car/CompanionDeviceSupport"]
-	branch = android11-platform-release
-	path = packages/apps/Car/CompanionDeviceSupport
-	url = ../packages/apps/Car/CompanionDeviceSupport
 [submodule "platform/packages/apps/Car/Dialer"]
 	branch = android11-platform-release
 	path = packages/apps/Car/Dialer
