@@ -283,6 +283,9 @@
 [submodule "platform/external/Reactive-Extensions/RxCpp"]
 	path = external/Reactive-Extensions/RxCpp
 	url = ../external/Reactive-Extensions/RxCpp
+[submodule "platform/external/TestParameterInjector"]
+	path = external/TestParameterInjector
+	url = ../external/TestParameterInjector
 [submodule "platform/external/XNNPACK"]
 	path = external/XNNPACK
 	url = ../external/XNNPACK
@@ -292,9 +295,6 @@
 [submodule "platform/external/abseil-cpp"]
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
-[submodule "platform/external/adhd"]
-	path = external/adhd
-	url = ../external/adhd
 [submodule "platform/external/adt-infra"]
 	path = external/adt-infra
 	url = ../external/adt-infra
