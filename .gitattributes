@@ -1,6 +1,7 @@
 /build/make
 /external/doclava pdk
 /external/dokka pdk
+/external/google-benchmark pdk
 /external/icing pdk
 /external/icu pdk
 /external/libyuv pdk

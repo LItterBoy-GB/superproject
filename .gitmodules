@@ -12,6 +12,11 @@
 	shallow = true
 	path = external/dokka
 	url = ../external/dokka
+[submodule "platform/external/google-benchmark"]
+	branch = androidx-main
+	shallow = true
+	path = external/google-benchmark
+	url = ../external/google-benchmark
 [submodule "platform/external/icing"]
 	branch = androidx-main
 	shallow = true
