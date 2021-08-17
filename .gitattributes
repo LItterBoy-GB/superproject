@@ -34,7 +34,6 @@
 /device/google/crosshatch-sepolicy crosshatch generic_fs device
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
-/device/google/fuchsia device
 /device/google/redbull redbull device
 /device/google/redbull-kernel bramble redfin device
 /device/google/redbull-sepolicy redbull device
@@ -94,10 +93,10 @@
 /external/OpenCL-CTS
 /external/OpenCSD pdk
 /external/Reactive-Extensions/RxCpp pdk
+/external/TestParameterInjector pdk
 /external/XNNPACK pdk
 /external/aac pdk
 /external/abseil-cpp pdk
-/external/adhd pdk
 /external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
 /external/androidplot pdk
@@ -116,6 +115,7 @@
 /external/auto pdk
 /external/autotest pdk-fs
 /external/avb pdk
+/external/bazel-skylib pdk
 /external/bazelbuild-rules_android pdk
 /external/bc pdk
 /external/bcc pdk
@@ -264,6 +264,7 @@
 /external/libcap-ng pdk
 /external/libchrome pdk
 /external/libchromeos-rs pdk
+/external/libconfig pdk
 /external/libcppbor pdk
 /external/libcups pdk-fs pdk-cw-fs
 /external/libcxx pdk
@@ -295,6 +296,7 @@
 /external/libprotobuf-mutator pdk
 /external/libsrtp2 pdk
 /external/libtextclassifier pdk
+/external/liburing pdk
 /external/libusb pdk
 /external/libutf pdk
 /external/libvpx pdk
@@ -346,6 +348,7 @@
 /external/okhttp4 pdk
 /external/okio pdk
 /external/one-true-awk pdk
+/external/open-dice pdk
 /external/opencensus-java tradefed pdk
 /external/openscreen pdk
 /external/openssh pdk
@@ -432,6 +435,8 @@
 /external/rust/crates/crossbeam-utils pdk
 /external/rust/crates/csv pdk
 /external/rust/crates/csv-core pdk
+/external/rust/crates/der-oid-macro pdk
+/external/rust/crates/der-parser pdk
 /external/rust/crates/derive_arbitrary pdk
 /external/rust/crates/downcast-rs pdk
 /external/rust/crates/either pdk
@@ -451,6 +456,7 @@
 /external/rust/crates/futures-task pdk
 /external/rust/crates/futures-util pdk
 /external/rust/crates/gdbstub pdk
+/external/rust/crates/gdbstub_arch pdk
 /external/rust/crates/getrandom pdk
 /external/rust/crates/glob pdk
 /external/rust/crates/grpcio pdk
@@ -487,10 +493,12 @@
 /external/rust/crates/nix pdk
 /external/rust/crates/no-panic pdk
 /external/rust/crates/nom pdk
+/external/rust/crates/num-bigint pdk
 /external/rust/crates/num-derive pdk
 /external/rust/crates/num-integer pdk
 /external/rust/crates/num-traits pdk
 /external/rust/crates/num_cpus pdk
+/external/rust/crates/oid-registry pdk
 /external/rust/crates/once_cell pdk
 /external/rust/crates/oorandom pdk
 /external/rust/crates/parking_lot pdk
@@ -528,11 +536,13 @@
 /external/rust/crates/ring pdk
 /external/rust/crates/rusqlite pdk
 /external/rust/crates/rustc-hash pdk
+/external/rust/crates/rusticata-macros pdk
 /external/rust/crates/rustversion pdk
 /external/rust/crates/ryu pdk
 /external/rust/crates/same-file pdk
 /external/rust/crates/scopeguard pdk
 /external/rust/crates/serde pdk
+/external/rust/crates/serde-xml-rs pdk
 /external/rust/crates/serde_cbor pdk
 /external/rust/crates/serde_derive pdk
 /external/rust/crates/serde_json pdk
@@ -570,7 +580,10 @@
 /external/rust/crates/vsock pdk
 /external/rust/crates/walkdir pdk
 /external/rust/crates/weak-table pdk
+/external/rust/crates/webpki pdk
 /external/rust/crates/which pdk
+/external/rust/crates/x509-parser pdk
+/external/rust/crates/xml-rs pdk
 /external/rust/crates/zip pdk
 /external/rust/cxx pdk
 /external/ruy pdk
@@ -595,6 +608,7 @@
 /external/speex pdk
 /external/sqlite pdk
 /external/squashfs-tools pdk
+/external/stardoc pdk
 /external/starlark-go pdk
 /external/strace pdk
 /external/stressapptest pdk
@@ -634,6 +648,7 @@
 /external/wayland-protocols pdk
 /external/webp pdk qcom_msm8x26
 /external/webrtc pdk
+/external/wmediumd pdk
 /external/wpa_supplicant_8 pdk
 /external/wycheproof pdk
 /external/xmp_toolkit pdk
@@ -875,7 +890,6 @@
 /prebuilts/clang/host/linux-x86 pdk
 /prebuilts/cmdline-tools pdk-fs
 /prebuilts/devtools pdk-fs
-/prebuilts/fuchsia_sdk pdk-fs
 /prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9 pdk darwin arm
 /prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9 pdk darwin arm
 /prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 pdk darwin
@@ -943,6 +957,7 @@
 /system/libhidl pdk
 /system/libhwbinder pdk
 /system/libprocinfo pdk
+/system/librustutils pdk
 /system/libsysprop pdk
 /system/libufdt pdk
 /system/libvintf pdk

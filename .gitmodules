@@ -106,9 +106,6 @@
 [submodule "device/google/cuttlefish_prebuilts"]
 	path = device/google/cuttlefish_prebuilts
 	url = ../../device/google/cuttlefish_prebuilts
-[submodule "device/google/fuchsia"]
-	path = device/google/fuchsia
-	url = ../../device/google/fuchsia
 [submodule "device/google/redbull"]
 	path = device/google/redbull
 	url = ../../device/google/redbull
@@ -286,6 +283,9 @@
 [submodule "platform/external/Reactive-Extensions/RxCpp"]
 	path = external/Reactive-Extensions/RxCpp
 	url = ../external/Reactive-Extensions/RxCpp
+[submodule "platform/external/TestParameterInjector"]
+	path = external/TestParameterInjector
+	url = ../external/TestParameterInjector
 [submodule "platform/external/XNNPACK"]
 	path = external/XNNPACK
 	url = ../external/XNNPACK
@@ -295,9 +295,6 @@
 [submodule "platform/external/abseil-cpp"]
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
-[submodule "platform/external/adhd"]
-	path = external/adhd
-	url = ../external/adhd
 [submodule "platform/external/adt-infra"]
 	path = external/adt-infra
 	url = ../external/adt-infra
@@ -352,6 +349,9 @@
 [submodule "platform/external/avb"]
 	path = external/avb
 	url = ../external/avb
+[submodule "platform/external/bazel-skylib"]
+	path = external/bazel-skylib
+	url = ../external/bazel-skylib
 [submodule "platform/external/bazelbuild-rules_android"]
 	path = external/bazelbuild-rules_android
 	url = ../external/bazelbuild-rules_android
@@ -796,6 +796,9 @@
 [submodule "platform/external/libchromeos-rs"]
 	path = external/libchromeos-rs
 	url = ../external/libchromeos-rs
+[submodule "platform/external/libconfig"]
+	path = external/libconfig
+	url = ../external/libconfig
 [submodule "platform/external/libcppbor"]
 	path = external/libcppbor
 	url = ../external/libcppbor
@@ -889,6 +892,9 @@
 [submodule "platform/external/libtextclassifier"]
 	path = external/libtextclassifier
 	url = ../external/libtextclassifier
+[submodule "platform/external/liburing"]
+	path = external/liburing
+	url = ../external/liburing
 [submodule "platform/external/libusb"]
 	path = external/libusb
 	url = ../external/libusb
@@ -1042,6 +1048,9 @@
 [submodule "platform/external/one-true-awk"]
 	path = external/one-true-awk
 	url = ../external/one-true-awk
+[submodule "platform/external/open-dice"]
+	path = external/open-dice
+	url = ../external/open-dice
 [submodule "platform/external/opencensus-java"]
 	path = external/opencensus-java
 	url = ../external/opencensus-java
@@ -1300,6 +1309,12 @@
 [submodule "platform/external/rust/crates/csv-core"]
 	path = external/rust/crates/csv-core
 	url = ../external/rust/crates/csv-core
+[submodule "platform/external/rust/crates/der-oid-macro"]
+	path = external/rust/crates/der-oid-macro
+	url = ../external/rust/crates/der-oid-macro
+[submodule "platform/external/rust/crates/der-parser"]
+	path = external/rust/crates/der-parser
+	url = ../external/rust/crates/der-parser
 [submodule "platform/external/rust/crates/derive_arbitrary"]
 	path = external/rust/crates/derive_arbitrary
 	url = ../external/rust/crates/derive_arbitrary
@@ -1357,6 +1372,9 @@
 [submodule "platform/external/rust/crates/gdbstub"]
 	path = external/rust/crates/gdbstub
 	url = ../external/rust/crates/gdbstub
+[submodule "platform/external/rust/crates/gdbstub_arch"]
+	path = external/rust/crates/gdbstub_arch
+	url = ../external/rust/crates/gdbstub_arch
 [submodule "platform/external/rust/crates/getrandom"]
 	path = external/rust/crates/getrandom
 	url = ../external/rust/crates/getrandom
@@ -1465,6 +1483,9 @@
 [submodule "platform/external/rust/crates/nom"]
 	path = external/rust/crates/nom
 	url = ../external/rust/crates/nom
+[submodule "platform/external/rust/crates/num-bigint"]
+	path = external/rust/crates/num-bigint
+	url = ../external/rust/crates/num-bigint
 [submodule "platform/external/rust/crates/num-derive"]
 	path = external/rust/crates/num-derive
 	url = ../external/rust/crates/num-derive
@@ -1477,6 +1498,9 @@
 [submodule "platform/external/rust/crates/num_cpus"]
 	path = external/rust/crates/num_cpus
 	url = ../external/rust/crates/num_cpus
+[submodule "platform/external/rust/crates/oid-registry"]
+	path = external/rust/crates/oid-registry
+	url = ../external/rust/crates/oid-registry
 [submodule "platform/external/rust/crates/once_cell"]
 	path = external/rust/crates/once_cell
 	url = ../external/rust/crates/once_cell
@@ -1588,6 +1612,9 @@
 [submodule "platform/external/rust/crates/rustc-hash"]
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/rusticata-macros"]
+	path = external/rust/crates/rusticata-macros
+	url = ../external/rust/crates/rusticata-macros
 [submodule "platform/external/rust/crates/rustversion"]
 	path = external/rust/crates/rustversion
 	url = ../external/rust/crates/rustversion
@@ -1603,6 +1630,9 @@
 [submodule "platform/external/rust/crates/serde"]
 	path = external/rust/crates/serde
 	url = ../external/rust/crates/serde
+[submodule "platform/external/rust/crates/serde-xml-rs"]
+	path = external/rust/crates/serde-xml-rs
+	url = ../external/rust/crates/serde-xml-rs
 [submodule "platform/external/rust/crates/serde_cbor"]
 	path = external/rust/crates/serde_cbor
 	url = ../external/rust/crates/serde_cbor
@@ -1714,9 +1744,18 @@
 [submodule "platform/external/rust/crates/weak-table"]
 	path = external/rust/crates/weak-table
 	url = ../external/rust/crates/weak-table
+[submodule "platform/external/rust/crates/webpki"]
+	path = external/rust/crates/webpki
+	url = ../external/rust/crates/webpki
 [submodule "platform/external/rust/crates/which"]
 	path = external/rust/crates/which
 	url = ../external/rust/crates/which
+[submodule "platform/external/rust/crates/x509-parser"]
+	path = external/rust/crates/x509-parser
+	url = ../external/rust/crates/x509-parser
+[submodule "platform/external/rust/crates/xml-rs"]
+	path = external/rust/crates/xml-rs
+	url = ../external/rust/crates/xml-rs
 [submodule "platform/external/rust/crates/zip"]
 	path = external/rust/crates/zip
 	url = ../external/rust/crates/zip
@@ -1789,6 +1828,9 @@
 [submodule "platform/external/squashfs-tools"]
 	path = external/squashfs-tools
 	url = ../external/squashfs-tools
+[submodule "platform/external/stardoc"]
+	path = external/stardoc
+	url = ../external/stardoc
 [submodule "platform/external/starlark-go"]
 	path = external/starlark-go
 	url = ../external/starlark-go
@@ -1906,6 +1948,9 @@
 [submodule "platform/external/webrtc"]
 	path = external/webrtc
 	url = ../external/webrtc
+[submodule "platform/external/wmediumd"]
+	path = external/wmediumd
+	url = ../external/wmediumd
 [submodule "platform/external/wpa_supplicant_8"]
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
@@ -2629,9 +2674,6 @@
 [submodule "platform/prebuilts/devtools"]
 	path = prebuilts/devtools
 	url = ../prebuilts/devtools
-[submodule "platform/prebuilts/fuchsia_sdk"]
-	path = prebuilts/fuchsia_sdk
-	url = ../prebuilts/fuchsia_sdk
 [submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
 	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
 	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
@@ -2833,6 +2875,9 @@
 [submodule "platform/system/libprocinfo"]
 	path = system/libprocinfo
 	url = ../system/libprocinfo
+[submodule "platform/system/librustutils"]
+	path = system/librustutils
+	url = ../system/librustutils
 [submodule "platform/system/libsysprop"]
 	path = system/libsysprop
 	url = ../system/libsysprop
