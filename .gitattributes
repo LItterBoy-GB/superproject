@@ -658,6 +658,7 @@
 /external/zlib pdk
 /external/zopfli pdk
 /external/zstd pdk
+/external/zucchini pdk
 /external/zxing pdk
 /frameworks/av pdk
 /frameworks/base pdk-fs pdk-cw-fs
