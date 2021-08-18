@@ -127,21 +127,11 @@
 	shallow = true
 	path = prebuilts/fullsdk-linux/tools
 	url = ../prebuilts/fullsdk-linux/tools
-[submodule "platform/prebuilts/fullsdk/platforms/android-30"]
-	branch = master
-	shallow = true
-	path = prebuilts/fullsdk-darwin/platforms/android-30
-	url = ../prebuilts/fullsdk/platforms/android-30
 [submodule "platform/prebuilts/fullsdk/platforms/android-31"]
 	branch = master
 	shallow = true
 	path = prebuilts/fullsdk-darwin/platforms/android-31
 	url = ../prebuilts/fullsdk/platforms/android-31
-[submodule "platform/prebuilts/fullsdk/sources/android-30"]
-	branch = master
-	shallow = true
-	path = prebuilts/fullsdk-darwin/sources/android-30
-	url = ../prebuilts/fullsdk/sources/android-30
 [submodule "platform/prebuilts/fullsdk/sources/android-31"]
 	branch = master
 	shallow = true
