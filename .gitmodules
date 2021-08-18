@@ -2173,6 +2173,14 @@
 	branch = master
 	path = external/rust/crates/rusqlite
 	url = ../external/rust/crates/rusqlite
+[submodule "platform/external/rust/crates/rustc-demangle"]
+	branch = master
+	path = external/rust/crates/rustc-demangle
+	url = ../external/rust/crates/rustc-demangle
+[submodule "platform/external/rust/crates/rustc-demangle-capi"]
+	branch = master
+	path = external/rust/crates/rustc-demangle-capi
+	url = ../external/rust/crates/rustc-demangle-capi
 [submodule "platform/external/rust/crates/rustc-hash"]
 	branch = master
 	path = external/rust/crates/rustc-hash

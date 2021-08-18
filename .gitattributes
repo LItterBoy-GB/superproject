@@ -535,6 +535,8 @@
 /external/rust/crates/remain pdk
 /external/rust/crates/ring pdk
 /external/rust/crates/rusqlite pdk
+/external/rust/crates/rustc-demangle pdk
+/external/rust/crates/rustc-demangle-capi pdk
 /external/rust/crates/rustc-hash pdk
 /external/rust/crates/rusticata-macros pdk
 /external/rust/crates/rustversion pdk
