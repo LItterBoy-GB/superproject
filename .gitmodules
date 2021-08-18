@@ -2680,6 +2680,10 @@
 	branch = master
 	path = external/zstd
 	url = ../external/zstd
+[submodule "platform/external/zucchini"]
+	branch = master
+	path = external/zucchini
+	url = ../external/zucchini
 [submodule "platform/external/zxing"]
 	branch = master
 	path = external/zxing
