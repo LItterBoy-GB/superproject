@@ -56,10 +56,6 @@
 	shallow = true
 	path = golden
 	url = ../frameworks/support-golden
-[submodule "platform/manifest"]
-	branch = androidx-main
-	path = manifest
-	url = ../manifest
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	branch = androidx-main
 	shallow = true
