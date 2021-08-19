@@ -1609,6 +1609,12 @@
 [submodule "platform/external/rust/crates/rusqlite"]
 	path = external/rust/crates/rusqlite
 	url = ../external/rust/crates/rusqlite
+[submodule "platform/external/rust/crates/rustc-demangle"]
+	path = external/rust/crates/rustc-demangle
+	url = ../external/rust/crates/rustc-demangle
+[submodule "platform/external/rust/crates/rustc-demangle-capi"]
+	path = external/rust/crates/rustc-demangle-capi
+	url = ../external/rust/crates/rustc-demangle-capi
 [submodule "platform/external/rust/crates/rustc-hash"]
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
@@ -1978,6 +1984,9 @@
 [submodule "platform/external/zstd"]
 	path = external/zstd
 	url = ../external/zstd
+[submodule "platform/external/zucchini"]
+	path = external/zucchini
+	url = ../external/zucchini
 [submodule "platform/external/zxing"]
 	path = external/zxing
 	url = ../external/zxing
