@@ -1717,6 +1717,10 @@
 	branch = master
 	path = external/rust/crates/cast
 	url = ../external/rust/crates/cast
+[submodule "platform/external/rust/crates/cesu8"]
+	branch = master
+	path = external/rust/crates/cesu8
+	url = ../external/rust/crates/cesu8
 [submodule "platform/external/rust/crates/cexpr"]
 	branch = master
 	path = external/rust/crates/cexpr
@@ -1741,6 +1745,10 @@
 	branch = master
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
+[submodule "platform/external/rust/crates/combine"]
+	branch = master
+	path = external/rust/crates/combine
+	url = ../external/rust/crates/combine
 [submodule "platform/external/rust/crates/command-fds"]
 	branch = master
 	path = external/rust/crates/command-fds
@@ -1925,6 +1933,14 @@
 	branch = master
 	path = external/rust/crates/itoa
 	url = ../external/rust/crates/itoa
+[submodule "platform/external/rust/crates/jni"]
+	branch = master
+	path = external/rust/crates/jni
+	url = ../external/rust/crates/jni
+[submodule "platform/external/rust/crates/jni-sys"]
+	branch = master
+	path = external/rust/crates/jni-sys
+	url = ../external/rust/crates/jni-sys
 [submodule "platform/external/rust/crates/kernlog"]
 	branch = master
 	path = external/rust/crates/kernlog
