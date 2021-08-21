@@ -928,8 +928,6 @@
 /prebuilts/module_sdk/art pdk
 /prebuilts/module_sdk/conscrypt pdk
 /prebuilts/ndk pdk
-/prebuilts/python/darwin-x86/2.7.5 pdk-fs pdk-cw-fs darwin pdk
-/prebuilts/python/linux-x86/2.7.5 pdk-fs pdk-cw-fs pdk linux
 /prebuilts/qemu-kernel pdk
 /prebuilts/r8 pdk
 /prebuilts/remoteexecution-client pdk

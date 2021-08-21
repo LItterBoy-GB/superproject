@@ -3799,16 +3799,6 @@
 	shallow = true
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
-[submodule "platform/prebuilts/python/darwin-x86/2.7.5"]
-	branch = master
-	shallow = true
-	path = prebuilts/python/darwin-x86/2.7.5
-	url = ../prebuilts/python/darwin-x86/2.7.5
-[submodule "platform/prebuilts/python/linux-x86/2.7.5"]
-	branch = master
-	shallow = true
-	path = prebuilts/python/linux-x86/2.7.5
-	url = ../prebuilts/python/linux-x86/2.7.5
 [submodule "platform/prebuilts/qemu-kernel"]
 	branch = master
 	shallow = true
