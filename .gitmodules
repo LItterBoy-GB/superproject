@@ -106,9 +106,6 @@
 [submodule "device/google/cuttlefish_prebuilts"]
 	path = device/google/cuttlefish_prebuilts
 	url = ../../device/google/cuttlefish_prebuilts
-[submodule "device/google/fuchsia"]
-	path = device/google/fuchsia
-	url = ../../device/google/fuchsia
 [submodule "device/google/redbull"]
 	path = device/google/redbull
 	url = ../../device/google/redbull
@@ -286,6 +283,9 @@
 [submodule "platform/external/Reactive-Extensions/RxCpp"]
 	path = external/Reactive-Extensions/RxCpp
 	url = ../external/Reactive-Extensions/RxCpp
+[submodule "platform/external/TestParameterInjector"]
+	path = external/TestParameterInjector
+	url = ../external/TestParameterInjector
 [submodule "platform/external/XNNPACK"]
 	path = external/XNNPACK
 	url = ../external/XNNPACK
@@ -295,9 +295,6 @@
 [submodule "platform/external/abseil-cpp"]
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
-[submodule "platform/external/adhd"]
-	path = external/adhd
-	url = ../external/adhd
 [submodule "platform/external/adt-infra"]
 	path = external/adt-infra
 	url = ../external/adt-infra
@@ -352,6 +349,9 @@
 [submodule "platform/external/avb"]
 	path = external/avb
 	url = ../external/avb
+[submodule "platform/external/bazel-skylib"]
+	path = external/bazel-skylib
+	url = ../external/bazel-skylib
 [submodule "platform/external/bazelbuild-rules_android"]
 	path = external/bazelbuild-rules_android
 	url = ../external/bazelbuild-rules_android
@@ -517,6 +517,9 @@
 [submodule "platform/external/ethtool"]
 	path = external/ethtool
 	url = ../external/ethtool
+[submodule "platform/external/exfatprogs"]
+	path = external/exfatprogs
+	url = ../external/exfatprogs
 [submodule "platform/external/exoplayer"]
 	path = external/exoplayer
 	url = ../external/exoplayer
@@ -568,6 +571,9 @@
 [submodule "platform/external/glide"]
 	path = external/glide
 	url = ../external/glide
+[submodule "platform/external/go-cmp"]
+	path = external/go-cmp
+	url = ../external/go-cmp
 [submodule "platform/external/golang-protobuf"]
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
@@ -790,6 +796,9 @@
 [submodule "platform/external/libchromeos-rs"]
 	path = external/libchromeos-rs
 	url = ../external/libchromeos-rs
+[submodule "platform/external/libconfig"]
+	path = external/libconfig
+	url = ../external/libconfig
 [submodule "platform/external/libcppbor"]
 	path = external/libcppbor
 	url = ../external/libcppbor
@@ -883,9 +892,9 @@
 [submodule "platform/external/libtextclassifier"]
 	path = external/libtextclassifier
 	url = ../external/libtextclassifier
-[submodule "platform/external/libunwind_llvm"]
-	path = external/libunwind_llvm
-	url = ../external/libunwind_llvm
+[submodule "platform/external/liburing"]
+	path = external/liburing
+	url = ../external/liburing
 [submodule "platform/external/libusb"]
 	path = external/libusb
 	url = ../external/libusb
@@ -1039,6 +1048,9 @@
 [submodule "platform/external/one-true-awk"]
 	path = external/one-true-awk
 	url = ../external/one-true-awk
+[submodule "platform/external/open-dice"]
+	path = external/open-dice
+	url = ../external/open-dice
 [submodule "platform/external/opencensus-java"]
 	path = external/opencensus-java
 	url = ../external/opencensus-java
@@ -1225,6 +1237,9 @@
 [submodule "platform/external/rust/crates/atty"]
 	path = external/rust/crates/atty
 	url = ../external/rust/crates/atty
+[submodule "platform/external/rust/crates/base64"]
+	path = external/rust/crates/base64
+	url = ../external/rust/crates/base64
 [submodule "platform/external/rust/crates/bencher"]
 	path = external/rust/crates/bencher
 	url = ../external/rust/crates/bencher
@@ -1246,6 +1261,9 @@
 [submodule "platform/external/rust/crates/cast"]
 	path = external/rust/crates/cast
 	url = ../external/rust/crates/cast
+[submodule "platform/external/rust/crates/cesu8"]
+	path = external/rust/crates/cesu8
+	url = ../external/rust/crates/cesu8
 [submodule "platform/external/rust/crates/cexpr"]
 	path = external/rust/crates/cexpr
 	url = ../external/rust/crates/cexpr
@@ -1264,6 +1282,12 @@
 [submodule "platform/external/rust/crates/codespan-reporting"]
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
+[submodule "platform/external/rust/crates/combine"]
+	path = external/rust/crates/combine
+	url = ../external/rust/crates/combine
+[submodule "platform/external/rust/crates/command-fds"]
+	path = external/rust/crates/command-fds
+	url = ../external/rust/crates/command-fds
 [submodule "platform/external/rust/crates/crc32fast"]
 	path = external/rust/crates/crc32fast
 	url = ../external/rust/crates/crc32fast
@@ -1291,6 +1315,12 @@
 [submodule "platform/external/rust/crates/csv-core"]
 	path = external/rust/crates/csv-core
 	url = ../external/rust/crates/csv-core
+[submodule "platform/external/rust/crates/der-oid-macro"]
+	path = external/rust/crates/der-oid-macro
+	url = ../external/rust/crates/der-oid-macro
+[submodule "platform/external/rust/crates/der-parser"]
+	path = external/rust/crates/der-parser
+	url = ../external/rust/crates/der-parser
 [submodule "platform/external/rust/crates/derive_arbitrary"]
 	path = external/rust/crates/derive_arbitrary
 	url = ../external/rust/crates/derive_arbitrary
@@ -1309,6 +1339,9 @@
 [submodule "platform/external/rust/crates/fallible-streaming-iterator"]
 	path = external/rust/crates/fallible-streaming-iterator
 	url = ../external/rust/crates/fallible-streaming-iterator
+[submodule "platform/external/rust/crates/flate2"]
+	path = external/rust/crates/flate2
+	url = ../external/rust/crates/flate2
 [submodule "platform/external/rust/crates/fnv"]
 	path = external/rust/crates/fnv
 	url = ../external/rust/crates/fnv
@@ -1345,6 +1378,9 @@
 [submodule "platform/external/rust/crates/gdbstub"]
 	path = external/rust/crates/gdbstub
 	url = ../external/rust/crates/gdbstub
+[submodule "platform/external/rust/crates/gdbstub_arch"]
+	path = external/rust/crates/gdbstub_arch
+	url = ../external/rust/crates/gdbstub_arch
 [submodule "platform/external/rust/crates/getrandom"]
 	path = external/rust/crates/getrandom
 	url = ../external/rust/crates/getrandom
@@ -1387,6 +1423,15 @@
 [submodule "platform/external/rust/crates/itoa"]
 	path = external/rust/crates/itoa
 	url = ../external/rust/crates/itoa
+[submodule "platform/external/rust/crates/jni"]
+	path = external/rust/crates/jni
+	url = ../external/rust/crates/jni
+[submodule "platform/external/rust/crates/jni-sys"]
+	path = external/rust/crates/jni-sys
+	url = ../external/rust/crates/jni-sys
+[submodule "platform/external/rust/crates/kernlog"]
+	path = external/rust/crates/kernlog
+	url = ../external/rust/crates/kernlog
 [submodule "platform/external/rust/crates/lazy_static"]
 	path = external/rust/crates/lazy_static
 	url = ../external/rust/crates/lazy_static
@@ -1450,6 +1495,9 @@
 [submodule "platform/external/rust/crates/nom"]
 	path = external/rust/crates/nom
 	url = ../external/rust/crates/nom
+[submodule "platform/external/rust/crates/num-bigint"]
+	path = external/rust/crates/num-bigint
+	url = ../external/rust/crates/num-bigint
 [submodule "platform/external/rust/crates/num-derive"]
 	path = external/rust/crates/num-derive
 	url = ../external/rust/crates/num-derive
@@ -1462,6 +1510,9 @@
 [submodule "platform/external/rust/crates/num_cpus"]
 	path = external/rust/crates/num_cpus
 	url = ../external/rust/crates/num_cpus
+[submodule "platform/external/rust/crates/oid-registry"]
+	path = external/rust/crates/oid-registry
+	url = ../external/rust/crates/oid-registry
 [submodule "platform/external/rust/crates/once_cell"]
 	path = external/rust/crates/once_cell
 	url = ../external/rust/crates/once_cell
@@ -1570,9 +1621,18 @@
 [submodule "platform/external/rust/crates/rusqlite"]
 	path = external/rust/crates/rusqlite
 	url = ../external/rust/crates/rusqlite
+[submodule "platform/external/rust/crates/rustc-demangle"]
+	path = external/rust/crates/rustc-demangle
+	url = ../external/rust/crates/rustc-demangle
+[submodule "platform/external/rust/crates/rustc-demangle-capi"]
+	path = external/rust/crates/rustc-demangle-capi
+	url = ../external/rust/crates/rustc-demangle-capi
 [submodule "platform/external/rust/crates/rustc-hash"]
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/rusticata-macros"]
+	path = external/rust/crates/rusticata-macros
+	url = ../external/rust/crates/rusticata-macros
 [submodule "platform/external/rust/crates/rustversion"]
 	path = external/rust/crates/rustversion
 	url = ../external/rust/crates/rustversion
@@ -1588,6 +1648,9 @@
 [submodule "platform/external/rust/crates/serde"]
 	path = external/rust/crates/serde
 	url = ../external/rust/crates/serde
+[submodule "platform/external/rust/crates/serde-xml-rs"]
+	path = external/rust/crates/serde-xml-rs
+	url = ../external/rust/crates/serde-xml-rs
 [submodule "platform/external/rust/crates/serde_cbor"]
 	path = external/rust/crates/serde_cbor
 	url = ../external/rust/crates/serde_cbor
@@ -1688,7 +1751,7 @@
 	path = external/rust/crates/uuid
 	url = ../external/rust/crates/uuid
 [submodule "platform/external/rust/crates/vmm_vhost"]
-	path = external/rust/crates/vmm_vhost
+	path = external/rust/vmm_vhost
 	url = ../external/rust/crates/vmm_vhost
 [submodule "platform/external/rust/crates/vsock"]
 	path = external/rust/crates/vsock
@@ -1699,9 +1762,18 @@
 [submodule "platform/external/rust/crates/weak-table"]
 	path = external/rust/crates/weak-table
 	url = ../external/rust/crates/weak-table
+[submodule "platform/external/rust/crates/webpki"]
+	path = external/rust/crates/webpki
+	url = ../external/rust/crates/webpki
 [submodule "platform/external/rust/crates/which"]
 	path = external/rust/crates/which
 	url = ../external/rust/crates/which
+[submodule "platform/external/rust/crates/x509-parser"]
+	path = external/rust/crates/x509-parser
+	url = ../external/rust/crates/x509-parser
+[submodule "platform/external/rust/crates/xml-rs"]
+	path = external/rust/crates/xml-rs
+	url = ../external/rust/crates/xml-rs
 [submodule "platform/external/rust/crates/zip"]
 	path = external/rust/crates/zip
 	url = ../external/rust/crates/zip
@@ -1774,6 +1846,9 @@
 [submodule "platform/external/squashfs-tools"]
 	path = external/squashfs-tools
 	url = ../external/squashfs-tools
+[submodule "platform/external/stardoc"]
+	path = external/stardoc
+	url = ../external/stardoc
 [submodule "platform/external/starlark-go"]
 	path = external/starlark-go
 	url = ../external/starlark-go
@@ -1861,9 +1936,6 @@
 [submodule "platform/external/vixl"]
 	path = external/vixl
 	url = ../external/vixl
-[submodule "platform/external/vm_tools/p9"]
-	path = external/vm_tools/p9
-	url = ../external/vm_tools/p9
 [submodule "platform/external/vogar"]
 	path = external/vogar
 	url = ../external/vogar
@@ -1891,6 +1963,9 @@
 [submodule "platform/external/webrtc"]
 	path = external/webrtc
 	url = ../external/webrtc
+[submodule "platform/external/wmediumd"]
+	path = external/wmediumd
+	url = ../external/wmediumd
 [submodule "platform/external/wpa_supplicant_8"]
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
@@ -1918,6 +1993,9 @@
 [submodule "platform/external/zstd"]
 	path = external/zstd
 	url = ../external/zstd
+[submodule "platform/external/zucchini"]
+	path = external/zucchini
+	url = ../external/zucchini
 [submodule "platform/external/zxing"]
 	path = external/zxing
 	url = ../external/zxing
@@ -2614,9 +2692,6 @@
 [submodule "platform/prebuilts/devtools"]
 	path = prebuilts/devtools
 	url = ../prebuilts/devtools
-[submodule "platform/prebuilts/fuchsia_sdk"]
-	path = prebuilts/fuchsia_sdk
-	url = ../prebuilts/fuchsia_sdk
 [submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
 	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
 	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
@@ -2644,12 +2719,6 @@
 [submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
-[submodule "platform/prebuilts/gdb/darwin-x86"]
-	path = prebuilts/gdb/darwin-x86
-	url = ../prebuilts/gdb/darwin-x86
-[submodule "platform/prebuilts/gdb/linux-x86"]
-	path = prebuilts/gdb/linux-x86
-	url = ../prebuilts/gdb/linux-x86
 [submodule "platform/prebuilts/go/darwin-x86"]
 	path = prebuilts/go/darwin-x86
 	url = ../prebuilts/go/darwin-x86
@@ -2719,12 +2788,6 @@
 [submodule "platform/prebuilts/ndk"]
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
-[submodule "platform/prebuilts/python/darwin-x86/2.7.5"]
-	path = prebuilts/python/darwin-x86/2.7.5
-	url = ../prebuilts/python/darwin-x86/2.7.5
-[submodule "platform/prebuilts/python/linux-x86/2.7.5"]
-	path = prebuilts/python/linux-x86/2.7.5
-	url = ../prebuilts/python/linux-x86/2.7.5
 [submodule "platform/prebuilts/qemu-kernel"]
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
@@ -2824,6 +2887,9 @@
 [submodule "platform/system/libprocinfo"]
 	path = system/libprocinfo
 	url = ../system/libprocinfo
+[submodule "platform/system/librustutils"]
+	path = system/librustutils
+	url = ../system/librustutils
 [submodule "platform/system/libsysprop"]
 	path = system/libsysprop
 	url = ../system/libsysprop
