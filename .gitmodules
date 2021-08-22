@@ -7,6 +7,9 @@
 [submodule "platform/external/dokka"]
 	path = external/dokka
 	url = ../external/dokka
+[submodule "platform/external/google-benchmark"]
+	path = external/google-benchmark
+	url = ../external/google-benchmark
 [submodule "platform/external/icing"]
 	path = external/icing
 	url = ../external/icing
@@ -31,9 +34,6 @@
 [submodule "platform/frameworks/support-golden"]
 	path = golden
 	url = ../frameworks/support-golden
-[submodule "platform/manifest"]
-	path = manifest
-	url = ../manifest
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	path = prebuilts/androidx/exoplayer
 	url = ../prebuilts/androidx/exoplayer
@@ -79,15 +79,9 @@
 [submodule "platform/prebuilts/fullsdk-linux/tools"]
 	path = prebuilts/fullsdk-linux/tools
 	url = ../prebuilts/fullsdk-linux/tools
-[submodule "platform/prebuilts/fullsdk/platforms/android-30"]
-	path = prebuilts/fullsdk-darwin/platforms/android-30
-	url = ../prebuilts/fullsdk/platforms/android-30
 [submodule "platform/prebuilts/fullsdk/platforms/android-31"]
 	path = prebuilts/fullsdk-darwin/platforms/android-31
 	url = ../prebuilts/fullsdk/platforms/android-31
-[submodule "platform/prebuilts/fullsdk/sources/android-30"]
-	path = prebuilts/fullsdk-darwin/sources/android-30
-	url = ../prebuilts/fullsdk/sources/android-30
 [submodule "platform/prebuilts/fullsdk/sources/android-31"]
 	path = prebuilts/fullsdk-darwin/sources/android-31
 	url = ../prebuilts/fullsdk/sources/android-31
