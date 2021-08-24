@@ -4277,10 +4277,6 @@
 	branch = master
 	path = toolchain/benchmark
 	url = ../../toolchain/benchmark
-[submodule "toolchain/llvm-project"]
-	branch = main
-	path = external/llvm-project
-	url = ../../toolchain/llvm-project
 [submodule "toolchain/pgo-profiles"]
 	branch = master
 	path = toolchain/pgo-profiles

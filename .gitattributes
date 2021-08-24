@@ -1045,6 +1045,5 @@
 /tools/treble pdk tools
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
 /toolchain/benchmark
-/external/llvm-project pdk
 /toolchain/pgo-profiles pdk
 /tools/platform-compat pdk-fs pdk-cw-fs pdk
