@@ -339,6 +339,10 @@
 	branch = master
 	path = build/bazel
 	url = ../build/bazel
+[submodule "platform/build/bazel_common_rules"]
+	branch = master
+	path = build/bazel_common_rules
+	url = ../build/bazel_common_rules
 [submodule "platform/build/blueprint"]
 	branch = master
 	path = build/blueprint
