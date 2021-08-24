@@ -419,12 +419,14 @@
 /external/rust/crates/byteorder pdk
 /external/rust/crates/bytes pdk
 /external/rust/crates/cast pdk
+/external/rust/crates/cesu8 pdk
 /external/rust/crates/cexpr pdk
 /external/rust/crates/cfg-if pdk
 /external/rust/crates/chrono pdk
 /external/rust/crates/clang-sys pdk
 /external/rust/crates/clap pdk
 /external/rust/crates/codespan-reporting pdk
+/external/rust/crates/combine pdk
 /external/rust/crates/command-fds pdk
 /external/rust/crates/crc32fast pdk
 /external/rust/crates/criterion pdk
@@ -471,6 +473,8 @@
 /external/rust/crates/intrusive-collections pdk
 /external/rust/crates/itertools pdk
 /external/rust/crates/itoa pdk
+/external/rust/crates/jni pdk
+/external/rust/crates/jni-sys pdk
 /external/rust/crates/kernlog pdk
 /external/rust/crates/lazy_static pdk
 /external/rust/crates/lazycell pdk
@@ -535,6 +539,8 @@
 /external/rust/crates/remain pdk
 /external/rust/crates/ring pdk
 /external/rust/crates/rusqlite pdk
+/external/rust/crates/rustc-demangle pdk
+/external/rust/crates/rustc-demangle-capi pdk
 /external/rust/crates/rustc-hash pdk
 /external/rust/crates/rusticata-macros pdk
 /external/rust/crates/rustversion pdk
@@ -638,7 +644,6 @@
 /external/vboot_reference pdk-fs vboot
 /external/virglrenderer pdk
 /external/vixl pdk
-/external/vm_tools/p9 pdk
 /external/vogar pdk
 /external/volley pdk
 /external/vulkan-headers pdk
@@ -658,6 +663,7 @@
 /external/zlib pdk
 /external/zopfli pdk
 /external/zstd pdk
+/external/zucchini pdk
 /external/zxing pdk
 /frameworks/av pdk
 /frameworks/base pdk-fs pdk-cw-fs
@@ -922,8 +928,6 @@
 /prebuilts/module_sdk/art pdk
 /prebuilts/module_sdk/conscrypt pdk
 /prebuilts/ndk pdk
-/prebuilts/python/darwin-x86/2.7.5 pdk-fs pdk-cw-fs darwin pdk
-/prebuilts/python/linux-x86/2.7.5 pdk-fs pdk-cw-fs pdk linux
 /prebuilts/qemu-kernel pdk
 /prebuilts/r8 pdk
 /prebuilts/remoteexecution-client pdk
