@@ -4323,11 +4323,7 @@
 	branch = master
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
-[submodule "toolchain/llvm-project/external/llvm-project"]
-	branch = main
-	path = external/llvm-project
-	url = ../../toolchain/llvm-project
-[submodule "toolchain/llvm-project/toolchain/llvm-project"]
+[submodule "toolchain/llvm-project"]
 	branch = master-legacy
 	path = toolchain/llvm-project
 	url = ../../toolchain/llvm-project
