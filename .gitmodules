@@ -235,6 +235,9 @@
 [submodule "platform/build/bazel"]
 	path = build/bazel
 	url = ../build/bazel
+[submodule "platform/build/bazel_common_rules"]
+	path = build/bazel_common_rules
+	url = ../build/bazel_common_rules
 [submodule "platform/build/blueprint"]
 	path = build/blueprint
 	url = ../build/blueprint
@@ -1261,6 +1264,9 @@
 [submodule "platform/external/rust/crates/cast"]
 	path = external/rust/crates/cast
 	url = ../external/rust/crates/cast
+[submodule "platform/external/rust/crates/cesu8"]
+	path = external/rust/crates/cesu8
+	url = ../external/rust/crates/cesu8
 [submodule "platform/external/rust/crates/cexpr"]
 	path = external/rust/crates/cexpr
 	url = ../external/rust/crates/cexpr
@@ -1279,6 +1285,9 @@
 [submodule "platform/external/rust/crates/codespan-reporting"]
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
+[submodule "platform/external/rust/crates/combine"]
+	path = external/rust/crates/combine
+	url = ../external/rust/crates/combine
 [submodule "platform/external/rust/crates/command-fds"]
 	path = external/rust/crates/command-fds
 	url = ../external/rust/crates/command-fds
@@ -1417,6 +1426,12 @@
 [submodule "platform/external/rust/crates/itoa"]
 	path = external/rust/crates/itoa
 	url = ../external/rust/crates/itoa
+[submodule "platform/external/rust/crates/jni"]
+	path = external/rust/crates/jni
+	url = ../external/rust/crates/jni
+[submodule "platform/external/rust/crates/jni-sys"]
+	path = external/rust/crates/jni-sys
+	url = ../external/rust/crates/jni-sys
 [submodule "platform/external/rust/crates/kernlog"]
 	path = external/rust/crates/kernlog
 	url = ../external/rust/crates/kernlog
@@ -1924,9 +1939,6 @@
 [submodule "platform/external/vixl"]
 	path = external/vixl
 	url = ../external/vixl
-[submodule "platform/external/vm_tools/p9"]
-	path = external/vm_tools/p9
-	url = ../external/vm_tools/p9
 [submodule "platform/external/vogar"]
 	path = external/vogar
 	url = ../external/vogar
@@ -2779,12 +2791,6 @@
 [submodule "platform/prebuilts/ndk"]
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
-[submodule "platform/prebuilts/python/darwin-x86/2.7.5"]
-	path = prebuilts/python/darwin-x86/2.7.5
-	url = ../prebuilts/python/darwin-x86/2.7.5
-[submodule "platform/prebuilts/python/linux-x86/2.7.5"]
-	path = prebuilts/python/linux-x86/2.7.5
-	url = ../prebuilts/python/linux-x86/2.7.5
 [submodule "platform/prebuilts/qemu-kernel"]
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
@@ -3133,9 +3139,6 @@
 [submodule "toolchain/benchmark"]
 	path = toolchain/benchmark
 	url = ../../toolchain/benchmark
-[submodule "toolchain/llvm-project"]
-	path = external/llvm-project
-	url = ../../toolchain/llvm-project
 [submodule "toolchain/pgo-profiles"]
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
