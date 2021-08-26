@@ -92,13 +92,11 @@
 	url = ../prebuilts/ninja/linux-x86
 [submodule "platform/prebuilts/python/darwin-x86"]
 	branch = llvm-toolchain
-	shallow = true
-	path = prebuilts/python3/darwin
+	path = prebuilts/python/darwin-x86
 	url = ../prebuilts/python/darwin-x86
 [submodule "platform/prebuilts/python/linux-x86"]
 	branch = llvm-toolchain
-	shallow = true
-	path = prebuilts/python3/linux
+	path = prebuilts/python/linux-x86
 	url = ../prebuilts/python/linux-x86
 [submodule "platform/prebuilts/renderscript/host/darwin-x86"]
 	branch = master

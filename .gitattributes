@@ -21,8 +21,8 @@
 /prebuilts/ndk presubmit
 /prebuilts/ninja/darwin-x86
 /prebuilts/ninja/linux-x86 presubmit
-/prebuilts/python3/darwin darwin
-/prebuilts/python3/linux presubmit linux
+/prebuilts/python/darwin-x86 darwin
+/prebuilts/python/linux-x86 presubmit linux
 /prebuilts/renderscript/host/darwin-x86
 /prebuilts/renderscript/host/linux-x86 presubmit
 /prebuilts/renderscript/host/windows-x86
