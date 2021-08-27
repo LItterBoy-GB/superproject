@@ -87,6 +87,19 @@
 	branch = master
 	path = device/google/atv
 	url = ../../device/google/atv
+[submodule "device/google/barbet"]
+	branch = master
+	path = device/google/barbet
+	url = ../../device/google/barbet
+[submodule "device/google/barbet-kernel"]
+	branch = master
+	shallow = true
+	path = device/google/barbet-kernel
+	url = ../../device/google/barbet-kernel
+[submodule "device/google/barbet-sepolicy"]
+	branch = master
+	path = device/google/barbet-sepolicy
+	url = ../../device/google/barbet-sepolicy
 [submodule "device/google/bonito"]
 	branch = master
 	path = device/google/bonito

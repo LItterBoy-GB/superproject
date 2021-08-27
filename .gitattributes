@@ -20,6 +20,9 @@
 /device/generic/x86 pdk
 /device/generic/x86_64 pdk
 /device/google/atv broadcom_pdk generic_fs pdk device
+/device/google/barbet barbet device
+/device/google/barbet-kernel barbet device
+/device/google/barbet-sepolicy barbet device
 /device/google/bonito bonito device
 /device/google/bonito-kernel bonito device
 /device/google/bonito-sepolicy bonito device
