@@ -9,7 +9,6 @@
 /external/abseil-cpp
 /external/arm-optimized-routines
 /external/auto
-/external/bazelbuild-remote-apis
 /external/bc
 /external/bison
 /external/bloaty
@@ -34,7 +33,6 @@
 /external/golang-x-sync
 /external/golang-x-tools
 /external/google-java-format
-/external/googleapis
 /external/googletest
 /external/guava
 /external/icu

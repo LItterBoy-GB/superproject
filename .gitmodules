@@ -42,10 +42,6 @@
 	branch = master
 	path = external/auto
 	url = ../external/auto
-[submodule "platform/external/bazelbuild-remote-apis"]
-	branch = master
-	path = external/bazelbuild-remote-apis
-	url = ../external/bazelbuild-remote-apis
 [submodule "platform/external/bc"]
 	branch = master
 	path = external/bc
@@ -143,10 +139,6 @@
 	branch = master
 	path = external/google-java-format
 	url = ../external/google-java-format
-[submodule "platform/external/googleapis"]
-	branch = master
-	path = external/googleapis
-	url = ../external/googleapis
 [submodule "platform/external/googletest"]
 	branch = master
 	path = external/googletest
