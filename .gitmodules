@@ -64,6 +64,15 @@
 [submodule "device/google/atv"]
 	path = device/google/atv
 	url = ../../device/google/atv
+[submodule "device/google/barbet"]
+	path = device/google/barbet
+	url = ../../device/google/barbet
+[submodule "device/google/barbet-kernel"]
+	path = device/google/barbet-kernel
+	url = ../../device/google/barbet-kernel
+[submodule "device/google/barbet-sepolicy"]
+	path = device/google/barbet-sepolicy
+	url = ../../device/google/barbet-sepolicy
 [submodule "device/google/bonito"]
 	path = device/google/bonito
 	url = ../../device/google/bonito
@@ -235,6 +244,9 @@
 [submodule "platform/build/bazel"]
 	path = build/bazel
 	url = ../build/bazel
+[submodule "platform/build/bazel_common_rules"]
+	path = build/bazel_common_rules
+	url = ../build/bazel_common_rules
 [submodule "platform/build/blueprint"]
 	path = build/blueprint
 	url = ../build/blueprint
@@ -3136,9 +3148,6 @@
 [submodule "toolchain/benchmark"]
 	path = toolchain/benchmark
 	url = ../../toolchain/benchmark
-[submodule "toolchain/llvm-project"]
-	path = external/llvm-project
-	url = ../../toolchain/llvm-project
 [submodule "toolchain/pgo-profiles"]
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
