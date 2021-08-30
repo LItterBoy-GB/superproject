@@ -131,6 +131,10 @@
 	branch = master
 	path = external/golang-x-sync
 	url = ../external/golang-x-sync
+[submodule "platform/external/golang-x-sys"]
+	branch = master
+	path = external/golang-x-sys
+	url = ../external/golang-x-sys
 [submodule "platform/external/golang-x-tools"]
 	branch = master
 	path = external/golang-x-tools
@@ -183,6 +187,10 @@
 	branch = master
 	path = external/libffi
 	url = ../external/libffi
+[submodule "platform/external/libnl"]
+	branch = master
+	path = external/libnl
+	url = ../external/libnl
 [submodule "platform/external/libunwind"]
 	branch = master
 	path = external/libunwind

@@ -31,6 +31,7 @@
 /external/go-subcommands
 /external/golang-protobuf
 /external/golang-x-sync
+/external/golang-x-sys
 /external/golang-x-tools
 /external/google-java-format
 /external/googletest
@@ -44,6 +45,7 @@
 /external/libcxx
 /external/libcxxabi
 /external/libffi
+/external/libnl
 /external/libunwind
 /external/libunwind_llvm
 /external/llvm
