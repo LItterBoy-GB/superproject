@@ -1682,6 +1682,10 @@
 	branch = master
 	path = external/rust/crates/arbitrary
 	url = ../external/rust/crates/arbitrary
+[submodule "platform/external/rust/crates/ash"]
+	branch = master
+	path = external/rust/crates/ash
+	url = ../external/rust/crates/ash
 [submodule "platform/external/rust/crates/async-stream"]
 	branch = master
 	path = external/rust/crates/async-stream
@@ -1794,6 +1798,10 @@
 	branch = master
 	path = external/rust/crates/crossbeam-epoch
 	url = ../external/rust/crates/crossbeam-epoch
+[submodule "platform/external/rust/crates/crossbeam-queue"]
+	branch = master
+	path = external/rust/crates/crossbeam-queue
+	url = ../external/rust/crates/crossbeam-queue
 [submodule "platform/external/rust/crates/crossbeam-utils"]
 	branch = master
 	path = external/rust/crates/crossbeam-utils
@@ -2274,6 +2282,10 @@
 	branch = master
 	path = external/rust/crates/shared_child
 	url = ../external/rust/crates/shared_child
+[submodule "platform/external/rust/crates/shared_library"]
+	branch = master
+	path = external/rust/crates/shared_library
+	url = ../external/rust/crates/shared_library
 [submodule "platform/external/rust/crates/shlex"]
 	branch = master
 	path = external/rust/crates/shlex
@@ -2394,6 +2406,10 @@
 	branch = master
 	path = external/rust/crates/vsock
 	url = ../external/rust/crates/vsock
+[submodule "platform/external/rust/crates/vulkano"]
+	branch = master
+	path = external/rust/crates/vulkano
+	url = ../external/rust/crates/vulkano
 [submodule "platform/external/rust/crates/walkdir"]
 	branch = master
 	path = external/rust/crates/walkdir
