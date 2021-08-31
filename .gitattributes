@@ -9,7 +9,6 @@
 /external/abseil-cpp
 /external/arm-optimized-routines
 /external/auto
-/external/bazelbuild-remote-apis
 /external/bc
 /external/bison
 /external/bloaty
@@ -32,9 +31,9 @@
 /external/go-subcommands
 /external/golang-protobuf
 /external/golang-x-sync
+/external/golang-x-sys
 /external/golang-x-tools
 /external/google-java-format
-/external/googleapis
 /external/googletest
 /external/guava
 /external/icu
@@ -46,6 +45,7 @@
 /external/libcxx
 /external/libcxxabi
 /external/libffi
+/external/libnl
 /external/libunwind
 /external/libunwind_llvm
 /external/llvm

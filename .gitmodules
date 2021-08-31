@@ -31,9 +31,6 @@
 [submodule "platform/external/auto"]
 	path = external/auto
 	url = ../external/auto
-[submodule "platform/external/bazelbuild-remote-apis"]
-	path = external/bazelbuild-remote-apis
-	url = ../external/bazelbuild-remote-apis
 [submodule "platform/external/bc"]
 	path = external/bc
 	url = ../external/bc
@@ -100,15 +97,15 @@
 [submodule "platform/external/golang-x-sync"]
 	path = external/golang-x-sync
 	url = ../external/golang-x-sync
+[submodule "platform/external/golang-x-sys"]
+	path = external/golang-x-sys
+	url = ../external/golang-x-sys
 [submodule "platform/external/golang-x-tools"]
 	path = external/golang-x-tools
 	url = ../external/golang-x-tools
 [submodule "platform/external/google-java-format"]
 	path = external/google-java-format
 	url = ../external/google-java-format
-[submodule "platform/external/googleapis"]
-	path = external/googleapis
-	url = ../external/googleapis
 [submodule "platform/external/googletest"]
 	path = external/googletest
 	url = ../external/googletest
@@ -142,6 +139,9 @@
 [submodule "platform/external/libffi"]
 	path = external/libffi
 	url = ../external/libffi
+[submodule "platform/external/libnl"]
+	path = external/libnl
+	url = ../external/libnl
 [submodule "platform/external/libunwind"]
 	path = external/libunwind
 	url = ../external/libunwind
