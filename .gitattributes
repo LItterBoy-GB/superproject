@@ -18,6 +18,7 @@
 /external/go-subcommands
 /external/golang-protobuf
 /external/golang-x-sync
+/external/golang-x-sys
 /external/golang-x-tools
 /external/googletest
 /external/jsoncpp

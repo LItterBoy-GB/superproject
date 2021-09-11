@@ -78,6 +78,10 @@
 	branch = master
 	path = external/golang-x-sync
 	url = ../external/golang-x-sync
+[submodule "platform/external/golang-x-sys"]
+	branch = master
+	path = external/golang-x-sys
+	url = ../external/golang-x-sys
 [submodule "platform/external/golang-x-tools"]
 	branch = master
 	path = external/golang-x-tools
