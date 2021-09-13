@@ -18,6 +18,10 @@
 	branch = master
 	path = external/python/cpython3
 	url = ../external/python/cpython3
+[submodule "platform/ndk"]
+	branch = master
+	path = ndk
+	url = ../ndk
 [submodule "platform/prebuilts/cmake/darwin-x86"]
 	branch = master
 	path = prebuilts/cmake/darwin-x86
