@@ -64,6 +64,15 @@
 [submodule "device/google/atv"]
 	path = device/google/atv
 	url = ../../device/google/atv
+[submodule "device/google/barbet"]
+	path = device/google/barbet
+	url = ../../device/google/barbet
+[submodule "device/google/barbet-kernel"]
+	path = device/google/barbet-kernel
+	url = ../../device/google/barbet-kernel
+[submodule "device/google/barbet-sepolicy"]
+	path = device/google/barbet-sepolicy
+	url = ../../device/google/barbet-sepolicy
 [submodule "device/google/bonito"]
 	path = device/google/bonito
 	url = ../../device/google/bonito
@@ -235,6 +244,9 @@
 [submodule "platform/build/bazel"]
 	path = build/bazel
 	url = ../build/bazel
+[submodule "platform/build/bazel_common_rules"]
+	path = build/bazel_common_rules
+	url = ../build/bazel_common_rules
 [submodule "platform/build/blueprint"]
 	path = build/blueprint
 	url = ../build/blueprint
@@ -1222,6 +1234,9 @@
 [submodule "platform/external/rust/crates/arbitrary"]
 	path = external/rust/crates/arbitrary
 	url = ../external/rust/crates/arbitrary
+[submodule "platform/external/rust/crates/ash"]
+	path = external/rust/crates/ash
+	url = ../external/rust/crates/ash
 [submodule "platform/external/rust/crates/async-stream"]
 	path = external/rust/crates/async-stream
 	url = ../external/rust/crates/async-stream
@@ -1306,6 +1321,9 @@
 [submodule "platform/external/rust/crates/crossbeam-epoch"]
 	path = external/rust/crates/crossbeam-epoch
 	url = ../external/rust/crates/crossbeam-epoch
+[submodule "platform/external/rust/crates/crossbeam-queue"]
+	path = external/rust/crates/crossbeam-queue
+	url = ../external/rust/crates/crossbeam-queue
 [submodule "platform/external/rust/crates/crossbeam-utils"]
 	path = external/rust/crates/crossbeam-utils
 	url = ../external/rust/crates/crossbeam-utils
@@ -1666,6 +1684,9 @@
 [submodule "platform/external/rust/crates/shared_child"]
 	path = external/rust/crates/shared_child
 	url = ../external/rust/crates/shared_child
+[submodule "platform/external/rust/crates/shared_library"]
+	path = external/rust/crates/shared_library
+	url = ../external/rust/crates/shared_library
 [submodule "platform/external/rust/crates/shlex"]
 	path = external/rust/crates/shlex
 	url = ../external/rust/crates/shlex
@@ -1756,6 +1777,9 @@
 [submodule "platform/external/rust/crates/vsock"]
 	path = external/rust/crates/vsock
 	url = ../external/rust/crates/vsock
+[submodule "platform/external/rust/crates/vulkano"]
+	path = external/rust/crates/vulkano
+	url = ../external/rust/crates/vulkano
 [submodule "platform/external/rust/crates/walkdir"]
 	path = external/rust/crates/walkdir
 	url = ../external/rust/crates/walkdir
@@ -3136,9 +3160,6 @@
 [submodule "toolchain/benchmark"]
 	path = toolchain/benchmark
 	url = ../../toolchain/benchmark
-[submodule "toolchain/llvm-project"]
-	path = external/llvm-project
-	url = ../../toolchain/llvm-project
 [submodule "toolchain/pgo-profiles"]
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
