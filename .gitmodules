@@ -66,3 +66,7 @@
 	branch = master
 	path = toolchain/make
 	url = ../../toolchain/make
+[submodule "toolchain/ndk-kokoro"]
+	branch = master
+	path = toolchain/ndk-kokoro
+	url = ../../toolchain/ndk-kokoro
