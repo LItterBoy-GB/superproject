@@ -1458,6 +1458,10 @@
 	branch = master
 	path = external/openssh
 	url = ../external/openssh
+[submodule "platform/external/openwrt-prebuilts"]
+	branch = master
+	path = external/openwrt-prebuilts
+	url = ../external/openwrt-prebuilts
 [submodule "platform/external/oss-fuzz"]
 	branch = master
 	path = external/oss-fuzz
