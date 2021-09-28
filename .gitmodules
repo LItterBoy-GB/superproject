@@ -2034,6 +2034,10 @@
 	branch = master
 	path = external/rust/crates/memoffset
 	url = ../external/rust/crates/memoffset
+[submodule "platform/external/rust/crates/minimal-lexical"]
+	branch = master
+	path = external/rust/crates/minimal-lexical
+	url = ../external/rust/crates/minimal-lexical
 [submodule "platform/external/rust/crates/mio"]
 	branch = master
 	path = external/rust/crates/mio
