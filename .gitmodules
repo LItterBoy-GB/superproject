@@ -1072,6 +1072,9 @@
 [submodule "platform/external/openssh"]
 	path = external/openssh
 	url = ../external/openssh
+[submodule "platform/external/openwrt-prebuilts"]
+	path = external/openwrt-prebuilts
+	url = ../external/openwrt-prebuilts
 [submodule "platform/external/oss-fuzz"]
 	path = external/oss-fuzz
 	url = ../external/oss-fuzz
@@ -1501,6 +1504,9 @@
 [submodule "platform/external/rust/crates/memoffset"]
 	path = external/rust/crates/memoffset
 	url = ../external/rust/crates/memoffset
+[submodule "platform/external/rust/crates/minimal-lexical"]
+	path = external/rust/crates/minimal-lexical
+	url = ../external/rust/crates/minimal-lexical
 [submodule "platform/external/rust/crates/mio"]
 	path = external/rust/crates/mio
 	url = ../external/rust/crates/mio
