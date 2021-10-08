@@ -568,10 +568,6 @@
 	branch = master
 	path = external/cbor-java
 	url = ../external/cbor-java
-[submodule "platform/external/chromium-libpac"]
-	branch = master
-	path = external/chromium-libpac
-	url = ../external/chromium-libpac
 [submodule "platform/external/chromium-trace"]
 	branch = master
 	path = external/chromium-trace
@@ -597,6 +593,10 @@
 	branch = master
 	path = external/compiler-rt
 	url = ../external/compiler-rt
+[submodule "platform/external/connectedappssdk"]
+	branch = master
+	path = external/connectedappssdk
+	url = ../external/connectedappssdk
 [submodule "platform/external/conscrypt"]
 	branch = master
 	path = external/conscrypt
@@ -761,6 +761,14 @@
 	branch = master
 	path = external/fec
 	url = ../external/fec
+[submodule "platform/external/fft2d"]
+	branch = master
+	path = external/fft2d
+	url = ../external/fft2d
+[submodule "platform/external/firebase-messaging"]
+	branch = master
+	path = external/firebase-messaging
+	url = ../external/firebase-messaging
 [submodule "platform/external/flac"]
 	branch = master
 	path = external/flac
@@ -793,6 +801,14 @@
 	branch = master
 	path = external/gemmlowp
 	url = ../external/gemmlowp
+[submodule "platform/external/geojson-jackson"]
+	branch = master
+	path = external/geojson-jackson
+	url = ../external/geojson-jackson
+[submodule "platform/external/geonames"]
+	branch = master
+	path = external/geonames
+	url = ../external/geonames
 [submodule "platform/external/gflags"]
 	branch = master
 	path = external/gflags
@@ -933,6 +949,10 @@
 	branch = master
 	path = external/hyphenation-patterns
 	url = ../external/hyphenation-patterns
+[submodule "platform/external/icing"]
+	branch = master
+	path = external/icing
+	url = ../external/icing
 [submodule "platform/external/icu"]
 	branch = master
 	path = external/icu
@@ -973,6 +993,18 @@
 	branch = master
 	path = external/iw
 	url = ../external/iw
+[submodule "platform/external/jackson-annotations"]
+	branch = master
+	path = external/jackson-annotations
+	url = ../external/jackson-annotations
+[submodule "platform/external/jackson-core"]
+	branch = master
+	path = external/jackson-core
+	url = ../external/jackson-core
+[submodule "platform/external/jackson-databind"]
+	branch = master
+	path = external/jackson-databind
+	url = ../external/jackson-databind
 [submodule "platform/external/jacoco"]
 	branch = master
 	path = external/jacoco
@@ -993,6 +1025,10 @@
 	branch = master
 	path = external/javasqlite
 	url = ../external/javasqlite
+[submodule "platform/external/javassist"]
+	branch = master
+	path = external/javassist
+	url = ../external/javassist
 [submodule "platform/external/jcommander"]
 	branch = master
 	path = external/jcommander
@@ -1502,6 +1538,10 @@
 	branch = master
 	path = external/piex
 	url = ../external/piex
+[submodule "platform/external/pigweed"]
+	branch = master
+	path = external/pigweed
+	url = ../external/pigweed
 [submodule "platform/external/ply"]
 	branch = master
 	path = external/ply
@@ -1582,6 +1622,14 @@
 	branch = master
 	path = external/python/ipaddress
 	url = ../external/python/ipaddress
+[submodule "platform/external/python/jinja"]
+	branch = master
+	path = external/python/jinja
+	url = ../external/python/jinja
+[submodule "platform/external/python/markupsafe"]
+	branch = master
+	path = external/python/markupsafe
+	url = ../external/python/markupsafe
 [submodule "platform/external/python/mock"]
 	branch = master
 	path = external/python/mock
@@ -2454,6 +2502,10 @@
 	branch = master
 	path = external/ruy
 	url = ../external/ruy
+[submodule "platform/external/s2-geometry-library-java"]
+	branch = master
+	path = external/s2-geometry-library-java
+	url = ../external/s2-geometry-library-java
 [submodule "platform/external/scapy"]
 	branch = master
 	path = external/scapy
@@ -2649,10 +2701,6 @@
 	branch = master
 	path = external/v4l2_codec2
 	url = ../external/v4l2_codec2
-[submodule "platform/external/v8"]
-	branch = master
-	path = external/v8
-	url = ../external/v8
 [submodule "platform/external/vboot_reference"]
 	branch = master
 	path = external/vboot_reference
@@ -2793,6 +2841,10 @@
 	branch = master
 	path = frameworks/libs/net
 	url = ../frameworks/libs/net
+[submodule "platform/frameworks/libs/service_entitlement"]
+	branch = master
+	path = frameworks/libs/service_entitlement
+	url = ../frameworks/libs/service_entitlement
 [submodule "platform/frameworks/libs/systemui"]
 	branch = master
 	path = frameworks/libs/systemui
@@ -3157,6 +3209,10 @@
 	branch = master
 	path = packages/apps/Car/Cluster
 	url = ../packages/apps/Car/Cluster
+[submodule "platform/packages/apps/Car/DebuggingRestrictionController"]
+	branch = master
+	path = packages/apps/Car/DebuggingRestrictionController
+	url = ../packages/apps/Car/DebuggingRestrictionController
 [submodule "platform/packages/apps/Car/Dialer"]
 	branch = master
 	path = packages/apps/Car/Dialer
@@ -3193,6 +3249,10 @@
 	branch = master
 	path = packages/apps/Car/Notification
 	url = ../packages/apps/Car/Notification
+[submodule "platform/packages/apps/Car/Provision"]
+	branch = master
+	path = packages/apps/Car/Provision
+	url = ../packages/apps/Car/Provision
 [submodule "platform/packages/apps/Car/Radio"]
 	branch = master
 	path = packages/apps/Car/Radio
@@ -3205,6 +3265,14 @@
 	branch = master
 	path = packages/apps/Car/Settings
 	url = ../packages/apps/Car/Settings
+[submodule "platform/packages/apps/Car/SettingsIntelligence"]
+	branch = master
+	path = packages/apps/Car/SettingsIntelligence
+	url = ../packages/apps/Car/SettingsIntelligence
+[submodule "platform/packages/apps/Car/SystemUI"]
+	branch = master
+	path = packages/apps/Car/SystemUI
+	url = ../packages/apps/Car/SystemUI
 [submodule "platform/packages/apps/Car/SystemUpdater"]
 	branch = master
 	path = packages/apps/Car/SystemUpdater
@@ -3265,6 +3333,10 @@
 	branch = master
 	path = packages/apps/HTMLViewer
 	url = ../packages/apps/HTMLViewer
+[submodule "platform/packages/apps/ImsServiceEntitlement"]
+	branch = master
+	path = packages/apps/ImsServiceEntitlement
+	url = ../packages/apps/ImsServiceEntitlement
 [submodule "platform/packages/apps/KeyChain"]
 	branch = master
 	path = packages/apps/KeyChain
@@ -3413,6 +3485,10 @@
 	branch = master
 	path = packages/inputmethods/LeanbackIME
 	url = ../packages/inputmethods/LeanbackIME
+[submodule "platform/packages/modules/AppSearch"]
+	branch = master
+	path = packages/modules/AppSearch
+	url = ../packages/modules/AppSearch
 [submodule "platform/packages/modules/ArtPrebuilt"]
 	branch = master
 	shallow = true
@@ -3452,6 +3528,10 @@
 	branch = master
 	path = packages/modules/ExtServices
 	url = ../packages/modules/ExtServices
+[submodule "platform/packages/modules/GeoTZ"]
+	branch = master
+	path = packages/modules/GeoTZ
+	url = ../packages/modules/GeoTZ
 [submodule "platform/packages/modules/Gki"]
 	branch = master
 	path = packages/modules/Gki
@@ -3484,6 +3564,10 @@
 	branch = master
 	path = packages/modules/RuntimeI18n
 	url = ../packages/modules/RuntimeI18n
+[submodule "platform/packages/modules/Scheduling"]
+	branch = master
+	path = packages/modules/Scheduling
+	url = ../packages/modules/Scheduling
 [submodule "platform/packages/modules/SdkExtensions"]
 	branch = master
 	path = packages/modules/SdkExtensions
@@ -3580,6 +3664,10 @@
 	branch = master
 	path = packages/services/Car
 	url = ../packages/services/Car
+[submodule "platform/packages/services/Iwlan"]
+	branch = master
+	path = packages/services/Iwlan
+	url = ../packages/services/Iwlan
 [submodule "platform/packages/services/Mms"]
 	branch = master
 	path = packages/services/Mms
@@ -3932,6 +4020,11 @@
 	shallow = true
 	path = prebuilts/vndk/v30
 	url = ../prebuilts/vndk/v30
+[submodule "platform/prebuilts/vndk/v31"]
+	branch = master
+	shallow = true
+	path = prebuilts/vndk/v31
+	url = ../prebuilts/vndk/v31
 [submodule "platform/sdk"]
 	branch = master
 	path = sdk
@@ -4152,6 +4245,10 @@
 	branch = master
 	path = test/app_compat/csuite
 	url = ../test/app_compat/csuite
+[submodule "platform/test/catbox"]
+	branch = master
+	path = test/catbox
+	url = ../test/catbox
 [submodule "platform/test/cts-root"]
 	branch = master
 	path = test/cts-root
