@@ -3425,7 +3425,7 @@
 	path = packages/modules/SdkExtensions
 	url = ../packages/modules/SdkExtensions
 [submodule "platform/packages/modules/StatsD"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = packages/modules/StatsD
 	url = ../packages/modules/StatsD
 [submodule "platform/packages/modules/TestModule"]
