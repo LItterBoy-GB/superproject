@@ -399,7 +399,6 @@
 /external/python/ipaddress pdk
 /external/python/jinja pdk
 /external/python/markupsafe pdk
-/external/python/mock pdk
 /external/python/oauth2client vts pdk
 /external/python/parse_type vts pdk
 /external/python/pyasn1 vts pdk

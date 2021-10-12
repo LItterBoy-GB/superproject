@@ -1630,10 +1630,6 @@
 	branch = master
 	path = external/python/markupsafe
 	url = ../external/python/markupsafe
-[submodule "platform/external/python/mock"]
-	branch = master
-	path = external/python/mock
-	url = ../external/python/mock
 [submodule "platform/external/python/oauth2client"]
 	branch = master
 	path = external/python/oauth2client
