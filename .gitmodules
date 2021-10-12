@@ -1406,6 +1406,10 @@
 	branch = master
 	path = external/mtpd
 	url = ../external/mtpd
+[submodule "platform/external/musl"]
+	branch = master
+	path = external/musl
+	url = ../external/musl
 [submodule "platform/external/nanohttpd"]
 	branch = master
 	path = external/nanohttpd
@@ -1458,6 +1462,10 @@
 	branch = master
 	path = external/oboe
 	url = ../external/oboe
+[submodule "platform/external/obstack"]
+	branch = master
+	path = external/obstack
+	url = ../external/obstack
 [submodule "platform/external/oj-libjdwp"]
 	branch = master
 	path = external/oj-libjdwp
