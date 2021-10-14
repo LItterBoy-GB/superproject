@@ -134,13 +134,13 @@
 /external/catch2 pdk
 /external/cblas pdk
 /external/cbor-java pdk
-/external/chromium-libpac pdk
 /external/chromium-trace pdk
 /external/chromium-webview pdk
 /external/clang pdk
 /external/cldr pdk
 /external/cn-cbor pdk
 /external/compiler-rt pdk
+/external/connectedappssdk pdk
 /external/conscrypt pdk
 /external/cpu_features pdk
 /external/cpuinfo pdk
@@ -182,6 +182,8 @@
 /external/fastrpc pdk
 /external/fdlibm pdk
 /external/fec pdk
+/external/fft2d pdk
+/external/firebase-messaging pdk
 /external/flac pdk
 /external/flatbuffers pdk
 /external/fmtlib pdk
@@ -190,6 +192,8 @@
 /external/fsck_msdos pdk
 /external/fsverity-utils pdk
 /external/gemmlowp pdk
+/external/geojson-jackson pdk
+/external/geonames pdk
 /external/gflags pdk
 /external/giflib pdk qcom_msm8x26
 /external/glide pdk
@@ -225,6 +229,7 @@
 /external/hamcrest pdk
 /external/harfbuzz_ng pdk qcom_msm8x26
 /external/hyphenation-patterns pdk
+/external/icing pdk
 /external/icu pdk
 /external/igt-gpu-tools pdk
 /external/image_io pdk
@@ -235,11 +240,15 @@
 /external/iptables pdk
 /external/iputils pdk
 /external/iw pdk
+/external/jackson-annotations pdk
+/external/jackson-core pdk
+/external/jackson-databind pdk
 /external/jacoco pdk
 /external/jarjar pdk
 /external/javaparser pdk
 /external/javapoet pdk
 /external/javasqlite pdk
+/external/javassist pdk
 /external/jcommander pdk
 /external/jdiff pdk
 /external/jemalloc_new pdk
@@ -334,6 +343,7 @@
 /external/ms-tpm-20-ref pdk
 /external/mtools pdk
 /external/mtpd pdk
+/external/musl pdk
 /external/nanohttpd pdk
 /external/nanopb-c pdk
 /external/naver-fonts pdk
@@ -347,6 +357,7 @@
 /external/oauth pdk
 /external/objenesis pdk
 /external/oboe pdk
+/external/obstack pdk
 /external/oj-libjdwp pdk
 /external/okhttp pdk
 /external/okhttp4 pdk
@@ -365,6 +376,7 @@
 /external/perfetto pdk
 /external/pffft pdk
 /external/piex pdk
+/external/pigweed pdk
 /external/ply pdk
 /external/ppp pdk
 /external/proguard pdk
@@ -385,7 +397,8 @@
 /external/python/google-api-python-client vts pdk
 /external/python/httplib2 vts pdk
 /external/python/ipaddress pdk
-/external/python/mock pdk
+/external/python/jinja pdk
+/external/python/markupsafe pdk
 /external/python/oauth2client vts pdk
 /external/python/parse_type vts pdk
 /external/python/pyasn1 vts pdk
@@ -603,6 +616,7 @@
 /external/rust/crates/zip pdk
 /external/rust/cxx pdk
 /external/ruy pdk
+/external/s2-geometry-library-java pdk
 /external/scapy pdk-fs
 /external/scrypt pdk
 /external/scudo pdk
@@ -650,7 +664,6 @@
 /external/universal-tween-engine
 /external/usrsctp pdk
 /external/v4l2_codec2 pdk
-/external/v8 pdk
 /external/vboot_reference pdk-fs vboot
 /external/virglrenderer pdk
 /external/vixl pdk
@@ -686,6 +699,7 @@
 /frameworks/libs/modules-utils pdk-fs pdk-cw-fs
 /frameworks/libs/native_bridge_support pdk
 /frameworks/libs/net pdk-fs pdk-cw-fs
+/frameworks/libs/service_entitlement pdk
 /frameworks/libs/systemui pdk-fs pdk-cw-fs
 /frameworks/minikin pdk-fs pdk-cw-fs
 /frameworks/multidex pdk-fs pdk-cw-fs
@@ -777,6 +791,7 @@
 /packages/apps/Camera2 pdk-fs
 /packages/apps/Car/Calendar pdk-fs
 /packages/apps/Car/Cluster pdk-fs
+/packages/apps/Car/DebuggingRestrictionController pdk-fs
 /packages/apps/Car/Dialer pdk-fs
 /packages/apps/Car/Hvac pdk-fs
 /packages/apps/Car/LatinIME pdk-fs
@@ -786,9 +801,12 @@
 /packages/apps/Car/Media pdk-fs
 /packages/apps/Car/Messenger pdk-fs
 /packages/apps/Car/Notification pdk-fs
+/packages/apps/Car/Provision pdk-fs
 /packages/apps/Car/Radio pdk-fs
 /packages/apps/Car/RotaryController pdk-fs
 /packages/apps/Car/Settings pdk-fs
+/packages/apps/Car/SettingsIntelligence pdk-fs
+/packages/apps/Car/SystemUI pdk-fs
 /packages/apps/Car/SystemUpdater pdk-fs
 /packages/apps/Car/libs pdk-fs
 /packages/apps/Car/tests pdk-fs
@@ -804,6 +822,7 @@
 /packages/apps/Gallery pdk-fs
 /packages/apps/Gallery2 pdk-fs
 /packages/apps/HTMLViewer pdk-fs
+/packages/apps/ImsServiceEntitlement pdk-fs
 /packages/apps/KeyChain pdk-fs
 /packages/apps/Launcher3 pdk-fs
 /packages/apps/LegacyCamera pdk-fs
@@ -841,6 +860,7 @@
 /packages/apps/WallpaperPicker2 pdk-fs
 /packages/inputmethods/LatinIME pdk-fs
 /packages/inputmethods/LeanbackIME pdk-fs
+/packages/modules/AppSearch pdk
 /packages/modules/ArtPrebuilt pdk
 /packages/modules/BootPrebuilt/5.10/arm64 pdk
 /packages/modules/BootPrebuilt/5.4/arm64 pdk
@@ -850,6 +870,7 @@
 /packages/modules/Cronet pdk-fs pdk-cw-fs
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
 /packages/modules/ExtServices pdk-fs pdk-cw-fs
+/packages/modules/GeoTZ pdk-fs pdk-cw-fs
 /packages/modules/Gki pdk-fs pdk-cw-fs
 /packages/modules/IPsec pdk
 /packages/modules/ModuleMetadata pdk
@@ -858,6 +879,7 @@
 /packages/modules/NeuralNetworks pdk-fs pdk-cw-fs
 /packages/modules/Permission pdk-fs pdk-cw-fs
 /packages/modules/RuntimeI18n pdk-fs pdk-cw-fs
+/packages/modules/Scheduling pdk-fs pdk-cw-fs
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
 /packages/modules/StatsD pdk-fs pdk-cw-fs
 /packages/modules/TestModule
@@ -882,6 +904,7 @@
 /packages/services/AlternativeNetworkAccess pdk-fs pdk-cw-fs
 /packages/services/BuiltInPrintService pdk-fs pdk-cw-fs
 /packages/services/Car pdk-fs pdk-cw-fs
+/packages/services/Iwlan pdk-fs pdk-cw-fs
 /packages/services/Mms pdk-fs pdk-cw-fs
 /packages/services/Mtp pdk-fs pdk-cw-fs
 /packages/services/Telecomm pdk-fs pdk-cw-fs
@@ -948,6 +971,7 @@
 /prebuilts/vndk/v28 pdk
 /prebuilts/vndk/v29 pdk
 /prebuilts/vndk/v30 pdk
+/prebuilts/vndk/v31 pdk
 /sdk pdk-fs pdk-cw-fs
 /system/apex pdk
 /system/bpf pdk
@@ -1003,6 +1027,7 @@
 /system/update_engine pdk
 /system/vold pdk
 /test/app_compat/csuite
+/test/catbox
 /test/cts-root
 /test/framework vts pdk projectarch
 /test/mlts/benchmark pdk

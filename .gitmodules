@@ -406,9 +406,6 @@
 [submodule "platform/external/cbor-java"]
 	path = external/cbor-java
 	url = ../external/cbor-java
-[submodule "platform/external/chromium-libpac"]
-	path = external/chromium-libpac
-	url = ../external/chromium-libpac
 [submodule "platform/external/chromium-trace"]
 	path = external/chromium-trace
 	url = ../external/chromium-trace
@@ -427,6 +424,9 @@
 [submodule "platform/external/compiler-rt"]
 	path = external/compiler-rt
 	url = ../external/compiler-rt
+[submodule "platform/external/connectedappssdk"]
+	path = external/connectedappssdk
+	url = ../external/connectedappssdk
 [submodule "platform/external/conscrypt"]
 	path = external/conscrypt
 	url = ../external/conscrypt
@@ -550,6 +550,12 @@
 [submodule "platform/external/fec"]
 	path = external/fec
 	url = ../external/fec
+[submodule "platform/external/fft2d"]
+	path = external/fft2d
+	url = ../external/fft2d
+[submodule "platform/external/firebase-messaging"]
+	path = external/firebase-messaging
+	url = ../external/firebase-messaging
 [submodule "platform/external/flac"]
 	path = external/flac
 	url = ../external/flac
@@ -574,6 +580,12 @@
 [submodule "platform/external/gemmlowp"]
 	path = external/gemmlowp
 	url = ../external/gemmlowp
+[submodule "platform/external/geojson-jackson"]
+	path = external/geojson-jackson
+	url = ../external/geojson-jackson
+[submodule "platform/external/geonames"]
+	path = external/geonames
+	url = ../external/geonames
 [submodule "platform/external/gflags"]
 	path = external/gflags
 	url = ../external/gflags
@@ -679,6 +691,9 @@
 [submodule "platform/external/hyphenation-patterns"]
 	path = external/hyphenation-patterns
 	url = ../external/hyphenation-patterns
+[submodule "platform/external/icing"]
+	path = external/icing
+	url = ../external/icing
 [submodule "platform/external/icu"]
 	path = external/icu
 	url = ../external/icu
@@ -709,6 +724,15 @@
 [submodule "platform/external/iw"]
 	path = external/iw
 	url = ../external/iw
+[submodule "platform/external/jackson-annotations"]
+	path = external/jackson-annotations
+	url = ../external/jackson-annotations
+[submodule "platform/external/jackson-core"]
+	path = external/jackson-core
+	url = ../external/jackson-core
+[submodule "platform/external/jackson-databind"]
+	path = external/jackson-databind
+	url = ../external/jackson-databind
 [submodule "platform/external/jacoco"]
 	path = external/jacoco
 	url = ../external/jacoco
@@ -724,6 +748,9 @@
 [submodule "platform/external/javasqlite"]
 	path = external/javasqlite
 	url = ../external/javasqlite
+[submodule "platform/external/javassist"]
+	path = external/javassist
+	url = ../external/javassist
 [submodule "platform/external/jcommander"]
 	path = external/jcommander
 	url = ../external/jcommander
@@ -1006,6 +1033,9 @@
 [submodule "platform/external/mtpd"]
 	path = external/mtpd
 	url = ../external/mtpd
+[submodule "platform/external/musl"]
+	path = external/musl
+	url = ../external/musl
 [submodule "platform/external/nanohttpd"]
 	path = external/nanohttpd
 	url = ../external/nanohttpd
@@ -1045,6 +1075,9 @@
 [submodule "platform/external/oboe"]
 	path = external/oboe
 	url = ../external/oboe
+[submodule "platform/external/obstack"]
+	path = external/obstack
+	url = ../external/obstack
 [submodule "platform/external/oj-libjdwp"]
 	path = external/oj-libjdwp
 	url = ../external/oj-libjdwp
@@ -1099,6 +1132,9 @@
 [submodule "platform/external/piex"]
 	path = external/piex
 	url = ../external/piex
+[submodule "platform/external/pigweed"]
+	path = external/pigweed
+	url = ../external/pigweed
 [submodule "platform/external/ply"]
 	path = external/ply
 	url = ../external/ply
@@ -1159,9 +1195,12 @@
 [submodule "platform/external/python/ipaddress"]
 	path = external/python/ipaddress
 	url = ../external/python/ipaddress
-[submodule "platform/external/python/mock"]
-	path = external/python/mock
-	url = ../external/python/mock
+[submodule "platform/external/python/jinja"]
+	path = external/python/jinja
+	url = ../external/python/jinja
+[submodule "platform/external/python/markupsafe"]
+	path = external/python/markupsafe
+	url = ../external/python/markupsafe
 [submodule "platform/external/python/oauth2client"]
 	path = external/python/oauth2client
 	url = ../external/python/oauth2client
@@ -1813,6 +1852,9 @@
 [submodule "platform/external/ruy"]
 	path = external/ruy
 	url = ../external/ruy
+[submodule "platform/external/s2-geometry-library-java"]
+	path = external/s2-geometry-library-java
+	url = ../external/s2-geometry-library-java
 [submodule "platform/external/scapy"]
 	path = external/scapy
 	url = ../external/scapy
@@ -1954,9 +1996,6 @@
 [submodule "platform/external/v4l2_codec2"]
 	path = external/v4l2_codec2
 	url = ../external/v4l2_codec2
-[submodule "platform/external/v8"]
-	path = external/v8
-	url = ../external/v8
 [submodule "platform/external/vboot_reference"]
 	path = external/vboot_reference
 	url = ../external/vboot_reference
@@ -2062,6 +2101,9 @@
 [submodule "platform/frameworks/libs/net"]
 	path = frameworks/libs/net
 	url = ../frameworks/libs/net
+[submodule "platform/frameworks/libs/service_entitlement"]
+	path = frameworks/libs/service_entitlement
+	url = ../frameworks/libs/service_entitlement
 [submodule "platform/frameworks/libs/systemui"]
 	path = frameworks/libs/systemui
 	url = ../frameworks/libs/systemui
@@ -2335,6 +2377,9 @@
 [submodule "platform/packages/apps/Car/Cluster"]
 	path = packages/apps/Car/Cluster
 	url = ../packages/apps/Car/Cluster
+[submodule "platform/packages/apps/Car/DebuggingRestrictionController"]
+	path = packages/apps/Car/DebuggingRestrictionController
+	url = ../packages/apps/Car/DebuggingRestrictionController
 [submodule "platform/packages/apps/Car/Dialer"]
 	path = packages/apps/Car/Dialer
 	url = ../packages/apps/Car/Dialer
@@ -2362,6 +2407,9 @@
 [submodule "platform/packages/apps/Car/Notification"]
 	path = packages/apps/Car/Notification
 	url = ../packages/apps/Car/Notification
+[submodule "platform/packages/apps/Car/Provision"]
+	path = packages/apps/Car/Provision
+	url = ../packages/apps/Car/Provision
 [submodule "platform/packages/apps/Car/Radio"]
 	path = packages/apps/Car/Radio
 	url = ../packages/apps/Car/Radio
@@ -2371,6 +2419,12 @@
 [submodule "platform/packages/apps/Car/Settings"]
 	path = packages/apps/Car/Settings
 	url = ../packages/apps/Car/Settings
+[submodule "platform/packages/apps/Car/SettingsIntelligence"]
+	path = packages/apps/Car/SettingsIntelligence
+	url = ../packages/apps/Car/SettingsIntelligence
+[submodule "platform/packages/apps/Car/SystemUI"]
+	path = packages/apps/Car/SystemUI
+	url = ../packages/apps/Car/SystemUI
 [submodule "platform/packages/apps/Car/SystemUpdater"]
 	path = packages/apps/Car/SystemUpdater
 	url = ../packages/apps/Car/SystemUpdater
@@ -2416,6 +2470,9 @@
 [submodule "platform/packages/apps/HTMLViewer"]
 	path = packages/apps/HTMLViewer
 	url = ../packages/apps/HTMLViewer
+[submodule "platform/packages/apps/ImsServiceEntitlement"]
+	path = packages/apps/ImsServiceEntitlement
+	url = ../packages/apps/ImsServiceEntitlement
 [submodule "platform/packages/apps/KeyChain"]
 	path = packages/apps/KeyChain
 	url = ../packages/apps/KeyChain
@@ -2527,6 +2584,9 @@
 [submodule "platform/packages/inputmethods/LeanbackIME"]
 	path = packages/inputmethods/LeanbackIME
 	url = ../packages/inputmethods/LeanbackIME
+[submodule "platform/packages/modules/AppSearch"]
+	path = packages/modules/AppSearch
+	url = ../packages/modules/AppSearch
 [submodule "platform/packages/modules/ArtPrebuilt"]
 	path = packages/modules/ArtPrebuilt
 	url = ../packages/modules/ArtPrebuilt
@@ -2554,6 +2614,9 @@
 [submodule "platform/packages/modules/ExtServices"]
 	path = packages/modules/ExtServices
 	url = ../packages/modules/ExtServices
+[submodule "platform/packages/modules/GeoTZ"]
+	path = packages/modules/GeoTZ
+	url = ../packages/modules/GeoTZ
 [submodule "platform/packages/modules/Gki"]
 	path = packages/modules/Gki
 	url = ../packages/modules/Gki
@@ -2578,6 +2641,9 @@
 [submodule "platform/packages/modules/RuntimeI18n"]
 	path = packages/modules/RuntimeI18n
 	url = ../packages/modules/RuntimeI18n
+[submodule "platform/packages/modules/Scheduling"]
+	path = packages/modules/Scheduling
+	url = ../packages/modules/Scheduling
 [submodule "platform/packages/modules/SdkExtensions"]
 	path = packages/modules/SdkExtensions
 	url = ../packages/modules/SdkExtensions
@@ -2650,6 +2716,9 @@
 [submodule "platform/packages/services/Car"]
 	path = packages/services/Car
 	url = ../packages/services/Car
+[submodule "platform/packages/services/Iwlan"]
+	path = packages/services/Iwlan
+	url = ../packages/services/Iwlan
 [submodule "platform/packages/services/Mms"]
 	path = packages/services/Mms
 	url = ../packages/services/Mms
@@ -2848,6 +2917,9 @@
 [submodule "platform/prebuilts/vndk/v30"]
 	path = prebuilts/vndk/v30
 	url = ../prebuilts/vndk/v30
+[submodule "platform/prebuilts/vndk/v31"]
+	path = prebuilts/vndk/v31
+	url = ../prebuilts/vndk/v31
 [submodule "platform/sdk"]
 	path = sdk
 	url = ../sdk
@@ -3013,6 +3085,9 @@
 [submodule "platform/test/app_compat/csuite"]
 	path = test/app_compat/csuite
 	url = ../test/app_compat/csuite
+[submodule "platform/test/catbox"]
+	path = test/catbox
+	url = ../test/catbox
 [submodule "platform/test/cts-root"]
 	path = test/cts-root
 	url = ../test/cts-root
