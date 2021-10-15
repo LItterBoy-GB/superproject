@@ -23,6 +23,7 @@
 /external/dlmalloc pdk
 /external/e2fsprogs pdk
 /external/easymock pdk
+/external/erofs-utils pdk
 /external/error_prone pdk
 /external/escapevelocity pdk
 /external/expat pdk

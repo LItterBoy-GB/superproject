@@ -98,6 +98,10 @@
 	branch = master
 	path = external/easymock
 	url = ../external/easymock
+[submodule "platform/external/erofs-utils"]
+	branch = master
+	path = external/erofs-utils
+	url = ../external/erofs-utils
 [submodule "platform/external/error_prone"]
 	branch = master
 	path = external/error_prone
