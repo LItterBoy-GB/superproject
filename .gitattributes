@@ -96,6 +96,7 @@
 /platform_testing pdk-fs cts pdk-cw-fs
 /prebuilts/asuite pdk
 /prebuilts/build-tools pdk
+/prebuilts/bundletool pdk
 /prebuilts/clang-tools pdk
 /prebuilts/clang/host/linux-x86 pdk
 /prebuilts/cmdline-tools pdk-fs
