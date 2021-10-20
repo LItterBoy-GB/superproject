@@ -1033,6 +1033,9 @@
 [submodule "platform/external/mtpd"]
 	path = external/mtpd
 	url = ../external/mtpd
+[submodule "platform/external/musl"]
+	path = external/musl
+	url = ../external/musl
 [submodule "platform/external/nanohttpd"]
 	path = external/nanohttpd
 	url = ../external/nanohttpd
@@ -1072,6 +1075,9 @@
 [submodule "platform/external/oboe"]
 	path = external/oboe
 	url = ../external/oboe
+[submodule "platform/external/obstack"]
+	path = external/obstack
+	url = ../external/obstack
 [submodule "platform/external/oj-libjdwp"]
 	path = external/oj-libjdwp
 	url = ../external/oj-libjdwp

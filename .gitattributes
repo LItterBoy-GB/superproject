@@ -343,6 +343,7 @@
 /external/ms-tpm-20-ref pdk
 /external/mtools pdk
 /external/mtpd pdk
+/external/musl pdk
 /external/nanohttpd pdk
 /external/nanopb-c pdk
 /external/naver-fonts pdk
@@ -356,6 +357,7 @@
 /external/oauth pdk
 /external/objenesis pdk
 /external/oboe pdk
+/external/obstack pdk
 /external/oj-libjdwp pdk
 /external/okhttp pdk
 /external/okhttp4 pdk
