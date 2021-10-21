@@ -2,6 +2,10 @@
 	branch = cmake-master-dev
 	path = external/android-cmake
 	url = ../external/android-cmake
+[submodule "platform/external/bzip2"]
+	branch = master
+	path = external/bzip2
+	url = ../external/bzip2
 [submodule "platform/external/cmake"]
 	branch = cmake-master-dev
 	path = external/cmake
@@ -18,6 +22,10 @@
 	branch = master
 	path = external/python/cpython3
 	url = ../external/python/cpython3
+[submodule "platform/external/zlib"]
+	branch = master
+	path = external/zlib
+	url = ../external/zlib
 [submodule "platform/ndk"]
 	branch = master
 	path = ndk
@@ -70,3 +78,7 @@
 	branch = master
 	path = toolchain/ndk-kokoro
 	url = ../../toolchain/ndk-kokoro
+[submodule "toolchain/xz"]
+	branch = master
+	path = toolchain/xz
+	url = ../../toolchain/xz
