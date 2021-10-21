@@ -1,177 +1,108 @@
 [submodule "platform/build"]
-	branch = androidx-wear-watchface-release
 	path = build/make
 	url = ../build
 [submodule "platform/external/doclava"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = external/doclava
 	url = ../external/doclava
 [submodule "platform/external/dokka"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = external/dokka
 	url = ../external/dokka
 [submodule "platform/external/google-benchmark"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = external/google-benchmark
 	url = ../external/google-benchmark
 [submodule "platform/external/icing"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = external/icing
 	url = ../external/icing
 [submodule "platform/external/icu"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = external/icu
 	url = ../external/icu
 [submodule "platform/external/libyuv"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = external/libyuv
 	url = ../external/libyuv
 [submodule "platform/external/noto-fonts"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = external/noto-fonts
 	url = ../external/noto-fonts
 [submodule "platform/external/protobuf"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/webview_support_interfaces"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = external/webview_support_interfaces
 	url = ../external/webview_support_interfaces
 [submodule "platform/frameworks/support"]
-	branch = androidx-wear-watchface-release
 	path = frameworks/support
 	url = ../frameworks/support
 [submodule "platform/frameworks/support-golden"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = golden
 	url = ../frameworks/support-golden
 [submodule "platform/prebuilts/androidx/exoplayer"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/androidx/exoplayer
 	url = ../prebuilts/androidx/exoplayer
 [submodule "platform/prebuilts/androidx/external"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/androidx/external
 	url = ../prebuilts/androidx/external
 [submodule "platform/prebuilts/androidx/internal"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
 [submodule "platform/prebuilts/androidx/traceprocessor"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/androidx/traceprocessor
 	url = ../prebuilts/androidx/traceprocessor
 [submodule "platform/prebuilts/checkstyle"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
 [submodule "platform/prebuilts/cmake/darwin-x86"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/cmake
 	url = ../prebuilts/cmake/darwin-x86
 [submodule "platform/prebuilts/cmake/linux-x86"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/cmake
 	url = ../prebuilts/cmake/linux-x86
 [submodule "platform/prebuilts/fullsdk-darwin/build-tools/29.0.3"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/build-tools/29.0.3
 	url = ../prebuilts/fullsdk-darwin/build-tools/29.0.3
 [submodule "platform/prebuilts/fullsdk-darwin/build-tools/30.0.3"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/build-tools/30.0.3
 	url = ../prebuilts/fullsdk-darwin/build-tools/30.0.3
 [submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/platform-tools
 	url = ../prebuilts/fullsdk-darwin/platform-tools
 [submodule "platform/prebuilts/fullsdk-darwin/tools"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/tools
 	url = ../prebuilts/fullsdk-darwin/tools
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/29.0.3"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/build-tools/29.0.3
 	url = ../prebuilts/fullsdk-linux/build-tools/29.0.3
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/30.0.3"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/build-tools/30.0.3
 	url = ../prebuilts/fullsdk-linux/build-tools/30.0.3
 [submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/platform-tools
 	url = ../prebuilts/fullsdk-linux/platform-tools
 [submodule "platform/prebuilts/fullsdk-linux/tools"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/tools
 	url = ../prebuilts/fullsdk-linux/tools
 [submodule "platform/prebuilts/fullsdk/platforms/android-31"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/platforms/android-31
 	url = ../prebuilts/fullsdk/platforms/android-31
 [submodule "platform/prebuilts/fullsdk/sources/android-31"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/sources/android-31
 	url = ../prebuilts/fullsdk/sources/android-31
 [submodule "platform/prebuilts/jdk/jdk11"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/jdk/jdk8"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
 [submodule "platform/prebuilts/protobuf"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/protobuf
 	url = ../prebuilts/protobuf
 [submodule "platform/tools/external/gradle"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
 [submodule "platform/tools/repohooks"]
-	branch = androidx-wear-watchface-release
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "toolchain/prebuilts/ndk-darwin/r21"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/ndk
 	url = ../../toolchain/prebuilts/ndk-darwin/r21
 [submodule "toolchain/prebuilts/ndk/r21"]
-	branch = androidx-wear-watchface-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/ndk
 	url = ../../toolchain/prebuilts/ndk/r21
