@@ -935,7 +935,6 @@
 /prebuilts/cmake/linux-x86
 /prebuilts/cmdline-tools pdk-fs
 /prebuilts/devtools pdk-fs
-/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9 pdk darwin arm
 /prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9 pdk darwin arm
 /prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 pdk darwin
 /prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9 pdk darwin x86
