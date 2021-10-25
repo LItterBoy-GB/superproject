@@ -939,7 +939,6 @@
 /prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9 pdk darwin arm
 /prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 pdk darwin
 /prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9 pdk darwin x86
-/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9 pdk linux arm
 /prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9 pdk linux arm
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 pdk linux
 /prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 pdk-fs
