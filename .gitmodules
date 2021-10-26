@@ -3799,11 +3799,6 @@
 	shallow = true
 	path = prebuilts/devtools
 	url = ../prebuilts/devtools
-[submodule "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
-	branch = master
-	shallow = true
-	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
-	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
 	branch = master
 	shallow = true
