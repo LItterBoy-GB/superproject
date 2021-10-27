@@ -937,7 +937,6 @@
 /prebuilts/devtools pdk-fs
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 pdk linux
 /prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 pdk-fs
-/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9 pdk linux x86
 /prebuilts/go/darwin-x86 tradefed darwin pdk
 /prebuilts/go/linux-x86 tradefed pdk linux
 /prebuilts/gradle-plugin pdk-fs pdk-cw-fs pdk
