@@ -159,6 +159,7 @@
 	url = ../tools/external/gradle
 [submodule "platform/tools/repohooks"]
 	branch = master
+	shallow = true
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "toolchain/prebuilts/ndk-darwin/r21"]
@@ -171,3 +172,8 @@
 	shallow = true
 	path = prebuilts/fullsdk-linux/ndk
 	url = ../../toolchain/prebuilts/ndk/r21
+[submodule "tools/fetch_artifact"]
+	branch = master
+	shallow = true
+	path = tools/fetch_artifact
+	url = ../../tools/fetch_artifact
