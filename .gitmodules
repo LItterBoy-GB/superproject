@@ -2230,6 +2230,10 @@
 	branch = master
 	path = external/rust/crates/quiche
 	url = ../external/rust/crates/quiche
+[submodule "platform/external/rust/crates/quickcheck"]
+	branch = master
+	path = external/rust/crates/quickcheck
+	url = ../external/rust/crates/quickcheck
 [submodule "platform/external/rust/crates/quote"]
 	branch = master
 	path = external/rust/crates/quote

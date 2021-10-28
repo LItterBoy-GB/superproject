@@ -549,6 +549,7 @@
 /external/rust/crates/protobuf pdk
 /external/rust/crates/protobuf-codegen pdk
 /external/rust/crates/quiche pdk
+/external/rust/crates/quickcheck pdk
 /external/rust/crates/quote pdk
 /external/rust/crates/rand pdk
 /external/rust/crates/rand_chacha pdk
