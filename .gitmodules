@@ -1506,10 +1506,6 @@
 	branch = master
 	path = external/openscreen
 	url = ../external/openscreen
-[submodule "platform/external/openssh"]
-	branch = master
-	path = external/openssh
-	url = ../external/openssh
 [submodule "platform/external/openwrt-prebuilts"]
 	branch = master
 	path = external/openwrt-prebuilts
