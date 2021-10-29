@@ -122,6 +122,10 @@
 	branch = master
 	path = external/fdlibm
 	url = ../external/fdlibm
+[submodule "platform/external/fec"]
+	branch = master
+	path = external/fec
+	url = ../external/fec
 [submodule "platform/external/fmtlib"]
 	branch = master
 	path = external/fmtlib
@@ -310,6 +314,10 @@
 	branch = master
 	path = external/sqlite
 	url = ../external/sqlite
+[submodule "platform/external/squashfs-tools"]
+	branch = master
+	path = external/squashfs-tools
+	url = ../external/squashfs-tools
 [submodule "platform/external/starlark-go"]
 	branch = master
 	path = external/starlark-go

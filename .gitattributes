@@ -29,6 +29,7 @@
 /external/expat pdk
 /external/f2fs-tools pdk
 /external/fdlibm pdk
+/external/fec pdk
 /external/fmtlib pdk
 /external/go-cmp pdk
 /external/golang-protobuf pdk
@@ -76,6 +77,7 @@
 /external/smali pdk
 /external/snakeyaml pdk
 /external/sqlite pdk
+/external/squashfs-tools pdk
 /external/starlark-go pdk
 /external/testng pdk
 /external/tinyxml2 pdk
