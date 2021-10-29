@@ -37,6 +37,11 @@
 /device/google/crosshatch-sepolicy crosshatch generic_fs device
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
+/device/google/gs-common slider pdk-gs-arm device
+/device/google/gs101 slider device
+/device/google/gs101-sepolicy slider device
+/device/google/raviole slider device
+/device/google/raviole-kernel slider device
 /device/google/redbull redbull device
 /device/google/redbull-kernel bramble redfin device
 /device/google/redbull-sepolicy redbull device
@@ -91,6 +96,7 @@
 /developers/demos developers
 /developers/samples/android developers
 /development pdk-fs pdk-cw-fs developers
+/external/ComputeLibrary pdk-lassen
 /external/FP16 pdk
 /external/FXdiv pdk
 /external/ImageMagick pdk
@@ -103,6 +109,7 @@
 /external/abseil-cpp pdk
 /external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
+/external/android-nn-driver pdk-lassen
 /external/androidplot pdk
 /external/angle pdk
 /external/ant-glob pdk
@@ -116,6 +123,7 @@
 /external/arm-neon-tests vendor
 /external/arm-optimized-routines pdk
 /external/arm-trusted-firmware pdk
+/external/armnn pdk-lassen
 /external/auto pdk
 /external/autotest pdk-fs
 /external/avb pdk
@@ -730,6 +738,9 @@
 /hardware/google/av pdk
 /hardware/google/camera pdk
 /hardware/google/easel easel pdk
+/hardware/google/gchips pdk-lassen
+/hardware/google/graphics/common pdk-lassen
+/hardware/google/graphics/gs101 pdk-lassen
 /hardware/google/interfaces pdk
 /hardware/google/pixel generic_fs pixel
 /hardware/google/pixel-sepolicy generic_fs pixel
