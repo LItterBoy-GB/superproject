@@ -366,7 +366,6 @@
 /external/open-dice pdk
 /external/opencensus-java tradefed pdk
 /external/openscreen pdk
-/external/openssh pdk
 /external/openwrt-prebuilts pdk
 /external/oss-fuzz pdk
 /external/owasp/sanitizer pdk
