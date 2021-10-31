@@ -37,6 +37,11 @@
 /device/google/crosshatch-sepolicy crosshatch generic_fs device
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
+/device/google/gs-common slider pdk-gs-arm device
+/device/google/gs101 slider device
+/device/google/gs101-sepolicy slider device
+/device/google/raviole slider device
+/device/google/raviole-kernel slider device
 /device/google/redbull redbull device
 /device/google/redbull-kernel bramble redfin device
 /device/google/redbull-sepolicy redbull device
@@ -91,6 +96,7 @@
 /developers/demos developers
 /developers/samples/android developers
 /development pdk-fs pdk-cw-fs developers
+/external/ComputeLibrary pdk-lassen
 /external/FP16 pdk
 /external/FXdiv pdk
 /external/ImageMagick pdk
@@ -103,6 +109,7 @@
 /external/abseil-cpp pdk
 /external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
+/external/android-nn-driver pdk-lassen
 /external/androidplot pdk
 /external/angle pdk
 /external/ant-glob pdk
@@ -116,6 +123,7 @@
 /external/arm-neon-tests vendor
 /external/arm-optimized-routines pdk
 /external/arm-trusted-firmware pdk
+/external/armnn pdk-lassen
 /external/auto pdk
 /external/autotest pdk-fs
 /external/avb pdk
@@ -366,7 +374,6 @@
 /external/open-dice pdk
 /external/opencensus-java tradefed pdk
 /external/openscreen pdk
-/external/openssh pdk
 /external/openwrt-prebuilts pdk
 /external/oss-fuzz pdk
 /external/owasp/sanitizer pdk
@@ -547,6 +554,7 @@
 /external/rust/crates/protobuf pdk
 /external/rust/crates/protobuf-codegen pdk
 /external/rust/crates/quiche pdk
+/external/rust/crates/quickcheck pdk
 /external/rust/crates/quote pdk
 /external/rust/crates/rand pdk
 /external/rust/crates/rand_chacha pdk
@@ -730,6 +738,9 @@
 /hardware/google/av pdk
 /hardware/google/camera pdk
 /hardware/google/easel easel pdk
+/hardware/google/gchips pdk-lassen
+/hardware/google/graphics/common pdk-lassen
+/hardware/google/graphics/gs101 pdk-lassen
 /hardware/google/interfaces pdk
 /hardware/google/pixel generic_fs pixel
 /hardware/google/pixel-sepolicy generic_fs pixel
@@ -929,15 +940,8 @@
 /prebuilts/clang/host/linux-x86 pdk
 /prebuilts/cmdline-tools pdk-fs
 /prebuilts/devtools pdk-fs
-/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9 pdk darwin arm
-/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9 pdk darwin arm
-/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 pdk darwin
-/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9 pdk darwin x86
-/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9 pdk linux arm
-/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9 pdk linux arm
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 pdk linux
 /prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 pdk-fs
-/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9 pdk linux x86
 /prebuilts/go/darwin-x86 tradefed darwin pdk
 /prebuilts/go/linux-x86 tradefed pdk linux
 /prebuilts/gradle-plugin pdk-fs pdk-cw-fs pdk
