@@ -29,6 +29,8 @@
 /prebuilts/fullsdk-darwin/sources/android-31
 /prebuilts/jdk/jdk11
 /prebuilts/jdk/jdk8
+/prebuilts/fullsdk-darwin/ninja notdefault platform-darwin
+/prebuilts/fullsdk-linux/ninja platform-linux notdefault
 /prebuilts/protobuf
 /tools/external/gradle
 /tools/repohooks
