@@ -3872,7 +3872,7 @@
 	path = sdk
 	url = ../sdk
 [submodule "platform/system/apex"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = system/apex
 	url = ../system/apex
 [submodule "platform/system/bpf"]
