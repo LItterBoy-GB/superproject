@@ -115,6 +115,21 @@
 [submodule "device/google/cuttlefish_prebuilts"]
 	path = device/google/cuttlefish_prebuilts
 	url = ../../device/google/cuttlefish_prebuilts
+[submodule "device/google/gs-common"]
+	path = device/google/gs-common
+	url = ../../device/google/gs-common
+[submodule "device/google/gs101"]
+	path = device/google/gs101
+	url = ../../device/google/gs101
+[submodule "device/google/gs101-sepolicy"]
+	path = device/google/gs101-sepolicy
+	url = ../../device/google/gs101-sepolicy
+[submodule "device/google/raviole"]
+	path = device/google/raviole
+	url = ../../device/google/raviole
+[submodule "device/google/raviole-kernel"]
+	path = device/google/raviole-kernel
+	url = ../../device/google/raviole-kernel
 [submodule "device/google/redbull"]
 	path = device/google/redbull
 	url = ../../device/google/redbull
@@ -277,6 +292,9 @@
 [submodule "platform/development"]
 	path = development
 	url = ../development
+[submodule "platform/external/ComputeLibrary"]
+	path = external/ComputeLibrary
+	url = ../external/ComputeLibrary
 [submodule "platform/external/FP16"]
 	path = external/FP16
 	url = ../external/FP16
@@ -313,6 +331,9 @@
 [submodule "platform/external/android-clat"]
 	path = external/android-clat
 	url = ../external/android-clat
+[submodule "platform/external/android-nn-driver"]
+	path = external/android-nn-driver
+	url = ../external/android-nn-driver
 [submodule "platform/external/androidplot"]
 	path = external/androidplot
 	url = ../external/androidplot
@@ -352,6 +373,9 @@
 [submodule "platform/external/arm-trusted-firmware"]
 	path = external/arm-trusted-firmware
 	url = ../external/arm-trusted-firmware
+[submodule "platform/external/armnn"]
+	path = external/armnn
+	url = ../external/armnn
 [submodule "platform/external/auto"]
 	path = external/auto
 	url = ../external/auto
@@ -1102,9 +1126,6 @@
 [submodule "platform/external/openscreen"]
 	path = external/openscreen
 	url = ../external/openscreen
-[submodule "platform/external/openssh"]
-	path = external/openssh
-	url = ../external/openssh
 [submodule "platform/external/openwrt-prebuilts"]
 	path = external/openwrt-prebuilts
 	url = ../external/openwrt-prebuilts
@@ -1645,6 +1666,9 @@
 [submodule "platform/external/rust/crates/quiche"]
 	path = external/rust/crates/quiche
 	url = ../external/rust/crates/quiche
+[submodule "platform/external/rust/crates/quickcheck"]
+	path = external/rust/crates/quickcheck
+	url = ../external/rust/crates/quickcheck
 [submodule "platform/external/rust/crates/quote"]
 	path = external/rust/crates/quote
 	url = ../external/rust/crates/quote
@@ -2194,6 +2218,15 @@
 [submodule "platform/hardware/google/easel"]
 	path = hardware/google/easel
 	url = ../hardware/google/easel
+[submodule "platform/hardware/google/gchips"]
+	path = hardware/google/gchips
+	url = ../hardware/google/gchips
+[submodule "platform/hardware/google/graphics/common"]
+	path = hardware/google/graphics/common
+	url = ../hardware/google/graphics/common
+[submodule "platform/hardware/google/graphics/gs101"]
+	path = hardware/google/graphics/gs101
+	url = ../hardware/google/graphics/gs101
 [submodule "platform/hardware/google/interfaces"]
 	path = hardware/google/interfaces
 	url = ../hardware/google/interfaces
