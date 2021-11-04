@@ -3996,7 +3996,7 @@
 	path = system/memory/libion
 	url = ../system/memory/libion
 [submodule "platform/system/memory/libmeminfo"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = system/memory/libmeminfo
 	url = ../system/memory/libmeminfo
 [submodule "platform/system/memory/libmemtrack"]
