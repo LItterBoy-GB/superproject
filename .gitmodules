@@ -2274,6 +2274,10 @@
 	branch = master
 	path = external/rust/crates/remain
 	url = ../external/rust/crates/remain
+[submodule "platform/external/rust/crates/remove_dir_all"]
+	branch = master
+	path = external/rust/crates/remove_dir_all
+	url = ../external/rust/crates/remove_dir_all
 [submodule "platform/external/rust/crates/ring"]
 	branch = master
 	path = external/rust/crates/ring
@@ -2378,6 +2382,10 @@
 	branch = master
 	path = external/rust/crates/syn-mid
 	url = ../external/rust/crates/syn-mid
+[submodule "platform/external/rust/crates/tempfile"]
+	branch = master
+	path = external/rust/crates/tempfile
+	url = ../external/rust/crates/tempfile
 [submodule "platform/external/rust/crates/termcolor"]
 	branch = master
 	path = external/rust/crates/termcolor
