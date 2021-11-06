@@ -3506,6 +3506,10 @@
 	shallow = true
 	path = packages/modules/ArtPrebuilt
 	url = ../packages/modules/ArtPrebuilt
+[submodule "platform/packages/modules/Bluetooth"]
+	branch = master
+	path = packages/modules/Bluetooth
+	url = ../packages/modules/Bluetooth
 [submodule "platform/packages/modules/BootPrebuilt/5.10/arm64"]
 	branch = master
 	shallow = true
@@ -4018,10 +4022,6 @@
 	branch = master
 	path = system/bpfprogs
 	url = ../system/bpfprogs
-[submodule "platform/system/bt"]
-	branch = master
-	path = system/bt
-	url = ../system/bt
 [submodule "platform/system/ca-certificates"]
 	branch = master
 	path = system/ca-certificates

@@ -867,6 +867,7 @@
 /packages/inputmethods/LeanbackIME pdk-fs
 /packages/modules/AppSearch pdk
 /packages/modules/ArtPrebuilt pdk
+/packages/modules/Bluetooth pdk
 /packages/modules/BootPrebuilt/5.10/arm64 pdk
 /packages/modules/BootPrebuilt/5.4/arm64 pdk
 /packages/modules/CaptivePortalLogin pdk-fs pdk-cw-fs
@@ -980,7 +981,6 @@
 /system/apex pdk
 /system/bpf pdk
 /system/bpfprogs pdk
-/system/bt pdk
 /system/ca-certificates pdk
 /system/chre pdk
 /system/connectivity/wificond pdk
