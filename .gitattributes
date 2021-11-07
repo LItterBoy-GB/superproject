@@ -566,6 +566,7 @@
 /external/rust/crates/regex-automata pdk
 /external/rust/crates/regex-syntax pdk
 /external/rust/crates/remain pdk
+/external/rust/crates/remove_dir_all pdk
 /external/rust/crates/ring pdk
 /external/rust/crates/rusqlite pdk
 /external/rust/crates/rustc-demangle pdk
@@ -592,6 +593,7 @@
 /external/rust/crates/structopt-derive pdk
 /external/rust/crates/syn pdk
 /external/rust/crates/syn-mid pdk
+/external/rust/crates/tempfile pdk
 /external/rust/crates/termcolor pdk
 /external/rust/crates/textwrap pdk
 /external/rust/crates/thiserror pdk
@@ -873,6 +875,7 @@
 /packages/inputmethods/LeanbackIME pdk-fs
 /packages/modules/AppSearch pdk
 /packages/modules/ArtPrebuilt pdk
+/packages/modules/Bluetooth pdk
 /packages/modules/BootPrebuilt/5.10/arm64 pdk
 /packages/modules/BootPrebuilt/5.4/arm64 pdk
 /packages/modules/CaptivePortalLogin pdk-fs pdk-cw-fs
@@ -980,7 +983,6 @@
 /system/apex pdk
 /system/bpf pdk
 /system/bpfprogs pdk
-/system/bt pdk
 /system/ca-certificates pdk
 /system/chre pdk
 /system/connectivity/wificond pdk

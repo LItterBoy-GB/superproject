@@ -1702,6 +1702,9 @@
 [submodule "platform/external/rust/crates/remain"]
 	path = external/rust/crates/remain
 	url = ../external/rust/crates/remain
+[submodule "platform/external/rust/crates/remove_dir_all"]
+	path = external/rust/crates/remove_dir_all
+	url = ../external/rust/crates/remove_dir_all
 [submodule "platform/external/rust/crates/ring"]
 	path = external/rust/crates/ring
 	url = ../external/rust/crates/ring
@@ -1780,6 +1783,9 @@
 [submodule "platform/external/rust/crates/syn-mid"]
 	path = external/rust/crates/syn-mid
 	url = ../external/rust/crates/syn-mid
+[submodule "platform/external/rust/crates/tempfile"]
+	path = external/rust/crates/tempfile
+	url = ../external/rust/crates/tempfile
 [submodule "platform/external/rust/crates/termcolor"]
 	path = external/rust/crates/termcolor
 	url = ../external/rust/crates/termcolor
@@ -2623,6 +2629,9 @@
 [submodule "platform/packages/modules/ArtPrebuilt"]
 	path = packages/modules/ArtPrebuilt
 	url = ../packages/modules/ArtPrebuilt
+[submodule "platform/packages/modules/Bluetooth"]
+	path = packages/modules/Bluetooth
+	url = ../packages/modules/Bluetooth
 [submodule "platform/packages/modules/BootPrebuilt/5.10/arm64"]
 	path = packages/modules/BootPrebuilt/5.10/arm64
 	url = ../packages/modules/BootPrebuilt/5.10/arm64
@@ -2944,9 +2953,6 @@
 [submodule "platform/system/bpfprogs"]
 	path = system/bpfprogs
 	url = ../system/bpfprogs
-[submodule "platform/system/bt"]
-	path = system/bt
-	url = ../system/bt
 [submodule "platform/system/ca-certificates"]
 	path = system/ca-certificates
 	url = ../system/ca-certificates
