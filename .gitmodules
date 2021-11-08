@@ -368,10 +368,6 @@
 	branch = android12-dev
 	path = build/soong
 	url = ../build/soong
-[submodule "platform/compatibility/cdd"]
-	branch = android12-dev
-	path = compatibility/cdd
-	url = ../compatibility/cdd
 [submodule "platform/cts"]
 	branch = android12-dev
 	path = cts
