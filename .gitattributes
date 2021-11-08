@@ -875,6 +875,7 @@
 /packages/inputmethods/LeanbackIME pdk-fs
 /packages/modules/AppSearch pdk
 /packages/modules/ArtPrebuilt pdk
+/packages/modules/Bluetooth pdk
 /packages/modules/BootPrebuilt/5.10/arm64 pdk
 /packages/modules/BootPrebuilt/5.4/arm64 pdk
 /packages/modules/CaptivePortalLogin pdk-fs pdk-cw-fs
@@ -896,6 +897,7 @@
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
 /packages/modules/StatsD pdk-fs pdk-cw-fs
 /packages/modules/TestModule
+/packages/modules/Uwb pdk-fs pdk-cw-fs
 /packages/modules/Virtualization pdk
 /packages/modules/Wifi pdk-fs pdk-cw-fs
 /packages/modules/adb pdk
@@ -982,7 +984,6 @@
 /system/apex pdk
 /system/bpf pdk
 /system/bpfprogs pdk
-/system/bt pdk
 /system/ca-certificates pdk
 /system/chre pdk
 /system/connectivity/wificond pdk
