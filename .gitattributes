@@ -1,8 +1,14 @@
 /build
+/external/FP16
+/external/FXdiv
+/external/abseil-cpp
+/external/cpuinfo
 /external/googletest
 /external/modp_b64
 /external/nanopb-c
 /external/protobuf
+/external/psimd
+/external/pthreadpool
 /external/six
 /external/tensorflow
 /gamesdk
