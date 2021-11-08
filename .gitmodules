@@ -137,7 +137,7 @@
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
 [submodule "toolchain/llvm-project"]
-	branch = master-legacy
+	branch = kotlin-native-toolchain
 	path = toolchain/llvm-project
 	url = ../../toolchain/llvm-project
 [submodule "toolchain/llvm_android"]
