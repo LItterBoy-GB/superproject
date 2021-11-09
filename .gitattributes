@@ -1,0 +1,10 @@
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8 pdk linux
+/toolchain/binutils
+/toolchain/cloog
+/toolchain/gcc
+/toolchain/gmp
+/toolchain/isl
+/toolchain/mingw
+/toolchain/mpc
+/toolchain/mpfr
+/toolchain/ppl
