@@ -389,10 +389,6 @@
 	branch = master
 	path = build/soong
 	url = ../build/soong
-[submodule "platform/compatibility/cdd"]
-	branch = master
-	path = compatibility/cdd
-	url = ../compatibility/cdd
 [submodule "platform/cts"]
 	branch = master
 	path = cts
