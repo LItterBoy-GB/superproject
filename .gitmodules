@@ -121,6 +121,10 @@
 	branch = lollipop-release
 	path = frameworks/native
 	url = ../frameworks/native
+[submodule "platform/packages/modules/Bluetooth"]
+	branch = master
+	path = packages/modules/Bluetooth
+	url = ../packages/modules/Bluetooth
 [submodule "platform/prebuilts/android-emulator"]
 	branch = emu-master-dev
 	shallow = true
