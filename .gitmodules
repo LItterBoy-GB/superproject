@@ -324,6 +324,11 @@
 	shallow = true
 	path = kernel/prebuilts/mainline/arm64
 	url = ../../kernel/prebuilts/mainline/arm64
+[submodule "kernel/prebuilts/mainline/x86-64"]
+	branch = master
+	shallow = true
+	path = kernel/prebuilts/mainline/x86_64
+	url = ../../kernel/prebuilts/mainline/x86-64
 [submodule "kernel/tests"]
 	branch = master
 	path = kernel/tests
