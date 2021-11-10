@@ -78,6 +78,7 @@
 /kernel/prebuilts/common-modules/virtual-device/mainline/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/mainline/x86-64 pdk
 /kernel/prebuilts/mainline/arm64 pdk
+/kernel/prebuilts/mainline/x86_64 pdk
 /kernel/tests vts pdk
 /art pdk
 /bionic pdk
