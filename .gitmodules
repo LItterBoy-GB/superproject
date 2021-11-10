@@ -1,3 +1,7 @@
+[submodule "platform/build/soong"]
+	branch = master
+	path = build/soong
+	url = ../build/soong
 [submodule "platform/prebuilts/android-emulator-build/curl"]
 	branch = master
 	shallow = true
