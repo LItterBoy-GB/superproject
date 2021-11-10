@@ -3581,6 +3581,10 @@
 	branch = master
 	path = packages/modules/RuntimeI18n
 	url = ../packages/modules/RuntimeI18n
+[submodule "platform/packages/modules/SEPolicy"]
+	branch = master
+	path = packages/modules/SEPolicy
+	url = ../packages/modules/SEPolicy
 [submodule "platform/packages/modules/Scheduling"]
 	branch = master
 	path = packages/modules/Scheduling
