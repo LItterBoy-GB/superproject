@@ -49,7 +49,6 @@
 /prebuilts/qemu-kernel
 /prebuilts/tools
 /sdk
-/system/bt pdk
 /tools/acloud
 /tools/buildSrc
 /tools/emulator

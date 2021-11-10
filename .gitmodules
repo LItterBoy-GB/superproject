@@ -219,10 +219,6 @@
 	branch = emu-master-dev
 	path = sdk
 	url = ../sdk
-[submodule "platform/system/bt"]
-	branch = master
-	path = system/bt
-	url = ../system/bt
 [submodule "platform/tools/acloud"]
 	branch = master
 	path = tools/acloud
