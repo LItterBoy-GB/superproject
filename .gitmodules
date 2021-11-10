@@ -1,6 +1,18 @@
 [submodule "platform/build"]
 	path = build
 	url = ../build
+[submodule "platform/external/FP16"]
+	path = external/FP16
+	url = ../external/FP16
+[submodule "platform/external/FXdiv"]
+	path = external/FXdiv
+	url = ../external/FXdiv
+[submodule "platform/external/abseil-cpp"]
+	path = external/abseil-cpp
+	url = ../external/abseil-cpp
+[submodule "platform/external/cpuinfo"]
+	path = external/cpuinfo
+	url = ../external/cpuinfo
 [submodule "platform/external/googletest"]
 	path = external/googletest
 	url = ../external/googletest
@@ -13,9 +25,18 @@
 [submodule "platform/external/protobuf"]
 	path = external/protobuf
 	url = ../external/protobuf
+[submodule "platform/external/psimd"]
+	path = external/psimd
+	url = ../external/psimd
+[submodule "platform/external/pthreadpool"]
+	path = external/pthreadpool
+	url = ../external/pthreadpool
 [submodule "platform/external/python/six"]
 	path = external/six
 	url = ../external/python/six
+[submodule "platform/external/tensorflow"]
+	path = external/tensorflow
+	url = ../external/tensorflow
 [submodule "platform/frameworks/opt/gamesdk"]
 	path = gamesdk
 	url = ../frameworks/opt/gamesdk
@@ -40,6 +61,15 @@
 [submodule "platform/prebuilts/fullsdk/platforms/android-28"]
 	path = prebuilts/sdk/platforms/android-28
 	url = ../prebuilts/fullsdk/platforms/android-28
+[submodule "platform/prebuilts/ninja/darwin-x86"]
+	path = prebuilts/ninja/darwin-x86
+	url = ../prebuilts/ninja/darwin-x86
+[submodule "platform/prebuilts/ninja/linux-x86"]
+	path = prebuilts/ninja/linux-x86
+	url = ../prebuilts/ninja/linux-x86
+[submodule "platform/prebuilts/ninja/windows-x86"]
+	path = prebuilts/ninja/windows-x86
+	url = ../prebuilts/ninja/windows-x86
 [submodule "platform/tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks
