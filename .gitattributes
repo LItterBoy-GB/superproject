@@ -29,6 +29,7 @@
 /external/wpa_supplicant_8
 /external/zlib
 /frameworks/native
+/packages/modules/Bluetooth pdk
 /prebuilts/android-emulator
 /prebuilts/android-emulator-build/archive
 /prebuilts/android-emulator-build/common
@@ -48,7 +49,6 @@
 /prebuilts/qemu-kernel
 /prebuilts/tools
 /sdk
-/system/bt pdk
 /tools/acloud
 /tools/buildSrc
 /tools/emulator

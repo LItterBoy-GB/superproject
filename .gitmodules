@@ -91,6 +91,9 @@
 [submodule "platform/frameworks/native"]
 	path = frameworks/native
 	url = ../frameworks/native
+[submodule "platform/packages/modules/Bluetooth"]
+	path = packages/modules/Bluetooth
+	url = ../packages/modules/Bluetooth
 [submodule "platform/prebuilts/android-emulator"]
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
@@ -148,9 +151,6 @@
 [submodule "platform/sdk"]
 	path = sdk
 	url = ../sdk
-[submodule "platform/system/bt"]
-	path = system/bt
-	url = ../system/bt
 [submodule "platform/tools/acloud"]
 	path = tools/acloud
 	url = ../tools/acloud
