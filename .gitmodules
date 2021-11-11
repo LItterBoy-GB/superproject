@@ -238,6 +238,9 @@
 [submodule "kernel/prebuilts/mainline/arm64"]
 	path = kernel/prebuilts/mainline/arm64
 	url = ../../kernel/prebuilts/mainline/arm64
+[submodule "kernel/prebuilts/mainline/x86-64"]
+	path = kernel/prebuilts/mainline/x86_64
+	url = ../../kernel/prebuilts/mainline/x86-64
 [submodule "kernel/tests"]
 	path = kernel/tests
 	url = ../../kernel/tests
@@ -271,9 +274,6 @@
 [submodule "platform/build/soong"]
 	path = build/soong
 	url = ../build/soong
-[submodule "platform/compatibility/cdd"]
-	path = compatibility/cdd
-	url = ../compatibility/cdd
 [submodule "platform/cts"]
 	path = cts
 	url = ../cts
@@ -1702,6 +1702,9 @@
 [submodule "platform/external/rust/crates/remain"]
 	path = external/rust/crates/remain
 	url = ../external/rust/crates/remain
+[submodule "platform/external/rust/crates/remove_dir_all"]
+	path = external/rust/crates/remove_dir_all
+	url = ../external/rust/crates/remove_dir_all
 [submodule "platform/external/rust/crates/ring"]
 	path = external/rust/crates/ring
 	url = ../external/rust/crates/ring
@@ -1780,6 +1783,9 @@
 [submodule "platform/external/rust/crates/syn-mid"]
 	path = external/rust/crates/syn-mid
 	url = ../external/rust/crates/syn-mid
+[submodule "platform/external/rust/crates/tempfile"]
+	path = external/rust/crates/tempfile
+	url = ../external/rust/crates/tempfile
 [submodule "platform/external/rust/crates/termcolor"]
 	path = external/rust/crates/termcolor
 	url = ../external/rust/crates/termcolor
@@ -2623,6 +2629,9 @@
 [submodule "platform/packages/modules/ArtPrebuilt"]
 	path = packages/modules/ArtPrebuilt
 	url = ../packages/modules/ArtPrebuilt
+[submodule "platform/packages/modules/Bluetooth"]
+	path = packages/modules/Bluetooth
+	url = ../packages/modules/Bluetooth
 [submodule "platform/packages/modules/BootPrebuilt/5.10/arm64"]
 	path = packages/modules/BootPrebuilt/5.10/arm64
 	url = ../packages/modules/BootPrebuilt/5.10/arm64
@@ -2674,6 +2683,9 @@
 [submodule "platform/packages/modules/RuntimeI18n"]
 	path = packages/modules/RuntimeI18n
 	url = ../packages/modules/RuntimeI18n
+[submodule "platform/packages/modules/SEPolicy"]
+	path = packages/modules/SEPolicy
+	url = ../packages/modules/SEPolicy
 [submodule "platform/packages/modules/Scheduling"]
 	path = packages/modules/Scheduling
 	url = ../packages/modules/Scheduling
@@ -2686,6 +2698,9 @@
 [submodule "platform/packages/modules/TestModule"]
 	path = packages/modules/TestModule
 	url = ../packages/modules/TestModule
+[submodule "platform/packages/modules/Uwb"]
+	path = packages/modules/Uwb
+	url = ../packages/modules/Uwb
 [submodule "platform/packages/modules/Virtualization"]
 	path = packages/modules/Virtualization
 	url = ../packages/modules/Virtualization
@@ -2944,9 +2959,6 @@
 [submodule "platform/system/bpfprogs"]
 	path = system/bpfprogs
 	url = ../system/bpfprogs
-[submodule "platform/system/bt"]
-	path = system/bt
-	url = ../system/bt
 [submodule "platform/system/ca-certificates"]
 	path = system/ca-certificates
 	url = ../system/ca-certificates

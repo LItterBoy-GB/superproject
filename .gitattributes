@@ -78,6 +78,7 @@
 /kernel/prebuilts/common-modules/virtual-device/mainline/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/mainline/x86-64 pdk
 /kernel/prebuilts/mainline/arm64 pdk
+/kernel/prebuilts/mainline/x86_64 pdk
 /kernel/tests vts pdk
 /art pdk
 /bionic pdk
@@ -89,7 +90,6 @@
 /build/blueprint tradefed pdk
 /build/pesto pdk
 /build/soong tradefed pdk
-/compatibility/cdd pdk
 /cts pdk-fs cts pdk-cw-fs
 /dalvik pdk-fs pdk-cw-fs
 /developers/build developers pdk
@@ -566,6 +566,7 @@
 /external/rust/crates/regex-automata pdk
 /external/rust/crates/regex-syntax pdk
 /external/rust/crates/remain pdk
+/external/rust/crates/remove_dir_all pdk
 /external/rust/crates/ring pdk
 /external/rust/crates/rusqlite pdk
 /external/rust/crates/rustc-demangle pdk
@@ -592,6 +593,7 @@
 /external/rust/crates/structopt-derive pdk
 /external/rust/crates/syn pdk
 /external/rust/crates/syn-mid pdk
+/external/rust/crates/tempfile pdk
 /external/rust/crates/termcolor pdk
 /external/rust/crates/textwrap pdk
 /external/rust/crates/thiserror pdk
@@ -873,6 +875,7 @@
 /packages/inputmethods/LeanbackIME pdk-fs
 /packages/modules/AppSearch pdk
 /packages/modules/ArtPrebuilt pdk
+/packages/modules/Bluetooth pdk
 /packages/modules/BootPrebuilt/5.10/arm64 pdk
 /packages/modules/BootPrebuilt/5.4/arm64 pdk
 /packages/modules/CaptivePortalLogin pdk-fs pdk-cw-fs
@@ -890,10 +893,12 @@
 /packages/modules/NeuralNetworks pdk-fs pdk-cw-fs
 /packages/modules/Permission pdk-fs pdk-cw-fs
 /packages/modules/RuntimeI18n pdk-fs pdk-cw-fs
+/packages/modules/SEPolicy pdk-fs pdk-cw-fs
 /packages/modules/Scheduling pdk-fs pdk-cw-fs
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
 /packages/modules/StatsD pdk-fs pdk-cw-fs
 /packages/modules/TestModule
+/packages/modules/Uwb pdk-fs pdk-cw-fs
 /packages/modules/Virtualization pdk
 /packages/modules/Wifi pdk-fs pdk-cw-fs
 /packages/modules/adb pdk
@@ -980,7 +985,6 @@
 /system/apex pdk
 /system/bpf pdk
 /system/bpfprogs pdk
-/system/bt pdk
 /system/ca-certificates pdk
 /system/chre pdk
 /system/connectivity/wificond pdk
