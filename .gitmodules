@@ -238,6 +238,9 @@
 [submodule "kernel/prebuilts/mainline/arm64"]
 	path = kernel/prebuilts/mainline/arm64
 	url = ../../kernel/prebuilts/mainline/arm64
+[submodule "kernel/prebuilts/mainline/x86-64"]
+	path = kernel/prebuilts/mainline/x86_64
+	url = ../../kernel/prebuilts/mainline/x86-64
 [submodule "kernel/tests"]
 	path = kernel/tests
 	url = ../../kernel/tests
@@ -271,9 +274,6 @@
 [submodule "platform/build/soong"]
 	path = build/soong
 	url = ../build/soong
-[submodule "platform/compatibility/cdd"]
-	path = compatibility/cdd
-	url = ../compatibility/cdd
 [submodule "platform/cts"]
 	path = cts
 	url = ../cts
@@ -2683,6 +2683,9 @@
 [submodule "platform/packages/modules/RuntimeI18n"]
 	path = packages/modules/RuntimeI18n
 	url = ../packages/modules/RuntimeI18n
+[submodule "platform/packages/modules/SEPolicy"]
+	path = packages/modules/SEPolicy
+	url = ../packages/modules/SEPolicy
 [submodule "platform/packages/modules/Scheduling"]
 	path = packages/modules/Scheduling
 	url = ../packages/modules/Scheduling
@@ -2695,6 +2698,9 @@
 [submodule "platform/packages/modules/TestModule"]
 	path = packages/modules/TestModule
 	url = ../packages/modules/TestModule
+[submodule "platform/packages/modules/Uwb"]
+	path = packages/modules/Uwb
+	url = ../packages/modules/Uwb
 [submodule "platform/packages/modules/Virtualization"]
 	path = packages/modules/Virtualization
 	url = ../packages/modules/Virtualization

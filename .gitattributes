@@ -78,6 +78,7 @@
 /kernel/prebuilts/common-modules/virtual-device/mainline/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/mainline/x86-64 pdk
 /kernel/prebuilts/mainline/arm64 pdk
+/kernel/prebuilts/mainline/x86_64 pdk
 /kernel/tests vts pdk
 /art pdk
 /bionic pdk
@@ -89,7 +90,6 @@
 /build/blueprint tradefed pdk
 /build/pesto pdk
 /build/soong tradefed pdk
-/compatibility/cdd pdk
 /cts pdk-fs cts pdk-cw-fs
 /dalvik pdk-fs pdk-cw-fs
 /developers/build developers pdk
@@ -893,10 +893,12 @@
 /packages/modules/NeuralNetworks pdk-fs pdk-cw-fs
 /packages/modules/Permission pdk-fs pdk-cw-fs
 /packages/modules/RuntimeI18n pdk-fs pdk-cw-fs
+/packages/modules/SEPolicy pdk-fs pdk-cw-fs
 /packages/modules/Scheduling pdk-fs pdk-cw-fs
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
 /packages/modules/StatsD pdk-fs pdk-cw-fs
 /packages/modules/TestModule
+/packages/modules/Uwb pdk-fs pdk-cw-fs
 /packages/modules/Virtualization pdk
 /packages/modules/Wifi pdk-fs pdk-cw-fs
 /packages/modules/adb pdk
