@@ -4260,7 +4260,7 @@
 	path = tools/test/openhst
 	url = ../tools/test/openhst
 [submodule "platform/tools/tradefederation/prebuilts"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = tools/tradefederation/prebuilts
 	url = ../tools/tradefederation/prebuilts
 [submodule "platform/tools/treble"]
