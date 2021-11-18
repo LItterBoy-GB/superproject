@@ -50,8 +50,6 @@
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
-	branch = master
-	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 [submodule "platform/prebuilts/jdk/jdk11"]
