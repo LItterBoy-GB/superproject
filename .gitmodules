@@ -43,15 +43,15 @@
 	path = prebuilts/cmake/windows-x86
 	url = ../prebuilts/cmake/windows-x86
 [submodule "platform/prebuilts/ninja/darwin-x86"]
-	branch = cmake-master-dev
+	branch = master
 	path = prebuilts/ninja/darwin-x86
 	url = ../prebuilts/ninja/darwin-x86
 [submodule "platform/prebuilts/ninja/linux-x86"]
-	branch = cmake-master-dev
+	branch = master
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
 [submodule "platform/prebuilts/ninja/windows-x86"]
-	branch = cmake-master-dev
+	branch = master
 	path = prebuilts/ninja/windows-x86
 	url = ../prebuilts/ninja/windows-x86
 [submodule "platform/prebuilts/python/darwin-x86"]
