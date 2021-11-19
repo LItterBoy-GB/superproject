@@ -2,6 +2,8 @@
 /development presubmit
 /external/effcee
 /external/googletest presubmit
+/external/python/astroid presubmit
+/external/python/pylint presubmit
 /external/regex-re2
 /external/shaderc/glslang presubmit
 /external/shaderc/shaderc presubmit

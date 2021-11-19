@@ -14,6 +14,14 @@
 	branch = master
 	path = external/googletest
 	url = ../external/googletest
+[submodule "platform/external/python/astroid"]
+	branch = master
+	path = external/python/astroid
+	url = ../external/python/astroid
+[submodule "platform/external/python/pylint"]
+	branch = master
+	path = external/python/pylint
+	url = ../external/python/pylint
 [submodule "platform/external/regex-re2"]
 	branch = master
 	path = external/regex-re2
