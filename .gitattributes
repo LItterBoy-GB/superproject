@@ -798,7 +798,6 @@
 /libcore pdk
 /libnativehelper pdk
 /packages/apps/BasicSmsReceiver pdk-fs pdk-cw-fs
-/packages/apps/Bluetooth pdk-fs pdk-cw-fs
 /packages/apps/Browser2 pdk-fs
 /packages/apps/Calendar pdk-fs
 /packages/apps/Camera2 pdk-fs
