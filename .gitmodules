@@ -3198,10 +3198,6 @@
 	branch = master
 	path = packages/apps/BasicSmsReceiver
 	url = ../packages/apps/BasicSmsReceiver
-[submodule "platform/packages/apps/Bluetooth"]
-	branch = master
-	path = packages/apps/Bluetooth
-	url = ../packages/apps/Bluetooth
 [submodule "platform/packages/apps/Browser2"]
 	branch = master
 	path = packages/apps/Browser2
