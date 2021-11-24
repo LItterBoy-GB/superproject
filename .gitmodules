@@ -290,6 +290,16 @@
 	shallow = true
 	path = kernel/prebuilts/5.10/x86_64
 	url = ../../kernel/prebuilts/5.10/x86-64
+[submodule "kernel/prebuilts/5.15/arm64"]
+	branch = master
+	shallow = true
+	path = kernel/prebuilts/5.15/arm64
+	url = ../../kernel/prebuilts/5.15/arm64
+[submodule "kernel/prebuilts/5.15/x86-64"]
+	branch = master
+	shallow = true
+	path = kernel/prebuilts/5.15/x86_64
+	url = ../../kernel/prebuilts/5.15/x86-64
 [submodule "kernel/prebuilts/5.4/arm64"]
 	branch = master
 	shallow = true
@@ -320,6 +330,16 @@
 	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/5.10/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.10/x86-64
+[submodule "kernel/prebuilts/common-modules/virtual-device/5.15/arm64"]
+	branch = master
+	shallow = true
+	path = kernel/prebuilts/common-modules/virtual-device/5.15/arm64
+	url = ../../kernel/prebuilts/common-modules/virtual-device/5.15/arm64
+[submodule "kernel/prebuilts/common-modules/virtual-device/5.15/x86-64"]
+	branch = master
+	shallow = true
+	path = kernel/prebuilts/common-modules/virtual-device/5.15/x86-64
+	url = ../../kernel/prebuilts/common-modules/virtual-device/5.15/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.4/arm64"]
 	branch = master
 	shallow = true
