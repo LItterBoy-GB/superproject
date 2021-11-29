@@ -1631,10 +1631,6 @@
 	branch = master
 	path = external/python/funcsigs
 	url = ../external/python/funcsigs
-[submodule "platform/external/python/futures"]
-	branch = master
-	path = external/python/futures
-	url = ../external/python/futures
 [submodule "platform/external/python/google-api-python-client"]
 	branch = master
 	path = external/python/google-api-python-client
