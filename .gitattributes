@@ -12,6 +12,7 @@
 /external/apache-xml pdk
 /external/auto pdk
 /external/avb pdk
+/external/bcc pdk
 /external/boringssl pdk
 /external/bouncycastle pdk
 /external/caliper pdk
@@ -88,6 +89,7 @@
 /external/zlib pdk
 /external/zopfli pdk-fs pdk-cw-fs
 /frameworks/libs/modules-utils pdk
+/frameworks/libs/net pdk
 /frameworks/proto_logging pdk
 /libcore pdk
 /libnativehelper pdk
