@@ -17,8 +17,10 @@
 /prebuilts/cmake/windows-x86
 /prebuilts/sdk/build-tools/26.0.1
 /prebuilts/sdk/build-tools/28.0.3
+/prebuilts/sdk/build-tools/31.0.0
 /prebuilts/sdk/platforms/android-26
 /prebuilts/sdk/platforms/android-28
+/prebuilts/sdk/platforms/android-31
 /prebuilts/ninja/darwin-x86
 /prebuilts/ninja/linux-x86
 /prebuilts/ninja/windows-x86

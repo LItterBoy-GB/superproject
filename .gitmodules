@@ -71,6 +71,10 @@
 	branch = master
 	path = prebuilts/sdk/build-tools/28.0.3
 	url = ../prebuilts/fullsdk-linux/build-tools/28.0.3
+[submodule "platform/prebuilts/fullsdk-linux/build-tools/31.0.0"]
+	branch = master
+	path = prebuilts/sdk/build-tools/31.0.0
+	url = ../prebuilts/fullsdk-linux/build-tools/31.0.0
 [submodule "platform/prebuilts/fullsdk/platforms/android-26"]
 	branch = master
 	path = prebuilts/sdk/platforms/android-26
@@ -79,6 +83,10 @@
 	branch = master
 	path = prebuilts/sdk/platforms/android-28
 	url = ../prebuilts/fullsdk/platforms/android-28
+[submodule "platform/prebuilts/fullsdk/platforms/android-31"]
+	branch = master
+	path = prebuilts/sdk/platforms/android-31
+	url = ../prebuilts/fullsdk/platforms/android-31
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	path = prebuilts/ninja/darwin-x86
 	url = ../prebuilts/ninja/darwin-x86
