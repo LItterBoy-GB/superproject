@@ -1628,6 +1628,10 @@
 	branch = master
 	path = external/python/asn1crypto
 	url = ../external/python/asn1crypto
+[submodule "platform/external/python/cachetools"]
+	branch = master
+	path = external/python/cachetools
+	url = ../external/python/cachetools
 [submodule "platform/external/python/cffi"]
 	branch = master
 	path = external/python/cffi
