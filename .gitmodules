@@ -18,6 +18,10 @@
 	branch = emu-master-dev
 	path = external/adt-infra
 	url = ../external/adt-infra
+[submodule "platform/external/angle"]
+	branch = emu-master-dev
+	path = external/angle
+	url = ../external/angle
 [submodule "platform/external/astc-codec"]
 	branch = master
 	path = external/astc-codec
