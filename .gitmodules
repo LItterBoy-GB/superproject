@@ -13,6 +13,9 @@
 [submodule "platform/external/adt-infra"]
 	path = external/adt-infra
 	url = ../external/adt-infra
+[submodule "platform/external/angle"]
+	path = external/angle
+	url = ../external/angle
 [submodule "platform/external/astc-codec"]
 	path = external/astc-codec
 	url = ../external/astc-codec

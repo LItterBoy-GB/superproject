@@ -3,6 +3,7 @@
 /device/google/cuttlefish
 /build
 /external/adt-infra
+/external/angle
 /external/astc-codec
 /external/bison pdk
 /external/boringssl
