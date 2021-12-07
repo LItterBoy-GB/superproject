@@ -590,6 +590,10 @@
 	branch = master
 	path = system/unwinding
 	url = ../system/unwinding
+[submodule "platform/test/app_compat/csuite"]
+	branch = master
+	path = test/app_compat/csuite
+	url = ../test/app_compat/csuite
 [submodule "platform/test/suite_harness"]
 	branch = master
 	path = test/suite_harness

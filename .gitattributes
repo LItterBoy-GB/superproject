@@ -140,6 +140,7 @@
 /system/tools/sysprop pdk
 /system/tools/xsdc pdk
 /system/unwinding pdk
+/test/app_compat/csuite
 /test/suite_harness pdk-fs cts pdk-cw-fs
 /tools/apifinder pdk tools
 /tools/apksig tradefed pdk
