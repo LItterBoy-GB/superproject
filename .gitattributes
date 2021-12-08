@@ -397,6 +397,7 @@
 /external/puffin pdk
 /external/python/apitools pdk
 /external/python/asn1crypto pdk
+/external/python/cachetools pdk
 /external/python/cffi pdk
 /external/python/cpython2 pdk
 /external/python/cpython3 pdk

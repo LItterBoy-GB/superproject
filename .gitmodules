@@ -1195,6 +1195,9 @@
 [submodule "platform/external/python/asn1crypto"]
 	path = external/python/asn1crypto
 	url = ../external/python/asn1crypto
+[submodule "platform/external/python/cachetools"]
+	path = external/python/cachetools
+	url = ../external/python/cachetools
 [submodule "platform/external/python/cffi"]
 	path = external/python/cffi
 	url = ../external/python/cffi
