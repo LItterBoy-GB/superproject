@@ -1936,6 +1936,10 @@
 	branch = master
 	path = external/rust/crates/either
 	url = ../external/rust/crates/either
+[submodule "platform/external/rust/crates/enumn"]
+	branch = master
+	path = external/rust/crates/enumn
+	url = ../external/rust/crates/enumn
 [submodule "platform/external/rust/crates/env_logger"]
 	branch = master
 	path = external/rust/crates/env_logger
