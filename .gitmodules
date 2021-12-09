@@ -1426,6 +1426,9 @@
 [submodule "platform/external/rust/crates/either"]
 	path = external/rust/crates/either
 	url = ../external/rust/crates/either
+[submodule "platform/external/rust/crates/enumn"]
+	path = external/rust/crates/enumn
+	url = ../external/rust/crates/enumn
 [submodule "platform/external/rust/crates/env_logger"]
 	path = external/rust/crates/env_logger
 	url = ../external/rust/crates/env_logger
