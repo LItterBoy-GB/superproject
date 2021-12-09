@@ -97,6 +97,7 @@
 /system/tools/hidl
 /system/tools/xsdc
 /system/unwinding
+/test/app_compat/csuite
 /toolchain/go
 /toolchain/m4
 /toolchain/make

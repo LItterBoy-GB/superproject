@@ -416,6 +416,10 @@
 	branch = master
 	path = system/unwinding
 	url = ../system/unwinding
+[submodule "platform/test/app_compat/csuite"]
+	branch = master
+	path = test/app_compat/csuite
+	url = ../test/app_compat/csuite
 [submodule "toolchain/go"]
 	branch = master
 	path = toolchain/go
