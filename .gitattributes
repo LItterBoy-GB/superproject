@@ -419,6 +419,7 @@
 /external/python/pycparser pdk
 /external/python/pyfakefs pdk
 /external/python/pyopenssl pdk
+/external/python/pythone-api-core pdk
 /external/python/rsa vts pdk
 /external/python/setuptools vts pdk
 /external/python/six vts pdk

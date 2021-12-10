@@ -1716,6 +1716,10 @@
 	branch = master
 	path = external/python/pyopenssl
 	url = ../external/python/pyopenssl
+[submodule "platform/external/python/python-api-core"]
+	branch = master
+	path = external/python/pythone-api-core
+	url = ../external/python/python-api-core
 [submodule "platform/external/python/rsa"]
 	branch = master
 	path = external/python/rsa
