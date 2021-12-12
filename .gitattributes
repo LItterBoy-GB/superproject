@@ -419,6 +419,7 @@
 /external/python/pycparser pdk
 /external/python/pyfakefs pdk
 /external/python/pyopenssl pdk
+/external/python/pythone-api-core pdk
 /external/python/rsa vts pdk
 /external/python/setuptools vts pdk
 /external/python/six vts pdk
@@ -474,6 +475,7 @@
 /external/rust/crates/derive_arbitrary pdk
 /external/rust/crates/downcast-rs pdk
 /external/rust/crates/either pdk
+/external/rust/crates/enumn pdk
 /external/rust/crates/env_logger pdk
 /external/rust/crates/fallible-iterator pdk
 /external/rust/crates/fallible-streaming-iterator pdk

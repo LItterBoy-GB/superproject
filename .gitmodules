@@ -1261,6 +1261,9 @@
 [submodule "platform/external/python/pyopenssl"]
 	path = external/python/pyopenssl
 	url = ../external/python/pyopenssl
+[submodule "platform/external/python/python-api-core"]
+	path = external/python/pythone-api-core
+	url = ../external/python/python-api-core
 [submodule "platform/external/python/rsa"]
 	path = external/python/rsa
 	url = ../external/python/rsa
@@ -1426,6 +1429,9 @@
 [submodule "platform/external/rust/crates/either"]
 	path = external/rust/crates/either
 	url = ../external/rust/crates/either
+[submodule "platform/external/rust/crates/enumn"]
+	path = external/rust/crates/enumn
+	url = ../external/rust/crates/enumn
 [submodule "platform/external/rust/crates/env_logger"]
 	path = external/rust/crates/env_logger
 	url = ../external/rust/crates/env_logger
