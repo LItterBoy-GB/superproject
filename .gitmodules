@@ -4107,18 +4107,6 @@
 	branch = android12-release
 	path = test/mts
 	url = ../test/mts
-[submodule "platform/test/vti/dashboard"]
-	branch = android12-tests-dev
-	path = test/vti/dashboard
-	url = ../test/vti/dashboard
-[submodule "platform/test/vti/fuzz_test_serving"]
-	branch = android12-tests-dev
-	path = test/vti/fuzz_test_serving
-	url = ../test/vti/fuzz_test_serving
-[submodule "platform/test/vti/test_serving"]
-	branch = android12-tests-dev
-	path = test/vti/test_serving
-	url = ../test/vti/test_serving
 [submodule "platform/test/vts"]
 	branch = android12-tests-dev
 	path = test/vts
