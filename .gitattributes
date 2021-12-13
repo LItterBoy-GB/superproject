@@ -1048,9 +1048,6 @@
 /test/mlts/models pdk
 /test/mts
 /test/suite_harness pdk-fs cts pdk-cw-fs
-/test/vti/dashboard vts pdk projectarch
-/test/vti/fuzz_test_serving vts pdk projectarch
-/test/vti/test_serving vts pdk projectarch
 /test/vts vts pdk
 /test/vts-testcase/fuzz vts pdk projectarch
 /test/vts-testcase/hal vts pdk
