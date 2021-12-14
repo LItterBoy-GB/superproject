@@ -3007,15 +3007,6 @@
 [submodule "platform/test/mts"]
 	path = test/mts
 	url = ../test/mts
-[submodule "platform/test/vti/dashboard"]
-	path = test/vti/dashboard
-	url = ../test/vti/dashboard
-[submodule "platform/test/vti/fuzz_test_serving"]
-	path = test/vti/fuzz_test_serving
-	url = ../test/vti/fuzz_test_serving
-[submodule "platform/test/vti/test_serving"]
-	path = test/vti/test_serving
-	url = ../test/vti/test_serving
 [submodule "platform/test/vts"]
 	path = test/vts
 	url = ../test/vts
