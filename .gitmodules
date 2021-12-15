@@ -295,6 +295,9 @@
 [submodule "platform/system/unwinding"]
 	path = system/unwinding
 	url = ../system/unwinding
+[submodule "platform/test/app_compat/csuite"]
+	path = test/app_compat/csuite
+	url = ../test/app_compat/csuite
 [submodule "toolchain/go"]
 	path = toolchain/go
 	url = ../../toolchain/go
