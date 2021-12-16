@@ -1261,6 +1261,9 @@
 [submodule "platform/external/python/pyopenssl"]
 	path = external/python/pyopenssl
 	url = ../external/python/pyopenssl
+[submodule "platform/external/python/python-api-core"]
+	path = external/python/pythone-api-core
+	url = ../external/python/python-api-core
 [submodule "platform/external/python/rsa"]
 	path = external/python/rsa
 	url = ../external/python/rsa
@@ -3145,15 +3148,6 @@
 [submodule "platform/test/suite_harness"]
 	path = test/suite_harness
 	url = ../test/suite_harness
-[submodule "platform/test/vti/dashboard"]
-	path = test/vti/dashboard
-	url = ../test/vti/dashboard
-[submodule "platform/test/vti/fuzz_test_serving"]
-	path = test/vti/fuzz_test_serving
-	url = ../test/vti/fuzz_test_serving
-[submodule "platform/test/vti/test_serving"]
-	path = test/vti/test_serving
-	url = ../test/vti/test_serving
 [submodule "platform/test/vts"]
 	path = test/vts
 	url = ../test/vts
