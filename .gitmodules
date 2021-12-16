@@ -938,7 +938,7 @@
 	path = external/icing
 	url = ../external/icing
 [submodule "platform/external/icu"]
-	branch = android12-dev
+	branch = android12-hostruntime-dev
 	path = external/icu
 	url = ../external/icu
 [submodule "platform/external/igt-gpu-tools"]
@@ -2448,7 +2448,7 @@
 	path = external/speex
 	url = ../external/speex
 [submodule "platform/external/sqlite"]
-	branch = android12-dev
+	branch = android12-hostruntime-dev
 	path = external/sqlite
 	url = ../external/sqlite
 [submodule "platform/external/squashfs-tools"]
@@ -2654,7 +2654,7 @@
 	path = frameworks/av
 	url = ../frameworks/av
 [submodule "platform/frameworks/base"]
-	branch = android12-dev
+	branch = android12-hostruntime-dev
 	path = frameworks/base
 	url = ../frameworks/base
 [submodule "platform/frameworks/compile/libbcc"]
