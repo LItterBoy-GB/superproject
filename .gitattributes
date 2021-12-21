@@ -695,6 +695,7 @@
 /external/webrtc pdk
 /external/wmediumd pdk
 /external/wpa_supplicant_8 pdk
+/external/wuffs-mirror-release-c pdk qcom_msm8x26
 /external/wycheproof pdk
 /external/xmp_toolkit pdk
 /external/xz-embedded pdk
