@@ -2802,6 +2802,10 @@
 	branch = master
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
+[submodule "platform/external/wuffs-mirror-release-c"]
+	branch = master
+	path = external/wuffs-mirror-release-c
+	url = ../external/wuffs-mirror-release-c
 [submodule "platform/external/wycheproof"]
 	branch = master
 	path = external/wycheproof
