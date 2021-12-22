@@ -1,3 +1,4 @@
+/prebuilts/fullsdk-linux/kernel-build-tools platform-linux notdefault
 /build/make
 /external/doclava
 /external/dokka

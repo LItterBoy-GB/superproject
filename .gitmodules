@@ -1,3 +1,8 @@
+[submodule "kernel/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/fullsdk-linux/kernel-build-tools
+	url = ../../kernel/prebuilts/build-tools
 [submodule "platform/build"]
 	branch = androidx-main
 	path = build/make
