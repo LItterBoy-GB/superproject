@@ -1399,6 +1399,10 @@
 	branch = master
 	path = external/mksh
 	url = ../external/mksh
+[submodule "platform/external/mobly-bundled-snippets"]
+	branch = master
+	path = external/mobly-bundled-snippets
+	url = ../external/mobly-bundled-snippets
 [submodule "platform/external/mockftpserver"]
 	branch = master
 	path = external/mockftpserver

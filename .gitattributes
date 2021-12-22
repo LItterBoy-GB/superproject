@@ -340,6 +340,7 @@
 /external/minigbm pdk
 /external/minijail pdk
 /external/mksh pdk
+/external/mobly-bundled-snippets pdk
 /external/mockftpserver pdk
 /external/mockito pdk
 /external/mockwebserver pdk
