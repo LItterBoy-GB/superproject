@@ -1668,6 +1668,10 @@
 	branch = master
 	path = external/python/google-api-python-client
 	url = ../external/python/google-api-python-client
+[submodule "platform/external/python/google-auth-library-python"]
+	branch = master
+	path = external/python/google-auth-library-python
+	url = ../external/python/google-auth-library-python
 [submodule "platform/external/python/httplib2"]
 	branch = master
 	path = external/python/httplib2
@@ -1718,7 +1722,7 @@
 	url = ../external/python/pyopenssl
 [submodule "platform/external/python/python-api-core"]
 	branch = master
-	path = external/python/pythone-api-core
+	path = external/python/python-api-core
 	url = ../external/python/python-api-core
 [submodule "platform/external/python/rsa"]
 	branch = master
