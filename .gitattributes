@@ -347,6 +347,7 @@
 /external/minigbm pdk
 /external/minijail pdk
 /external/mksh pdk
+/external/mobly-bundled-snippets pdk
 /external/mockftpserver pdk
 /external/mockito pdk
 /external/mockwebserver pdk
@@ -407,6 +408,7 @@
 /external/python/funcsigs pdk
 /external/python/futures vts pdk
 /external/python/google-api-python-client vts pdk
+/external/python/google-auth-library-python pdk
 /external/python/httplib2 vts pdk
 /external/python/ipaddress pdk
 /external/python/jinja pdk
@@ -419,7 +421,7 @@
 /external/python/pycparser pdk
 /external/python/pyfakefs pdk
 /external/python/pyopenssl pdk
-/external/python/pythone-api-core pdk
+/external/python/python-api-core pdk
 /external/python/rsa vts pdk
 /external/python/setuptools vts pdk
 /external/python/six vts pdk
@@ -621,7 +623,6 @@
 /external/rust/crates/untrusted pdk
 /external/rust/crates/url pdk
 /external/rust/crates/uuid pdk
-/external/rust/vmm_vhost pdk
 /external/rust/crates/vsock pdk
 /external/rust/crates/vulkano pdk
 /external/rust/crates/walkdir pdk
@@ -695,6 +696,7 @@
 /external/webrtc pdk
 /external/wmediumd pdk
 /external/wpa_supplicant_8 pdk
+/external/wuffs-mirror-release-c pdk qcom_msm8x26
 /external/wycheproof pdk
 /external/xmp_toolkit pdk
 /external/xz-embedded pdk

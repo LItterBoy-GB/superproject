@@ -1045,6 +1045,9 @@
 [submodule "platform/external/mksh"]
 	path = external/mksh
 	url = ../external/mksh
+[submodule "platform/external/mobly-bundled-snippets"]
+	path = external/mobly-bundled-snippets
+	url = ../external/mobly-bundled-snippets
 [submodule "platform/external/mockftpserver"]
 	path = external/mockftpserver
 	url = ../external/mockftpserver
@@ -1225,6 +1228,9 @@
 [submodule "platform/external/python/google-api-python-client"]
 	path = external/python/google-api-python-client
 	url = ../external/python/google-api-python-client
+[submodule "platform/external/python/google-auth-library-python"]
+	path = external/python/google-auth-library-python
+	url = ../external/python/google-auth-library-python
 [submodule "platform/external/python/httplib2"]
 	path = external/python/httplib2
 	url = ../external/python/httplib2
@@ -1262,7 +1268,7 @@
 	path = external/python/pyopenssl
 	url = ../external/python/pyopenssl
 [submodule "platform/external/python/python-api-core"]
-	path = external/python/pythone-api-core
+	path = external/python/python-api-core
 	url = ../external/python/python-api-core
 [submodule "platform/external/python/rsa"]
 	path = external/python/rsa
@@ -1867,9 +1873,6 @@
 [submodule "platform/external/rust/crates/uuid"]
 	path = external/rust/crates/uuid
 	url = ../external/rust/crates/uuid
-[submodule "platform/external/rust/crates/vmm_vhost"]
-	path = external/rust/vmm_vhost
-	url = ../external/rust/crates/vmm_vhost
 [submodule "platform/external/rust/crates/vsock"]
 	path = external/rust/crates/vsock
 	url = ../external/rust/crates/vsock
@@ -2089,6 +2092,9 @@
 [submodule "platform/external/wpa_supplicant_8"]
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
+[submodule "platform/external/wuffs-mirror-release-c"]
+	path = external/wuffs-mirror-release-c
+	url = ../external/wuffs-mirror-release-c
 [submodule "platform/external/wycheproof"]
 	path = external/wycheproof
 	url = ../external/wycheproof
