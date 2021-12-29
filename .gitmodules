@@ -1083,6 +1083,10 @@
 	branch = master
 	path = external/javassist
 	url = ../external/javassist
+[submodule "platform/external/jazzer-api"]
+	branch = master
+	path = external/jazzer-api
+	url = ../external/jazzer-api
 [submodule "platform/external/jcommander"]
 	branch = master
 	path = external/jcommander
