@@ -253,6 +253,7 @@
 /external/javapoet pdk
 /external/javasqlite pdk
 /external/javassist pdk
+/external/jazzer-api pdk
 /external/jcommander pdk
 /external/jdiff pdk
 /external/jemalloc_new pdk
