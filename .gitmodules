@@ -787,6 +787,9 @@
 [submodule "platform/external/javassist"]
 	path = external/javassist
 	url = ../external/javassist
+[submodule "platform/external/jazzer-api"]
+	path = external/jazzer-api
+	url = ../external/jazzer-api
 [submodule "platform/external/jcommander"]
 	path = external/jcommander
 	url = ../external/jcommander
