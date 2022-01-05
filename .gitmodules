@@ -1436,6 +1436,10 @@
 	branch = master
 	path = external/mobly-bundled-snippets
 	url = ../external/mobly-bundled-snippets
+[submodule "platform/external/mobly-snippet-lib"]
+	branch = master
+	path = external/mobly-snippet-lib
+	url = ../external/mobly-snippet-lib
 [submodule "platform/external/mockftpserver"]
 	branch = master
 	path = external/mockftpserver
