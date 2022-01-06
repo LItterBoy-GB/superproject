@@ -205,6 +205,12 @@
 [submodule "kernel/prebuilts/5.10/x86-64"]
 	path = kernel/prebuilts/5.10/x86_64
 	url = ../../kernel/prebuilts/5.10/x86-64
+[submodule "kernel/prebuilts/5.15/arm64"]
+	path = kernel/prebuilts/5.15/arm64
+	url = ../../kernel/prebuilts/5.15/arm64
+[submodule "kernel/prebuilts/5.15/x86-64"]
+	path = kernel/prebuilts/5.15/x86_64
+	url = ../../kernel/prebuilts/5.15/x86-64
 [submodule "kernel/prebuilts/5.4/arm64"]
 	path = kernel/prebuilts/5.4/arm64
 	url = ../../kernel/prebuilts/5.4/arm64
@@ -223,6 +229,12 @@
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.10/x86-64"]
 	path = kernel/prebuilts/common-modules/virtual-device/5.10/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.10/x86-64
+[submodule "kernel/prebuilts/common-modules/virtual-device/5.15/arm64"]
+	path = kernel/prebuilts/common-modules/virtual-device/5.15/arm64
+	url = ../../kernel/prebuilts/common-modules/virtual-device/5.15/arm64
+[submodule "kernel/prebuilts/common-modules/virtual-device/5.15/x86-64"]
+	path = kernel/prebuilts/common-modules/virtual-device/5.15/x86-64
+	url = ../../kernel/prebuilts/common-modules/virtual-device/5.15/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.4/arm64"]
 	path = kernel/prebuilts/common-modules/virtual-device/5.4/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.4/arm64
@@ -775,6 +787,9 @@
 [submodule "platform/external/javassist"]
 	path = external/javassist
 	url = ../external/javassist
+[submodule "platform/external/jazzer-api"]
+	path = external/jazzer-api
+	url = ../external/jazzer-api
 [submodule "platform/external/jcommander"]
 	path = external/jcommander
 	url = ../external/jcommander
@@ -1033,6 +1048,12 @@
 [submodule "platform/external/mksh"]
 	path = external/mksh
 	url = ../external/mksh
+[submodule "platform/external/mobly-bundled-snippets"]
+	path = external/mobly-bundled-snippets
+	url = ../external/mobly-bundled-snippets
+[submodule "platform/external/mobly-snippet-lib"]
+	path = external/mobly-snippet-lib
+	url = ../external/mobly-snippet-lib
 [submodule "platform/external/mockftpserver"]
 	path = external/mockftpserver
 	url = ../external/mockftpserver
@@ -1183,6 +1204,9 @@
 [submodule "platform/external/python/asn1crypto"]
 	path = external/python/asn1crypto
 	url = ../external/python/asn1crypto
+[submodule "platform/external/python/cachetools"]
+	path = external/python/cachetools
+	url = ../external/python/cachetools
 [submodule "platform/external/python/cffi"]
 	path = external/python/cffi
 	url = ../external/python/cffi
@@ -1210,6 +1234,9 @@
 [submodule "platform/external/python/google-api-python-client"]
 	path = external/python/google-api-python-client
 	url = ../external/python/google-api-python-client
+[submodule "platform/external/python/google-auth-library-python"]
+	path = external/python/google-auth-library-python
+	url = ../external/python/google-auth-library-python
 [submodule "platform/external/python/httplib2"]
 	path = external/python/httplib2
 	url = ../external/python/httplib2
@@ -1246,6 +1273,9 @@
 [submodule "platform/external/python/pyopenssl"]
 	path = external/python/pyopenssl
 	url = ../external/python/pyopenssl
+[submodule "platform/external/python/python-api-core"]
+	path = external/python/python-api-core
+	url = ../external/python/python-api-core
 [submodule "platform/external/python/rsa"]
 	path = external/python/rsa
 	url = ../external/python/rsa
@@ -1411,6 +1441,9 @@
 [submodule "platform/external/rust/crates/either"]
 	path = external/rust/crates/either
 	url = ../external/rust/crates/either
+[submodule "platform/external/rust/crates/enumn"]
+	path = external/rust/crates/enumn
+	url = ../external/rust/crates/enumn
 [submodule "platform/external/rust/crates/env_logger"]
 	path = external/rust/crates/env_logger
 	url = ../external/rust/crates/env_logger
@@ -1846,9 +1879,6 @@
 [submodule "platform/external/rust/crates/uuid"]
 	path = external/rust/crates/uuid
 	url = ../external/rust/crates/uuid
-[submodule "platform/external/rust/crates/vmm_vhost"]
-	path = external/rust/vmm_vhost
-	url = ../external/rust/crates/vmm_vhost
 [submodule "platform/external/rust/crates/vsock"]
 	path = external/rust/crates/vsock
 	url = ../external/rust/crates/vsock
@@ -2068,6 +2098,9 @@
 [submodule "platform/external/wpa_supplicant_8"]
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
+[submodule "platform/external/wuffs-mirror-release-c"]
+	path = external/wuffs-mirror-release-c
+	url = ../external/wuffs-mirror-release-c
 [submodule "platform/external/wycheproof"]
 	path = external/wycheproof
 	url = ../external/wycheproof
@@ -2398,9 +2431,6 @@
 [submodule "platform/packages/apps/BasicSmsReceiver"]
 	path = packages/apps/BasicSmsReceiver
 	url = ../packages/apps/BasicSmsReceiver
-[submodule "platform/packages/apps/Bluetooth"]
-	path = packages/apps/Bluetooth
-	url = ../packages/apps/Bluetooth
 [submodule "platform/packages/apps/Browser2"]
 	path = packages/apps/Browser2
 	url = ../packages/apps/Browser2
@@ -3130,15 +3160,6 @@
 [submodule "platform/test/suite_harness"]
 	path = test/suite_harness
 	url = ../test/suite_harness
-[submodule "platform/test/vti/dashboard"]
-	path = test/vti/dashboard
-	url = ../test/vti/dashboard
-[submodule "platform/test/vti/fuzz_test_serving"]
-	path = test/vti/fuzz_test_serving
-	url = ../test/vti/fuzz_test_serving
-[submodule "platform/test/vti/test_serving"]
-	path = test/vti/test_serving
-	url = ../test/vti/test_serving
 [submodule "platform/test/vts"]
 	path = test/vts
 	url = ../test/vts

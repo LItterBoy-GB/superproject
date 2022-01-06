@@ -67,12 +67,16 @@
 /kernel/prebuilts/4.19/arm64 pdk
 /kernel/prebuilts/5.10/arm64 pdk
 /kernel/prebuilts/5.10/x86_64 pdk
+/kernel/prebuilts/5.15/arm64 pdk
+/kernel/prebuilts/5.15/x86_64 pdk
 /kernel/prebuilts/5.4/arm64 pdk
 /kernel/prebuilts/5.4/x86_64 pdk
 /kernel/prebuilts/common-modules/virtual-device/4.19/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/4.19/x86-64 pdk
 /kernel/prebuilts/common-modules/virtual-device/5.10/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/5.10/x86-64 pdk
+/kernel/prebuilts/common-modules/virtual-device/5.15/arm64 pdk
+/kernel/prebuilts/common-modules/virtual-device/5.15/x86-64 pdk
 /kernel/prebuilts/common-modules/virtual-device/5.4/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/5.4/x86-64 pdk
 /kernel/prebuilts/common-modules/virtual-device/mainline/arm64 pdk
@@ -257,6 +261,7 @@
 /external/javapoet pdk
 /external/javasqlite pdk
 /external/javassist pdk
+/external/jazzer-api pdk
 /external/jcommander pdk
 /external/jdiff pdk
 /external/jemalloc_new pdk
@@ -343,6 +348,8 @@
 /external/minigbm pdk
 /external/minijail pdk
 /external/mksh pdk
+/external/mobly-bundled-snippets pdk
+/external/mobly-snippet-lib pdk
 /external/mockftpserver pdk
 /external/mockito pdk
 /external/mockwebserver pdk
@@ -393,6 +400,7 @@
 /external/puffin pdk
 /external/python/apitools pdk
 /external/python/asn1crypto pdk
+/external/python/cachetools pdk
 /external/python/cffi pdk
 /external/python/cpython2 pdk
 /external/python/cpython3 pdk
@@ -402,6 +410,7 @@
 /external/python/funcsigs pdk
 /external/python/futures vts pdk
 /external/python/google-api-python-client vts pdk
+/external/python/google-auth-library-python pdk
 /external/python/httplib2 vts pdk
 /external/python/ipaddress pdk
 /external/python/jinja pdk
@@ -414,6 +423,7 @@
 /external/python/pycparser pdk
 /external/python/pyfakefs pdk
 /external/python/pyopenssl pdk
+/external/python/python-api-core pdk
 /external/python/rsa vts pdk
 /external/python/setuptools vts pdk
 /external/python/six vts pdk
@@ -469,6 +479,7 @@
 /external/rust/crates/derive_arbitrary pdk
 /external/rust/crates/downcast-rs pdk
 /external/rust/crates/either pdk
+/external/rust/crates/enumn pdk
 /external/rust/crates/env_logger pdk
 /external/rust/crates/fallible-iterator pdk
 /external/rust/crates/fallible-streaming-iterator pdk
@@ -614,7 +625,6 @@
 /external/rust/crates/untrusted pdk
 /external/rust/crates/url pdk
 /external/rust/crates/uuid pdk
-/external/rust/vmm_vhost pdk
 /external/rust/crates/vsock pdk
 /external/rust/crates/vulkano pdk
 /external/rust/crates/walkdir pdk
@@ -688,6 +698,7 @@
 /external/webrtc pdk
 /external/wmediumd pdk
 /external/wpa_supplicant_8 pdk
+/external/wuffs-mirror-release-c pdk qcom_msm8x26
 /external/wycheproof pdk
 /external/xmp_toolkit pdk
 /external/xz-embedded pdk
@@ -798,7 +809,6 @@
 /libcore pdk
 /libnativehelper pdk
 /packages/apps/BasicSmsReceiver pdk-fs pdk-cw-fs
-/packages/apps/Bluetooth pdk-fs pdk-cw-fs
 /packages/apps/Browser2 pdk-fs
 /packages/apps/Calendar pdk-fs
 /packages/apps/Camera2 pdk-fs
@@ -1042,9 +1052,6 @@
 /test/mlts/models pdk
 /test/mts
 /test/suite_harness pdk-fs cts pdk-cw-fs
-/test/vti/dashboard vts pdk projectarch
-/test/vti/fuzz_test_serving vts pdk projectarch
-/test/vti/test_serving vts pdk projectarch
 /test/vts vts pdk
 /test/vts-testcase/fuzz vts pdk projectarch
 /test/vts-testcase/hal vts pdk
