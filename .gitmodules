@@ -397,7 +397,7 @@
 	path = development
 	url = ../development
 [submodule "platform/external/FP16"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = external/FP16
 	url = ../external/FP16
 [submodule "platform/external/FXdiv"]
@@ -702,7 +702,7 @@
 	path = external/easymock
 	url = ../external/easymock
 [submodule "platform/external/eigen"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = external/eigen
 	url = ../external/eigen
 [submodule "platform/external/elfutils"]
@@ -790,7 +790,7 @@
 	path = external/fsverity-utils
 	url = ../external/fsverity-utils
 [submodule "platform/external/gemmlowp"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = external/gemmlowp
 	url = ../external/gemmlowp
 [submodule "platform/external/geojson-jackson"]
@@ -2367,7 +2367,7 @@
 	path = external/rust/cxx
 	url = ../external/rust/cxx
 [submodule "platform/external/ruy"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = external/ruy
 	url = ../external/ruy
 [submodule "platform/external/s2-geometry-library-java"]
