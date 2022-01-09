@@ -1051,6 +1051,9 @@
 [submodule "platform/external/mobly-bundled-snippets"]
 	path = external/mobly-bundled-snippets
 	url = ../external/mobly-bundled-snippets
+[submodule "platform/external/mobly-snippet-lib"]
+	path = external/mobly-snippet-lib
+	url = ../external/mobly-snippet-lib
 [submodule "platform/external/mockftpserver"]
 	path = external/mockftpserver
 	url = ../external/mockftpserver
@@ -1246,6 +1249,9 @@
 [submodule "platform/external/python/markupsafe"]
 	path = external/python/markupsafe
 	url = ../external/python/markupsafe
+[submodule "platform/external/python/mobly"]
+	path = external/mobly
+	url = ../external/python/mobly
 [submodule "platform/external/python/oauth2client"]
 	path = external/python/oauth2client
 	url = ../external/python/oauth2client
