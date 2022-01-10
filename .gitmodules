@@ -3,6 +3,11 @@
 	shallow = true
 	path = prebuilts/androidx/external
 	url = ../prebuilts/androidx/external
+[submodule "platform/prebuilts/androidx/internal"]
+	branch = androidx-main
+	shallow = true
+	path = prebuilts/androidx/internal
+	url = ../prebuilts/androidx/internal
 [submodule "platform/prebuilts/jdk/jdk11"]
 	branch = master
 	shallow = true
