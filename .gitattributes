@@ -285,6 +285,7 @@
 /external/libaom pdk
 /external/libavc pdk
 /external/libbackup pdk
+/external/libbpf pdk
 /external/libbrillo pdk
 /external/libcap pdk
 /external/libcap-ng pdk
