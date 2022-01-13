@@ -859,6 +859,9 @@
 [submodule "platform/external/libbackup"]
 	path = external/libbackup
 	url = ../external/libbackup
+[submodule "platform/external/libbpf"]
+	path = external/libbpf
+	url = ../external/libbpf
 [submodule "platform/external/libbrillo"]
 	path = external/libbrillo
 	url = ../external/libbrillo
@@ -1249,6 +1252,9 @@
 [submodule "platform/external/python/markupsafe"]
 	path = external/python/markupsafe
 	url = ../external/python/markupsafe
+[submodule "platform/external/python/mobly"]
+	path = external/mobly
+	url = ../external/python/mobly
 [submodule "platform/external/python/oauth2client"]
 	path = external/python/oauth2client
 	url = ../external/python/oauth2client

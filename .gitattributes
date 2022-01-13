@@ -285,6 +285,7 @@
 /external/libaom pdk
 /external/libavc pdk
 /external/libbackup pdk
+/external/libbpf pdk
 /external/libbrillo pdk
 /external/libcap pdk
 /external/libcap-ng pdk
@@ -415,6 +416,7 @@
 /external/python/ipaddress pdk
 /external/python/jinja pdk
 /external/python/markupsafe pdk
+/external/mobly pdk
 /external/python/oauth2client vts pdk
 /external/python/parse_type vts pdk
 /external/python/pyasn1 vts pdk
