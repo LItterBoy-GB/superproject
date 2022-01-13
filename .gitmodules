@@ -3421,7 +3421,7 @@
 	path = packages/modules/Scheduling
 	url = ../packages/modules/Scheduling
 [submodule "platform/packages/modules/SdkExtensions"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = packages/modules/SdkExtensions
 	url = ../packages/modules/SdkExtensions
 [submodule "platform/packages/modules/StatsD"]
