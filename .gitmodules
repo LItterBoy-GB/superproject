@@ -859,6 +859,9 @@
 [submodule "platform/external/libbackup"]
 	path = external/libbackup
 	url = ../external/libbackup
+[submodule "platform/external/libbpf"]
+	path = external/libbpf
+	url = ../external/libbpf
 [submodule "platform/external/libbrillo"]
 	path = external/libbrillo
 	url = ../external/libbrillo
