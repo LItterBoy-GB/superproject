@@ -171,6 +171,9 @@
 	shallow = true
 	path = prebuilts/protobuf
 	url = ../prebuilts/protobuf
+[submodule "platform/tools/dexter"]
+	path = external/dexter
+	url = ../tools/dexter
 [submodule "platform/tools/external/gradle"]
 	branch = androidx-main
 	shallow = true
