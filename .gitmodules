@@ -1333,6 +1333,15 @@
 [submodule "platform/external/rust/crates/arbitrary"]
 	path = external/rust/crates/arbitrary
 	url = ../external/rust/crates/arbitrary
+[submodule "platform/external/rust/crates/argh"]
+	path = external/rust/crates/argh
+	url = ../external/rust/crates/argh
+[submodule "platform/external/rust/crates/argh_derive"]
+	path = external/rust/crates/argh_derive
+	url = ../external/rust/crates/argh_derive
+[submodule "platform/external/rust/crates/argh_shared"]
+	path = external/rust/crates/argh_shared
+	url = ../external/rust/crates/argh_shared
 [submodule "platform/external/rust/crates/ash"]
 	path = external/rust/crates/ash
 	url = ../external/rust/crates/ash
