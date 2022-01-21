@@ -3,14 +3,6 @@
 	shallow = true
 	path = tools/assets
 	url = ../../assets/android-studio-ux-assets
-[submodule "platform/dalvik"]
-	branch = studio-main
-	path = tools/dx/dalvik
-	url = ../dalvik
-[submodule "platform/external/desugar"]
-	branch = studio-main
-	path = tools/external/desugar
-	url = ../external/desugar
 [submodule "platform/external/doclava"]
 	branch = studio-main
 	path = external/doclava
@@ -36,10 +28,6 @@
 	branch = studio-main
 	path = external/grpc-grpc
 	url = ../external/grpc-grpc
-[submodule "platform/external/jetbrains/kotlin"]
-	branch = studio-main
-	path = external/jetbrains/kotlin
-	url = ../external/jetbrains/kotlin
 [submodule "platform/external/libpng"]
 	branch = studio-main
 	path = external/libpng

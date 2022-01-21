@@ -1,13 +1,10 @@
 /tools/assets
-/tools/dx/dalvik
-/tools/external/desugar
 /external/doclava
 /external/dokka pdk
 /external/freetype
 /external/gflags
 /external/googletest
 /external/grpc-grpc
-/external/jetbrains/kotlin
 /external/libpng
 /external/nanopb-c
 /external/perfetto
