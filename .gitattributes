@@ -443,6 +443,9 @@
 /external/rust/crates/android_logger pdk
 /external/rust/crates/anyhow pdk
 /external/rust/crates/arbitrary pdk
+/external/rust/crates/argh pdk
+/external/rust/crates/argh_derive pdk
+/external/rust/crates/argh_shared pdk
 /external/rust/crates/ash pdk
 /external/rust/crates/async-stream pdk
 /external/rust/crates/async-stream-impl pdk
