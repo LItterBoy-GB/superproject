@@ -33,6 +33,7 @@
 /prebuilts/fullsdk-darwin/ninja notdefault platform-darwin
 /prebuilts/fullsdk-linux/ninja platform-linux notdefault
 /prebuilts/protobuf
+/external/dexter
 /tools/external/gradle
 /tools/repohooks
 /prebuilts/fullsdk-darwin/ndk notdefault platform-darwin

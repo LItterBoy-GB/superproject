@@ -103,6 +103,9 @@
 [submodule "platform/prebuilts/protobuf"]
 	path = prebuilts/protobuf
 	url = ../prebuilts/protobuf
+[submodule "platform/tools/dexter"]
+	path = external/dexter
+	url = ../tools/dexter
 [submodule "platform/tools/external/gradle"]
 	path = tools/external/gradle
 	url = ../tools/external/gradle
