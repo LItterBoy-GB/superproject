@@ -24,6 +24,7 @@
 /external/dlmalloc pdk
 /external/e2fsprogs pdk
 /external/easymock pdk
+/external/elfutils pdk
 /external/erofs-utils pdk
 /external/error_prone pdk
 /external/escapevelocity pdk
@@ -53,6 +54,7 @@
 /external/junit-params pdk
 /external/kotlinc pdk
 /external/kotlinx.metadata pdk
+/external/libbpf pdk
 /external/libcxx pdk
 /external/libcxxabi pdk
 /external/libffi pdk

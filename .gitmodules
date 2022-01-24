@@ -102,6 +102,10 @@
 	branch = master
 	path = external/easymock
 	url = ../external/easymock
+[submodule "platform/external/elfutils"]
+	branch = master
+	path = external/elfutils
+	url = ../external/elfutils
 [submodule "platform/external/erofs-utils"]
 	branch = master
 	path = external/erofs-utils
@@ -218,6 +222,10 @@
 	branch = master
 	path = external/kotlinx.metadata
 	url = ../external/kotlinx.metadata
+[submodule "platform/external/libbpf"]
+	branch = master
+	path = external/libbpf
+	url = ../external/libbpf
 [submodule "platform/external/libcxx"]
 	branch = master
 	path = external/libcxx
