@@ -24,6 +24,8 @@
 /external/perfetto
 /external/protobuf
 /external/qemu
+/external/rapidjson
+/external/tink
 /external/tinyobjloader
 /external/virglrenderer
 /external/webrtc

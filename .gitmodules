@@ -76,6 +76,12 @@
 [submodule "platform/external/qemu"]
 	path = external/qemu
 	url = ../external/qemu
+[submodule "platform/external/rapidjson"]
+	path = external/rapidjson
+	url = ../external/rapidjson
+[submodule "platform/external/tink"]
+	path = external/tink
+	url = ../external/tink
 [submodule "platform/external/tinyobjloader"]
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
