@@ -100,15 +100,6 @@
 [submodule "device/google/coral-sepolicy"]
 	path = device/google/coral-sepolicy
 	url = ../../device/google/coral-sepolicy
-[submodule "device/google/crosshatch"]
-	path = device/google/crosshatch
-	url = ../../device/google/crosshatch
-[submodule "device/google/crosshatch-kernel"]
-	path = device/google/crosshatch-kernel
-	url = ../../device/google/crosshatch-kernel
-[submodule "device/google/crosshatch-sepolicy"]
-	path = device/google/crosshatch-sepolicy
-	url = ../../device/google/crosshatch-sepolicy
 [submodule "device/google/cuttlefish"]
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
@@ -1333,6 +1324,15 @@
 [submodule "platform/external/rust/crates/arbitrary"]
 	path = external/rust/crates/arbitrary
 	url = ../external/rust/crates/arbitrary
+[submodule "platform/external/rust/crates/argh"]
+	path = external/rust/crates/argh
+	url = ../external/rust/crates/argh
+[submodule "platform/external/rust/crates/argh_derive"]
+	path = external/rust/crates/argh_derive
+	url = ../external/rust/crates/argh_derive
+[submodule "platform/external/rust/crates/argh_shared"]
+	path = external/rust/crates/argh_shared
+	url = ../external/rust/crates/argh_shared
 [submodule "platform/external/rust/crates/ash"]
 	path = external/rust/crates/ash
 	url = ../external/rust/crates/ash
