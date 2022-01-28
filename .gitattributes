@@ -1046,7 +1046,7 @@
 /system/unwinding pdk
 /system/update_engine pdk
 /system/vold pdk
-/test/app_compat/csuite
+/test/app_compat/csuite pdk
 /test/catbox
 /test/cts-root
 /test/framework vts pdk projectarch
