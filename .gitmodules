@@ -3,21 +3,20 @@
 	path = build
 	url = ../build
 [submodule "platform/external/FP16"]
-	branch = master
 	path = external/FP16
 	url = ../external/FP16
 [submodule "platform/external/FXdiv"]
-	branch = master
 	path = external/FXdiv
 	url = ../external/FXdiv
 [submodule "platform/external/abseil-cpp"]
-	branch = master
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
 [submodule "platform/external/cpuinfo"]
-	branch = master
 	path = external/cpuinfo
 	url = ../external/cpuinfo
+[submodule "platform/external/eigen"]
+	path = external/eigen
+	url = ../external/eigen
 [submodule "platform/external/googletest"]
 	branch = master
 	path = external/googletest
@@ -35,11 +34,9 @@
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/psimd"]
-	branch = master
 	path = external/psimd
 	url = ../external/psimd
 [submodule "platform/external/pthreadpool"]
-	branch = master
 	path = external/pthreadpool
 	url = ../external/pthreadpool
 [submodule "platform/external/python/six"]
@@ -47,7 +44,6 @@
 	path = external/six
 	url = ../external/python/six
 [submodule "platform/external/tensorflow"]
-	branch = master
 	path = external/tensorflow
 	url = ../external/tensorflow
 [submodule "platform/frameworks/opt/gamesdk"]
