@@ -1387,6 +1387,15 @@
 [submodule "platform/external/rust/crates/chrono"]
 	path = external/rust/crates/chrono
 	url = ../external/rust/crates/chrono
+[submodule "platform/external/rust/crates/ciborium"]
+	path = external/rust/crates/ciborium
+	url = ../external/rust/crates/ciborium
+[submodule "platform/external/rust/crates/ciborium-io"]
+	path = external/rust/crates/ciborium-io
+	url = ../external/rust/crates/ciborium-io
+[submodule "platform/external/rust/crates/ciborium-ll"]
+	path = external/rust/crates/ciborium-ll
+	url = ../external/rust/crates/ciborium-ll
 [submodule "platform/external/rust/crates/clang-sys"]
 	path = external/rust/crates/clang-sys
 	url = ../external/rust/crates/clang-sys

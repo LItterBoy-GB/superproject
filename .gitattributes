@@ -461,6 +461,9 @@
 /external/rust/crates/cexpr pdk
 /external/rust/crates/cfg-if pdk
 /external/rust/crates/chrono pdk
+/external/rust/crates/ciborium pdk
+/external/rust/crates/ciborium-io pdk
+/external/rust/crates/ciborium-ll pdk
 /external/rust/crates/clang-sys pdk
 /external/rust/crates/clap pdk
 /external/rust/crates/codespan-reporting pdk
@@ -1046,7 +1049,7 @@
 /system/unwinding pdk
 /system/update_engine pdk
 /system/vold pdk
-/test/app_compat/csuite
+/test/app_compat/csuite pdk
 /test/catbox
 /test/cts-root
 /test/framework vts pdk projectarch
