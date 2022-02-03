@@ -1923,6 +1923,10 @@
 	branch = master
 	path = external/rust/crates/command-fds
 	url = ../external/rust/crates/command-fds
+[submodule "platform/external/rust/crates/coset"]
+	branch = master
+	path = external/rust/crates/coset
+	url = ../external/rust/crates/coset
 [submodule "platform/external/rust/crates/crc32fast"]
 	branch = master
 	path = external/rust/crates/crc32fast
