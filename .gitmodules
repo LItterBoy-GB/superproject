@@ -1507,6 +1507,10 @@
 	branch = master
 	path = external/noto-fonts
 	url = ../external/noto-fonts
+[submodule "platform/external/nullaway"]
+	branch = master
+	path = external/nullaway
+	url = ../external/nullaway
 [submodule "platform/external/oauth"]
 	branch = master
 	path = external/oauth
