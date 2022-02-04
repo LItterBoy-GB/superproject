@@ -4121,6 +4121,10 @@
 	branch = master
 	path = system/core
 	url = ../system/core
+[submodule "platform/system/dmesgd"]
+	branch = master
+	path = system/dmesgd
+	url = ../system/dmesgd
 [submodule "platform/system/extras"]
 	branch = master
 	path = system/extras
