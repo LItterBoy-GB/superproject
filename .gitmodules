@@ -8,6 +8,10 @@
 [submodule "platform/external/FXdiv"]
 	path = external/FXdiv
 	url = ../external/FXdiv
+[submodule "platform/external/XNNPACK"]
+	branch = master
+	path = external/XNNPACK
+	url = ../external/XNNPACK
 [submodule "platform/external/abseil-cpp"]
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
