@@ -142,6 +142,110 @@
 	branch = master
 	path = external/regex-re2
 	url = ../external/regex-re2
+[submodule "platform/external/rust/crates/aho-corasick"]
+	branch = master
+	path = external/rust/crates/aho-corasick
+	url = ../external/rust/crates/aho-corasick
+[submodule "platform/external/rust/crates/bindgen"]
+	branch = master
+	path = external/rust/crates/bindgen
+	url = ../external/rust/crates/bindgen
+[submodule "platform/external/rust/crates/bitflags"]
+	branch = master
+	path = external/rust/crates/bitflags
+	url = ../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/cexpr"]
+	branch = master
+	path = external/rust/crates/cexpr
+	url = ../external/rust/crates/cexpr
+[submodule "platform/external/rust/crates/cfg-if"]
+	branch = master
+	path = external/rust/crates/cfg-if
+	url = ../external/rust/crates/cfg-if
+[submodule "platform/external/rust/crates/clang-sys"]
+	branch = master
+	path = external/rust/crates/clang-sys
+	url = ../external/rust/crates/clang-sys
+[submodule "platform/external/rust/crates/clap"]
+	branch = master
+	path = external/rust/crates/clap
+	url = ../external/rust/crates/clap
+[submodule "platform/external/rust/crates/either"]
+	branch = master
+	path = external/rust/crates/either
+	url = ../external/rust/crates/either
+[submodule "platform/external/rust/crates/glob"]
+	branch = master
+	path = external/rust/crates/glob
+	url = ../external/rust/crates/glob
+[submodule "platform/external/rust/crates/lazy_static"]
+	branch = master
+	path = external/rust/crates/lazy_static
+	url = ../external/rust/crates/lazy_static
+[submodule "platform/external/rust/crates/lazycell"]
+	branch = master
+	path = external/rust/crates/lazycell
+	url = ../external/rust/crates/lazycell
+[submodule "platform/external/rust/crates/libc"]
+	branch = master
+	path = external/rust/crates/libc
+	url = ../external/rust/crates/libc
+[submodule "platform/external/rust/crates/libloading"]
+	branch = master
+	path = external/rust/crates/libloading
+	url = ../external/rust/crates/libloading
+[submodule "platform/external/rust/crates/memchr"]
+	branch = master
+	path = external/rust/crates/memchr
+	url = ../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/minimal-lexical"]
+	branch = master
+	path = external/rust/crates/minimal-lexical
+	url = ../external/rust/crates/minimal-lexical
+[submodule "platform/external/rust/crates/nom"]
+	branch = master
+	path = external/rust/crates/nom
+	url = ../external/rust/crates/nom
+[submodule "platform/external/rust/crates/peeking_take_while"]
+	branch = master
+	path = external/rust/crates/peeking_take_while
+	url = ../external/rust/crates/peeking_take_while
+[submodule "platform/external/rust/crates/proc-macro2"]
+	branch = master
+	path = external/rust/crates/proc-macro2
+	url = ../external/rust/crates/proc-macro2
+[submodule "platform/external/rust/crates/quote"]
+	branch = master
+	path = external/rust/crates/quote
+	url = ../external/rust/crates/quote
+[submodule "platform/external/rust/crates/regex"]
+	branch = master
+	path = external/rust/crates/regex
+	url = ../external/rust/crates/regex
+[submodule "platform/external/rust/crates/regex-syntax"]
+	branch = master
+	path = external/rust/crates/regex-syntax
+	url = ../external/rust/crates/regex-syntax
+[submodule "platform/external/rust/crates/rustc-hash"]
+	branch = master
+	path = external/rust/crates/rustc-hash
+	url = ../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/shlex"]
+	branch = master
+	path = external/rust/crates/shlex
+	url = ../external/rust/crates/shlex
+[submodule "platform/external/rust/crates/textwrap"]
+	branch = master
+	path = external/rust/crates/textwrap
+	url = ../external/rust/crates/textwrap
+[submodule "platform/external/rust/crates/unicode-xid"]
+	branch = master
+	path = external/rust/crates/unicode-xid
+	url = ../external/rust/crates/unicode-xid
+[submodule "platform/external/rust/crates/which"]
+	branch = master
+	path = external/rust/crates/which
+	url = ../external/rust/crates/which
 [submodule "platform/external/starlark-go"]
 	branch = master
 	path = external/starlark-go
@@ -234,6 +338,11 @@
 	shallow = true
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
+[submodule "platform/prebuilts/rust"]
+	branch = master
+	shallow = true
+	path = prebuilts/rust
+	url = ../prebuilts/rust
 [submodule "platform/system/core"]
 	branch = master
 	path = system/core

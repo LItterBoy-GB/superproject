@@ -34,6 +34,32 @@
 /external/python/cpython3
 /external/rapidjson
 /external/regex-re2
+/external/rust/crates/aho-corasick
+/external/rust/crates/bindgen
+/external/rust/crates/bitflags
+/external/rust/crates/cexpr
+/external/rust/crates/cfg-if
+/external/rust/crates/clang-sys
+/external/rust/crates/clap
+/external/rust/crates/either
+/external/rust/crates/glob
+/external/rust/crates/lazy_static
+/external/rust/crates/lazycell
+/external/rust/crates/libc
+/external/rust/crates/libloading
+/external/rust/crates/memchr
+/external/rust/crates/minimal-lexical
+/external/rust/crates/nom
+/external/rust/crates/peeking_take_while
+/external/rust/crates/proc-macro2
+/external/rust/crates/quote
+/external/rust/crates/regex
+/external/rust/crates/regex-syntax
+/external/rust/crates/rustc-hash
+/external/rust/crates/shlex
+/external/rust/crates/textwrap
+/external/rust/crates/unicode-xid
+/external/rust/crates/which
 /external/starlark-go
 /external/zlib
 /external/zopfli
@@ -53,6 +79,7 @@
 /prebuilts/misc
 /prebuilts/ninja/darwin-x86 darwin
 /prebuilts/ninja/linux-x86 linux
+/prebuilts/rust
 /system/core
 /system/libbase
 /system/libziparchive
