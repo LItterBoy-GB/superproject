@@ -2263,6 +2263,22 @@
 	branch = master
 	path = external/rust/crates/percent-encoding
 	url = ../external/rust/crates/percent-encoding
+[submodule "platform/external/rust/crates/pest"]
+	branch = master
+	path = external/rust/crates/pest
+	url = ../external/rust/crates/pest
+[submodule "platform/external/rust/crates/pest_derive"]
+	branch = master
+	path = external/rust/crates/pest_derive
+	url = ../external/rust/crates/pest_derive
+[submodule "platform/external/rust/crates/pest_generator"]
+	branch = master
+	path = external/rust/crates/pest_generator
+	url = ../external/rust/crates/pest_generator
+[submodule "platform/external/rust/crates/pest_meta"]
+	branch = master
+	path = external/rust/crates/pest_meta
+	url = ../external/rust/crates/pest_meta
 [submodule "platform/external/rust/crates/pin-project"]
 	branch = master
 	path = external/rust/crates/pin-project
@@ -2535,6 +2551,10 @@
 	branch = master
 	path = external/rust/crates/tokio-test
 	url = ../external/rust/crates/tokio-test
+[submodule "platform/external/rust/crates/ucd-trie"]
+	branch = master
+	path = external/rust/crates/ucd-trie
+	url = ../external/rust/crates/ucd-trie
 [submodule "platform/external/rust/crates/unicode-bidi"]
 	branch = master
 	path = external/rust/crates/unicode-bidi
