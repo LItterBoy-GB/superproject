@@ -1105,6 +1105,9 @@
 [submodule "platform/external/noto-fonts"]
 	path = external/noto-fonts
 	url = ../external/noto-fonts
+[submodule "platform/external/nullaway"]
+	path = external/nullaway
+	url = ../external/nullaway
 [submodule "platform/external/oauth"]
 	path = external/oauth
 	url = ../external/oauth
@@ -1411,6 +1414,9 @@
 [submodule "platform/external/rust/crates/command-fds"]
 	path = external/rust/crates/command-fds
 	url = ../external/rust/crates/command-fds
+[submodule "platform/external/rust/crates/coset"]
+	path = external/rust/crates/coset
+	url = ../external/rust/crates/coset
 [submodule "platform/external/rust/crates/crc32fast"]
 	path = external/rust/crates/crc32fast
 	url = ../external/rust/crates/crc32fast
@@ -3016,6 +3022,9 @@
 [submodule "platform/system/core"]
 	path = system/core
 	url = ../system/core
+[submodule "platform/system/dmesgd"]
+	path = system/dmesgd
+	url = ../system/dmesgd
 [submodule "platform/system/extras"]
 	path = system/extras
 	url = ../system/extras
