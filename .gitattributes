@@ -558,6 +558,10 @@
 /external/rust/crates/paste pdk
 /external/rust/crates/peeking_take_while pdk
 /external/rust/crates/percent-encoding pdk
+/external/rust/crates/pest pdk
+/external/rust/crates/pest_derive pdk
+/external/rust/crates/pest_generator pdk
+/external/rust/crates/pest_meta pdk
 /external/rust/crates/pin-project pdk
 /external/rust/crates/pin-project-internal pdk
 /external/rust/crates/pin-project-lite pdk
@@ -626,6 +630,7 @@
 /external/rust/crates/tokio-macros pdk
 /external/rust/crates/tokio-stream pdk
 /external/rust/crates/tokio-test pdk
+/external/rust/crates/ucd-trie pdk
 /external/rust/crates/unicode-bidi pdk
 /external/rust/crates/unicode-normalization pdk
 /external/rust/crates/unicode-segmentation pdk
