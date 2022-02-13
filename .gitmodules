@@ -1672,6 +1672,18 @@
 [submodule "platform/external/rust/crates/percent-encoding"]
 	path = external/rust/crates/percent-encoding
 	url = ../external/rust/crates/percent-encoding
+[submodule "platform/external/rust/crates/pest"]
+	path = external/rust/crates/pest
+	url = ../external/rust/crates/pest
+[submodule "platform/external/rust/crates/pest_derive"]
+	path = external/rust/crates/pest_derive
+	url = ../external/rust/crates/pest_derive
+[submodule "platform/external/rust/crates/pest_generator"]
+	path = external/rust/crates/pest_generator
+	url = ../external/rust/crates/pest_generator
+[submodule "platform/external/rust/crates/pest_meta"]
+	path = external/rust/crates/pest_meta
+	url = ../external/rust/crates/pest_meta
 [submodule "platform/external/rust/crates/pin-project"]
 	path = external/rust/crates/pin-project
 	url = ../external/rust/crates/pin-project
@@ -1876,6 +1888,9 @@
 [submodule "platform/external/rust/crates/tokio-test"]
 	path = external/rust/crates/tokio-test
 	url = ../external/rust/crates/tokio-test
+[submodule "platform/external/rust/crates/ucd-trie"]
+	path = external/rust/crates/ucd-trie
+	url = ../external/rust/crates/ucd-trie
 [submodule "platform/external/rust/crates/unicode-bidi"]
 	path = external/rust/crates/unicode-bidi
 	url = ../external/rust/crates/unicode-bidi
