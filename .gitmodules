@@ -4571,6 +4571,10 @@
 	branch = master
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
+[submodule "toolchain/common"]
+	branch = master
+	path = toolchain/common
+	url = ../../toolchain/common
 [submodule "toolchain/llvm-project"]
 	branch = master-legacy
 	path = toolchain/llvm-project
