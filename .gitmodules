@@ -4584,6 +4584,10 @@
 	branch = master
 	path = toolchain/benchmark
 	url = ../../toolchain/benchmark
+[submodule "toolchain/common"]
+	branch = master
+	path = toolchain/common
+	url = ../../toolchain/common
 [submodule "toolchain/pgo-profiles"]
 	branch = master
 	path = toolchain/pgo-profiles

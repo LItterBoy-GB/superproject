@@ -1119,6 +1119,7 @@
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
 /toolchain/android_rust
 /toolchain/benchmark
+/toolchain/common
 /toolchain/pgo-profiles pdk
 /toolchain/prebuilts/ndk/r23
 /toolchain/rustc
