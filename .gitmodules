@@ -106,11 +106,11 @@
 	shallow = true
 	path = prebuilts/fullsdk-darwin/build-tools/30.0.3
 	url = ../prebuilts/fullsdk-darwin/build-tools/30.0.3
-[submodule "platform/prebuilts/fullsdk-darwin/build-tools/32.0.0"]
+[submodule "platform/prebuilts/fullsdk-darwin/build-tools/32.1.0"]
 	branch = master
 	shallow = true
-	path = prebuilts/fullsdk-darwin/build-tools/32.0.0
-	url = ../prebuilts/fullsdk-darwin/build-tools/32.0.0
+	path = prebuilts/fullsdk-darwin/build-tools/32.1.0
+	url = ../prebuilts/fullsdk-darwin/build-tools/32.1.0
 [submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
 	branch = master
 	shallow = true
@@ -126,11 +126,11 @@
 	shallow = true
 	path = prebuilts/fullsdk-linux/build-tools/30.0.3
 	url = ../prebuilts/fullsdk-linux/build-tools/30.0.3
-[submodule "platform/prebuilts/fullsdk-linux/build-tools/32.0.0"]
+[submodule "platform/prebuilts/fullsdk-linux/build-tools/32.1.0"]
 	branch = master
 	shallow = true
-	path = prebuilts/fullsdk-linux/build-tools/32.0.0
-	url = ../prebuilts/fullsdk-linux/build-tools/32.0.0
+	path = prebuilts/fullsdk-linux/build-tools/32.1.0
+	url = ../prebuilts/fullsdk-linux/build-tools/32.1.0
 [submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
 	branch = master
 	shallow = true
