@@ -20,6 +20,7 @@
 /prebuilts/python/linux-x86
 /prebuilts/python/windows-x86
 /toolchain/binutils
+/toolchain/common
 /toolchain/llvm-project
 /toolchain/llvm_android
 /toolchain/prebuilts/ndk/r23
