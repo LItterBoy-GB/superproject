@@ -86,6 +86,10 @@
 	branch = master
 	path = toolchain/android_rust
 	url = ../../toolchain/android_rust
+[submodule "toolchain/common"]
+	branch = master
+	path = toolchain/common
+	url = ../../toolchain/common
 [submodule "toolchain/prebuilts/ndk/r23"]
 	branch = master
 	shallow = true

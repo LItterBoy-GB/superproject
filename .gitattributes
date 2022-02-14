@@ -16,5 +16,6 @@
 /prebuilts/python/linux-x86
 /prebuilts/rust
 /toolchain/android_rust
+/toolchain/common
 /toolchain/prebuilts/ndk/r23
 /toolchain/rustc
