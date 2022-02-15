@@ -1,8 +1,10 @@
 /build
 /external/FP16
 /external/FXdiv
+/external/XNNPACK
 /external/abseil-cpp
 /external/cpuinfo
+/external/eigen
 /external/googletest
 /external/modp_b64
 /external/nanopb-c
@@ -34,3 +36,4 @@
 /prebuilts/ndk/r19
 /prebuilts/ndk/r20
 /prebuilts/ndk/r21
+/prebuilts/ndk/r23

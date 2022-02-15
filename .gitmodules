@@ -7,12 +7,18 @@
 [submodule "platform/external/FXdiv"]
 	path = external/FXdiv
 	url = ../external/FXdiv
+[submodule "platform/external/XNNPACK"]
+	path = external/XNNPACK
+	url = ../external/XNNPACK
 [submodule "platform/external/abseil-cpp"]
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
 [submodule "platform/external/cpuinfo"]
 	path = external/cpuinfo
 	url = ../external/cpuinfo
+[submodule "platform/external/eigen"]
+	path = external/eigen
+	url = ../external/eigen
 [submodule "platform/external/googletest"]
 	path = external/googletest
 	url = ../external/googletest
@@ -106,3 +112,6 @@
 [submodule "toolchain/prebuilts/ndk/r21"]
 	path = prebuilts/ndk/r21
 	url = ../../toolchain/prebuilts/ndk/r21
+[submodule "toolchain/prebuilts/ndk/r23"]
+	path = prebuilts/ndk/r23
+	url = ../../toolchain/prebuilts/ndk/r23
