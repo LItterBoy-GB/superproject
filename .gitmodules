@@ -726,10 +726,6 @@
 	branch = master
 	path = external/drm_hwcomposer
 	url = ../external/drm_hwcomposer
-[submodule "platform/external/drrickorang"]
-	branch = master
-	path = external/drrickorang
-	url = ../external/drrickorang
 [submodule "platform/external/dtc"]
 	branch = master
 	path = external/dtc
