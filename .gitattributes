@@ -135,6 +135,7 @@
 /external/blktrace pdk
 /external/boringssl pdk
 /external/bouncycastle pdk
+/external/bpftool pdk
 /external/brotli pdk
 /external/bsdiff pdk
 /external/bzip2 pdk
