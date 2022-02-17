@@ -911,6 +911,7 @@
 /packages/modules/GeoTZ pdk-fs pdk-cw-fs
 /packages/modules/Gki pdk-fs pdk-cw-fs
 /packages/modules/IPsec pdk
+/packages/modules/Media pdk
 /packages/modules/ModuleMetadata pdk
 /packages/modules/NetworkPermissionConfig pdk-fs pdk-cw-fs
 /packages/modules/NetworkStack pdk-fs pdk-cw-fs

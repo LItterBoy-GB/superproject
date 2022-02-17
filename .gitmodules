@@ -3689,6 +3689,10 @@
 	branch = master
 	path = packages/modules/IPsec
 	url = ../packages/modules/IPsec
+[submodule "platform/packages/modules/Media"]
+	branch = master
+	path = packages/modules/Media
+	url = ../packages/modules/Media
 [submodule "platform/packages/modules/ModuleMetadata"]
 	branch = master
 	path = packages/modules/ModuleMetadata
