@@ -577,6 +577,10 @@
 	branch = main-plus-java-next-dev
 	path = external/bouncycastle
 	url = ../external/bouncycastle
+[submodule "platform/external/bpftool"]
+	branch = master
+	path = external/bpftool
+	url = ../external/bpftool
 [submodule "platform/external/brotli"]
 	branch = master
 	path = external/brotli
