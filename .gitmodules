@@ -1523,6 +1523,10 @@
 	branch = master
 	path = external/oauth
 	url = ../external/oauth
+[submodule "platform/external/obex"]
+	branch = master
+	path = external/obex
+	url = ../external/obex
 [submodule "platform/external/objenesis"]
 	branch = master
 	path = external/objenesis
