@@ -409,6 +409,9 @@
 [submodule "platform/external/bouncycastle"]
 	path = external/bouncycastle
 	url = ../external/bouncycastle
+[submodule "platform/external/bpftool"]
+	path = external/bpftool
+	url = ../external/bpftool
 [submodule "platform/external/brotli"]
 	path = external/brotli
 	url = ../external/brotli
@@ -520,9 +523,6 @@
 [submodule "platform/external/drm_hwcomposer"]
 	path = external/drm_hwcomposer
 	url = ../external/drm_hwcomposer
-[submodule "platform/external/drrickorang"]
-	path = external/drrickorang
-	url = ../external/drrickorang
 [submodule "platform/external/dtc"]
 	path = external/dtc
 	url = ../external/dtc
@@ -1111,6 +1111,9 @@
 [submodule "platform/external/oauth"]
 	path = external/oauth
 	url = ../external/oauth
+[submodule "platform/external/obex"]
+	path = external/obex
+	url = ../external/obex
 [submodule "platform/external/objenesis"]
 	path = external/objenesis
 	url = ../external/objenesis
@@ -2731,6 +2734,9 @@
 [submodule "platform/packages/modules/IPsec"]
 	path = packages/modules/IPsec
 	url = ../packages/modules/IPsec
+[submodule "platform/packages/modules/Media"]
+	path = packages/modules/Media
+	url = ../packages/modules/Media
 [submodule "platform/packages/modules/ModuleMetadata"]
 	path = packages/modules/ModuleMetadata
 	url = ../packages/modules/ModuleMetadata

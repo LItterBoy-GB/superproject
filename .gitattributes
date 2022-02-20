@@ -135,6 +135,7 @@
 /external/blktrace pdk
 /external/boringssl pdk
 /external/bouncycastle pdk
+/external/bpftool pdk
 /external/brotli pdk
 /external/bsdiff pdk
 /external/bzip2 pdk
@@ -172,7 +173,6 @@
 /external/dokka pdk
 /external/downloader pdk
 /external/drm_hwcomposer pdk-fs drm_hwcomposer
-/external/drrickorang pdk
 /external/dtc pdk
 /external/dynamic_depth pdk
 /external/e2fsprogs pdk
@@ -369,6 +369,7 @@
 /external/noto-fonts pdk
 /external/nullaway pdk
 /external/oauth pdk
+/external/obex pdk
 /external/objenesis pdk
 /external/oboe pdk
 /external/obstack pdk
@@ -909,6 +910,7 @@
 /packages/modules/GeoTZ pdk-fs pdk-cw-fs
 /packages/modules/Gki pdk-fs pdk-cw-fs
 /packages/modules/IPsec pdk
+/packages/modules/Media pdk
 /packages/modules/ModuleMetadata pdk
 /packages/modules/NetworkPermissionConfig pdk-fs pdk-cw-fs
 /packages/modules/NetworkStack pdk-fs pdk-cw-fs
