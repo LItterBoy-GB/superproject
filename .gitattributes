@@ -602,6 +602,7 @@
 /external/rust/crates/ryu pdk
 /external/rust/crates/same-file pdk
 /external/rust/crates/scopeguard pdk
+/external/rust/crates/semver pdk
 /external/rust/crates/serde pdk
 /external/rust/crates/serde-xml-rs pdk
 /external/rust/crates/serde_cbor pdk

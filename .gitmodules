@@ -2447,6 +2447,10 @@
 	branch = master
 	path = external/rust/crates/scopeguard
 	url = ../external/rust/crates/scopeguard
+[submodule "platform/external/rust/crates/semver"]
+	branch = master
+	path = external/rust/crates/semver
+	url = ../external/rust/crates/semver
 [submodule "platform/external/rust/crates/serde"]
 	branch = master
 	path = external/rust/crates/serde
