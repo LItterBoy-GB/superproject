@@ -4573,6 +4573,10 @@
 	branch = master
 	path = tools/test/graphicsbenchmark
 	url = ../tools/test/graphicsbenchmark
+[submodule "platform/tools/test/mobly_snippets"]
+	branch = master
+	path = tools/test/mobly_snippets
+	url = ../tools/test/mobly_snippets
 [submodule "platform/tools/test/openhst"]
 	branch = master
 	path = tools/test/openhst
