@@ -990,6 +990,7 @@
 /prebuilts/maven_repo/android pdk-fs pdk-cw-fs
 /prebuilts/maven_repo/bumptech pdk-fs pdk-cw-fs
 /prebuilts/misc pdk
+/prebuilts/module_sdk/Bluetooth pdk
 /prebuilts/module_sdk/Connectivity pdk
 /prebuilts/module_sdk/IPsec pdk
 /prebuilts/module_sdk/Media pdk
