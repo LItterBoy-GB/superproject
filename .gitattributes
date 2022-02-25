@@ -433,6 +433,7 @@
 /external/python/six vts pdk
 /external/python/uritemplates vts pdk
 /external/rappor pdk
+/external/renderscript-intrinsics-replacement-toolkit pdk
 /external/replicaisland pdk
 /external/rmi4utils pdk
 /external/rnnoise pdk
