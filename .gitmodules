@@ -1763,6 +1763,10 @@
 	branch = master
 	path = external/rappor
 	url = ../external/rappor
+[submodule "platform/external/renderscript-intrinsics-replacement-toolkit"]
+	branch = master
+	path = external/renderscript-intrinsics-replacement-toolkit
+	url = ../external/renderscript-intrinsics-replacement-toolkit
 [submodule "platform/external/replicaisland"]
 	branch = master
 	path = external/replicaisland
