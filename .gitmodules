@@ -4045,6 +4045,11 @@
 	shallow = true
 	path = prebuilts/misc
 	url = ../prebuilts/misc
+[submodule "platform/prebuilts/module_sdk/Bluetooth"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/Bluetooth
+	url = ../prebuilts/module_sdk/Bluetooth
 [submodule "platform/prebuilts/module_sdk/Connectivity"]
 	branch = master
 	shallow = true
