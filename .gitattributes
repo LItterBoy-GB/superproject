@@ -1114,6 +1114,7 @@
 /tools/swt notdefault tools
 /tools/test/connectivity pdk
 /tools/test/graphicsbenchmark pdk
+/tools/test/mobly_snippets pdk
 /tools/test/openhst tools
 /tools/tradefederation/core tradefed pdk
 /tools/tradefederation/contrib tradefed pdk
