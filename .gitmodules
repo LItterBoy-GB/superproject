@@ -854,6 +854,10 @@
 	branch = master
 	path = external/gflags
 	url = ../external/gflags
+[submodule "platform/external/gfxstream-protocols"]
+	branch = master
+	path = external/gfxstream-protocols
+	url = ../external/gfxstream-protocols
 [submodule "platform/external/giflib"]
 	branch = master
 	path = external/giflib
