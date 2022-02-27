@@ -204,6 +204,7 @@
 /external/geojson-jackson pdk
 /external/geonames pdk
 /external/gflags pdk
+/external/gfxstream-protocols pdk
 /external/giflib pdk qcom_msm8x26
 /external/glide pdk
 /external/go-cmp pdk
@@ -430,6 +431,7 @@
 /external/python/six vts pdk
 /external/python/uritemplates vts pdk
 /external/rappor pdk
+/external/renderscript-intrinsics-replacement-toolkit pdk
 /external/replicaisland pdk
 /external/rmi4utils pdk
 /external/rnnoise pdk
@@ -600,6 +602,7 @@
 /external/rust/crates/ryu pdk
 /external/rust/crates/same-file pdk
 /external/rust/crates/scopeguard pdk
+/external/rust/crates/semver pdk
 /external/rust/crates/serde pdk
 /external/rust/crates/serde-xml-rs pdk
 /external/rust/crates/serde_cbor pdk
@@ -982,6 +985,7 @@
 /prebuilts/maven_repo/android pdk-fs pdk-cw-fs
 /prebuilts/maven_repo/bumptech pdk-fs pdk-cw-fs
 /prebuilts/misc pdk
+/prebuilts/module_sdk/Bluetooth pdk
 /prebuilts/module_sdk/Connectivity pdk
 /prebuilts/module_sdk/IPsec pdk
 /prebuilts/module_sdk/Media pdk
@@ -1102,6 +1106,7 @@
 /tools/swt notdefault tools
 /tools/test/connectivity pdk
 /tools/test/graphicsbenchmark pdk
+/tools/test/mobly_snippets pdk
 /tools/test/openhst tools
 /tools/tradefederation/core tradefed pdk
 /tools/tradefederation/contrib tradefed pdk

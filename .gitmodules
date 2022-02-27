@@ -616,6 +616,9 @@
 [submodule "platform/external/gflags"]
 	path = external/gflags
 	url = ../external/gflags
+[submodule "platform/external/gfxstream-protocols"]
+	path = external/gfxstream-protocols
+	url = ../external/gfxstream-protocols
 [submodule "platform/external/giflib"]
 	path = external/giflib
 	url = ../external/giflib
@@ -1294,6 +1297,9 @@
 [submodule "platform/external/rappor"]
 	path = external/rappor
 	url = ../external/rappor
+[submodule "platform/external/renderscript-intrinsics-replacement-toolkit"]
+	path = external/renderscript-intrinsics-replacement-toolkit
+	url = ../external/renderscript-intrinsics-replacement-toolkit
 [submodule "platform/external/replicaisland"]
 	path = external/replicaisland
 	url = ../external/replicaisland
@@ -1804,6 +1810,9 @@
 [submodule "platform/external/rust/crates/scopeguard"]
 	path = external/rust/crates/scopeguard
 	url = ../external/rust/crates/scopeguard
+[submodule "platform/external/rust/crates/semver"]
+	path = external/rust/crates/semver
+	url = ../external/rust/crates/semver
 [submodule "platform/external/rust/crates/serde"]
 	path = external/rust/crates/serde
 	url = ../external/rust/crates/serde
@@ -2950,6 +2959,9 @@
 [submodule "platform/prebuilts/misc"]
 	path = prebuilts/misc
 	url = ../prebuilts/misc
+[submodule "platform/prebuilts/module_sdk/Bluetooth"]
+	path = prebuilts/module_sdk/Bluetooth
+	url = ../prebuilts/module_sdk/Bluetooth
 [submodule "platform/prebuilts/module_sdk/Connectivity"]
 	path = prebuilts/module_sdk/Connectivity
 	url = ../prebuilts/module_sdk/Connectivity
@@ -3310,6 +3322,9 @@
 [submodule "platform/tools/test/graphicsbenchmark"]
 	path = tools/test/graphicsbenchmark
 	url = ../tools/test/graphicsbenchmark
+[submodule "platform/tools/test/mobly_snippets"]
+	path = tools/test/mobly_snippets
+	url = ../tools/test/mobly_snippets
 [submodule "platform/tools/test/openhst"]
 	path = tools/test/openhst
 	url = ../tools/test/openhst
