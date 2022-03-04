@@ -11,6 +11,7 @@
 /external/curl
 /external/deqp
 /external/flex pdk
+/external/gfxstream-protocols
 /external/google-benchmark
 /external/google-breakpad
 /external/googletest

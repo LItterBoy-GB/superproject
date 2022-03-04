@@ -37,6 +37,9 @@
 [submodule "platform/external/flex"]
 	path = external/flex
 	url = ../external/flex
+[submodule "platform/external/gfxstream-protocols"]
+	path = external/gfxstream-protocols
+	url = ../external/gfxstream-protocols
 [submodule "platform/external/google-benchmark"]
 	path = external/google-benchmark
 	url = ../external/google-benchmark
