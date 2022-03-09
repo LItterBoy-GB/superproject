@@ -276,7 +276,7 @@
 	path = device/ti/beagle_x15-kernel
 	url = ../../device/ti/beagle-x15-kernel
 [submodule "kernel/configs"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = kernel/configs
 	url = ../../kernel/configs
 [submodule "kernel/prebuilts/4.19/arm64"]
@@ -350,15 +350,15 @@
 	path = kernel/prebuilts/mainline/arm64
 	url = ../../kernel/prebuilts/mainline/arm64
 [submodule "kernel/tests"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = kernel/tests
 	url = ../../kernel/tests
 [submodule "platform/art"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = art
 	url = ../art
 [submodule "platform/bionic"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = bionic
 	url = ../bionic
 [submodule "platform/bootable/libbootloader"]
@@ -370,7 +370,7 @@
 	path = bootable/recovery
 	url = ../bootable/recovery
 [submodule "platform/build"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = build/make
 	url = ../build
 [submodule "platform/build/bazel"]
@@ -394,7 +394,7 @@
 	path = compatibility/cdd
 	url = ../compatibility/cdd
 [submodule "platform/cts"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = cts
 	url = ../cts
 [submodule "platform/dalvik"]
@@ -422,7 +422,7 @@
 	path = external/ComputeLibrary
 	url = ../external/ComputeLibrary
 [submodule "platform/external/FP16"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/FP16
 	url = ../external/FP16
 [submodule "platform/external/FXdiv"]
@@ -623,11 +623,11 @@
 	path = external/compiler-rt
 	url = ../external/compiler-rt
 [submodule "platform/external/connectedappssdk"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/connectedappssdk
 	url = ../external/connectedappssdk
 [submodule "platform/external/conscrypt"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/conscrypt
 	url = ../external/conscrypt
 [submodule "platform/external/cpu_features"]
@@ -659,15 +659,15 @@
 	path = external/dagger2
 	url = ../external/dagger2
 [submodule "platform/external/deqp"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/deqp
 	url = ../external/deqp
 [submodule "platform/external/deqp-deps/SPIRV-Headers"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/deqp-deps/SPIRV-Headers
 	url = ../external/deqp-deps/SPIRV-Headers
 [submodule "platform/external/deqp-deps/SPIRV-Tools"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/deqp-deps/SPIRV-Tools
 	url = ../external/deqp-deps/SPIRV-Tools
 [submodule "platform/external/deqp-deps/amber"]
@@ -675,7 +675,7 @@
 	path = external/deqp-deps/amber
 	url = ../external/deqp-deps/amber
 [submodule "platform/external/deqp-deps/glslang"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/deqp-deps/glslang
 	url = ../external/deqp-deps/glslang
 [submodule "platform/external/desugar"]
@@ -683,7 +683,7 @@
 	path = external/desugar
 	url = ../external/desugar
 [submodule "platform/external/dexmaker"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/dexmaker
 	url = ../external/dexmaker
 [submodule "platform/external/dlmalloc"]
@@ -735,7 +735,7 @@
 	path = external/easymock
 	url = ../external/easymock
 [submodule "platform/external/eigen"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/eigen
 	url = ../external/eigen
 [submodule "platform/external/elfutils"]
@@ -823,7 +823,7 @@
 	path = external/fsverity-utils
 	url = ../external/fsverity-utils
 [submodule "platform/external/gemmlowp"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/gemmlowp
 	url = ../external/gemmlowp
 [submodule "platform/external/geojson-jackson"]
@@ -975,7 +975,7 @@
 	path = external/icing
 	url = ../external/icing
 [submodule "platform/external/icu"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/icu
 	url = ../external/icu
 [submodule "platform/external/igt-gpu-tools"]
@@ -1323,7 +1323,7 @@
 	path = external/libyuv
 	url = ../external/libyuv
 [submodule "platform/external/linux-kselftest"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	shallow = true
 	path = external/linux-kselftest
 	url = ../external/linux-kselftest
@@ -1340,7 +1340,7 @@
 	path = external/lottie
 	url = ../external/lottie
 [submodule "platform/external/ltp"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/ltp
 	url = ../external/ltp
 [submodule "platform/external/lua"]
@@ -1476,7 +1476,7 @@
 	path = external/oj-libjdwp
 	url = ../external/oj-libjdwp
 [submodule "platform/external/okhttp"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/okhttp
 	url = ../external/okhttp
 [submodule "platform/external/okhttp4"]
@@ -1524,7 +1524,7 @@
 	path = external/pdfium
 	url = ../external/pdfium
 [submodule "platform/external/perfetto"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/perfetto
 	url = ../external/perfetto
 [submodule "platform/external/pffft"]
@@ -2404,7 +2404,7 @@
 	path = external/rust/cxx
 	url = ../external/rust/cxx
 [submodule "platform/external/ruy"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/ruy
 	url = ../external/ruy
 [submodule "platform/external/s2-geometry-library-java"]
@@ -2456,7 +2456,7 @@
 	path = external/skia
 	url = ../external/skia
 [submodule "platform/external/skqp"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	shallow = true
 	path = external/skqp
 	url = ../external/skqp
@@ -2526,7 +2526,7 @@
 	path = external/tcpdump
 	url = ../external/tcpdump
 [submodule "platform/external/tensorflow"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = external/tensorflow
 	url = ../external/tensorflow
 [submodule "platform/external/testng"]
@@ -2687,11 +2687,11 @@
 	path = external/zxing
 	url = ../external/zxing
 [submodule "platform/frameworks/av"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = frameworks/av
 	url = ../frameworks/av
 [submodule "platform/frameworks/base"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = frameworks/base
 	url = ../frameworks/base
 [submodule "platform/frameworks/compile/libbcc"]
@@ -2711,7 +2711,7 @@
 	path = frameworks/ex
 	url = ../frameworks/ex
 [submodule "platform/frameworks/hardware/interfaces"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = frameworks/hardware/interfaces
 	url = ../frameworks/hardware/interfaces
 [submodule "platform/frameworks/layoutlib"]
@@ -2747,7 +2747,7 @@
 	path = frameworks/multidex
 	url = ../frameworks/multidex
 [submodule "platform/frameworks/native"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "platform/frameworks/opt/bitmap"]
@@ -2879,7 +2879,7 @@
 	path = hardware/google/pixel-sepolicy
 	url = ../hardware/google/pixel-sepolicy
 [submodule "platform/hardware/interfaces"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = hardware/interfaces
 	url = ../hardware/interfaces
 [submodule "platform/hardware/invensense"]
@@ -3075,7 +3075,7 @@
 	path = hardware/ti/am57x
 	url = ../hardware/ti/am57x
 [submodule "platform/libcore"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = libcore
 	url = ../libcore
 [submodule "platform/libnativehelper"]
@@ -3410,7 +3410,7 @@
 	path = packages/modules/CellBroadcastService
 	url = ../packages/modules/CellBroadcastService
 [submodule "platform/packages/modules/Connectivity"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = packages/modules/Connectivity
 	url = ../packages/modules/Connectivity
 [submodule "platform/packages/modules/Cronet"]
@@ -3434,7 +3434,7 @@
 	path = packages/modules/Gki
 	url = ../packages/modules/Gki
 [submodule "platform/packages/modules/IPsec"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = packages/modules/IPsec
 	url = ../packages/modules/IPsec
 [submodule "platform/packages/modules/ModuleMetadata"]
@@ -3450,7 +3450,7 @@
 	path = packages/modules/NetworkStack
 	url = ../packages/modules/NetworkStack
 [submodule "platform/packages/modules/NeuralNetworks"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = packages/modules/NeuralNetworks
 	url = ../packages/modules/NeuralNetworks
 [submodule "platform/packages/modules/Permission"]
@@ -3466,11 +3466,11 @@
 	path = packages/modules/Scheduling
 	url = ../packages/modules/Scheduling
 [submodule "platform/packages/modules/SdkExtensions"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = packages/modules/SdkExtensions
 	url = ../packages/modules/SdkExtensions
 [submodule "platform/packages/modules/StatsD"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = packages/modules/StatsD
 	url = ../packages/modules/StatsD
 [submodule "platform/packages/modules/TestModule"]
@@ -3482,7 +3482,7 @@
 	path = packages/modules/Virtualization
 	url = ../packages/modules/Virtualization
 [submodule "platform/packages/modules/Wifi"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = packages/modules/Wifi
 	url = ../packages/modules/Wifi
 [submodule "platform/packages/modules/adb"]
@@ -3788,7 +3788,7 @@
 	path = prebuilts/maven_repo/bumptech
 	url = ../prebuilts/maven_repo/bumptech
 [submodule "platform/prebuilts/misc"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	shallow = true
 	path = prebuilts/misc
 	url = ../prebuilts/misc
@@ -3922,7 +3922,7 @@
 	path = sdk
 	url = ../sdk
 [submodule "platform/system/apex"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/apex
 	url = ../system/apex
 [submodule "platform/system/bpf"]
@@ -3950,11 +3950,11 @@
 	path = system/connectivity/wificond
 	url = ../system/connectivity/wificond
 [submodule "platform/system/core"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/core
 	url = ../system/core
 [submodule "platform/system/extras"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/extras
 	url = ../system/extras
 [submodule "platform/system/gatekeeper"]
@@ -3962,11 +3962,11 @@
 	path = system/gatekeeper
 	url = ../system/gatekeeper
 [submodule "platform/system/gsid"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/gsid
 	url = ../system/gsid
 [submodule "platform/system/hardware/interfaces"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/hardware/interfaces
 	url = ../system/hardware/interfaces
 [submodule "platform/system/hwservicemanager"]
@@ -3982,7 +3982,7 @@
 	path = system/iorap
 	url = ../system/iorap
 [submodule "platform/system/keymaster"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/keymaster
 	url = ../system/keymaster
 [submodule "platform/system/libartpalette"]
@@ -3994,7 +3994,7 @@
 	path = system/libbase
 	url = ../system/libbase
 [submodule "platform/system/libfmq"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/libfmq
 	url = ../system/libfmq
 [submodule "platform/system/libhidl"]
@@ -4002,7 +4002,7 @@
 	path = system/libhidl
 	url = ../system/libhidl
 [submodule "platform/system/libhwbinder"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/libhwbinder
 	url = ../system/libhwbinder
 [submodule "platform/system/libprocinfo"]
@@ -4014,11 +4014,11 @@
 	path = system/libsysprop
 	url = ../system/libsysprop
 [submodule "platform/system/libufdt"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/libufdt
 	url = ../system/libufdt
 [submodule "platform/system/libvintf"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/libvintf
 	url = ../system/libvintf
 [submodule "platform/system/libziparchive"]
@@ -4038,7 +4038,7 @@
 	path = system/media
 	url = ../system/media
 [submodule "platform/system/memory/libdmabufheap"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/memory/libdmabufheap
 	url = ../system/memory/libdmabufheap
 [submodule "platform/system/memory/libion"]
@@ -4046,7 +4046,7 @@
 	path = system/memory/libion
 	url = ../system/memory/libion
 [submodule "platform/system/memory/libmeminfo"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/memory/libmeminfo
 	url = ../system/memory/libmeminfo
 [submodule "platform/system/memory/libmemtrack"]
@@ -4062,7 +4062,7 @@
 	path = system/memory/lmkd
 	url = ../system/memory/lmkd
 [submodule "platform/system/netd"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/netd
 	url = ../system/netd
 [submodule "platform/system/nfc"]
@@ -4078,7 +4078,7 @@
 	path = system/security
 	url = ../system/security
 [submodule "platform/system/sepolicy"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/sepolicy
 	url = ../system/sepolicy
 [submodule "platform/system/server_configurable_flags"]
@@ -4142,11 +4142,11 @@
 	path = test/cts-root
 	url = ../test/cts-root
 [submodule "platform/test/framework"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/framework
 	url = ../test/framework
 [submodule "platform/test/mlts/benchmark"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/mlts/benchmark
 	url = ../test/mlts/benchmark
 [submodule "platform/test/mlts/models"]
@@ -4158,51 +4158,51 @@
 	path = test/mts
 	url = ../test/mts
 [submodule "platform/test/vti/dashboard"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/vti/dashboard
 	url = ../test/vti/dashboard
 [submodule "platform/test/vti/fuzz_test_serving"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/vti/fuzz_test_serving
 	url = ../test/vti/fuzz_test_serving
 [submodule "platform/test/vti/test_serving"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/vti/test_serving
 	url = ../test/vti/test_serving
 [submodule "platform/test/vts"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/vts
 	url = ../test/vts
 [submodule "platform/test/vts-testcase/fuzz"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/vts-testcase/fuzz
 	url = ../test/vts-testcase/fuzz
 [submodule "platform/test/vts-testcase/hal"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/vts-testcase/hal
 	url = ../test/vts-testcase/hal
 [submodule "platform/test/vts-testcase/hal-trace"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/vts-testcase/hal-trace
 	url = ../test/vts-testcase/hal-trace
 [submodule "platform/test/vts-testcase/kernel"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/vts-testcase/kernel
 	url = ../test/vts-testcase/kernel
 [submodule "platform/test/vts-testcase/nbu"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/vts-testcase/nbu
 	url = ../test/vts-testcase/nbu
 [submodule "platform/test/vts-testcase/performance"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/vts-testcase/performance
 	url = ../test/vts-testcase/performance
 [submodule "platform/test/vts-testcase/security"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/vts-testcase/security
 	url = ../test/vts-testcase/security
 [submodule "platform/test/vts-testcase/vndk"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = test/vts-testcase/vndk
 	url = ../test/vts-testcase/vndk
 [submodule "platform/tools/aadevtools"]
@@ -4210,7 +4210,7 @@
 	path = tools/aadevtools
 	url = ../tools/aadevtools
 [submodule "platform/tools/acloud"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = tools/acloud
 	url = ../tools/acloud
 [submodule "platform/tools/adt/idea"]
@@ -4310,7 +4310,7 @@
 	path = tools/test/openhst
 	url = ../tools/test/openhst
 [submodule "platform/tools/tradefederation/prebuilts"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = tools/tradefederation/prebuilts
 	url = ../tools/tradefederation/prebuilts
 [submodule "platform/tools/treble"]
@@ -4334,6 +4334,6 @@
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
 [submodule "tools/platform-compat"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = tools/platform-compat
 	url = ../../tools/platform-compat
