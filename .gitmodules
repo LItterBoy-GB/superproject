@@ -409,6 +409,9 @@
 [submodule "platform/external/bouncycastle"]
 	path = external/bouncycastle
 	url = ../external/bouncycastle
+[submodule "platform/external/bpftool"]
+	path = external/bpftool
+	url = ../external/bpftool
 [submodule "platform/external/brotli"]
 	path = external/brotli
 	url = ../external/brotli
@@ -520,9 +523,6 @@
 [submodule "platform/external/drm_hwcomposer"]
 	path = external/drm_hwcomposer
 	url = ../external/drm_hwcomposer
-[submodule "platform/external/drrickorang"]
-	path = external/drrickorang
-	url = ../external/drrickorang
 [submodule "platform/external/dtc"]
 	path = external/dtc
 	url = ../external/dtc
@@ -616,6 +616,9 @@
 [submodule "platform/external/gflags"]
 	path = external/gflags
 	url = ../external/gflags
+[submodule "platform/external/gfxstream-protocols"]
+	path = external/gfxstream-protocols
+	url = ../external/gfxstream-protocols
 [submodule "platform/external/giflib"]
 	path = external/giflib
 	url = ../external/giflib
@@ -1105,9 +1108,15 @@
 [submodule "platform/external/noto-fonts"]
 	path = external/noto-fonts
 	url = ../external/noto-fonts
+[submodule "platform/external/nullaway"]
+	path = external/nullaway
+	url = ../external/nullaway
 [submodule "platform/external/oauth"]
 	path = external/oauth
 	url = ../external/oauth
+[submodule "platform/external/obex"]
+	path = external/obex
+	url = ../external/obex
 [submodule "platform/external/objenesis"]
 	path = external/objenesis
 	url = ../external/objenesis
@@ -1288,6 +1297,9 @@
 [submodule "platform/external/rappor"]
 	path = external/rappor
 	url = ../external/rappor
+[submodule "platform/external/renderscript-intrinsics-replacement-toolkit"]
+	path = external/renderscript-intrinsics-replacement-toolkit
+	url = ../external/renderscript-intrinsics-replacement-toolkit
 [submodule "platform/external/replicaisland"]
 	path = external/replicaisland
 	url = ../external/replicaisland
@@ -1387,6 +1399,15 @@
 [submodule "platform/external/rust/crates/chrono"]
 	path = external/rust/crates/chrono
 	url = ../external/rust/crates/chrono
+[submodule "platform/external/rust/crates/ciborium"]
+	path = external/rust/crates/ciborium
+	url = ../external/rust/crates/ciborium
+[submodule "platform/external/rust/crates/ciborium-io"]
+	path = external/rust/crates/ciborium-io
+	url = ../external/rust/crates/ciborium-io
+[submodule "platform/external/rust/crates/ciborium-ll"]
+	path = external/rust/crates/ciborium-ll
+	url = ../external/rust/crates/ciborium-ll
 [submodule "platform/external/rust/crates/clang-sys"]
 	path = external/rust/crates/clang-sys
 	url = ../external/rust/crates/clang-sys
@@ -1402,6 +1423,9 @@
 [submodule "platform/external/rust/crates/command-fds"]
 	path = external/rust/crates/command-fds
 	url = ../external/rust/crates/command-fds
+[submodule "platform/external/rust/crates/coset"]
+	path = external/rust/crates/coset
+	url = ../external/rust/crates/coset
 [submodule "platform/external/rust/crates/crc32fast"]
 	path = external/rust/crates/crc32fast
 	url = ../external/rust/crates/crc32fast
@@ -1657,6 +1681,18 @@
 [submodule "platform/external/rust/crates/percent-encoding"]
 	path = external/rust/crates/percent-encoding
 	url = ../external/rust/crates/percent-encoding
+[submodule "platform/external/rust/crates/pest"]
+	path = external/rust/crates/pest
+	url = ../external/rust/crates/pest
+[submodule "platform/external/rust/crates/pest_derive"]
+	path = external/rust/crates/pest_derive
+	url = ../external/rust/crates/pest_derive
+[submodule "platform/external/rust/crates/pest_generator"]
+	path = external/rust/crates/pest_generator
+	url = ../external/rust/crates/pest_generator
+[submodule "platform/external/rust/crates/pest_meta"]
+	path = external/rust/crates/pest_meta
+	url = ../external/rust/crates/pest_meta
 [submodule "platform/external/rust/crates/pin-project"]
 	path = external/rust/crates/pin-project
 	url = ../external/rust/crates/pin-project
@@ -1774,6 +1810,9 @@
 [submodule "platform/external/rust/crates/scopeguard"]
 	path = external/rust/crates/scopeguard
 	url = ../external/rust/crates/scopeguard
+[submodule "platform/external/rust/crates/semver"]
+	path = external/rust/crates/semver
+	url = ../external/rust/crates/semver
 [submodule "platform/external/rust/crates/serde"]
 	path = external/rust/crates/serde
 	url = ../external/rust/crates/serde
@@ -1861,6 +1900,9 @@
 [submodule "platform/external/rust/crates/tokio-test"]
 	path = external/rust/crates/tokio-test
 	url = ../external/rust/crates/tokio-test
+[submodule "platform/external/rust/crates/ucd-trie"]
+	path = external/rust/crates/ucd-trie
+	url = ../external/rust/crates/ucd-trie
 [submodule "platform/external/rust/crates/unicode-bidi"]
 	path = external/rust/crates/unicode-bidi
 	url = ../external/rust/crates/unicode-bidi
@@ -2701,6 +2743,9 @@
 [submodule "platform/packages/modules/IPsec"]
 	path = packages/modules/IPsec
 	url = ../packages/modules/IPsec
+[submodule "platform/packages/modules/Media"]
+	path = packages/modules/Media
+	url = ../packages/modules/Media
 [submodule "platform/packages/modules/ModuleMetadata"]
 	path = packages/modules/ModuleMetadata
 	url = ../packages/modules/ModuleMetadata
@@ -2893,6 +2938,9 @@
 [submodule "platform/prebuilts/jdk/jdk11"]
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
+[submodule "platform/prebuilts/jdk/jdk17"]
+	path = prebuilts/jdk/jdk17
+	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk8"]
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
@@ -2914,6 +2962,9 @@
 [submodule "platform/prebuilts/misc"]
 	path = prebuilts/misc
 	url = ../prebuilts/misc
+[submodule "platform/prebuilts/module_sdk/Bluetooth"]
+	path = prebuilts/module_sdk/Bluetooth
+	url = ../prebuilts/module_sdk/Bluetooth
 [submodule "platform/prebuilts/module_sdk/Connectivity"]
 	path = prebuilts/module_sdk/Connectivity
 	url = ../prebuilts/module_sdk/Connectivity
@@ -2983,6 +3034,9 @@
 [submodule "platform/prebuilts/vndk/v31"]
 	path = prebuilts/vndk/v31
 	url = ../prebuilts/vndk/v31
+[submodule "platform/prebuilts/vndk/v32"]
+	path = prebuilts/vndk/v32
+	url = ../prebuilts/vndk/v32
 [submodule "platform/sdk"]
 	path = sdk
 	url = ../sdk
@@ -3007,6 +3061,9 @@
 [submodule "platform/system/core"]
 	path = system/core
 	url = ../system/core
+[submodule "platform/system/dmesgd"]
+	path = system/dmesgd
+	url = ../system/dmesgd
 [submodule "platform/system/extras"]
 	path = system/extras
 	url = ../system/extras
@@ -3271,6 +3328,9 @@
 [submodule "platform/tools/test/graphicsbenchmark"]
 	path = tools/test/graphicsbenchmark
 	url = ../tools/test/graphicsbenchmark
+[submodule "platform/tools/test/mobly_snippets"]
+	path = tools/test/mobly_snippets
+	url = ../tools/test/mobly_snippets
 [submodule "platform/tools/test/openhst"]
 	path = tools/test/openhst
 	url = ../tools/test/openhst
