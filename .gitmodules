@@ -3034,6 +3034,9 @@
 [submodule "platform/prebuilts/vndk/v31"]
 	path = prebuilts/vndk/v31
 	url = ../prebuilts/vndk/v31
+[submodule "platform/prebuilts/vndk/v32"]
+	path = prebuilts/vndk/v32
+	url = ../prebuilts/vndk/v32
 [submodule "platform/sdk"]
 	path = sdk
 	url = ../sdk
