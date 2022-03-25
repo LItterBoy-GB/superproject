@@ -4630,6 +4630,10 @@
 	branch = master
 	path = toolchain/prebuilts/ndk/r23
 	url = ../../toolchain/prebuilts/ndk/r23
+[submodule "toolchain/prebuilts/ndk/r24"]
+	branch = master
+	path = toolchain/prebuilts/ndk/r24
+	url = ../../toolchain/prebuilts/ndk/r24
 [submodule "toolchain/xz"]
 	branch = master
 	path = toolchain/xz
