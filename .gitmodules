@@ -7,6 +7,11 @@
 	branch = androidx-main
 	path = build/make
 	url = ../build
+[submodule "platform/external/abseil-cpp"]
+	branch = master
+	shallow = true
+	path = external/abseil-cpp
+	url = ../external/abseil-cpp
 [submodule "platform/external/doclava"]
 	branch = master
 	shallow = true
@@ -35,7 +40,7 @@
 [submodule "platform/external/ink-stroke-modeler"]
 	branch = master
 	shallow = true
-	path = external/ink
+	path = external/ink-stroke-modeler
 	url = ../external/ink-stroke-modeler
 [submodule "platform/external/libyuv"]
 	branch = master
