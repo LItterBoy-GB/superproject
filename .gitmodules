@@ -32,6 +32,11 @@
 	shallow = true
 	path = external/icu
 	url = ../external/icu
+[submodule "platform/external/ink-stroke-modeler"]
+	branch = master
+	shallow = true
+	path = external/ink
+	url = ../external/ink-stroke-modeler
 [submodule "platform/external/libyuv"]
 	branch = master
 	shallow = true
