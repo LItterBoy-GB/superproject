@@ -21,6 +21,10 @@
 [submodule "platform/external/eigen"]
 	path = external/eigen
 	url = ../external/eigen
+[submodule "platform/external/flatbuffers"]
+	branch = master
+	path = external/flatbuffers
+	url = ../external/flatbuffers
 [submodule "platform/external/googletest"]
 	branch = master
 	path = external/googletest

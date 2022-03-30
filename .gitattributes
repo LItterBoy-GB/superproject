@@ -5,6 +5,7 @@
 /external/abseil-cpp
 /external/cpuinfo
 /external/eigen
+/external/flatbuffers
 /external/googletest
 /external/modp_b64
 /external/nanopb-c
