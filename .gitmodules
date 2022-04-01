@@ -1326,6 +1326,14 @@
 	branch = master
 	path = external/libtextclassifier
 	url = ../external/libtextclassifier
+[submodule "platform/external/libtraceevent"]
+	branch = master
+	path = external/libtraceevent
+	url = ../external/libtraceevent
+[submodule "platform/external/libtracefs"]
+	branch = master
+	path = external/libtracefs
+	url = ../external/libtracefs
 [submodule "platform/external/liburing"]
 	branch = master
 	path = external/liburing
@@ -2826,6 +2834,10 @@
 	branch = master
 	path = external/tpm2-tss
 	url = ../external/tpm2-tss
+[submodule "platform/external/trace-cmd"]
+	branch = master
+	path = external/trace-cmd
+	url = ../external/trace-cmd
 [submodule "platform/external/tremolo"]
 	branch = master
 	path = external/tremolo
