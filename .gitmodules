@@ -412,6 +412,8 @@
 	path = prebuilts/asuite
 	url = ../prebuilts/asuite
 [submodule "platform/prebuilts/build-tools"]
+	branch = master
+	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
 [submodule "platform/prebuilts/bundletool"]
@@ -581,6 +583,7 @@
 	path = system/testing/gtest_extras
 	url = ../system/testing/gtest_extras
 [submodule "platform/system/tools/aidl"]
+	branch = master
 	path = system/tools/aidl
 	url = ../system/tools/aidl
 [submodule "platform/system/tools/sysprop"]
