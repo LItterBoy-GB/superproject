@@ -39,6 +39,7 @@
 /prebuilts/protobuf
 /external/dexter
 /tools/external/gradle
+/tools/metalava
 /tools/repohooks
 /prebuilts/fullsdk-darwin/ndk notdefault platform-darwin
 /prebuilts/fullsdk-linux/ndk platform-linux notdefault

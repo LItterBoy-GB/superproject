@@ -199,6 +199,11 @@
 	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
+[submodule "platform/tools/metalava"]
+	branch = master
+	shallow = true
+	path = tools/metalava
+	url = ../tools/metalava
 [submodule "platform/tools/repohooks"]
 	branch = master
 	shallow = true
