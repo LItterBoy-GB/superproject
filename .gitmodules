@@ -967,6 +967,12 @@
 [submodule "platform/external/libtextclassifier"]
 	path = external/libtextclassifier
 	url = ../external/libtextclassifier
+[submodule "platform/external/libtraceevent"]
+	path = external/libtraceevent
+	url = ../external/libtraceevent
+[submodule "platform/external/libtracefs"]
+	path = external/libtracefs
+	url = ../external/libtracefs
 [submodule "platform/external/liburing"]
 	path = external/liburing
 	url = ../external/liburing
@@ -2083,6 +2089,9 @@
 [submodule "platform/external/tpm2-tss"]
 	path = external/tpm2-tss
 	url = ../external/tpm2-tss
+[submodule "platform/external/trace-cmd"]
+	path = external/trace-cmd
+	url = ../external/trace-cmd
 [submodule "platform/external/tremolo"]
 	path = external/tremolo
 	url = ../external/tremolo

@@ -321,6 +321,8 @@
 /external/libprotobuf-mutator pdk
 /external/libsrtp2 pdk
 /external/libtextclassifier pdk
+/external/libtraceevent pdk
+/external/libtracefs pdk
 /external/liburing pdk
 /external/libusb pdk
 /external/libutf pdk
@@ -693,6 +695,7 @@
 /external/toolchain-utils
 /external/toybox pdk
 /external/tpm2-tss pdk
+/external/trace-cmd pdk
 /external/tremolo pdk
 /external/turbine pdk
 /external/ukey2 pdk
