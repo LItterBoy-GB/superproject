@@ -1135,7 +1135,6 @@
 /toolchain/benchmark
 /toolchain/common
 /toolchain/pgo-profiles pdk
-/toolchain/prebuilts/ndk/r23
 /toolchain/prebuilts/ndk/r24
 /toolchain/rustc
 /tools/platform-compat pdk-fs pdk-cw-fs pdk
