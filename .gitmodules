@@ -4,6 +4,9 @@
 [submodule "platform/build"]
 	path = build/make
 	url = ../build
+[submodule "platform/external/abseil-cpp"]
+	path = external/abseil-cpp
+	url = ../external/abseil-cpp
 [submodule "platform/external/doclava"]
 	path = external/doclava
 	url = ../external/doclava
@@ -19,6 +22,9 @@
 [submodule "platform/external/icu"]
 	path = external/icu
 	url = ../external/icu
+[submodule "platform/external/ink-stroke-modeler"]
+	path = external/ink-stroke-modeler
+	url = ../external/ink-stroke-modeler
 [submodule "platform/external/libyuv"]
 	path = external/libyuv
 	url = ../external/libyuv
@@ -52,6 +58,9 @@
 [submodule "platform/prebuilts/androidx/traceprocessor"]
 	path = prebuilts/androidx/traceprocessor
 	url = ../prebuilts/androidx/traceprocessor
+[submodule "platform/prebuilts/build-tools"]
+	path = prebuilts/build-tools
+	url = ../prebuilts/build-tools
 [submodule "platform/prebuilts/checkstyle"]
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
@@ -112,6 +121,9 @@
 [submodule "platform/tools/external/gradle"]
 	path = tools/external/gradle
 	url = ../tools/external/gradle
+[submodule "platform/tools/metalava"]
+	path = tools/metalava
+	url = ../tools/metalava
 [submodule "platform/tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks
