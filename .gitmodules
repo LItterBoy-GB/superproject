@@ -1285,6 +1285,9 @@
 [submodule "platform/external/python/pyopenssl"]
 	path = external/python/pyopenssl
 	url = ../external/python/pyopenssl
+[submodule "platform/external/python/pyserial"]
+	path = external/python/pyserial
+	url = ../external/python/pyserial
 [submodule "platform/external/python/python-api-core"]
 	path = external/python/python-api-core
 	url = ../external/python/python-api-core
@@ -1297,6 +1300,9 @@
 [submodule "platform/external/python/six"]
 	path = external/python/six
 	url = ../external/python/six
+[submodule "platform/external/python/typing"]
+	path = external/python/typing
+	url = ../external/python/typing
 [submodule "platform/external/python/uritemplates"]
 	path = external/python/uritemplates
 	url = ../external/python/uritemplates
