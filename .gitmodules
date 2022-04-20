@@ -1767,6 +1767,10 @@
 	branch = master
 	path = external/python/six
 	url = ../external/python/six
+[submodule "platform/external/python/timeout-decorator"]
+	branch = master
+	path = external/python/timeout-decorator
+	url = ../external/python/timeout-decorator
 [submodule "platform/external/python/typing"]
 	branch = master
 	path = external/python/typing
