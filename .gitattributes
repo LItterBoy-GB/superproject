@@ -434,6 +434,7 @@
 /external/python/rsa vts pdk
 /external/python/setuptools vts pdk
 /external/python/six vts pdk
+/external/python/timeout-decorator pdk
 /external/python/typing pdk
 /external/python/uritemplates vts pdk
 /external/rappor pdk
