@@ -1300,6 +1300,9 @@
 [submodule "platform/external/python/six"]
 	path = external/python/six
 	url = ../external/python/six
+[submodule "platform/external/python/timeout-decorator"]
+	path = external/python/timeout-decorator
+	url = ../external/python/timeout-decorator
 [submodule "platform/external/python/typing"]
 	path = external/python/typing
 	url = ../external/python/typing
@@ -1879,6 +1882,9 @@
 [submodule "platform/external/rust/crates/termcolor"]
 	path = external/rust/crates/termcolor
 	url = ../external/rust/crates/termcolor
+[submodule "platform/external/rust/crates/terminal-size"]
+	path = external/rust/crates/terminal-size
+	url = ../external/rust/crates/terminal-size
 [submodule "platform/external/rust/crates/textwrap"]
 	path = external/rust/crates/textwrap
 	url = ../external/rust/crates/textwrap

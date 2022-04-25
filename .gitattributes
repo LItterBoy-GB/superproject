@@ -432,6 +432,7 @@
 /external/python/rsa vts pdk
 /external/python/setuptools vts pdk
 /external/python/six vts pdk
+/external/python/timeout-decorator pdk
 /external/python/typing pdk
 /external/python/uritemplates vts pdk
 /external/rappor pdk
@@ -625,6 +626,7 @@
 /external/rust/crates/syn-mid pdk
 /external/rust/crates/tempfile pdk
 /external/rust/crates/termcolor pdk
+/external/rust/crates/terminal-size pdk
 /external/rust/crates/textwrap pdk
 /external/rust/crates/thiserror pdk
 /external/rust/crates/thiserror-impl pdk
