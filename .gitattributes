@@ -13,6 +13,7 @@
 /external/bison
 /external/bloaty
 /external/boringssl
+/external/brotli
 /external/bzip2
 /external/capstone
 /external/clang
