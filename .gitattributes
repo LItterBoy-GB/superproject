@@ -465,6 +465,7 @@
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bitflags pdk
 /external/rust/crates/bstr pdk
+/external/rust/crates/buddy_system_allocator pdk
 /external/rust/crates/byteorder pdk
 /external/rust/crates/bytes pdk
 /external/rust/crates/cast pdk
@@ -585,6 +586,7 @@
 /external/rust/crates/proc-macro2 pdk
 /external/rust/crates/protobuf pdk
 /external/rust/crates/protobuf-codegen pdk
+/external/rust/crates/psci pdk
 /external/rust/crates/quiche pdk
 /external/rust/crates/quickcheck pdk
 /external/rust/crates/quote pdk

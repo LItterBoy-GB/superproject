@@ -1899,6 +1899,10 @@
 	branch = master
 	path = external/rust/crates/bstr
 	url = ../external/rust/crates/bstr
+[submodule "platform/external/rust/crates/buddy_system_allocator"]
+	branch = master
+	path = external/rust/crates/buddy_system_allocator
+	url = ../external/rust/crates/buddy_system_allocator
 [submodule "platform/external/rust/crates/byteorder"]
 	branch = master
 	path = external/rust/crates/byteorder
@@ -2379,6 +2383,10 @@
 	branch = master
 	path = external/rust/crates/protobuf-codegen
 	url = ../external/rust/crates/protobuf-codegen
+[submodule "platform/external/rust/crates/psci"]
+	branch = master
+	path = external/rust/crates/psci
+	url = ../external/rust/crates/psci
 [submodule "platform/external/rust/crates/quiche"]
 	branch = master
 	path = external/rust/crates/quiche
