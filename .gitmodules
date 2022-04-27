@@ -1,0 +1,18 @@
+[submodule "platform/prebuilts/jdk/jdk11"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk11
+	url = ../prebuilts/jdk/jdk11
+[submodule "platform/prebuilts/sdk"]
+	branch = master
+	shallow = true
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "platform/tools/metalava"]
+	branch = metalava-main
+	path = tools/metalava
+	url = ../tools/metalava
+[submodule "platform/tools/repohooks"]
+	branch = master
+	path = tools/repohooks
+	url = ../tools/repohooks
