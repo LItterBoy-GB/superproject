@@ -150,7 +150,7 @@
 	path = compatibility/cdd
 	url = ../compatibility/cdd
 [submodule "platform/cts"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	path = cts
 	url = ../cts
 [submodule "platform/dalvik"]
@@ -3354,12 +3354,12 @@
 	path = platform_testing
 	url = ../platform_testing
 [submodule "platform/prebuilts/abi-dumps/ndk"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/abi-dumps/ndk
 	url = ../prebuilts/abi-dumps/ndk
 [submodule "platform/prebuilts/abi-dumps/platform"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/abi-dumps/platform
 	url = ../prebuilts/abi-dumps/platform
@@ -3369,287 +3369,287 @@
 	path = prebuilts/abi-dumps/vndk
 	url = ../prebuilts/abi-dumps/vndk
 [submodule "platform/prebuilts/android-emulator"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
 [submodule "platform/prebuilts/asuite"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/asuite
 	url = ../prebuilts/asuite
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/bazel/darwin-x86_64
 	url = ../prebuilts/bazel/darwin-x86_64
 [submodule "platform/prebuilts/bazel/linux-x86_64"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/bazel/linux-x86_64
 	url = ../prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/build-tools"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
 [submodule "platform/prebuilts/bundletool"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/bundletool
 	url = ../prebuilts/bundletool
 [submodule "platform/prebuilts/checkcolor"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/checkcolor
 	url = ../prebuilts/checkcolor
 [submodule "platform/prebuilts/checkstyle"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
 [submodule "platform/prebuilts/clang-tools"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/clang-tools
 	url = ../prebuilts/clang-tools
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/cmdline-tools"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/cmdline-tools
 	url = ../prebuilts/cmdline-tools
 [submodule "platform/prebuilts/devtools"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/devtools
 	url = ../prebuilts/devtools
 [submodule "platform/prebuilts/fuchsia_sdk"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/fuchsia_sdk
 	url = ../prebuilts/fuchsia_sdk
 [submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
 	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
 [submodule "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
 	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
 [submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 [submodule "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 [submodule "platform/prebuilts/gdb/darwin-x86"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/gdb/darwin-x86
 	url = ../prebuilts/gdb/darwin-x86
 [submodule "platform/prebuilts/gdb/linux-x86"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/gdb/linux-x86
 	url = ../prebuilts/gdb/linux-x86
 [submodule "platform/prebuilts/go/darwin-x86"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/go/darwin-x86
 	url = ../prebuilts/go/darwin-x86
 [submodule "platform/prebuilts/go/linux-x86"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
 [submodule "platform/prebuilts/gradle-plugin"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/gradle-plugin
 	url = ../prebuilts/gradle-plugin
 [submodule "platform/prebuilts/jdk/jdk11"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/jdk/jdk8"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
 [submodule "platform/prebuilts/jdk/jdk9"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/jdk/jdk9
 	url = ../prebuilts/jdk/jdk9
 [submodule "platform/prebuilts/ktlint"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/ktlint
 	url = ../prebuilts/ktlint
 [submodule "platform/prebuilts/manifest-merger"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/manifest-merger
 	url = ../prebuilts/manifest-merger
 [submodule "platform/prebuilts/maven_repo/android"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/maven_repo/android
 	url = ../prebuilts/maven_repo/android
 [submodule "platform/prebuilts/maven_repo/bumptech"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/maven_repo/bumptech
 	url = ../prebuilts/maven_repo/bumptech
 [submodule "platform/prebuilts/misc"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/misc
 	url = ../prebuilts/misc
 [submodule "platform/prebuilts/module_sdk/Connectivity"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/module_sdk/Connectivity
 	url = ../prebuilts/module_sdk/Connectivity
 [submodule "platform/prebuilts/module_sdk/IPsec"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/module_sdk/IPsec
 	url = ../prebuilts/module_sdk/IPsec
 [submodule "platform/prebuilts/module_sdk/Media"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/module_sdk/Media
 	url = ../prebuilts/module_sdk/Media
 [submodule "platform/prebuilts/module_sdk/MediaProvider"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/module_sdk/MediaProvider
 	url = ../prebuilts/module_sdk/MediaProvider
 [submodule "platform/prebuilts/module_sdk/Permission"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/module_sdk/Permission
 	url = ../prebuilts/module_sdk/Permission
 [submodule "platform/prebuilts/module_sdk/Scheduling"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/module_sdk/Scheduling
 	url = ../prebuilts/module_sdk/Scheduling
 [submodule "platform/prebuilts/module_sdk/SdkExtensions"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/module_sdk/SdkExtensions
 	url = ../prebuilts/module_sdk/SdkExtensions
 [submodule "platform/prebuilts/module_sdk/StatsD"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/module_sdk/StatsD
 	url = ../prebuilts/module_sdk/StatsD
 [submodule "platform/prebuilts/module_sdk/Wifi"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/module_sdk/Wifi
 	url = ../prebuilts/module_sdk/Wifi
 [submodule "platform/prebuilts/module_sdk/art"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/module_sdk/art
 	url = ../prebuilts/module_sdk/art
 [submodule "platform/prebuilts/module_sdk/conscrypt"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/module_sdk/conscrypt
 	url = ../prebuilts/module_sdk/conscrypt
 [submodule "platform/prebuilts/ndk"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
 [submodule "platform/prebuilts/python/darwin-x86/2.7.5"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/python/darwin-x86/2.7.5
 	url = ../prebuilts/python/darwin-x86/2.7.5
 [submodule "platform/prebuilts/python/linux-x86/2.7.5"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/python/linux-x86/2.7.5
 	url = ../prebuilts/python/linux-x86/2.7.5
 [submodule "platform/prebuilts/qemu-kernel"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
 [submodule "platform/prebuilts/r8"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/r8
 	url = ../prebuilts/r8
 [submodule "platform/prebuilts/remoteexecution-client"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/remoteexecution-client
 	url = ../prebuilts/remoteexecution-client
 [submodule "platform/prebuilts/runtime"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/runtime
 	url = ../prebuilts/runtime
 [submodule "platform/prebuilts/rust"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/rust
 	url = ../prebuilts/rust
 [submodule "platform/prebuilts/sdk"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
 [submodule "platform/prebuilts/tools"]
-	branch = android12L-gsi
+	branch = android12L-platform-release
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
