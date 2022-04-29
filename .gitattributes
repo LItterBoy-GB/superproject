@@ -11,6 +11,7 @@
 /external/curl
 /external/deqp
 /external/flex pdk
+/external/gfxstream-protocols
 /external/google-benchmark
 /external/google-breakpad
 /external/googletest
@@ -24,6 +25,8 @@
 /external/perfetto
 /external/protobuf
 /external/qemu
+/external/rapidjson
+/external/tink
 /external/tinyobjloader
 /external/virglrenderer
 /external/webrtc

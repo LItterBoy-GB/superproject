@@ -51,6 +51,10 @@
 	branch = master
 	path = external/flex
 	url = ../external/flex
+[submodule "platform/external/gfxstream-protocols"]
+	branch = master
+	path = external/gfxstream-protocols
+	url = ../external/gfxstream-protocols
 [submodule "platform/external/google-benchmark"]
 	path = external/google-benchmark
 	url = ../external/google-benchmark
@@ -101,6 +105,14 @@
 	branch = emu-master-dev
 	path = external/qemu
 	url = ../external/qemu
+[submodule "platform/external/rapidjson"]
+	branch = master
+	path = external/rapidjson
+	url = ../external/rapidjson
+[submodule "platform/external/tink"]
+	branch = emu-master-dev
+	path = external/tink
+	url = ../external/tink
 [submodule "platform/external/tinyobjloader"]
 	branch = master
 	path = external/tinyobjloader
