@@ -501,6 +501,8 @@
 /external/rust/crates/fallible-streaming-iterator pdk
 /external/rust/crates/flate2 pdk
 /external/rust/crates/fnv pdk
+/external/rust/crates/foreign-types pdk
+/external/rust/crates/foreign-types-shared pdk
 /external/rust/crates/form_urlencoded pdk
 /external/rust/crates/futures pdk
 /external/rust/crates/futures-channel pdk
@@ -560,6 +562,7 @@
 /external/rust/crates/oid-registry pdk
 /external/rust/crates/once_cell pdk
 /external/rust/crates/oorandom pdk
+/external/rust/crates/openssl pdk
 /external/rust/crates/parking_lot pdk
 /external/rust/crates/parking_lot_core pdk
 /external/rust/crates/paste pdk
