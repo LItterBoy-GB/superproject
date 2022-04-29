@@ -2043,6 +2043,14 @@
 	branch = master
 	path = external/rust/crates/fnv
 	url = ../external/rust/crates/fnv
+[submodule "platform/external/rust/crates/foreign-types"]
+	branch = master
+	path = external/rust/crates/foreign-types
+	url = ../external/rust/crates/foreign-types
+[submodule "platform/external/rust/crates/foreign-types-shared"]
+	branch = master
+	path = external/rust/crates/foreign-types-shared
+	url = ../external/rust/crates/foreign-types-shared
 [submodule "platform/external/rust/crates/form_urlencoded"]
 	branch = master
 	path = external/rust/crates/form_urlencoded
@@ -2279,6 +2287,10 @@
 	branch = master
 	path = external/rust/crates/oorandom
 	url = ../external/rust/crates/oorandom
+[submodule "platform/external/rust/crates/openssl"]
+	branch = master
+	path = external/rust/crates/openssl
+	url = ../external/rust/crates/openssl
 [submodule "platform/external/rust/crates/parking_lot"]
 	branch = master
 	path = external/rust/crates/parking_lot
