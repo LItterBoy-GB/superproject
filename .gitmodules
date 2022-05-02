@@ -1507,6 +1507,12 @@
 [submodule "platform/external/rust/crates/fnv"]
 	path = external/rust/crates/fnv
 	url = ../external/rust/crates/fnv
+[submodule "platform/external/rust/crates/foreign-types"]
+	path = external/rust/crates/foreign-types
+	url = ../external/rust/crates/foreign-types
+[submodule "platform/external/rust/crates/foreign-types-shared"]
+	path = external/rust/crates/foreign-types-shared
+	url = ../external/rust/crates/foreign-types-shared
 [submodule "platform/external/rust/crates/form_urlencoded"]
 	path = external/rust/crates/form_urlencoded
 	url = ../external/rust/crates/form_urlencoded
@@ -1684,6 +1690,9 @@
 [submodule "platform/external/rust/crates/oorandom"]
 	path = external/rust/crates/oorandom
 	url = ../external/rust/crates/oorandom
+[submodule "platform/external/rust/crates/openssl"]
+	path = external/rust/crates/openssl
+	url = ../external/rust/crates/openssl
 [submodule "platform/external/rust/crates/parking_lot"]
 	path = external/rust/crates/parking_lot
 	url = ../external/rust/crates/parking_lot
