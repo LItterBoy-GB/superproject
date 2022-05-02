@@ -50,6 +50,10 @@
 	branch = master
 	path = ndk
 	url = ../ndk
+[submodule "platform/prebuilts/build-tools"]
+	branch = master
+	path = prebuilts/build-tools
+	url = ../prebuilts/build-tools
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
 	branch = master
 	path = prebuilts/clang/host/darwin-x86
