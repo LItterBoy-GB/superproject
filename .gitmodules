@@ -1198,10 +1198,6 @@
 	branch = master
 	path = external/libconfig
 	url = ../external/libconfig
-[submodule "platform/external/libcppbor"]
-	branch = master
-	path = external/libcppbor
-	url = ../external/libcppbor
 [submodule "platform/external/libcups"]
 	branch = master
 	path = external/libcups
@@ -4323,6 +4319,10 @@
 	branch = master
 	path = system/libbase
 	url = ../system/libbase
+[submodule "platform/system/libcppbor"]
+	branch = master
+	path = system/libcppbor
+	url = ../system/libcppbor
 [submodule "platform/system/libfmq"]
 	branch = master
 	path = system/libfmq
