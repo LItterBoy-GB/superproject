@@ -290,7 +290,6 @@
 /external/libchrome pdk
 /external/libchromeos-rs pdk
 /external/libconfig pdk
-/external/libcppbor pdk
 /external/libcups pdk-fs pdk-cw-fs
 /external/libcxx pdk
 /external/libcxxabi pdk
@@ -1042,6 +1041,7 @@
 /system/keymaster pdk
 /system/libartpalette pdk
 /system/libbase pdk
+/system/libcppbor pdk
 /system/libfmq pdk
 /system/libhidl pdk
 /system/libhwbinder pdk
