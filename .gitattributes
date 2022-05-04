@@ -10,6 +10,7 @@
 /external/cares
 /external/curl
 /external/deqp
+/external/flatbuffers
 /external/flex pdk
 /external/gfxstream-protocols
 /external/google-benchmark

@@ -47,6 +47,10 @@
 	branch = master
 	path = external/deqp
 	url = ../external/deqp
+[submodule "platform/external/flatbuffers"]
+	branch = master
+	path = external/flatbuffers
+	url = ../external/flatbuffers
 [submodule "platform/external/flex"]
 	branch = master
 	path = external/flex
