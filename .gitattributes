@@ -517,6 +517,7 @@
 /external/rust/crates/gdbstub pdk
 /external/rust/crates/gdbstub_arch pdk
 /external/rust/crates/getrandom pdk
+/external/rust/crates/glam pdk
 /external/rust/crates/glob pdk
 /external/rust/crates/grpcio pdk
 /external/rust/crates/grpcio-compiler pdk
