@@ -212,12 +212,12 @@
 [submodule "toolchain/prebuilts/ndk-darwin/r23"]
 	branch = master
 	shallow = true
-	path = prebuilts/fullsdk-darwin/ndk
+	path = prebuilts/fullsdk-darwin/ndk-bundle
 	url = ../../toolchain/prebuilts/ndk-darwin/r23
 [submodule "toolchain/prebuilts/ndk/r23"]
 	branch = master
 	shallow = true
-	path = prebuilts/fullsdk-linux/ndk
+	path = prebuilts/fullsdk-linux/ndk-bundle
 	url = ../../toolchain/prebuilts/ndk/r23
 [submodule "tools/fetch_artifact"]
 	branch = master

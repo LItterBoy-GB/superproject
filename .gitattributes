@@ -41,6 +41,6 @@
 /tools/external/gradle
 /tools/metalava
 /tools/repohooks
-/prebuilts/fullsdk-darwin/ndk notdefault platform-darwin
-/prebuilts/fullsdk-linux/ndk platform-linux notdefault
+/prebuilts/fullsdk-darwin/ndk-bundle notdefault platform-darwin
+/prebuilts/fullsdk-linux/ndk-bundle platform-linux notdefault
 /tools/fetch_artifact
