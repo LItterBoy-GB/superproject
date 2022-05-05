@@ -290,7 +290,6 @@
 /external/libchrome pdk
 /external/libchromeos-rs pdk
 /external/libconfig pdk
-/external/libcppbor pdk
 /external/libcups pdk-fs pdk-cw-fs
 /external/libcxx pdk
 /external/libcxxabi pdk
@@ -516,6 +515,7 @@
 /external/rust/crates/gdbstub pdk
 /external/rust/crates/gdbstub_arch pdk
 /external/rust/crates/getrandom pdk
+/external/rust/crates/glam pdk
 /external/rust/crates/glob pdk
 /external/rust/crates/grpcio pdk
 /external/rust/crates/grpcio-compiler pdk
@@ -1042,6 +1042,7 @@
 /system/keymaster pdk
 /system/libartpalette pdk
 /system/libbase pdk
+/system/libcppbor pdk
 /system/libfmq pdk
 /system/libhidl pdk
 /system/libhwbinder pdk
