@@ -3030,7 +3030,7 @@
 	path = libcore
 	url = ../libcore
 [submodule "platform/libnativehelper"]
-	branch = android12-dev
+	branch = android12-hostruntime-dev
 	path = libnativehelper
 	url = ../libnativehelper
 [submodule "platform/packages/apps/BasicSmsReceiver"]
