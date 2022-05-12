@@ -9,7 +9,6 @@
 	path = external/FXdiv
 	url = ../external/FXdiv
 [submodule "platform/external/XNNPACK"]
-	branch = master
 	path = external/XNNPACK
 	url = ../external/XNNPACK
 [submodule "platform/external/abseil-cpp"]
@@ -21,14 +20,22 @@
 [submodule "platform/external/eigen"]
 	path = external/eigen
 	url = ../external/eigen
+[submodule "platform/external/fft2d"]
+	path = external/fft2d
+	url = ../external/fft2d
 [submodule "platform/external/flatbuffers"]
-	branch = master
 	path = external/flatbuffers
 	url = ../external/flatbuffers
+[submodule "platform/external/gemmlowp"]
+	path = external/gemmlowp
+	url = ../external/gemmlowp
 [submodule "platform/external/googletest"]
 	branch = master
 	path = external/googletest
 	url = ../external/googletest
+[submodule "platform/external/libtextclassifier"]
+	path = external/libtextclassifier
+	url = ../external/libtextclassifier
 [submodule "platform/external/modp_b64"]
 	branch = master
 	path = external/modp_b64
@@ -37,6 +44,9 @@
 	branch = master
 	path = external/nanopb-c
 	url = ../external/nanopb-c
+[submodule "platform/external/neon_2_sse"]
+	path = external/neon2sse
+	url = ../external/neon_2_sse
 [submodule "platform/external/protobuf"]
 	branch = master
 	path = external/protobuf
@@ -51,6 +61,9 @@
 	branch = master
 	path = external/six
 	url = ../external/python/six
+[submodule "platform/external/ruy"]
+	path = external/ruy
+	url = ../external/ruy
 [submodule "platform/external/tensorflow"]
 	path = external/tensorflow
 	url = ../external/tensorflow
