@@ -91,12 +91,18 @@
 [submodule "platform/prebuilts/fullsdk/platforms/android-31"]
 	path = prebuilts/fullsdk-darwin/platforms/android-31
 	url = ../prebuilts/fullsdk/platforms/android-31
+[submodule "platform/prebuilts/fullsdk/platforms/android-32"]
+	path = prebuilts/fullsdk-darwin/platforms/android-32
+	url = ../prebuilts/fullsdk/platforms/android-32
 [submodule "platform/prebuilts/fullsdk/platforms/android-33"]
 	path = prebuilts/fullsdk-darwin/platforms/android-33
 	url = ../prebuilts/fullsdk/platforms/android-33
 [submodule "platform/prebuilts/fullsdk/sources/android-31"]
 	path = prebuilts/fullsdk-darwin/sources/android-31
 	url = ../prebuilts/fullsdk/sources/android-31
+[submodule "platform/prebuilts/fullsdk/sources/android-32"]
+	path = prebuilts/fullsdk-darwin/sources/android-32
+	url = ../prebuilts/fullsdk/sources/android-32
 [submodule "platform/prebuilts/fullsdk/sources/android-33"]
 	path = prebuilts/fullsdk-darwin/sources/android-33
 	url = ../prebuilts/fullsdk/sources/android-33
@@ -128,10 +134,10 @@
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "toolchain/prebuilts/ndk-darwin/r23"]
-	path = prebuilts/fullsdk-darwin/ndk
+	path = prebuilts/fullsdk-darwin/ndk-bundle
 	url = ../../toolchain/prebuilts/ndk-darwin/r23
 [submodule "toolchain/prebuilts/ndk/r23"]
-	path = prebuilts/fullsdk-linux/ndk
+	path = prebuilts/fullsdk-linux/ndk-bundle
 	url = ../../toolchain/prebuilts/ndk/r23
 [submodule "tools/fetch_artifact"]
 	path = tools/fetch_artifact
