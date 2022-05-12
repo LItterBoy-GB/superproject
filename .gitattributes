@@ -29,8 +29,10 @@
 /prebuilts/fullsdk-linux/platform-tools platform-linux notdefault
 /prebuilts/fullsdk-linux/tools platform-linux notdefault
 /prebuilts/fullsdk-darwin/platforms/android-31
+/prebuilts/fullsdk-darwin/platforms/android-32
 /prebuilts/fullsdk-darwin/platforms/android-33
 /prebuilts/fullsdk-darwin/sources/android-31
+/prebuilts/fullsdk-darwin/sources/android-32
 /prebuilts/fullsdk-darwin/sources/android-33
 /prebuilts/jdk/jdk11
 /prebuilts/jdk/jdk8
@@ -41,6 +43,6 @@
 /tools/external/gradle
 /tools/metalava
 /tools/repohooks
-/prebuilts/fullsdk-darwin/ndk notdefault platform-darwin
-/prebuilts/fullsdk-linux/ndk platform-linux notdefault
+/prebuilts/fullsdk-darwin/ndk-bundle notdefault platform-darwin
+/prebuilts/fullsdk-linux/ndk-bundle platform-linux notdefault
 /tools/fetch_artifact
