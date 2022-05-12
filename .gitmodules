@@ -14,10 +14,6 @@
 	branch = master
 	path = packages/apps/Car/Templates
 	url = ../packages/apps/Car/Templates
-[submodule "platform/packages/apps/Car/libs"]
-	branch = master
-	path = packages/apps/Car/libs
-	url = ../packages/apps/Car/libs
 [submodule "platform/prebuilts/checkstyle"]
 	branch = master
 	shallow = true
