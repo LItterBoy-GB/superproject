@@ -9,7 +9,7 @@
 	path = external/FXdiv
 	url = ../external/FXdiv
 [submodule "platform/external/XNNPACK"]
-	path = external/XNNPACK
+	path = external/xnnpack
 	url = ../external/XNNPACK
 [submodule "platform/external/abseil-cpp"]
 	path = external/abseil-cpp

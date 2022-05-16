@@ -1,7 +1,7 @@
 /build
 /external/FP16
 /external/FXdiv
-/external/XNNPACK
+/external/xnnpack
 /external/abseil-cpp
 /external/cpuinfo
 /external/eigen
