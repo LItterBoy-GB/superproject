@@ -1719,6 +1719,10 @@
 	branch = master
 	path = external/python/parse_type
 	url = ../external/python/parse_type
+[submodule "platform/external/python/portpicker"]
+	branch = master
+	path = external/python/portpicker
+	url = ../external/python/portpicker
 [submodule "platform/external/python/pyasn1"]
 	branch = master
 	path = external/python/pyasn1
