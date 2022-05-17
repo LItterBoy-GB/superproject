@@ -422,6 +422,7 @@
 /external/mobly pdk
 /external/python/oauth2client vts pdk
 /external/python/parse_type vts pdk
+/external/python/portpicker pdk
 /external/python/pyasn1 vts pdk
 /external/python/pyasn1-modules vts pdk
 /external/python/pybind11 pdk
