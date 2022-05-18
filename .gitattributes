@@ -64,6 +64,7 @@
 /external/selinux
 /external/sqlite
 /external/starlark-go
+/external/tinyxml2
 /external/toybox
 /external/turbine
 /external/zlib
