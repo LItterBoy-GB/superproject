@@ -417,7 +417,7 @@
 /external/python/ipaddress pdk
 /external/python/jinja pdk
 /external/python/markupsafe pdk
-/external/mobly pdk
+/external/python/mobly pdk
 /external/python/oauth2client vts pdk
 /external/python/parse_type vts pdk
 /external/python/portpicker pdk
