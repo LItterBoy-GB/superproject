@@ -1709,7 +1709,7 @@
 	url = ../external/python/markupsafe
 [submodule "platform/external/python/mobly"]
 	branch = master
-	path = external/mobly
+	path = external/python/mobly
 	url = ../external/python/mobly
 [submodule "platform/external/python/oauth2client"]
 	branch = master
