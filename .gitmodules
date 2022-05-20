@@ -1755,6 +1755,10 @@
 	branch = master
 	path = external/python/python-api-core
 	url = ../external/python/python-api-core
+[submodule "platform/external/python/pyyaml"]
+	branch = master
+	path = external/python/pyyaml
+	url = ../external/python/pyyaml
 [submodule "platform/external/python/rsa"]
 	branch = master
 	path = external/python/rsa
