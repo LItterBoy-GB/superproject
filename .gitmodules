@@ -1256,7 +1256,7 @@
 	path = external/python/markupsafe
 	url = ../external/python/markupsafe
 [submodule "platform/external/python/mobly"]
-	path = external/mobly
+	path = external/python/mobly
 	url = ../external/python/mobly
 [submodule "platform/external/python/oauth2client"]
 	path = external/python/oauth2client
@@ -1264,6 +1264,9 @@
 [submodule "platform/external/python/parse_type"]
 	path = external/python/parse_type
 	url = ../external/python/parse_type
+[submodule "platform/external/python/portpicker"]
+	path = external/python/portpicker
+	url = ../external/python/portpicker
 [submodule "platform/external/python/pyasn1"]
 	path = external/python/pyasn1
 	url = ../external/python/pyasn1
@@ -1288,6 +1291,9 @@
 [submodule "platform/external/python/python-api-core"]
 	path = external/python/python-api-core
 	url = ../external/python/python-api-core
+[submodule "platform/external/python/pyyaml"]
+	path = external/python/pyyaml
+	url = ../external/python/pyyaml
 [submodule "platform/external/python/rsa"]
 	path = external/python/rsa
 	url = ../external/python/rsa

@@ -417,9 +417,10 @@
 /external/python/ipaddress pdk
 /external/python/jinja pdk
 /external/python/markupsafe pdk
-/external/mobly pdk
+/external/python/mobly pdk
 /external/python/oauth2client vts pdk
 /external/python/parse_type vts pdk
+/external/python/portpicker pdk
 /external/python/pyasn1 vts pdk
 /external/python/pyasn1-modules vts pdk
 /external/python/pybind11 pdk
@@ -428,6 +429,7 @@
 /external/python/pyopenssl pdk
 /external/python/pyserial pdk
 /external/python/python-api-core pdk
+/external/python/pyyaml pdk
 /external/python/rsa vts pdk
 /external/python/setuptools vts pdk
 /external/python/six vts pdk
