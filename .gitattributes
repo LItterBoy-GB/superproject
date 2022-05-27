@@ -702,6 +702,7 @@
 /external/testng pdk
 /external/tflite-support pdk
 /external/timezone-boundary-builder pdk
+/external/tink pdk
 /external/tinyalsa pdk
 /external/tinyalsa_new pdk
 /external/tinycompress pdk

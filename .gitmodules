@@ -2850,6 +2850,10 @@
 	shallow = true
 	path = external/timezone-boundary-builder
 	url = ../external/timezone-boundary-builder
+[submodule "platform/external/tink"]
+	branch = master
+	path = external/tink
+	url = ../external/tink
 [submodule "platform/external/tinyalsa"]
 	branch = master
 	path = external/tinyalsa
