@@ -45,7 +45,7 @@
 	path = kernel/configs
 	url = ../../kernel/configs
 [submodule "kernel/prebuilts/4.19/arm64"]
-	branch = android12-gsi
+	branch = master
 	shallow = true
 	path = kernel/prebuilts/4.19/arm64
 	url = ../../kernel/prebuilts/4.19/arm64
@@ -70,12 +70,12 @@
 	path = kernel/prebuilts/5.4/x86_64
 	url = ../../kernel/prebuilts/5.4/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/4.19/arm64"]
-	branch = android12-gsi
+	branch = master
 	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/4.19/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/4.19/arm64
 [submodule "kernel/prebuilts/common-modules/virtual-device/4.19/x86-64"]
-	branch = android12-gsi
+	branch = master
 	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/4.19/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/4.19/x86-64
