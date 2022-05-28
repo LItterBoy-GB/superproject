@@ -53,7 +53,7 @@
 	path = kernel/configs
 	url = ../../kernel/configs
 [submodule "kernel/prebuilts/4.19/arm64"]
-	branch = android11-gsi
+	branch = master
 	shallow = true
 	path = kernel/prebuilts/4.19/arm64
 	url = ../../kernel/prebuilts/4.19/arm64
