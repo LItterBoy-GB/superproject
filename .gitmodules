@@ -225,32 +225,15 @@
 	shallow = true
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
-[submodule "platform/prebuilts/qemu-kernel"]
-	branch = master
-	shallow = true
-	path = prebuilts/qemu-kernel
-	url = ../prebuilts/qemu-kernel
 [submodule "platform/prebuilts/tools"]
 	branch = master
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
-[submodule "platform/sdk"]
-	branch = emu-master-dev
-	path = sdk
-	url = ../sdk
-[submodule "platform/tools/acloud"]
-	branch = master
-	path = tools/acloud
-	url = ../tools/acloud
 [submodule "platform/tools/buildSrc"]
 	branch = emu-master-dev
 	path = tools/buildSrc
 	url = ../tools/buildSrc
-[submodule "platform/tools/emulator"]
-	branch = emu-master-dev
-	path = tools/emulator
-	url = ../tools/emulator
 [submodule "toolchain/m4"]
 	branch = master
 	path = external/m4
