@@ -1823,6 +1823,10 @@
 	branch = master
 	path = external/rootdev
 	url = ../external/rootdev
+[submodule "platform/external/rust/crates/aarch64-paging"]
+	branch = master
+	path = external/rust/crates/aarch64-paging
+	url = ../external/rust/crates/aarch64-paging
 [submodule "platform/external/rust/crates/ahash"]
 	branch = master
 	path = external/rust/crates/ahash
