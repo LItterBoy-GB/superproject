@@ -1336,6 +1336,9 @@
 [submodule "platform/external/rootdev"]
 	path = external/rootdev
 	url = ../external/rootdev
+[submodule "platform/external/rust/crates/aarch64-paging"]
+	path = external/rust/crates/aarch64-paging
+	url = ../external/rust/crates/aarch64-paging
 [submodule "platform/external/rust/crates/ahash"]
 	path = external/rust/crates/ahash
 	url = ../external/rust/crates/ahash
@@ -2101,6 +2104,9 @@
 [submodule "platform/external/timezone-boundary-builder"]
 	path = external/timezone-boundary-builder
 	url = ../external/timezone-boundary-builder
+[submodule "platform/external/tink"]
+	path = external/tink
+	url = ../external/tink
 [submodule "platform/external/tinyalsa"]
 	path = external/tinyalsa
 	url = ../external/tinyalsa

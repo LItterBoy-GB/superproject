@@ -444,6 +444,7 @@
 /external/robolectric-shadows pdk-fs pdk-cw-fs
 /external/roboto-fonts pdk
 /external/rootdev pdk
+/external/rust/crates/aarch64-paging pdk
 /external/rust/crates/ahash pdk
 /external/rust/crates/aho-corasick pdk
 /external/rust/crates/android_log-sys pdk
@@ -699,6 +700,7 @@
 /external/testng pdk
 /external/tflite-support pdk
 /external/timezone-boundary-builder pdk
+/external/tink pdk
 /external/tinyalsa pdk
 /external/tinyalsa_new pdk
 /external/tinycompress pdk
