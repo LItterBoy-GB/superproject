@@ -4331,6 +4331,10 @@
 	branch = master
 	path = system/keymaster
 	url = ../system/keymaster
+[submodule "platform/system/keymint"]
+	branch = master
+	path = system/keymint
+	url = ../system/keymint
 [submodule "platform/system/libartpalette"]
 	branch = master
 	path = system/libartpalette
