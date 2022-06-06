@@ -196,6 +196,9 @@
 [submodule "platform/external/starlark-go"]
 	path = external/starlark-go
 	url = ../external/starlark-go
+[submodule "platform/external/tinyxml2"]
+	path = external/tinyxml2
+	url = ../external/tinyxml2
 [submodule "platform/external/toybox"]
 	path = external/toybox
 	url = ../external/toybox
