@@ -3136,6 +3136,9 @@
 [submodule "platform/system/keymaster"]
 	path = system/keymaster
 	url = ../system/keymaster
+[submodule "platform/system/keymint"]
+	path = system/keymint
+	url = ../system/keymint
 [submodule "platform/system/libartpalette"]
 	path = system/libartpalette
 	url = ../system/libartpalette
