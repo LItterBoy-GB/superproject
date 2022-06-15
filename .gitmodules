@@ -87,70 +87,10 @@
 	branch = android12L-platform-release
 	path = device/google/atv
 	url = ../../device/google/atv
-[submodule "device/google/barbet"]
-	branch = android12L-platform-release
-	path = device/google/barbet
-	url = ../../device/google/barbet
-[submodule "device/google/barbet-kernel"]
-	branch = android12L-platform-release
-	shallow = true
-	path = device/google/barbet-kernel
-	url = ../../device/google/barbet-kernel
-[submodule "device/google/barbet-sepolicy"]
-	branch = android12L-platform-release
-	path = device/google/barbet-sepolicy
-	url = ../../device/google/barbet-sepolicy
-[submodule "device/google/bonito"]
-	branch = android12L-platform-release
-	path = device/google/bonito
-	url = ../../device/google/bonito
-[submodule "device/google/bonito-kernel"]
-	branch = android12L-platform-release
-	shallow = true
-	path = device/google/bonito-kernel
-	url = ../../device/google/bonito-kernel
-[submodule "device/google/bonito-sepolicy"]
-	branch = android12L-platform-release
-	path = device/google/bonito-sepolicy
-	url = ../../device/google/bonito-sepolicy
-[submodule "device/google/bramble"]
-	branch = android12L-platform-release
-	path = device/google/bramble
-	url = ../../device/google/bramble
-[submodule "device/google/bramble-sepolicy"]
-	branch = android12L-platform-release
-	path = device/google/bramble-sepolicy
-	url = ../../device/google/bramble-sepolicy
 [submodule "device/google/contexthub"]
 	branch = android12L-platform-release
 	path = device/google/contexthub
 	url = ../../device/google/contexthub
-[submodule "device/google/coral"]
-	branch = android12L-platform-release
-	path = device/google/coral
-	url = ../../device/google/coral
-[submodule "device/google/coral-kernel"]
-	branch = android12L-platform-release
-	shallow = true
-	path = device/google/coral-kernel
-	url = ../../device/google/coral-kernel
-[submodule "device/google/coral-sepolicy"]
-	branch = android12L-platform-release
-	path = device/google/coral-sepolicy
-	url = ../../device/google/coral-sepolicy
-[submodule "device/google/crosshatch"]
-	branch = android12L-platform-release
-	path = device/google/crosshatch
-	url = ../../device/google/crosshatch
-[submodule "device/google/crosshatch-kernel"]
-	branch = android12L-platform-release
-	shallow = true
-	path = device/google/crosshatch-kernel
-	url = ../../device/google/crosshatch-kernel
-[submodule "device/google/crosshatch-sepolicy"]
-	branch = android12L-platform-release
-	path = device/google/crosshatch-sepolicy
-	url = ../../device/google/crosshatch-sepolicy
 [submodule "device/google/cuttlefish"]
 	branch = android12L-platform-release
 	path = device/google/cuttlefish
@@ -160,65 +100,6 @@
 	shallow = true
 	path = device/google/cuttlefish_prebuilts
 	url = ../../device/google/cuttlefish_prebuilts
-[submodule "device/google/fuchsia"]
-	branch = android12L-platform-release
-	path = device/google/fuchsia
-	url = ../../device/google/fuchsia
-[submodule "device/google/gs-common"]
-	branch = android12L-platform-release
-	path = device/google/gs-common
-	url = ../../device/google/gs-common
-[submodule "device/google/gs101"]
-	branch = android12L-platform-release
-	path = device/google/gs101
-	url = ../../device/google/gs101
-[submodule "device/google/gs101-sepolicy"]
-	branch = android12L-platform-release
-	path = device/google/gs101-sepolicy
-	url = ../../device/google/gs101-sepolicy
-[submodule "device/google/raviole"]
-	branch = android12L-platform-release
-	path = device/google/raviole
-	url = ../../device/google/raviole
-[submodule "device/google/raviole-kernel"]
-	branch = android12L-platform-release
-	shallow = true
-	path = device/google/raviole-kernel
-	url = ../../device/google/raviole-kernel
-[submodule "device/google/redbull"]
-	branch = android12L-platform-release
-	path = device/google/redbull
-	url = ../../device/google/redbull
-[submodule "device/google/redbull-kernel"]
-	branch = android12L-platform-release
-	shallow = true
-	path = device/google/redbull-kernel
-	url = ../../device/google/redbull-kernel
-[submodule "device/google/redbull-sepolicy"]
-	branch = android12L-platform-release
-	path = device/google/redbull-sepolicy
-	url = ../../device/google/redbull-sepolicy
-[submodule "device/google/redfin"]
-	branch = android12L-platform-release
-	path = device/google/redfin
-	url = ../../device/google/redfin
-[submodule "device/google/redfin-sepolicy"]
-	branch = android12L-platform-release
-	path = device/google/redfin-sepolicy
-	url = ../../device/google/redfin-sepolicy
-[submodule "device/google/sunfish"]
-	branch = android12L-platform-release
-	path = device/google/sunfish
-	url = ../../device/google/sunfish
-[submodule "device/google/sunfish-kernel"]
-	branch = android12L-platform-release
-	shallow = true
-	path = device/google/sunfish-kernel
-	url = ../../device/google/sunfish-kernel
-[submodule "device/google/sunfish-sepolicy"]
-	branch = android12L-platform-release
-	path = device/google/sunfish-sepolicy
-	url = ../../device/google/sunfish-sepolicy
 [submodule "device/google/trout"]
 	branch = android12L-platform-release
 	path = device/google/trout
@@ -258,10 +139,6 @@
 	shallow = true
 	path = device/linaro/poplar-kernel
 	url = ../../device/linaro/poplar-kernel
-[submodule "device/mediatek/wembley-sepolicy"]
-	branch = android12L-platform-release
-	path = device/mediatek/wembley-sepolicy
-	url = ../../device/mediatek/wembley-sepolicy
 [submodule "device/sample"]
 	branch = android12L-platform-release
 	path = device/sample
@@ -405,22 +282,10 @@
 	branch = android12L-platform-release
 	path = developers/build
 	url = ../developers/build
-[submodule "platform/developers/demos"]
-	branch = android12L-platform-release
-	path = developers/demos
-	url = ../developers/demos
-[submodule "platform/developers/samples/android"]
-	branch = android12L-platform-release
-	path = developers/samples/android
-	url = ../developers/samples/android
 [submodule "platform/development"]
 	branch = android12L-platform-release
 	path = development
 	url = ../development
-[submodule "platform/external/ComputeLibrary"]
-	branch = android12L-platform-release
-	path = external/ComputeLibrary
-	url = ../external/ComputeLibrary
 [submodule "platform/external/FP16"]
 	branch = android12L-platform-release
 	path = external/FP16
@@ -433,10 +298,6 @@
 	branch = android12L-platform-release
 	path = external/ImageMagick
 	url = ../external/ImageMagick
-[submodule "platform/external/OpenCL-CTS"]
-	branch = android12L-platform-release
-	path = external/OpenCL-CTS
-	url = ../external/OpenCL-CTS
 [submodule "platform/external/OpenCSD"]
 	branch = android12L-platform-release
 	path = external/OpenCSD
@@ -469,10 +330,6 @@
 	branch = android12L-platform-release
 	path = external/android-clat
 	url = ../external/android-clat
-[submodule "platform/external/android-nn-driver"]
-	branch = android12L-platform-release
-	path = external/android-nn-driver
-	url = ../external/android-nn-driver
 [submodule "platform/external/androidplot"]
 	branch = android12L-platform-release
 	path = external/androidplot
@@ -513,10 +370,6 @@
 	branch = android12L-platform-release
 	path = external/apache-xml
 	url = ../external/apache-xml
-[submodule "platform/external/arm-neon-tests"]
-	branch = android12L-platform-release
-	path = external/arm-neon-tests
-	url = ../external/arm-neon-tests
 [submodule "platform/external/arm-optimized-routines"]
 	branch = android12L-platform-release
 	path = external/arm-optimized-routines
@@ -525,10 +378,6 @@
 	branch = android12L-platform-release
 	path = external/arm-trusted-firmware
 	url = ../external/arm-trusted-firmware
-[submodule "platform/external/armnn"]
-	branch = android12L-platform-release
-	path = external/armnn
-	url = ../external/armnn
 [submodule "platform/external/auto"]
 	branch = android12L-platform-release
 	path = external/auto
@@ -2558,10 +2407,6 @@
 	branch = android12L-platform-release
 	path = external/tinyxml2
 	url = ../external/tinyxml2
-[submodule "platform/external/toolchain-utils"]
-	branch = android12L-platform-release
-	path = external/toolchain-utils
-	url = ../external/toolchain-utils
 [submodule "platform/external/toybox"]
 	branch = android12L-platform-release
 	path = external/toybox
@@ -2586,10 +2431,6 @@
 	branch = android12L-platform-release
 	path = external/unicode
 	url = ../external/unicode
-[submodule "platform/external/universal-tween-engine"]
-	branch = android12L-platform-release
-	path = external/universal-tween-engine
-	url = ../external/universal-tween-engine
 [submodule "platform/external/usrsctp"]
 	branch = android12L-platform-release
 	path = external/usrsctp
@@ -2774,10 +2615,6 @@
 	branch = android12L-platform-release
 	path = frameworks/opt/colorpicker
 	url = ../frameworks/opt/colorpicker
-[submodule "platform/frameworks/opt/localepicker"]
-	branch = android12L-platform-release
-	path = frameworks/opt/localepicker
-	url = ../frameworks/opt/localepicker
 [submodule "platform/frameworks/opt/net/ethernet"]
 	branch = android12L-platform-release
 	path = frameworks/opt/net/ethernet
@@ -2854,18 +2691,6 @@
 	branch = android12L-platform-release
 	path = hardware/google/easel
 	url = ../hardware/google/easel
-[submodule "platform/hardware/google/gchips"]
-	branch = android12L-platform-release
-	path = hardware/google/gchips
-	url = ../hardware/google/gchips
-[submodule "platform/hardware/google/graphics/common"]
-	branch = android12L-platform-release
-	path = hardware/google/graphics/common
-	url = ../hardware/google/graphics/common
-[submodule "platform/hardware/google/graphics/gs101"]
-	branch = android12L-platform-release
-	path = hardware/google/graphics/gs101
-	url = ../hardware/google/graphics/gs101
 [submodule "platform/hardware/google/interfaces"]
 	branch = android12L-platform-release
 	path = hardware/google/interfaces
@@ -2954,10 +2779,6 @@
 	branch = android12L-platform-release
 	path = hardware/qcom/msm8996
 	url = ../hardware/qcom/msm8996
-[submodule "platform/hardware/qcom/msm8x09"]
-	branch = android12L-platform-release
-	path = hardware/qcom/msm8x09
-	url = ../hardware/qcom/msm8x09
 [submodule "platform/hardware/qcom/msm8x26"]
 	branch = android12L-platform-release
 	path = hardware/qcom/msm8x26
@@ -3002,50 +2823,6 @@
 	branch = android12L-platform-release
 	path = hardware/qcom/sdm845/vr
 	url = ../hardware/qcom/sdm845/vr
-[submodule "platform/hardware/qcom/sm7150/gps"]
-	branch = android12L-platform-release
-	path = hardware/qcom/sm7150/gps
-	url = ../hardware/qcom/sm7150/gps
-[submodule "platform/hardware/qcom/sm7250/display"]
-	branch = android12L-platform-release
-	path = hardware/qcom/sm7250/display
-	url = ../hardware/qcom/sm7250/display
-[submodule "platform/hardware/qcom/sm7250/gps"]
-	branch = android12L-platform-release
-	path = hardware/qcom/sm7250/gps
-	url = ../hardware/qcom/sm7250/gps
-[submodule "platform/hardware/qcom/sm7250/media"]
-	branch = android12L-platform-release
-	path = hardware/qcom/sm7250/media
-	url = ../hardware/qcom/sm7250/media
-[submodule "platform/hardware/qcom/sm8150/data/ipacfg-mgr"]
-	branch = android12L-platform-release
-	path = hardware/qcom/sm8150/data/ipacfg-mgr
-	url = ../hardware/qcom/sm8150/data/ipacfg-mgr
-[submodule "platform/hardware/qcom/sm8150/display"]
-	branch = android12L-platform-release
-	path = hardware/qcom/sm8150/display
-	url = ../hardware/qcom/sm8150/display
-[submodule "platform/hardware/qcom/sm8150/gps"]
-	branch = android12L-platform-release
-	path = hardware/qcom/sm8150/gps
-	url = ../hardware/qcom/sm8150/gps
-[submodule "platform/hardware/qcom/sm8150/media"]
-	branch = android12L-platform-release
-	path = hardware/qcom/sm8150/media
-	url = ../hardware/qcom/sm8150/media
-[submodule "platform/hardware/qcom/sm8150/thermal"]
-	branch = android12L-platform-release
-	path = hardware/qcom/sm8150/thermal
-	url = ../hardware/qcom/sm8150/thermal
-[submodule "platform/hardware/qcom/sm8150/vr"]
-	branch = android12L-platform-release
-	path = hardware/qcom/sm8150/vr
-	url = ../hardware/qcom/sm8150/vr
-[submodule "platform/hardware/qcom/sm8150p/gps"]
-	branch = android12L-platform-release
-	path = hardware/qcom/sm8150p/gps
-	url = ../hardware/qcom/sm8150p/gps
 [submodule "platform/hardware/qcom/wlan"]
 	branch = android12L-platform-release
 	path = hardware/qcom/wlan
@@ -3182,6 +2959,10 @@
 	branch = android12L-platform-release
 	path = packages/apps/Car/libs
 	url = ../packages/apps/Car/libs
+[submodule "platform/packages/apps/Car/systemlibs"]
+	branch = android12L-platform-release
+	path = packages/apps/Car/systemlibs
+	url = ../packages/apps/Car/systemlibs
 [submodule "platform/packages/apps/Car/tests"]
 	branch = android12L-platform-release
 	path = packages/apps/Car/tests
@@ -3366,10 +3147,6 @@
 	branch = android12L-platform-release
 	path = packages/apps/TvSettings
 	url = ../packages/apps/TvSettings
-[submodule "platform/packages/apps/UniversalMediaPlayer"]
-	branch = android12L-platform-release
-	path = packages/apps/UniversalMediaPlayer
-	url = ../packages/apps/UniversalMediaPlayer
 [submodule "platform/packages/apps/WallpaperPicker"]
 	branch = android12L-platform-release
 	path = packages/apps/WallpaperPicker
@@ -3473,10 +3250,6 @@
 	branch = android12L-platform-release
 	path = packages/modules/StatsD
 	url = ../packages/modules/StatsD
-[submodule "platform/packages/modules/TestModule"]
-	branch = android12L-platform-release
-	path = packages/modules/TestModule
-	url = ../packages/modules/TestModule
 [submodule "platform/packages/modules/Virtualization"]
 	branch = android12L-platform-release
 	path = packages/modules/Virtualization
@@ -4129,18 +3902,6 @@
 	branch = android12L-platform-release
 	path = system/vold
 	url = ../system/vold
-[submodule "platform/test/app_compat/csuite"]
-	branch = android12L-platform-release
-	path = test/app_compat/csuite
-	url = ../test/app_compat/csuite
-[submodule "platform/test/catbox"]
-	branch = android12L-platform-release
-	path = test/catbox
-	url = ../test/catbox
-[submodule "platform/test/cts-root"]
-	branch = android12L-platform-release
-	path = test/cts-root
-	url = ../test/cts-root
 [submodule "platform/test/framework"]
 	branch = android12L-platform-release
 	path = test/framework
@@ -4153,10 +3914,6 @@
 	branch = android12L-platform-release
 	path = test/mlts/models
 	url = ../test/mlts/models
-[submodule "platform/test/mts"]
-	branch = android12L-platform-release
-	path = test/mts
-	url = ../test/mts
 [submodule "platform/test/vti/dashboard"]
 	branch = android12L-platform-release
 	path = test/vti/dashboard
@@ -4213,10 +3970,6 @@
 	branch = android12L-platform-release
 	path = tools/acloud
 	url = ../tools/acloud
-[submodule "platform/tools/adt/idea"]
-	branch = android12L-platform-release
-	path = tools/adt/idea
-	url = ../tools/adt/idea
 [submodule "platform/tools/apifinder"]
 	branch = android12L-platform-release
 	path = tools/apifinder
@@ -4233,18 +3986,6 @@
 	branch = android12L-platform-release
 	path = tools/asuite
 	url = ../tools/asuite
-[submodule "platform/tools/base"]
-	branch = android12L-platform-release
-	path = tools/base
-	url = ../tools/base
-[submodule "platform/tools/build"]
-	branch = android12L-platform-release
-	path = tools/build
-	url = ../tools/build
-[submodule "platform/tools/carrier_settings"]
-	branch = android12L-platform-release
-	path = tools/carrier_settings
-	url = ../tools/carrier_settings
 [submodule "platform/tools/currysrc"]
 	branch = android12L-platform-release
 	path = tools/currysrc
@@ -4257,26 +3998,10 @@
 	branch = android12L-platform-release
 	path = tools/doc_generation
 	url = ../tools/doc_generation
-[submodule "platform/tools/external/fat32lib"]
-	branch = android12L-platform-release
-	path = tools/external/fat32lib
-	url = ../tools/external/fat32lib
-[submodule "platform/tools/external_updater"]
-	branch = android12L-platform-release
-	path = tools/external_updater
-	url = ../tools/external_updater
-[submodule "platform/tools/idea"]
-	branch = android12L-platform-release
-	path = tools/idea
-	url = ../tools/idea
 [submodule "platform/tools/metalava"]
 	branch = android12L-platform-release
 	path = tools/metalava
 	url = ../tools/metalava
-[submodule "platform/tools/motodev"]
-	branch = android12L-platform-release
-	path = tools/motodev
-	url = ../tools/motodev
 [submodule "platform/tools/ndkports"]
 	branch = android12L-platform-release
 	path = tools/ndkports
@@ -4289,14 +4014,6 @@
 	branch = android12L-platform-release
 	path = tools/security
 	url = ../tools/security
-[submodule "platform/tools/studio/cloud"]
-	branch = android12L-platform-release
-	path = tools/studio/cloud
-	url = ../tools/studio/cloud
-[submodule "platform/tools/swt"]
-	branch = android12L-platform-release
-	path = tools/swt
-	url = ../tools/swt
 [submodule "platform/tools/test/connectivity"]
 	branch = android12L-platform-release
 	path = tools/test/connectivity
@@ -4305,10 +4022,6 @@
 	branch = android12L-platform-release
 	path = tools/test/graphicsbenchmark
 	url = ../tools/test/graphicsbenchmark
-[submodule "platform/tools/test/openhst"]
-	branch = android12L-platform-release
-	path = tools/test/openhst
-	url = ../tools/test/openhst
 [submodule "platform/tools/tradefederation/prebuilts"]
 	branch = android12L-platform-release
 	path = tools/tradefederation/prebuilts
@@ -4321,10 +4034,6 @@
 	branch = android12L-platform-release
 	path = tools/trebuchet
 	url = ../tools/trebuchet
-[submodule "toolchain/benchmark"]
-	branch = android12L-platform-release
-	path = toolchain/benchmark
-	url = ../../toolchain/benchmark
 [submodule "toolchain/llvm-project"]
 	branch = android12L-platform-release
 	path = external/llvm-project

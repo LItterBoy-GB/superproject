@@ -20,37 +20,9 @@
 /device/generic/x86 pdk
 /device/generic/x86_64 pdk
 /device/google/atv broadcom_pdk generic_fs pdk device
-/device/google/barbet barbet device
-/device/google/barbet-kernel barbet device
-/device/google/barbet-sepolicy barbet device
-/device/google/bonito bonito device
-/device/google/bonito-kernel bonito device
-/device/google/bonito-sepolicy bonito device
-/device/google/bramble bramble device
-/device/google/bramble-sepolicy bramble device
 /device/google/contexthub pdk device
-/device/google/coral generic_fs coral device
-/device/google/coral-kernel generic_fs coral device
-/device/google/coral-sepolicy generic_fs coral device
-/device/google/crosshatch crosshatch generic_fs device
-/device/google/crosshatch-kernel crosshatch generic_fs device
-/device/google/crosshatch-sepolicy crosshatch generic_fs device
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
-/device/google/fuchsia device
-/device/google/gs-common slider pdk-gs-arm device
-/device/google/gs101 slider device
-/device/google/gs101-sepolicy slider device
-/device/google/raviole slider device
-/device/google/raviole-kernel slider device
-/device/google/redbull redbull device
-/device/google/redbull-kernel bramble redfin device
-/device/google/redbull-sepolicy redbull device
-/device/google/redfin redfin device
-/device/google/redfin-sepolicy redfin device
-/device/google/sunfish sunfish device
-/device/google/sunfish-kernel sunfish device
-/device/google/sunfish-sepolicy sunfish device
 /device/google/trout pdk trout device gull
 /device/google/vrservices pdk
 /device/google_car pdk
@@ -60,7 +32,6 @@
 /device/linaro/hikey-kernel hikey pdk device
 /device/linaro/poplar poplar pdk device
 /device/linaro/poplar-kernel poplar pdk device
-/device/mediatek/wembley-sepolicy device
 /device/sample pdk
 /device/ti/beagle_x15 pdk beagle_x15 device
 /device/ti/beagle_x15-kernel pdk beagle_x15 device
@@ -93,14 +64,10 @@
 /cts pdk-fs cts pdk-cw-fs
 /dalvik pdk-fs pdk-cw-fs
 /developers/build developers pdk
-/developers/demos developers
-/developers/samples/android developers
 /development pdk-fs pdk-cw-fs developers
-/external/ComputeLibrary pdk-lassen
 /external/FP16 pdk
 /external/FXdiv pdk
 /external/ImageMagick pdk
-/external/OpenCL-CTS
 /external/OpenCSD pdk
 /external/Reactive-Extensions/RxCpp pdk
 /external/TestParameterInjector pdk
@@ -109,7 +76,6 @@
 /external/abseil-cpp pdk
 /external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
-/external/android-nn-driver pdk-lassen
 /external/androidplot pdk
 /external/angle pdk
 /external/ant-glob pdk
@@ -120,10 +86,8 @@
 /external/apache-harmony pdk
 /external/apache-http pdk
 /external/apache-xml pdk
-/external/arm-neon-tests vendor
 /external/arm-optimized-routines pdk
 /external/arm-trusted-firmware pdk
-/external/armnn pdk-lassen
 /external/auto pdk
 /external/autotest pdk-fs
 /external/avb pdk
@@ -630,14 +594,12 @@
 /external/tinyalsa_new pdk
 /external/tinycompress pdk
 /external/tinyxml2 pdk
-/external/toolchain-utils
 /external/toybox pdk
 /external/tpm2-tss pdk
 /external/tremolo pdk
 /external/turbine pdk
 /external/ukey2 pdk
 /external/unicode pdk
-/external/universal-tween-engine
 /external/usrsctp pdk
 /external/v4l2_codec2 pdk
 /external/vboot_reference pdk-fs vboot
@@ -684,7 +646,6 @@
 /frameworks/opt/car/setupwizard pdk
 /frameworks/opt/chips pdk-fs pdk-cw-fs
 /frameworks/opt/colorpicker pdk-fs pdk-cw-fs
-/frameworks/opt/localepicker
 /frameworks/opt/net/ethernet pdk-fs
 /frameworks/opt/net/ims pdk-fs pdk-cw-fs frameworks_ims
 /frameworks/opt/net/voip pdk-fs pdk-cw-fs
@@ -704,9 +665,6 @@
 /hardware/google/av pdk
 /hardware/google/camera pdk
 /hardware/google/easel easel pdk
-/hardware/google/gchips pdk-lassen
-/hardware/google/graphics/common pdk-lassen
-/hardware/google/graphics/gs101 pdk-lassen
 /hardware/google/interfaces pdk
 /hardware/google/pixel generic_fs pixel
 /hardware/google/pixel-sepolicy generic_fs pixel
@@ -729,7 +687,6 @@
 /hardware/qcom/msm8960 qcom_msm8960 pdk-qcom
 /hardware/qcom/msm8994 qcom_msm8994 pdk-qcom
 /hardware/qcom/msm8996 qcom_msm8996 pdk-qcom
-/hardware/qcom/msm8x09 qcom_msm8x09
 /hardware/qcom/msm8x26 qcom_msm8x26 pdk-qcom
 /hardware/qcom/msm8x27 qcom_msm8x27 pdk-qcom
 /hardware/qcom/msm8x84 qcom_msm8x84 pdk-qcom
@@ -741,17 +698,6 @@
 /hardware/qcom/sdm845/media generic_fs qcom_sdm845
 /hardware/qcom/sdm845/thermal generic_fs qcom_sdm845
 /hardware/qcom/sdm845/vr generic_fs qcom_sdm845
-/hardware/qcom/sm7150/gps qcom_sm7150
-/hardware/qcom/sm7250/display qcom_sm7250
-/hardware/qcom/sm7250/gps qcom_sm7250
-/hardware/qcom/sm7250/media qcom_sm7250
-/hardware/qcom/sm8150/data/ipacfg-mgr qcom_sm8150
-/hardware/qcom/sm8150/display qcom_sm8150
-/hardware/qcom/sm8150/gps qcom_sm8150
-/hardware/qcom/sm8150/media qcom_sm8150
-/hardware/qcom/sm8150/thermal qcom_sm8150
-/hardware/qcom/sm8150/vr qcom_sm8150
-/hardware/qcom/sm8150p/gps qcom_sm8150p
 /hardware/qcom/wlan qcom_wlan pdk-qcom
 /hardware/ril pdk
 /hardware/samsung/nfc pdk
@@ -786,6 +732,7 @@
 /packages/apps/Car/SystemUI pdk-fs
 /packages/apps/Car/SystemUpdater pdk-fs
 /packages/apps/Car/libs pdk-fs
+/packages/apps/Car/systemlibs pdk-fs
 /packages/apps/Car/tests pdk-fs
 /packages/apps/CarrierConfig pdk-fs pdk-cw-fs
 /packages/apps/CellBroadcastReceiver pdk-fs pdk-cw-fs
@@ -832,7 +779,6 @@
 /packages/apps/TimeZoneUpdater pdk
 /packages/apps/Traceur pdk-fs
 /packages/apps/TvSettings pdk-fs
-/packages/apps/UniversalMediaPlayer
 /packages/apps/WallpaperPicker pdk-fs
 /packages/apps/WallpaperPicker2 pdk-fs
 /packages/inputmethods/LatinIME pdk-fs
@@ -858,7 +804,6 @@
 /packages/modules/Scheduling pdk-fs pdk-cw-fs
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
 /packages/modules/StatsD pdk-fs pdk-cw-fs
-/packages/modules/TestModule
 /packages/modules/Virtualization pdk
 /packages/modules/Wifi pdk-fs pdk-cw-fs
 /packages/modules/adb pdk
@@ -1006,13 +951,9 @@
 /system/unwinding pdk
 /system/update_engine pdk
 /system/vold pdk
-/test/app_compat/csuite
-/test/catbox
-/test/cts-root
 /test/framework vts pdk projectarch
 /test/mlts/benchmark pdk
 /test/mlts/models pdk
-/test/mts
 /test/vti/dashboard vts pdk projectarch
 /test/vti/fuzz_test_serving vts pdk projectarch
 /test/vti/test_serving vts pdk projectarch
@@ -1027,34 +968,22 @@
 /test/vts-testcase/vndk vts pdk
 /tools/aadevtools pdk
 /tools/acloud vts tradefed pdk tools projectarch
-/tools/adt/idea notdefault tools
 /tools/apifinder pdk tools
 /tools/apksig tradefed pdk
 /tools/apkzlib tradefed pdk
 /tools/asuite pdk
-/tools/base notdefault tools
-/tools/build notdefault tools
-/tools/carrier_settings tools
 /tools/currysrc pdk
 /tools/dexter pdk-fs tools
 /tools/doc_generation pdk tools
-/tools/external/fat32lib tools
-/tools/external_updater tools
-/tools/idea notdefault tools
 /tools/metalava pdk tools
-/tools/motodev notdefault motodev
 /tools/ndkports pdk
 /tools/repohooks cts tradefed developers pdk tools adt-infra motodev
 /tools/security pdk tools
-/tools/studio/cloud notdefault tools
-/tools/swt notdefault tools
 /tools/test/connectivity pdk
 /tools/test/graphicsbenchmark pdk
-/tools/test/openhst tools
 /tools/tradefederation/prebuilts tradefed pdk
 /tools/treble pdk tools
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
-/toolchain/benchmark
 /external/llvm-project pdk
 /toolchain/pgo-profiles pdk
 /tools/platform-compat pdk-fs pdk-cw-fs pdk
