@@ -91,32 +91,6 @@
 	ref = refs/tags/android-platform-12.1.0_r4
 	path = device/google/contexthub
 	url = ../../device/google/contexthub
-[submodule "device/google/coral"]
-	ref = refs/tags/android-platform-12.1.0_r4
-	path = device/google/coral
-	url = ../../device/google/coral
-[submodule "device/google/coral-kernel"]
-	ref = refs/tags/android-platform-12.1.0_r4
-	shallow = true
-	path = device/google/coral-kernel
-	url = ../../device/google/coral-kernel
-[submodule "device/google/coral-sepolicy"]
-	ref = refs/tags/android-platform-12.1.0_r4
-	path = device/google/coral-sepolicy
-	url = ../../device/google/coral-sepolicy
-[submodule "device/google/crosshatch"]
-	ref = refs/tags/android-platform-12.1.0_r4
-	path = device/google/crosshatch
-	url = ../../device/google/crosshatch
-[submodule "device/google/crosshatch-kernel"]
-	ref = refs/tags/android-platform-12.1.0_r4
-	shallow = true
-	path = device/google/crosshatch-kernel
-	url = ../../device/google/crosshatch-kernel
-[submodule "device/google/crosshatch-sepolicy"]
-	ref = refs/tags/android-platform-12.1.0_r4
-	path = device/google/crosshatch-sepolicy
-	url = ../../device/google/crosshatch-sepolicy
 [submodule "device/google/cuttlefish"]
 	ref = refs/tags/android-platform-12.1.0_r4
 	path = device/google/cuttlefish
@@ -2985,6 +2959,10 @@
 	ref = refs/tags/android-platform-12.1.0_r4
 	path = packages/apps/Car/libs
 	url = ../packages/apps/Car/libs
+[submodule "platform/packages/apps/Car/systemlibs"]
+	ref = refs/tags/android-platform-12.1.0_r4
+	path = packages/apps/Car/systemlibs
+	url = ../packages/apps/Car/systemlibs
 [submodule "platform/packages/apps/Car/tests"]
 	ref = refs/tags/android-platform-12.1.0_r4
 	path = packages/apps/Car/tests
