@@ -867,6 +867,7 @@
 /packages/apps/Car/SystemUI pdk-fs
 /packages/apps/Car/SystemUpdater pdk-fs
 /packages/apps/Car/libs pdk-fs
+/packages/apps/Car/systemlibs pdk-fs
 /packages/apps/Car/tests pdk-fs
 /packages/apps/CarrierConfig pdk-fs pdk-cw-fs
 /packages/apps/CellBroadcastReceiver pdk-fs pdk-cw-fs

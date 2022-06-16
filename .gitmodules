@@ -3510,6 +3510,10 @@
 	branch = master
 	path = packages/apps/Car/libs
 	url = ../packages/apps/Car/libs
+[submodule "platform/packages/apps/Car/systemlibs"]
+	branch = master
+	path = packages/apps/Car/systemlibs
+	url = ../packages/apps/Car/systemlibs
 [submodule "platform/packages/apps/Car/tests"]
 	branch = master
 	path = packages/apps/Car/tests
