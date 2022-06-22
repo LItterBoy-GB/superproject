@@ -23,9 +23,6 @@
 /device/google/barbet barbet device
 /device/google/barbet-kernel barbet device
 /device/google/barbet-sepolicy barbet device
-/device/google/bonito bonito device
-/device/google/bonito-kernel bonito device
-/device/google/bonito-sepolicy bonito device
 /device/google/bramble bramble device
 /device/google/bramble-sepolicy bramble device
 /device/google/contexthub pdk device

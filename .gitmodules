@@ -100,19 +100,6 @@
 	branch = master
 	path = device/google/barbet-sepolicy
 	url = ../../device/google/barbet-sepolicy
-[submodule "device/google/bonito"]
-	branch = master
-	path = device/google/bonito
-	url = ../../device/google/bonito
-[submodule "device/google/bonito-kernel"]
-	branch = master
-	shallow = true
-	path = device/google/bonito-kernel
-	url = ../../device/google/bonito-kernel
-[submodule "device/google/bonito-sepolicy"]
-	branch = master
-	path = device/google/bonito-sepolicy
-	url = ../../device/google/bonito-sepolicy
 [submodule "device/google/bramble"]
 	branch = master
 	path = device/google/bramble
