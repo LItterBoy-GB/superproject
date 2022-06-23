@@ -3669,14 +3669,6 @@
 	branch = master
 	path = packages/apps/ThemePicker
 	url = ../packages/apps/ThemePicker
-[submodule "platform/packages/apps/TimeZoneData"]
-	branch = master
-	path = packages/apps/TimeZoneData
-	url = ../packages/apps/TimeZoneData
-[submodule "platform/packages/apps/TimeZoneUpdater"]
-	branch = master
-	path = packages/apps/TimeZoneUpdater
-	url = ../packages/apps/TimeZoneUpdater
 [submodule "platform/packages/apps/Traceur"]
 	branch = master
 	path = packages/apps/Traceur
