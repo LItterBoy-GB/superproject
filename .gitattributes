@@ -513,6 +513,7 @@
 /external/rust/crates/futures-macro pdk
 /external/rust/crates/futures-sink pdk
 /external/rust/crates/futures-task pdk
+/external/rust/crates/futures-test pdk
 /external/rust/crates/futures-util pdk
 /external/rust/crates/gdbstub pdk
 /external/rust/crates/gdbstub_arch pdk

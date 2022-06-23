@@ -2090,6 +2090,10 @@
 	branch = master
 	path = external/rust/crates/futures-task
 	url = ../external/rust/crates/futures-task
+[submodule "platform/external/rust/crates/futures-test"]
+	branch = master
+	path = external/rust/crates/futures-test
+	url = ../external/rust/crates/futures-test
 [submodule "platform/external/rust/crates/futures-util"]
 	branch = master
 	path = external/rust/crates/futures-util
