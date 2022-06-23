@@ -3549,7 +3549,7 @@
 	path = pdk
 	url = ../pdk
 [submodule "platform/platform_testing"]
-	branch = android12-release
+	branch = android12-tests-dev
 	path = platform_testing
 	url = ../platform_testing
 [submodule "platform/prebuilts/abi-dumps/ndk"]
