@@ -904,8 +904,6 @@
 /packages/apps/Tag pdk-fs
 /packages/apps/Test/connectivity pdk
 /packages/apps/ThemePicker pdk-fs
-/packages/apps/TimeZoneData pdk
-/packages/apps/TimeZoneUpdater pdk
 /packages/apps/Traceur pdk-fs
 /packages/apps/TvSettings pdk-fs
 /packages/apps/UniversalMediaPlayer
