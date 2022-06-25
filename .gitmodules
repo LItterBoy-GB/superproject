@@ -1422,6 +1422,10 @@
 	branch = master
 	path = external/mksh
 	url = ../external/mksh
+[submodule "platform/external/mobile-data-download"]
+	branch = master
+	path = external/mobile-data-download
+	url = ../external/mobile-data-download
 [submodule "platform/external/mobly-bundled-snippets"]
 	branch = master
 	path = external/mobly-bundled-snippets
