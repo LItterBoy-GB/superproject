@@ -23,9 +23,6 @@
 /device/google/barbet barbet device
 /device/google/barbet-kernel barbet device
 /device/google/barbet-sepolicy barbet device
-/device/google/bonito bonito device
-/device/google/bonito-kernel bonito device
-/device/google/bonito-sepolicy bonito device
 /device/google/bramble bramble device
 /device/google/bramble-sepolicy bramble device
 /device/google/contexthub pdk device
@@ -348,6 +345,7 @@
 /external/minigbm pdk
 /external/minijail pdk
 /external/mksh pdk
+/external/mobile-data-download pdk
 /external/mobly-bundled-snippets pdk
 /external/mobly-snippet-lib pdk
 /external/mockftpserver pdk
@@ -514,6 +512,7 @@
 /external/rust/crates/futures-macro pdk
 /external/rust/crates/futures-sink pdk
 /external/rust/crates/futures-task pdk
+/external/rust/crates/futures-test pdk
 /external/rust/crates/futures-util pdk
 /external/rust/crates/gdbstub pdk
 /external/rust/crates/gdbstub_arch pdk
@@ -907,8 +906,6 @@
 /packages/apps/Tag pdk-fs
 /packages/apps/Test/connectivity pdk
 /packages/apps/ThemePicker pdk-fs
-/packages/apps/TimeZoneData pdk
-/packages/apps/TimeZoneUpdater pdk
 /packages/apps/Traceur pdk-fs
 /packages/apps/TvSettings pdk-fs
 /packages/apps/UniversalMediaPlayer

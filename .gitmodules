@@ -73,15 +73,6 @@
 [submodule "device/google/barbet-sepolicy"]
 	path = device/google/barbet-sepolicy
 	url = ../../device/google/barbet-sepolicy
-[submodule "device/google/bonito"]
-	path = device/google/bonito
-	url = ../../device/google/bonito
-[submodule "device/google/bonito-kernel"]
-	path = device/google/bonito-kernel
-	url = ../../device/google/bonito-kernel
-[submodule "device/google/bonito-sepolicy"]
-	path = device/google/bonito-sepolicy
-	url = ../../device/google/bonito-sepolicy
 [submodule "device/google/bramble"]
 	path = device/google/bramble
 	url = ../../device/google/bramble
@@ -1048,6 +1039,9 @@
 [submodule "platform/external/mksh"]
 	path = external/mksh
 	url = ../external/mksh
+[submodule "platform/external/mobile-data-download"]
+	path = external/mobile-data-download
+	url = ../external/mobile-data-download
 [submodule "platform/external/mobly-bundled-snippets"]
 	path = external/mobly-bundled-snippets
 	url = ../external/mobly-bundled-snippets
@@ -1546,6 +1540,9 @@
 [submodule "platform/external/rust/crates/futures-task"]
 	path = external/rust/crates/futures-task
 	url = ../external/rust/crates/futures-task
+[submodule "platform/external/rust/crates/futures-test"]
+	path = external/rust/crates/futures-test
+	url = ../external/rust/crates/futures-test
 [submodule "platform/external/rust/crates/futures-util"]
 	path = external/rust/crates/futures-util
 	url = ../external/rust/crates/futures-util
@@ -2725,12 +2722,6 @@
 [submodule "platform/packages/apps/ThemePicker"]
 	path = packages/apps/ThemePicker
 	url = ../packages/apps/ThemePicker
-[submodule "platform/packages/apps/TimeZoneData"]
-	path = packages/apps/TimeZoneData
-	url = ../packages/apps/TimeZoneData
-[submodule "platform/packages/apps/TimeZoneUpdater"]
-	path = packages/apps/TimeZoneUpdater
-	url = ../packages/apps/TimeZoneUpdater
 [submodule "platform/packages/apps/Traceur"]
 	path = packages/apps/Traceur
 	url = ../packages/apps/Traceur
