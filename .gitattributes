@@ -16,7 +16,6 @@
 /build/blueprint tradefed pdk
 /build/kati tradefed pdk
 /build/soong tradefed pdk
-/compatibility/cdd pdk
 /cts pdk-fs cts pdk-cw-fs
 /dalvik pdk-fs pdk-cw-fs
 /developers/build developers pdk

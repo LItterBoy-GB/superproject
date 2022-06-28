@@ -71,10 +71,6 @@
 	branch = android10-gsi
 	path = build/soong
 	url = ../build/soong
-[submodule "platform/compatibility/cdd"]
-	branch = android10-gsi
-	path = compatibility/cdd
-	url = ../compatibility/cdd
 [submodule "platform/cts"]
 	branch = android10-qpr3-release
 	path = cts
@@ -2499,12 +2495,12 @@
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "platform/prebuilts/vndk/v27"]
-	branch = android10-qpr3-release
+	branch = android10-gsi
 	shallow = true
 	path = prebuilts/vndk/v27
 	url = ../prebuilts/vndk/v27
 [submodule "platform/prebuilts/vndk/v28"]
-	branch = android10-qpr3-release
+	branch = android10-gsi
 	shallow = true
 	path = prebuilts/vndk/v28
 	url = ../prebuilts/vndk/v28
