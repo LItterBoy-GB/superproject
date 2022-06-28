@@ -2645,17 +2645,17 @@
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "platform/prebuilts/vndk/v27"]
-	branch = android11-platform-release
+	branch = android11-gsi
 	shallow = true
 	path = prebuilts/vndk/v27
 	url = ../prebuilts/vndk/v27
 [submodule "platform/prebuilts/vndk/v28"]
-	branch = android11-platform-release
+	branch = android11-gsi
 	shallow = true
 	path = prebuilts/vndk/v28
 	url = ../prebuilts/vndk/v28
 [submodule "platform/prebuilts/vndk/v29"]
-	branch = android11-platform-release
+	branch = android11-gsi
 	shallow = true
 	path = prebuilts/vndk/v29
 	url = ../prebuilts/vndk/v29
