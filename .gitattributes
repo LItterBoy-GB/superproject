@@ -23,9 +23,6 @@
 /device/google/barbet barbet device
 /device/google/barbet-kernel barbet device
 /device/google/barbet-sepolicy barbet device
-/device/google/bonito bonito device
-/device/google/bonito-kernel bonito device
-/device/google/bonito-sepolicy bonito device
 /device/google/bramble bramble device
 /device/google/bramble-sepolicy bramble device
 /device/google/contexthub pdk device
@@ -348,6 +345,7 @@
 /external/minigbm pdk
 /external/minijail pdk
 /external/mksh pdk
+/external/mobile-data-download pdk
 /external/mobly-bundled-snippets pdk
 /external/mobly-snippet-lib pdk
 /external/mockftpserver pdk
@@ -417,9 +415,10 @@
 /external/python/ipaddress pdk
 /external/python/jinja pdk
 /external/python/markupsafe pdk
-/external/mobly pdk
+/external/python/mobly pdk
 /external/python/oauth2client vts pdk
 /external/python/parse_type vts pdk
+/external/python/portpicker pdk
 /external/python/pyasn1 vts pdk
 /external/python/pyasn1-modules vts pdk
 /external/python/pybind11 pdk
@@ -428,6 +427,7 @@
 /external/python/pyopenssl pdk
 /external/python/pyserial pdk
 /external/python/python-api-core pdk
+/external/python/pyyaml pdk
 /external/python/rsa vts pdk
 /external/python/setuptools vts pdk
 /external/python/six vts pdk
@@ -442,6 +442,7 @@
 /external/robolectric-shadows pdk-fs pdk-cw-fs
 /external/roboto-fonts pdk
 /external/rootdev pdk
+/external/rust/crates/aarch64-paging pdk
 /external/rust/crates/ahash pdk
 /external/rust/crates/aho-corasick pdk
 /external/rust/crates/android_log-sys pdk
@@ -511,6 +512,7 @@
 /external/rust/crates/futures-macro pdk
 /external/rust/crates/futures-sink pdk
 /external/rust/crates/futures-task pdk
+/external/rust/crates/futures-test pdk
 /external/rust/crates/futures-util pdk
 /external/rust/crates/gdbstub pdk
 /external/rust/crates/gdbstub_arch pdk
@@ -697,6 +699,7 @@
 /external/testng pdk
 /external/tflite-support pdk
 /external/timezone-boundary-builder pdk
+/external/tink pdk
 /external/tinyalsa pdk
 /external/tinyalsa_new pdk
 /external/tinycompress pdk
@@ -860,6 +863,7 @@
 /packages/apps/Car/SystemUI pdk-fs
 /packages/apps/Car/SystemUpdater pdk-fs
 /packages/apps/Car/libs pdk-fs
+/packages/apps/Car/systemlibs pdk-fs
 /packages/apps/Car/tests pdk-fs
 /packages/apps/CarrierConfig pdk-fs pdk-cw-fs
 /packages/apps/CellBroadcastReceiver pdk-fs pdk-cw-fs
@@ -902,8 +906,6 @@
 /packages/apps/Tag pdk-fs
 /packages/apps/Test/connectivity pdk
 /packages/apps/ThemePicker pdk-fs
-/packages/apps/TimeZoneData pdk
-/packages/apps/TimeZoneUpdater pdk
 /packages/apps/Traceur pdk-fs
 /packages/apps/TvSettings pdk-fs
 /packages/apps/UniversalMediaPlayer
@@ -1040,6 +1042,7 @@
 /system/incremental_delivery pdk
 /system/iorap pdk
 /system/keymaster pdk
+/system/keymint pdk
 /system/libartpalette pdk
 /system/libbase pdk
 /system/libcppbor pdk

@@ -73,15 +73,6 @@
 [submodule "device/google/barbet-sepolicy"]
 	path = device/google/barbet-sepolicy
 	url = ../../device/google/barbet-sepolicy
-[submodule "device/google/bonito"]
-	path = device/google/bonito
-	url = ../../device/google/bonito
-[submodule "device/google/bonito-kernel"]
-	path = device/google/bonito-kernel
-	url = ../../device/google/bonito-kernel
-[submodule "device/google/bonito-sepolicy"]
-	path = device/google/bonito-sepolicy
-	url = ../../device/google/bonito-sepolicy
 [submodule "device/google/bramble"]
 	path = device/google/bramble
 	url = ../../device/google/bramble
@@ -1048,6 +1039,9 @@
 [submodule "platform/external/mksh"]
 	path = external/mksh
 	url = ../external/mksh
+[submodule "platform/external/mobile-data-download"]
+	path = external/mobile-data-download
+	url = ../external/mobile-data-download
 [submodule "platform/external/mobly-bundled-snippets"]
 	path = external/mobly-bundled-snippets
 	url = ../external/mobly-bundled-snippets
@@ -1256,7 +1250,7 @@
 	path = external/python/markupsafe
 	url = ../external/python/markupsafe
 [submodule "platform/external/python/mobly"]
-	path = external/mobly
+	path = external/python/mobly
 	url = ../external/python/mobly
 [submodule "platform/external/python/oauth2client"]
 	path = external/python/oauth2client
@@ -1264,6 +1258,9 @@
 [submodule "platform/external/python/parse_type"]
 	path = external/python/parse_type
 	url = ../external/python/parse_type
+[submodule "platform/external/python/portpicker"]
+	path = external/python/portpicker
+	url = ../external/python/portpicker
 [submodule "platform/external/python/pyasn1"]
 	path = external/python/pyasn1
 	url = ../external/python/pyasn1
@@ -1288,6 +1285,9 @@
 [submodule "platform/external/python/python-api-core"]
 	path = external/python/python-api-core
 	url = ../external/python/python-api-core
+[submodule "platform/external/python/pyyaml"]
+	path = external/python/pyyaml
+	url = ../external/python/pyyaml
 [submodule "platform/external/python/rsa"]
 	path = external/python/rsa
 	url = ../external/python/rsa
@@ -1330,6 +1330,9 @@
 [submodule "platform/external/rootdev"]
 	path = external/rootdev
 	url = ../external/rootdev
+[submodule "platform/external/rust/crates/aarch64-paging"]
+	path = external/rust/crates/aarch64-paging
+	url = ../external/rust/crates/aarch64-paging
 [submodule "platform/external/rust/crates/ahash"]
 	path = external/rust/crates/ahash
 	url = ../external/rust/crates/ahash
@@ -1537,6 +1540,9 @@
 [submodule "platform/external/rust/crates/futures-task"]
 	path = external/rust/crates/futures-task
 	url = ../external/rust/crates/futures-task
+[submodule "platform/external/rust/crates/futures-test"]
+	path = external/rust/crates/futures-test
+	url = ../external/rust/crates/futures-test
 [submodule "platform/external/rust/crates/futures-util"]
 	path = external/rust/crates/futures-util
 	url = ../external/rust/crates/futures-util
@@ -2095,6 +2101,9 @@
 [submodule "platform/external/timezone-boundary-builder"]
 	path = external/timezone-boundary-builder
 	url = ../external/timezone-boundary-builder
+[submodule "platform/external/tink"]
+	path = external/tink
+	url = ../external/tink
 [submodule "platform/external/tinyalsa"]
 	path = external/tinyalsa
 	url = ../external/tinyalsa
@@ -2584,6 +2593,9 @@
 [submodule "platform/packages/apps/Car/libs"]
 	path = packages/apps/Car/libs
 	url = ../packages/apps/Car/libs
+[submodule "platform/packages/apps/Car/systemlibs"]
+	path = packages/apps/Car/systemlibs
+	url = ../packages/apps/Car/systemlibs
 [submodule "platform/packages/apps/Car/tests"]
 	path = packages/apps/Car/tests
 	url = ../packages/apps/Car/tests
@@ -2710,12 +2722,6 @@
 [submodule "platform/packages/apps/ThemePicker"]
 	path = packages/apps/ThemePicker
 	url = ../packages/apps/ThemePicker
-[submodule "platform/packages/apps/TimeZoneData"]
-	path = packages/apps/TimeZoneData
-	url = ../packages/apps/TimeZoneData
-[submodule "platform/packages/apps/TimeZoneUpdater"]
-	path = packages/apps/TimeZoneUpdater
-	url = ../packages/apps/TimeZoneUpdater
 [submodule "platform/packages/apps/Traceur"]
 	path = packages/apps/Traceur
 	url = ../packages/apps/Traceur
@@ -3124,6 +3130,9 @@
 [submodule "platform/system/keymaster"]
 	path = system/keymaster
 	url = ../system/keymaster
+[submodule "platform/system/keymint"]
+	path = system/keymint
+	url = ../system/keymint
 [submodule "platform/system/libartpalette"]
 	path = system/libartpalette
 	url = ../system/libartpalette
