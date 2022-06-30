@@ -94,6 +94,7 @@
 /developers/demos developers
 /developers/samples/android developers
 /development pdk-fs pdk-cw-fs developers
+/external/AFLplusplus
 /external/ComputeLibrary pdk-lassen
 /external/FP16 pdk
 /external/FXdiv pdk
