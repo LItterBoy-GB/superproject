@@ -412,6 +412,10 @@
 	branch = master
 	path = development
 	url = ../development
+[submodule "platform/external/AFLplusplus"]
+	branch = master
+	path = external/AFLplusplus
+	url = ../external/AFLplusplus
 [submodule "platform/external/ComputeLibrary"]
 	branch = master
 	path = external/ComputeLibrary
