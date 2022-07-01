@@ -3953,6 +3953,11 @@
 	shallow = true
 	path = prebuilts/asuite
 	url = ../prebuilts/asuite
+[submodule "platform/prebuilts/bazel/common"]
+	branch = master
+	shallow = true
+	path = prebuilts/bazel/common
+	url = ../prebuilts/bazel/common
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
 	branch = master
 	shallow = true
