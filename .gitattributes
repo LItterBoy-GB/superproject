@@ -31,6 +31,7 @@
 /prebuilts/sdk/platforms/android-28
 /prebuilts/sdk/platforms/android-29
 /prebuilts/sdk/platforms/android-31
+/prebuilts/jdk/jdk11
 /prebuilts/ninja/darwin-x86
 /prebuilts/ninja/linux-x86
 /prebuilts/ninja/windows-x86
