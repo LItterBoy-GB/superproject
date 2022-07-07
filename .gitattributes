@@ -401,6 +401,7 @@
 /external/psimd pdk
 /external/pthreadpool pdk
 /external/puffin pdk
+/external/python/absl-py pdk
 /external/python/apitools pdk
 /external/python/asn1crypto pdk
 /external/python/cachetools pdk

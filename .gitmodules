@@ -1642,6 +1642,10 @@
 	branch = master
 	path = external/puffin
 	url = ../external/puffin
+[submodule "platform/external/python/absl-py"]
+	branch = master
+	path = external/python/absl-py
+	url = ../external/python/absl-py
 [submodule "platform/external/python/apitools"]
 	branch = master
 	path = external/python/apitools
