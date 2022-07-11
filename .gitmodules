@@ -97,6 +97,9 @@
 [submodule "platform/prebuilts/fullsdk/platforms/android-31"]
 	path = prebuilts/sdk/platforms/android-31
 	url = ../prebuilts/fullsdk/platforms/android-31
+[submodule "platform/prebuilts/jdk/jdk11"]
+	path = prebuilts/jdk/jdk11
+	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	path = prebuilts/ninja/darwin-x86
 	url = ../prebuilts/ninja/darwin-x86
