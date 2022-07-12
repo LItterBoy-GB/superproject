@@ -1,204 +1,204 @@
 [submodule "assets/android-studio-ux-assets"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = tools/assets
 	url = ../../assets/android-studio-ux-assets
 [submodule "platform/external/doclava"]
-	branch = studio-main
+	branch = studio-canary
 	path = external/doclava
 	url = ../external/doclava
 [submodule "platform/external/dokka"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = external/dokka
 	url = ../external/dokka
 [submodule "platform/external/freetype"]
-	branch = studio-main
+	branch = studio-canary
 	path = external/freetype
 	url = ../external/freetype
 [submodule "platform/external/gflags"]
-	branch = studio-main
+	branch = studio-canary
 	path = external/gflags
 	url = ../external/gflags
 [submodule "platform/external/googletest"]
-	branch = studio-main
+	branch = studio-canary
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/grpc-grpc"]
-	branch = studio-main
+	branch = studio-canary
 	path = external/grpc-grpc
 	url = ../external/grpc-grpc
 [submodule "platform/external/libpng"]
-	branch = studio-main
+	branch = studio-canary
 	path = external/libpng
 	url = ../external/libpng
 [submodule "platform/external/nanopb-c"]
-	branch = studio-main
+	branch = studio-canary
 	path = external/nanopb-c
 	url = ../external/nanopb-c
 [submodule "platform/external/perfetto"]
-	branch = studio-main
+	branch = studio-canary
 	path = external/perfetto
 	url = ../external/perfetto
 [submodule "platform/external/protobuf"]
-	branch = studio-main
+	branch = studio-canary
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/skia"]
-	branch = studio-main
+	branch = studio-canary
 	path = external/skia
 	url = ../external/skia
 [submodule "platform/external/zlib"]
-	branch = studio-main
+	branch = studio-canary
 	path = external/zlib
 	url = ../external/zlib
 [submodule "platform/frameworks/data-binding"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/data-binding
 	url = ../frameworks/data-binding
 [submodule "platform/frameworks/layoutlib"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
 [submodule "platform/frameworks/opt/sherpa"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/sherpa
 	url = ../frameworks/opt/sherpa
 [submodule "platform/prebuilts/android-emulator"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/clang/host/windows-x86"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = prebuilts/clang/host/windows-x86
 	url = ../prebuilts/clang/host/windows-x86
 [submodule "platform/prebuilts/python/darwin-x86"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = prebuilts/python/darwin-x86
 	url = ../prebuilts/python/darwin-x86
 [submodule "platform/prebuilts/python/linux-x86"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = prebuilts/python/linux-x86
 	url = ../prebuilts/python/linux-x86
 [submodule "platform/prebuilts/python/windows-x86"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = prebuilts/python/windows-x86
 	url = ../prebuilts/python/windows-x86
 [submodule "platform/prebuilts/r8"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = prebuilts/r8
 	url = ../prebuilts/r8
 [submodule "platform/prebuilts/studio/jdk"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = prebuilts/studio/jdk
 	url = ../prebuilts/studio/jdk
 [submodule "platform/prebuilts/studio/layoutlib"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = prebuilts/studio/layoutlib
 	url = ../prebuilts/studio/layoutlib
 [submodule "platform/prebuilts/tools"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "platform/tools/adt/idea"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/adt/idea
 	url = ../tools/adt/idea
 [submodule "platform/tools/analytics-library"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/analytics-library
 	url = ../tools/analytics-library
 [submodule "platform/tools/apksig"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/apksig
 	url = ../tools/apksig
 [submodule "platform/tools/apkzlib"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/apkzlib
 	url = ../tools/apkzlib
 [submodule "platform/tools/base"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/base
 	url = ../tools/base
 [submodule "platform/tools/buildSrc"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/buildSrc
 	url = ../tools/buildSrc
 [submodule "platform/tools/dexter"]
-	branch = studio-main
+	branch = studio-canary
 	path = external/dexter
 	url = ../tools/dexter
 [submodule "platform/tools/external/bazelbuild-rules-kotlin"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/external/bazelbuild-rules-kotlin
 	url = ../tools/external/bazelbuild-rules-kotlin
 [submodule "platform/tools/external/fat32lib"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/external/fat32lib
 	url = ../tools/external/fat32lib
 [submodule "platform/tools/external/gradle"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
 [submodule "platform/tools/google_prebuilts/studio/sdk/remote"]
-	branch = studio-main
+	branch = studio-canary
 	shallow = true
 	path = prebuilts/studio/sdk/remote
 	url = ../tools/google_prebuilts/studio/sdk/remote
 [submodule "platform/tools/gradle"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/gradle
 	url = ../tools/gradle
 [submodule "platform/tools/gradle-recipes"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/gradle-recipes
 	url = ../tools/gradle-recipes
 [submodule "platform/tools/idea"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/idea
 	url = ../tools/idea
 [submodule "platform/tools/repohooks"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "platform/tools/studio/google/appindexing"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/studio/google/appindexing
 	url = ../tools/studio/google/appindexing
 [submodule "platform/tools/studio/google/cloud/testing"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/studio/google/cloud/testing
 	url = ../tools/studio/google/cloud/testing
 [submodule "platform/tools/studio/google/cloud/tools"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/studio/google/cloud/tools
 	url = ../tools/studio/google/cloud/tools
 [submodule "platform/tools/studio/google/samples"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/studio/google/samples
 	url = ../tools/studio/google/samples
 [submodule "platform/tools/swing-testing"]
-	branch = studio-main
+	branch = studio-canary
 	path = tools/swing-testing
 	url = ../tools/swing-testing

@@ -12,7 +12,7 @@
 /external/skia
 /external/zlib
 /tools/data-binding
-/frameworks/layoutlib
+/frameworks/layoutlib notdefault layoutlib
 /tools/sherpa
 /prebuilts/android-emulator
 /prebuilts/clang/host/darwin-x86 notdefault platform-darwin
