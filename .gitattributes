@@ -1,0 +1,47 @@
+/tools/assets
+/external/doclava
+/external/dokka pdk
+/external/freetype
+/external/gflags
+/external/googletest
+/external/grpc-grpc
+/external/libpng
+/external/nanopb-c
+/external/perfetto
+/external/protobuf
+/external/skia
+/external/zlib
+/tools/data-binding
+/frameworks/layoutlib
+/tools/sherpa
+/prebuilts/android-emulator
+/prebuilts/clang/host/darwin-x86 notdefault platform-darwin
+/prebuilts/clang/host/linux-x86 platform-linux notdefault
+/prebuilts/clang/host/windows-x86 notdefault platform-windows
+/prebuilts/python/darwin-x86
+/prebuilts/python/linux-x86
+/prebuilts/python/windows-x86
+/prebuilts/r8
+/prebuilts/studio/jdk
+/prebuilts/studio/layoutlib
+/prebuilts/tools
+/tools/adt/idea
+/tools/analytics-library
+/tools/apksig
+/tools/apkzlib
+/tools/base
+/tools/buildSrc
+/external/dexter
+/tools/external/bazelbuild-rules-kotlin
+/tools/external/fat32lib
+/tools/external/gradle
+/prebuilts/studio/sdk/remote
+/tools/gradle
+/tools/gradle-recipes
+/tools/idea
+/tools/repohooks
+/tools/studio/google/appindexing
+/tools/studio/google/cloud/testing
+/tools/studio/google/cloud/tools
+/tools/studio/google/samples
+/tools/swing-testing
