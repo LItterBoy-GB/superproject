@@ -141,6 +141,10 @@
 	branch = lollipop-release
 	path = frameworks/native
 	url = ../frameworks/native
+[submodule "platform/hardware/google/aemu"]
+	branch = master
+	path = hardware/google/aemu
+	url = ../hardware/google/aemu
 [submodule "platform/packages/modules/Bluetooth"]
 	branch = master
 	path = packages/modules/Bluetooth

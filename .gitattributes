@@ -34,6 +34,7 @@
 /external/wpa_supplicant_8
 /external/zlib
 /frameworks/native
+/hardware/google/aemu pdk
 /packages/modules/Bluetooth pdk
 /prebuilts/android-emulator
 /prebuilts/android-emulator-build/archive
