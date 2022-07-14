@@ -783,6 +783,7 @@
 /frameworks/wilhelm pdk-fs pdk-cw-fs
 /hardware/broadcom/libbt pdk
 /hardware/broadcom/wlan broadcom_wlan pdk
+/hardware/google/aemu pdk
 /hardware/google/apf pdk
 /hardware/google/av pdk
 /hardware/google/camera pdk

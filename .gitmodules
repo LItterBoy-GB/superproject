@@ -3173,6 +3173,10 @@
 	branch = master
 	path = hardware/broadcom/wlan
 	url = ../hardware/broadcom/wlan
+[submodule "platform/hardware/google/aemu"]
+	branch = master
+	path = hardware/google/aemu
+	url = ../hardware/google/aemu
 [submodule "platform/hardware/google/apf"]
 	branch = master
 	path = hardware/google/apf
