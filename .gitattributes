@@ -94,6 +94,7 @@
 /developers/demos developers
 /developers/samples/android developers
 /development pdk-fs pdk-cw-fs developers
+/external/AFLplusplus
 /external/ComputeLibrary pdk-lassen
 /external/FP16 pdk
 /external/FXdiv pdk
@@ -398,6 +399,7 @@
 /external/psimd pdk
 /external/pthreadpool pdk
 /external/puffin pdk
+/external/python/absl-py pdk
 /external/python/apitools pdk
 /external/python/asn1crypto pdk
 /external/python/cachetools pdk
@@ -778,6 +780,7 @@
 /frameworks/wilhelm pdk-fs pdk-cw-fs
 /hardware/broadcom/libbt pdk
 /hardware/broadcom/wlan broadcom_wlan pdk
+/hardware/google/aemu pdk
 /hardware/google/apf pdk
 /hardware/google/av pdk
 /hardware/google/camera pdk
@@ -975,6 +978,7 @@
 /prebuilts/abi-dumps/vndk pdk-fs
 /prebuilts/android-emulator pdk-fs
 /prebuilts/asuite pdk
+/prebuilts/bazel/common pdk
 /prebuilts/bazel/darwin-x86_64 darwin pdk
 /prebuilts/bazel/linux-x86_64 pdk linux
 /prebuilts/build-tools pdk

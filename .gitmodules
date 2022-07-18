@@ -286,6 +286,9 @@
 [submodule "platform/development"]
 	path = development
 	url = ../development
+[submodule "platform/external/AFLplusplus"]
+	path = external/AFLplusplus
+	url = ../external/AFLplusplus
 [submodule "platform/external/ComputeLibrary"]
 	path = external/ComputeLibrary
 	url = ../external/ComputeLibrary
@@ -1198,6 +1201,9 @@
 [submodule "platform/external/puffin"]
 	path = external/puffin
 	url = ../external/puffin
+[submodule "platform/external/python/absl-py"]
+	path = external/python/absl-py
+	url = ../external/python/absl-py
 [submodule "platform/external/python/apitools"]
 	path = external/python/apitools
 	url = ../external/python/apitools
@@ -2338,6 +2344,9 @@
 [submodule "platform/hardware/broadcom/wlan"]
 	path = hardware/broadcom/wlan
 	url = ../hardware/broadcom/wlan
+[submodule "platform/hardware/google/aemu"]
+	path = hardware/google/aemu
+	url = ../hardware/google/aemu
 [submodule "platform/hardware/google/apf"]
 	path = hardware/google/apf
 	url = ../hardware/google/apf
@@ -2929,6 +2938,9 @@
 [submodule "platform/prebuilts/asuite"]
 	path = prebuilts/asuite
 	url = ../prebuilts/asuite
+[submodule "platform/prebuilts/bazel/common"]
+	path = prebuilts/bazel/common
+	url = ../prebuilts/bazel/common
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
 	path = prebuilts/bazel/darwin-x86_64
 	url = ../prebuilts/bazel/darwin-x86_64
