@@ -2306,6 +2306,10 @@
 	branch = master
 	path = external/rust/crates/openssl
 	url = ../external/rust/crates/openssl
+[submodule "platform/external/rust/crates/os_str_bytes"]
+	branch = master
+	path = external/rust/crates/os_str_bytes
+	url = ../external/rust/crates/os_str_bytes
 [submodule "platform/external/rust/crates/parking_lot"]
 	branch = master
 	path = external/rust/crates/parking_lot
