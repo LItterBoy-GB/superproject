@@ -5,6 +5,7 @@
 /device/generic/vulkan-cereal pdk
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
+/device/google/cuttlefish_vmm pdk device
 /device/linaro/dragonboard dragonboard pdk device
 /device/linaro/dragonboard-kernel dragonboard pdk device
 /device/sample pdk
