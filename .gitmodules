@@ -1950,6 +1950,10 @@
 	branch = master
 	path = external/rust/crates/clap
 	url = ../external/rust/crates/clap
+[submodule "platform/external/rust/crates/clap_lex"]
+	branch = master
+	path = external/rust/crates/clap_lex
+	url = ../external/rust/crates/clap_lex
 [submodule "platform/external/rust/crates/codespan-reporting"]
 	branch = master
 	path = external/rust/crates/codespan-reporting
