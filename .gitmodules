@@ -118,6 +118,18 @@
 [submodule "platform/prebuilts/jdk/jdk11"]
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
+[submodule "platform/prebuilts/libprotobuf/darwin"]
+	branch = master
+	path = prebuilts/libprotobuf/darwin
+	url = ../prebuilts/libprotobuf/darwin
+[submodule "platform/prebuilts/libprotobuf/linux"]
+	branch = master
+	path = prebuilts/libprotobuf/linux
+	url = ../prebuilts/libprotobuf/linux
+[submodule "platform/prebuilts/libprotobuf/windows"]
+	branch = master
+	path = prebuilts/libprotobuf/windows
+	url = ../prebuilts/libprotobuf/windows
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	path = prebuilts/ninja/darwin-x86
 	url = ../prebuilts/ninja/darwin-x86
