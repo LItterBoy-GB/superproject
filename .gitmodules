@@ -1586,6 +1586,14 @@
 	branch = master
 	path = external/owasp/sanitizer
 	url = ../external/owasp/sanitizer
+[submodule "platform/external/pandora/bt-test-interfaces"]
+	branch = master
+	path = external/pandora/bt-test-interfaces
+	url = ../external/pandora/bt-test-interfaces
+[submodule "platform/external/pandora/mmi2grpc"]
+	branch = master
+	path = external/pandora/mmi2grpc
+	url = ../external/pandora/mmi2grpc
 [submodule "platform/external/parameter-framework"]
 	branch = master
 	path = external/parameter-framework
