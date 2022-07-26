@@ -2106,6 +2106,10 @@
 	branch = master
 	path = external/rust/crates/futures-util
 	url = ../external/rust/crates/futures-util
+[submodule "platform/external/rust/crates/fxhash"]
+	branch = master
+	path = external/rust/crates/fxhash
+	url = ../external/rust/crates/fxhash
 [submodule "platform/external/rust/crates/gdbstub"]
 	branch = master
 	path = external/rust/crates/gdbstub
