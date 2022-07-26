@@ -48,7 +48,6 @@
 	path = external/neon2sse
 	url = ../external/neon_2_sse
 [submodule "platform/external/protobuf"]
-	branch = master
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/psimd"]
