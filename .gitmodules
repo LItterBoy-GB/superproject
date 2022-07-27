@@ -2178,6 +2178,10 @@
 	branch = master
 	path = external/rust/crates/idna
 	url = ../external/rust/crates/idna
+[submodule "platform/external/rust/crates/indexmap"]
+	branch = master
+	path = external/rust/crates/indexmap
+	url = ../external/rust/crates/indexmap
 [submodule "platform/external/rust/crates/instant"]
 	branch = master
 	path = external/rust/crates/instant
