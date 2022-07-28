@@ -4,6 +4,7 @@
 /device/generic/goldfish-opengl pdk
 /device/google/cuttlefish device
 /device/google/cuttlefish_kernel device
+/device/google/cuttlefish_prebuilts device
 /device/google/cuttlefish_vmm device
 /device/google/trout trout device gull
 /device/linaro/dragonboard dragonboard pdk device
