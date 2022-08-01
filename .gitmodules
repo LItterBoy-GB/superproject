@@ -121,6 +121,15 @@
 [submodule "platform/prebuilts/ninja/windows-x86"]
 	path = prebuilts/ninja/windows-x86
 	url = ../prebuilts/ninja/windows-x86
+[submodule "platform/prebuilts/python/darwin-x86"]
+	path = prebuilts/python/darwin-x86
+	url = ../prebuilts/python/darwin-x86
+[submodule "platform/prebuilts/python/linux-x86"]
+	path = prebuilts/python/linux-x86
+	url = ../prebuilts/python/linux-x86
+[submodule "platform/prebuilts/python/windows-x86"]
+	path = prebuilts/python/windows-x86
+	url = ../prebuilts/python/windows-x86
 [submodule "platform/tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks

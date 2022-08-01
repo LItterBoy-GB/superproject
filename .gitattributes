@@ -39,6 +39,9 @@
 /prebuilts/ninja/darwin-x86
 /prebuilts/ninja/linux-x86
 /prebuilts/ninja/windows-x86
+/prebuilts/python/darwin-x86
+/prebuilts/python/linux-x86
+/prebuilts/python/windows-x86
 /tools/repohooks
 /prebuilts/ndk/r13
 /prebuilts/ndk/r14
