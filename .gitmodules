@@ -88,21 +88,9 @@
 [submodule "platform/prebuilts/fullsdk-linux/tools"]
 	path = prebuilts/fullsdk-linux/tools
 	url = ../prebuilts/fullsdk-linux/tools
-[submodule "platform/prebuilts/fullsdk/platforms/android-31"]
-	path = prebuilts/fullsdk-darwin/platforms/android-31
-	url = ../prebuilts/fullsdk/platforms/android-31
-[submodule "platform/prebuilts/fullsdk/platforms/android-32"]
-	path = prebuilts/fullsdk-darwin/platforms/android-32
-	url = ../prebuilts/fullsdk/platforms/android-32
 [submodule "platform/prebuilts/fullsdk/platforms/android-33"]
 	path = prebuilts/fullsdk-darwin/platforms/android-33
 	url = ../prebuilts/fullsdk/platforms/android-33
-[submodule "platform/prebuilts/fullsdk/sources/android-31"]
-	path = prebuilts/fullsdk-darwin/sources/android-31
-	url = ../prebuilts/fullsdk/sources/android-31
-[submodule "platform/prebuilts/fullsdk/sources/android-32"]
-	path = prebuilts/fullsdk-darwin/sources/android-32
-	url = ../prebuilts/fullsdk/sources/android-32
 [submodule "platform/prebuilts/fullsdk/sources/android-33"]
 	path = prebuilts/fullsdk-darwin/sources/android-33
 	url = ../prebuilts/fullsdk/sources/android-33
