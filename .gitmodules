@@ -179,6 +179,10 @@
 	branch = master
 	path = external/kythe
 	url = ../external/kythe
+[submodule "platform/external/libcap"]
+	branch = master
+	path = external/libcap
+	url = ../external/libcap
 [submodule "platform/external/libcxx"]
 	branch = master
 	path = external/libcxx

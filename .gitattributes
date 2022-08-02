@@ -43,6 +43,7 @@
 /external/jsoncpp
 /external/jsr305
 /external/kythe
+/external/libcap
 /external/libcxx
 /external/libcxxabi
 /external/libffi
