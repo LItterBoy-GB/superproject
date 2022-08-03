@@ -1,0 +1,57 @@
+/device/generic/goldfish-opengl
+/device/generic/vulkan-cereal
+/device/google/cuttlefish
+/build
+/external/adt-infra
+/external/angle
+/external/astc-codec
+/external/bison platform-linux notdefault
+/external/boringssl
+/external/cares
+/external/curl
+/external/deqp
+/external/flatbuffers
+/external/flex platform-linux notdefault platform-darwin
+/external/gfxstream-protocols
+/external/google-benchmark
+/external/google-breakpad
+/external/googletest
+/external/grpc
+/external/libchrome platform-linux notdefault
+/external/libpng
+/external/libusb
+/external/libyuv
+/external/lz4
+/external/nasm
+/external/perfetto
+/external/protobuf
+/external/qemu
+/external/rapidjson
+/external/tink
+/external/tinyobjloader
+/external/virglrenderer
+/external/webrtc
+/external/wpa_supplicant_8
+/external/zlib
+/frameworks/native
+/hardware/google/aemu pdk
+/packages/modules/Bluetooth pdk
+/prebuilts/android-emulator
+/prebuilts/android-emulator-build/archive
+/prebuilts/android-emulator-build/common
+/prebuilts/android-emulator-build/mesa
+/prebuilts/android-emulator-build/mesa-deps
+/prebuilts/android-emulator-build/qemu-android-deps
+/prebuilts/android-emulator-build/qt
+/prebuilts/clang/host/darwin-x86 notdefault platform-darwin
+/prebuilts/clang/host/linux-x86 platform-linux notdefault
+/prebuilts/clang/host/windows-x86 notdefault platform-windows
+/prebuilts/cmake/darwin-x86 notdefault platform-darwin
+/prebuilts/cmake/linux-x86 platform-linux notdefault
+/prebuilts/cmake/windows-x86 notdefault platform-windows
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 platform-linux notdefault
+/prebuilts/ninja/darwin-x86 notdefault platform-darwin
+/prebuilts/ninja/linux-x86 platform-linux notdefault
+/prebuilts/tools
+/tools/buildSrc
+/external/m4 platform-linux notdefault platform-darwin
