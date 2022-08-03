@@ -385,6 +385,8 @@
 /external/openwrt-prebuilts pdk
 /external/oss-fuzz pdk
 /external/owasp/sanitizer pdk
+/external/pandora/bt-test-interfaces pdk
+/external/pandora/mmi2grpc pdk
 /external/parameter-framework pdk
 /external/pcre pdk
 /external/pdfium pdk
@@ -478,6 +480,7 @@
 /external/rust/crates/ciborium-ll pdk
 /external/rust/crates/clang-sys pdk
 /external/rust/crates/clap pdk
+/external/rust/crates/clap_lex pdk
 /external/rust/crates/codespan-reporting pdk
 /external/rust/crates/combine pdk
 /external/rust/crates/command-fds pdk
@@ -516,6 +519,7 @@
 /external/rust/crates/futures-task pdk
 /external/rust/crates/futures-test pdk
 /external/rust/crates/futures-util pdk
+/external/rust/crates/fxhash pdk
 /external/rust/crates/gdbstub pdk
 /external/rust/crates/gdbstub_arch pdk
 /external/rust/crates/getrandom pdk
@@ -529,6 +533,7 @@
 /external/rust/crates/hashlink pdk
 /external/rust/crates/heck pdk
 /external/rust/crates/idna pdk
+/external/rust/crates/indexmap pdk
 /external/rust/crates/instant pdk
 /external/rust/crates/intrusive-collections pdk
 /external/rust/crates/itertools pdk
@@ -567,6 +572,7 @@
 /external/rust/crates/once_cell pdk
 /external/rust/crates/oorandom pdk
 /external/rust/crates/openssl pdk
+/external/rust/crates/os_str_bytes pdk
 /external/rust/crates/parking_lot pdk
 /external/rust/crates/parking_lot_core pdk
 /external/rust/crates/paste pdk

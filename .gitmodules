@@ -1159,6 +1159,12 @@
 [submodule "platform/external/owasp/sanitizer"]
 	path = external/owasp/sanitizer
 	url = ../external/owasp/sanitizer
+[submodule "platform/external/pandora/bt-test-interfaces"]
+	path = external/pandora/bt-test-interfaces
+	url = ../external/pandora/bt-test-interfaces
+[submodule "platform/external/pandora/mmi2grpc"]
+	path = external/pandora/mmi2grpc
+	url = ../external/pandora/mmi2grpc
 [submodule "platform/external/parameter-framework"]
 	path = external/parameter-framework
 	url = ../external/parameter-framework
@@ -1438,6 +1444,9 @@
 [submodule "platform/external/rust/crates/clap"]
 	path = external/rust/crates/clap
 	url = ../external/rust/crates/clap
+[submodule "platform/external/rust/crates/clap_lex"]
+	path = external/rust/crates/clap_lex
+	url = ../external/rust/crates/clap_lex
 [submodule "platform/external/rust/crates/codespan-reporting"]
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
@@ -1552,6 +1561,9 @@
 [submodule "platform/external/rust/crates/futures-util"]
 	path = external/rust/crates/futures-util
 	url = ../external/rust/crates/futures-util
+[submodule "platform/external/rust/crates/fxhash"]
+	path = external/rust/crates/fxhash
+	url = ../external/rust/crates/fxhash
 [submodule "platform/external/rust/crates/gdbstub"]
 	path = external/rust/crates/gdbstub
 	url = ../external/rust/crates/gdbstub
@@ -1591,6 +1603,9 @@
 [submodule "platform/external/rust/crates/idna"]
 	path = external/rust/crates/idna
 	url = ../external/rust/crates/idna
+[submodule "platform/external/rust/crates/indexmap"]
+	path = external/rust/crates/indexmap
+	url = ../external/rust/crates/indexmap
 [submodule "platform/external/rust/crates/instant"]
 	path = external/rust/crates/instant
 	url = ../external/rust/crates/instant
@@ -1705,6 +1720,9 @@
 [submodule "platform/external/rust/crates/openssl"]
 	path = external/rust/crates/openssl
 	url = ../external/rust/crates/openssl
+[submodule "platform/external/rust/crates/os_str_bytes"]
+	path = external/rust/crates/os_str_bytes
+	url = ../external/rust/crates/os_str_bytes
 [submodule "platform/external/rust/crates/parking_lot"]
 	path = external/rust/crates/parking_lot
 	url = ../external/rust/crates/parking_lot
