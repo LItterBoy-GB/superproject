@@ -43,6 +43,7 @@
 /external/jsoncpp
 /external/jsr305
 /external/kythe
+/external/libcap
 /external/libcxx
 /external/libcxxabi
 /external/libffi
@@ -83,6 +84,7 @@
 /prebuilts/go/darwin-x86 darwin
 /prebuilts/go/linux-x86 linux
 /prebuilts/jdk/jdk11
+/prebuilts/jdk/jdk17
 /prebuilts/jdk/jdk8
 /prebuilts/jdk/jdk9
 /prebuilts/misc

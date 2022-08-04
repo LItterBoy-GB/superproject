@@ -133,6 +133,9 @@
 [submodule "platform/external/kythe"]
 	path = external/kythe
 	url = ../external/kythe
+[submodule "platform/external/libcap"]
+	path = external/libcap
+	url = ../external/libcap
 [submodule "platform/external/libcxx"]
 	path = external/libcxx
 	url = ../external/libcxx
@@ -253,6 +256,9 @@
 [submodule "platform/prebuilts/jdk/jdk11"]
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
+[submodule "platform/prebuilts/jdk/jdk17"]
+	path = prebuilts/jdk/jdk17
+	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk8"]
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
