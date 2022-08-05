@@ -380,6 +380,10 @@
 	branch = master
 	path = build/blueprint
 	url = ../build/blueprint
+[submodule "platform/build/orchestrator"]
+	branch = master
+	path = build/orchestrator
+	url = ../build/orchestrator
 [submodule "platform/build/pesto"]
 	branch = master
 	path = build/pesto
