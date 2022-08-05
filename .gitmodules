@@ -175,6 +175,10 @@
 	branch = master
 	path = external/jsr305
 	url = ../external/jsr305
+[submodule "platform/external/ktfmt"]
+	branch = master
+	path = external/ktfmt
+	url = ../external/ktfmt
 [submodule "platform/external/kythe"]
 	branch = master
 	path = external/kythe
