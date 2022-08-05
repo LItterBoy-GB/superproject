@@ -86,6 +86,7 @@
 /build/bazel pdk
 /build/bazel_common_rules pdk
 /build/blueprint tradefed pdk
+/build/orchestrator pdk
 /build/pesto pdk
 /build/soong tradefed pdk
 /cts pdk-fs cts pdk-cw-fs
