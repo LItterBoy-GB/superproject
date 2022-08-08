@@ -262,6 +262,9 @@
 [submodule "platform/build/blueprint"]
 	path = build/blueprint
 	url = ../build/blueprint
+[submodule "platform/build/orchestrator"]
+	path = build/orchestrator
+	url = ../build/orchestrator
 [submodule "platform/build/pesto"]
 	path = build/pesto
 	url = ../build/pesto
