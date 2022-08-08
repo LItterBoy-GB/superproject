@@ -965,6 +965,10 @@
 	branch = master
 	path = external/grpc-grpc-java
 	url = ../external/grpc-grpc-java
+[submodule "platform/external/gson"]
+	branch = master
+	path = external/gson
+	url = ../external/gson
 [submodule "platform/external/guava"]
 	branch = master
 	path = external/guava
