@@ -94,6 +94,10 @@
 	branch = master
 	path = prebuilts/sdk/build-tools/30.0.2
 	url = ../prebuilts/fullsdk-linux/build-tools/30.0.2
+[submodule "platform/prebuilts/fullsdk-linux/build-tools/30.0.3"]
+	branch = master
+	path = prebuilts/sdk/build-tools/30.0.3
+	url = ../prebuilts/fullsdk-linux/build-tools/30.0.3
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/31.0.0"]
 	branch = master
 	path = prebuilts/sdk/build-tools/31.0.0
