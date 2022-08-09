@@ -390,6 +390,7 @@
 /external/openwrt-prebuilts pdk
 /external/oss-fuzz pdk
 /external/owasp/sanitizer pdk
+/external/pandora/avatar pdk
 /external/pandora/bt-test-interfaces pdk
 /external/pandora/mmi2grpc pdk
 /external/parameter-framework pdk
