@@ -406,6 +406,7 @@
 /external/python/absl-py pdk
 /external/python/apitools pdk
 /external/python/asn1crypto pdk
+/external/python/bumble pdk
 /external/python/cachetools pdk
 /external/python/cffi pdk
 /external/python/cpython2 pdk
