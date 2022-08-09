@@ -1590,6 +1590,10 @@
 	branch = master
 	path = external/owasp/sanitizer
 	url = ../external/owasp/sanitizer
+[submodule "platform/external/pandora/avatar"]
+	branch = master
+	path = external/pandora/avatar
+	url = ../external/pandora/avatar
 [submodule "platform/external/pandora/bt-test-interfaces"]
 	branch = master
 	path = external/pandora/bt-test-interfaces
