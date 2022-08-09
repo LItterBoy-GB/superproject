@@ -5,6 +5,8 @@
 /external/gflags
 /external/googletest
 /external/grpc-grpc
+/external/jetbrains/intellij-kotlin
+/external/jetbrains/kotlin
 /external/libpng
 /external/nanopb-c
 /external/perfetto
