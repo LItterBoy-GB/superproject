@@ -1670,6 +1670,10 @@
 	branch = master
 	path = external/python/asn1crypto
 	url = ../external/python/asn1crypto
+[submodule "platform/external/python/bumble"]
+	branch = master
+	path = external/python/bumble
+	url = ../external/python/bumble
 [submodule "platform/external/python/cachetools"]
 	branch = master
 	path = external/python/cachetools
