@@ -1153,6 +1153,10 @@
 	branch = master
 	path = external/ksoap2
 	url = ../external/ksoap2
+[submodule "platform/external/ktfmt"]
+	branch = master
+	path = external/ktfmt
+	url = ../external/ktfmt
 [submodule "platform/external/libabigail"]
 	branch = master
 	path = external/libabigail
