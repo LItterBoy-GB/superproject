@@ -28,6 +28,14 @@
 	ref = refs/tags/studio-2022.1.1-canary
 	path = external/grpc-grpc
 	url = ../external/grpc-grpc
+[submodule "platform/external/jetbrains/intellij-kotlin"]
+	ref = refs/tags/studio-2022.1.1-canary
+	path = external/jetbrains/intellij-kotlin
+	url = ../external/jetbrains/intellij-kotlin
+[submodule "platform/external/jetbrains/kotlin"]
+	ref = refs/tags/studio-2022.1.1-canary
+	path = external/jetbrains/kotlin
+	url = ../external/jetbrains/kotlin
 [submodule "platform/external/libpng"]
 	ref = refs/tags/studio-2022.1.1-canary
 	path = external/libpng
