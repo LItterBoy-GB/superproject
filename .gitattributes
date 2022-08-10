@@ -42,6 +42,7 @@
 /external/jemalloc_new
 /external/jsoncpp
 /external/jsr305
+/external/kotlinc
 /external/ktfmt
 /external/kythe
 /external/libcap
