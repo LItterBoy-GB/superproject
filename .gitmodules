@@ -1766,6 +1766,10 @@
 	branch = master
 	path = external/python/pycparser
 	url = ../external/python/pycparser
+[submodule "platform/external/python/pyee"]
+	branch = master
+	path = external/python/pyee
+	url = ../external/python/pyee
 [submodule "platform/external/python/pyfakefs"]
 	branch = master
 	path = external/python/pyfakefs
