@@ -130,6 +130,9 @@
 [submodule "platform/external/jsr305"]
 	path = external/jsr305
 	url = ../external/jsr305
+[submodule "platform/external/kotlinc"]
+	path = external/kotlinc
+	url = ../external/kotlinc
 [submodule "platform/external/ktfmt"]
 	path = external/ktfmt
 	url = ../external/ktfmt
