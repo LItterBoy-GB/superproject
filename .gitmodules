@@ -230,7 +230,7 @@
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
 [submodule "platform/prebuilts/tools"]
-	branch = master
+	branch = studio-main
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
