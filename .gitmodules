@@ -262,6 +262,9 @@
 [submodule "platform/build/blueprint"]
 	path = build/blueprint
 	url = ../build/blueprint
+[submodule "platform/build/orchestrator"]
+	path = build/orchestrator
+	url = ../build/orchestrator
 [submodule "platform/build/pesto"]
 	path = build/pesto
 	url = ../build/pesto
@@ -286,6 +289,9 @@
 [submodule "platform/development"]
 	path = development
 	url = ../development
+[submodule "platform/external/AFLplusplus"]
+	path = external/AFLplusplus
+	url = ../external/AFLplusplus
 [submodule "platform/external/ComputeLibrary"]
 	path = external/ComputeLibrary
 	url = ../external/ComputeLibrary
@@ -694,6 +700,9 @@
 [submodule "platform/external/grpc-grpc-java"]
 	path = external/grpc-grpc-java
 	url = ../external/grpc-grpc-java
+[submodule "platform/external/gson"]
+	path = external/gson
+	url = ../external/gson
 [submodule "platform/external/guava"]
 	path = external/guava
 	url = ../external/guava
@@ -832,6 +841,9 @@
 [submodule "platform/external/ksoap2"]
 	path = external/ksoap2
 	url = ../external/ksoap2
+[submodule "platform/external/ktfmt"]
+	path = external/ktfmt
+	url = ../external/ktfmt
 [submodule "platform/external/libabigail"]
 	path = external/libabigail
 	url = ../external/libabigail
@@ -1156,6 +1168,15 @@
 [submodule "platform/external/owasp/sanitizer"]
 	path = external/owasp/sanitizer
 	url = ../external/owasp/sanitizer
+[submodule "platform/external/pandora/avatar"]
+	path = external/pandora/avatar
+	url = ../external/pandora/avatar
+[submodule "platform/external/pandora/bt-test-interfaces"]
+	path = external/pandora/bt-test-interfaces
+	url = ../external/pandora/bt-test-interfaces
+[submodule "platform/external/pandora/mmi2grpc"]
+	path = external/pandora/mmi2grpc
+	url = ../external/pandora/mmi2grpc
 [submodule "platform/external/parameter-framework"]
 	path = external/parameter-framework
 	url = ../external/parameter-framework
@@ -1198,12 +1219,18 @@
 [submodule "platform/external/puffin"]
 	path = external/puffin
 	url = ../external/puffin
+[submodule "platform/external/python/absl-py"]
+	path = external/python/absl-py
+	url = ../external/python/absl-py
 [submodule "platform/external/python/apitools"]
 	path = external/python/apitools
 	url = ../external/python/apitools
 [submodule "platform/external/python/asn1crypto"]
 	path = external/python/asn1crypto
 	url = ../external/python/asn1crypto
+[submodule "platform/external/python/bumble"]
+	path = external/python/bumble
+	url = ../external/python/bumble
 [submodule "platform/external/python/cachetools"]
 	path = external/python/cachetools
 	url = ../external/python/cachetools
@@ -1273,6 +1300,9 @@
 [submodule "platform/external/python/pycparser"]
 	path = external/python/pycparser
 	url = ../external/python/pycparser
+[submodule "platform/external/python/pyee"]
+	path = external/python/pyee
+	url = ../external/python/pyee
 [submodule "platform/external/python/pyfakefs"]
 	path = external/python/pyfakefs
 	url = ../external/python/pyfakefs
@@ -1432,6 +1462,9 @@
 [submodule "platform/external/rust/crates/clap"]
 	path = external/rust/crates/clap
 	url = ../external/rust/crates/clap
+[submodule "platform/external/rust/crates/clap_lex"]
+	path = external/rust/crates/clap_lex
+	url = ../external/rust/crates/clap_lex
 [submodule "platform/external/rust/crates/codespan-reporting"]
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
@@ -1546,6 +1579,9 @@
 [submodule "platform/external/rust/crates/futures-util"]
 	path = external/rust/crates/futures-util
 	url = ../external/rust/crates/futures-util
+[submodule "platform/external/rust/crates/fxhash"]
+	path = external/rust/crates/fxhash
+	url = ../external/rust/crates/fxhash
 [submodule "platform/external/rust/crates/gdbstub"]
 	path = external/rust/crates/gdbstub
 	url = ../external/rust/crates/gdbstub
@@ -1585,6 +1621,9 @@
 [submodule "platform/external/rust/crates/idna"]
 	path = external/rust/crates/idna
 	url = ../external/rust/crates/idna
+[submodule "platform/external/rust/crates/indexmap"]
+	path = external/rust/crates/indexmap
+	url = ../external/rust/crates/indexmap
 [submodule "platform/external/rust/crates/instant"]
 	path = external/rust/crates/instant
 	url = ../external/rust/crates/instant
@@ -1699,6 +1738,9 @@
 [submodule "platform/external/rust/crates/openssl"]
 	path = external/rust/crates/openssl
 	url = ../external/rust/crates/openssl
+[submodule "platform/external/rust/crates/os_str_bytes"]
+	path = external/rust/crates/os_str_bytes
+	url = ../external/rust/crates/os_str_bytes
 [submodule "platform/external/rust/crates/parking_lot"]
 	path = external/rust/crates/parking_lot
 	url = ../external/rust/crates/parking_lot
@@ -2338,6 +2380,9 @@
 [submodule "platform/hardware/broadcom/wlan"]
 	path = hardware/broadcom/wlan
 	url = ../hardware/broadcom/wlan
+[submodule "platform/hardware/google/aemu"]
+	path = hardware/google/aemu
+	url = ../hardware/google/aemu
 [submodule "platform/hardware/google/apf"]
 	path = hardware/google/apf
 	url = ../hardware/google/apf
@@ -2929,6 +2974,9 @@
 [submodule "platform/prebuilts/asuite"]
 	path = prebuilts/asuite
 	url = ../prebuilts/asuite
+[submodule "platform/prebuilts/bazel/common"]
+	path = prebuilts/bazel/common
+	url = ../prebuilts/bazel/common
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
 	path = prebuilts/bazel/darwin-x86_64
 	url = ../prebuilts/bazel/darwin-x86_64

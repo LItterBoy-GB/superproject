@@ -86,6 +86,7 @@
 /build/bazel pdk
 /build/bazel_common_rules pdk
 /build/blueprint tradefed pdk
+/build/orchestrator pdk
 /build/pesto pdk
 /build/soong tradefed pdk
 /cts pdk-fs cts pdk-cw-fs
@@ -94,6 +95,7 @@
 /developers/demos developers
 /developers/samples/android developers
 /development pdk-fs pdk-cw-fs developers
+/external/AFLplusplus
 /external/ComputeLibrary pdk-lassen
 /external/FP16 pdk
 /external/FXdiv pdk
@@ -230,6 +232,7 @@
 /external/gptfdisk pdk
 /external/grpc-grpc tradefed pdk
 /external/grpc-grpc-java tradefed pdk
+/external/gson pdk
 /external/guava pdk
 /external/guice pdk
 /external/gwp_asan pdk
@@ -276,6 +279,7 @@
 /external/kotlinx.coroutines pdk
 /external/kotlinx.metadata pdk
 /external/ksoap2 pdk
+/external/ktfmt pdk
 /external/libabigail pdk
 /external/libaom pdk
 /external/libavc pdk
@@ -384,6 +388,9 @@
 /external/openwrt-prebuilts pdk
 /external/oss-fuzz pdk
 /external/owasp/sanitizer pdk
+/external/pandora/avatar pdk
+/external/pandora/bt-test-interfaces pdk
+/external/pandora/mmi2grpc pdk
 /external/parameter-framework pdk
 /external/pcre pdk
 /external/pdfium pdk
@@ -398,8 +405,10 @@
 /external/psimd pdk
 /external/pthreadpool pdk
 /external/puffin pdk
+/external/python/absl-py pdk
 /external/python/apitools pdk
 /external/python/asn1crypto pdk
+/external/python/bumble pdk
 /external/python/cachetools pdk
 /external/python/cffi pdk
 /external/python/cpython2 pdk
@@ -423,6 +432,7 @@
 /external/python/pyasn1-modules vts pdk
 /external/python/pybind11 pdk
 /external/python/pycparser pdk
+/external/python/pyee pdk
 /external/python/pyfakefs pdk
 /external/python/pyopenssl pdk
 /external/python/pyserial pdk
@@ -476,6 +486,7 @@
 /external/rust/crates/ciborium-ll pdk
 /external/rust/crates/clang-sys pdk
 /external/rust/crates/clap pdk
+/external/rust/crates/clap_lex pdk
 /external/rust/crates/codespan-reporting pdk
 /external/rust/crates/combine pdk
 /external/rust/crates/command-fds pdk
@@ -514,6 +525,7 @@
 /external/rust/crates/futures-task pdk
 /external/rust/crates/futures-test pdk
 /external/rust/crates/futures-util pdk
+/external/rust/crates/fxhash pdk
 /external/rust/crates/gdbstub pdk
 /external/rust/crates/gdbstub_arch pdk
 /external/rust/crates/getrandom pdk
@@ -527,6 +539,7 @@
 /external/rust/crates/hashlink pdk
 /external/rust/crates/heck pdk
 /external/rust/crates/idna pdk
+/external/rust/crates/indexmap pdk
 /external/rust/crates/instant pdk
 /external/rust/crates/intrusive-collections pdk
 /external/rust/crates/itertools pdk
@@ -565,6 +578,7 @@
 /external/rust/crates/once_cell pdk
 /external/rust/crates/oorandom pdk
 /external/rust/crates/openssl pdk
+/external/rust/crates/os_str_bytes pdk
 /external/rust/crates/parking_lot pdk
 /external/rust/crates/parking_lot_core pdk
 /external/rust/crates/paste pdk
@@ -778,6 +792,7 @@
 /frameworks/wilhelm pdk-fs pdk-cw-fs
 /hardware/broadcom/libbt pdk
 /hardware/broadcom/wlan broadcom_wlan pdk
+/hardware/google/aemu pdk
 /hardware/google/apf pdk
 /hardware/google/av pdk
 /hardware/google/camera pdk
@@ -975,6 +990,7 @@
 /prebuilts/abi-dumps/vndk pdk-fs
 /prebuilts/android-emulator pdk-fs
 /prebuilts/asuite pdk
+/prebuilts/bazel/common pdk
 /prebuilts/bazel/darwin-x86_64 darwin pdk
 /prebuilts/bazel/linux-x86_64 pdk linux
 /prebuilts/build-tools pdk
