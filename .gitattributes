@@ -21,8 +21,10 @@
 /device/generic/x86_64 pdk
 /device/google/atv broadcom_pdk generic_fs pdk device
 /device/google/barbet barbet device
-/device/google/barbet-kernel barbet device
 /device/google/barbet-sepolicy barbet device
+/device/google/bluejay bluejay device
+/device/google/bluejay-kernel bluejay device
+/device/google/bluejay-sepolicy bluejay device
 /device/google/bramble bramble device
 /device/google/bramble-sepolicy bramble device
 /device/google/contexthub pdk device
@@ -32,10 +34,10 @@
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
 /device/google/gs-common slider pdk-gs-arm device
-/device/google/gs101 slider device
-/device/google/gs101-sepolicy slider device
-/device/google/raviole slider device
-/device/google/raviole-kernel slider device
+/device/google/gs101 slider pdk-gs-arm device
+/device/google/gs101-sepolicy slider pdk-gs-arm device
+/device/google/raviole slider pdk-gs-arm device
+/device/google/raviole-kernel slider pdk-gs-arm device
 /device/google/redbull redbull device
 /device/google/redbull-kernel bramble redfin device
 /device/google/redbull-sepolicy redbull device
@@ -44,7 +46,7 @@
 /device/google/sunfish sunfish device
 /device/google/sunfish-kernel sunfish device
 /device/google/sunfish-sepolicy sunfish device
-/device/google/trout trout device gull
+/device/google/trout pdk trout device gull
 /device/google/vrservices pdk
 /device/google_car pdk
 /device/linaro/dragonboard dragonboard pdk device
@@ -96,7 +98,7 @@
 /developers/samples/android developers
 /development pdk-fs pdk-cw-fs developers
 /external/AFLplusplus
-/external/ComputeLibrary pdk-lassen
+/external/ComputeLibrary pdk-gs-arm pdk-lassen
 /external/FP16 pdk
 /external/FXdiv pdk
 /external/ImageMagick pdk
@@ -109,7 +111,7 @@
 /external/abseil-cpp pdk
 /external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
-/external/android-nn-driver pdk-lassen
+/external/android-nn-driver pdk-gs-arm pdk-lassen
 /external/androidplot pdk
 /external/angle pdk
 /external/ant-glob pdk
@@ -123,7 +125,7 @@
 /external/arm-neon-tests vendor
 /external/arm-optimized-routines pdk
 /external/arm-trusted-firmware pdk
-/external/armnn pdk-lassen
+/external/armnn pdk-gs-arm pdk-lassen
 /external/auto pdk
 /external/autotest pdk-fs
 /external/avb pdk
@@ -315,6 +317,7 @@
 /external/libnl pdk
 /external/libogg pdk
 /external/libopus pdk
+/external/libpalmrejection pdk
 /external/libpcap pdk
 /external/libphonenumber pdk
 /external/libpng pdk
@@ -691,7 +694,6 @@
 /external/shaderc/spirv-headers pdk
 /external/shflags pdk
 /external/skia pdk qcom_msm8x26
-/external/skqp cts pdk
 /external/sl4a pdk
 /external/slf4j pdk
 /external/smali pdk
@@ -728,6 +730,7 @@
 /external/unicode pdk
 /external/universal-tween-engine
 /external/usrsctp pdk
+/external/uwb pdk
 /external/v4l2_codec2 pdk
 /external/vboot_reference pdk-fs vboot
 /external/virglrenderer pdk
@@ -797,9 +800,9 @@
 /hardware/google/av pdk
 /hardware/google/camera pdk
 /hardware/google/easel easel pdk
-/hardware/google/gchips pdk-lassen
-/hardware/google/graphics/common pdk-lassen
-/hardware/google/graphics/gs101 pdk-lassen
+/hardware/google/gchips pdk-gs-arm pdk-lassen
+/hardware/google/graphics/common pdk-gs-arm pdk-lassen
+/hardware/google/graphics/gs101 pdk-gs-arm pdk-lassen
 /hardware/google/interfaces pdk
 /hardware/google/pixel generic_fs pixel
 /hardware/google/pixel-sepolicy generic_fs pixel
@@ -861,14 +864,11 @@
 /packages/apps/Car/Calendar pdk-fs
 /packages/apps/Car/Cluster pdk-fs
 /packages/apps/Car/DebuggingRestrictionController pdk-fs
-/packages/apps/Car/Dialer pdk-fs
 /packages/apps/Car/Hvac pdk-fs
 /packages/apps/Car/LatinIME pdk-fs
 /packages/apps/Car/Launcher pdk-fs
 /packages/apps/Car/LinkViewer pdk-fs
 /packages/apps/Car/LocalMediaPlayer pdk-fs
-/packages/apps/Car/Media pdk-fs
-/packages/apps/Car/Messenger pdk-fs
 /packages/apps/Car/Notification pdk-fs
 /packages/apps/Car/Provision pdk-fs
 /packages/apps/Car/Radio pdk-fs
@@ -877,9 +877,7 @@
 /packages/apps/Car/SettingsIntelligence pdk-fs
 /packages/apps/Car/SystemUI pdk-fs
 /packages/apps/Car/SystemUpdater pdk-fs
-/packages/apps/Car/libs pdk-fs
 /packages/apps/Car/systemlibs pdk-fs
-/packages/apps/Car/tests pdk-fs
 /packages/apps/CarrierConfig pdk-fs pdk-cw-fs
 /packages/apps/CellBroadcastReceiver pdk-fs pdk-cw-fs
 /packages/apps/CertInstaller pdk-fs pdk-cw-fs
@@ -917,6 +915,7 @@
 /packages/apps/SpareParts pdk-fs
 /packages/apps/Stk apps_stk pdk-fs
 /packages/apps/StorageManager pdk-fs
+/packages/apps/SystemUIGo pdk-fs
 /packages/apps/TV pdk
 /packages/apps/Tag pdk-fs
 /packages/apps/Test/connectivity pdk
@@ -928,6 +927,7 @@
 /packages/apps/WallpaperPicker2 pdk-fs
 /packages/inputmethods/LatinIME pdk-fs
 /packages/inputmethods/LeanbackIME pdk-fs
+/packages/modules/AdServices pdk-fs
 /packages/modules/AppSearch pdk
 /packages/modules/ArtPrebuilt pdk
 /packages/modules/Bluetooth pdk
@@ -947,6 +947,7 @@
 /packages/modules/NetworkPermissionConfig pdk-fs pdk-cw-fs
 /packages/modules/NetworkStack pdk-fs pdk-cw-fs
 /packages/modules/NeuralNetworks pdk-fs pdk-cw-fs
+/packages/modules/OnDevicePersonalization pdk-fs
 /packages/modules/Permission pdk-fs pdk-cw-fs
 /packages/modules/RuntimeI18n pdk-fs pdk-cw-fs
 /packages/modules/SEPolicy pdk-fs pdk-cw-fs
@@ -1023,15 +1024,19 @@
 /prebuilts/maven_repo/android pdk-fs pdk-cw-fs
 /prebuilts/maven_repo/bumptech pdk-fs pdk-cw-fs
 /prebuilts/misc pdk
+/prebuilts/module_sdk/AdServices pdk
+/prebuilts/module_sdk/AppSearch pdk
 /prebuilts/module_sdk/Bluetooth pdk
 /prebuilts/module_sdk/Connectivity pdk
 /prebuilts/module_sdk/IPsec pdk
 /prebuilts/module_sdk/Media pdk
 /prebuilts/module_sdk/MediaProvider pdk
+/prebuilts/module_sdk/OnDevicePersonalization pdk
 /prebuilts/module_sdk/Permission pdk
 /prebuilts/module_sdk/Scheduling pdk
 /prebuilts/module_sdk/SdkExtensions pdk
 /prebuilts/module_sdk/StatsD pdk
+/prebuilts/module_sdk/Uwb pdk
 /prebuilts/module_sdk/Wifi pdk
 /prebuilts/module_sdk/art pdk
 /prebuilts/module_sdk/conscrypt pdk
@@ -1052,6 +1057,7 @@
 /prebuilts/vndk/v30 pdk
 /prebuilts/vndk/v31 pdk
 /prebuilts/vndk/v32 pdk
+/prebuilts/vndk/v33 pdk
 /sdk pdk-fs pdk-cw-fs
 /system/apex pdk
 /system/bpf pdk
