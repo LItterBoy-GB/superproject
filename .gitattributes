@@ -419,7 +419,6 @@
 /external/python/cryptography pdk
 /external/python/dateutil pdk
 /external/python/enum34 vts pdk
-/external/python/funcsigs pdk
 /external/python/futures vts pdk
 /external/python/google-api-python-client vts pdk
 /external/python/google-auth-library-python pdk
