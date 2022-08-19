@@ -1714,10 +1714,6 @@
 	branch = master
 	path = external/python/enum34
 	url = ../external/python/enum34
-[submodule "platform/external/python/funcsigs"]
-	branch = master
-	path = external/python/funcsigs
-	url = ../external/python/funcsigs
 [submodule "platform/external/python/futures"]
 	branch = master
 	path = external/python/futures
