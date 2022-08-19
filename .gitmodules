@@ -91,15 +91,23 @@
 	branch = master
 	path = device/google/barbet
 	url = ../../device/google/barbet
-[submodule "device/google/barbet-kernel"]
-	branch = master
-	shallow = true
-	path = device/google/barbet-kernel
-	url = ../../device/google/barbet-kernel
 [submodule "device/google/barbet-sepolicy"]
 	branch = master
 	path = device/google/barbet-sepolicy
 	url = ../../device/google/barbet-sepolicy
+[submodule "device/google/bluejay"]
+	branch = master
+	path = device/google/bluejay
+	url = ../../device/google/bluejay
+[submodule "device/google/bluejay-kernel"]
+	branch = master
+	shallow = true
+	path = device/google/bluejay-kernel
+	url = ../../device/google/bluejay-kernel
+[submodule "device/google/bluejay-sepolicy"]
+	branch = master
+	path = device/google/bluejay-sepolicy
+	url = ../../device/google/bluejay-sepolicy
 [submodule "device/google/bramble"]
 	branch = master
 	path = device/google/bramble
@@ -1301,6 +1309,10 @@
 	branch = master
 	path = external/libopus
 	url = ../external/libopus
+[submodule "platform/external/libpalmrejection"]
+	branch = master
+	path = external/libpalmrejection
+	url = ../external/libpalmrejection
 [submodule "platform/external/libpcap"]
 	branch = master
 	path = external/libpcap
@@ -2806,11 +2818,6 @@
 	branch = master
 	path = external/skia
 	url = ../external/skia
-[submodule "platform/external/skqp"]
-	branch = master
-	shallow = true
-	path = external/skqp
-	url = ../external/skqp
 [submodule "platform/external/sl4a"]
 	branch = master
 	path = external/sl4a
@@ -2961,6 +2968,10 @@
 	branch = master
 	path = external/usrsctp
 	url = ../external/usrsctp
+[submodule "platform/external/uwb"]
+	branch = master
+	path = external/uwb
+	url = ../external/uwb
 [submodule "platform/external/v4l2_codec2"]
 	branch = master
 	path = external/v4l2_codec2
@@ -3493,10 +3504,6 @@
 	branch = master
 	path = packages/apps/Car/DebuggingRestrictionController
 	url = ../packages/apps/Car/DebuggingRestrictionController
-[submodule "platform/packages/apps/Car/Dialer"]
-	branch = master
-	path = packages/apps/Car/Dialer
-	url = ../packages/apps/Car/Dialer
 [submodule "platform/packages/apps/Car/Hvac"]
 	branch = master
 	path = packages/apps/Car/Hvac
@@ -3517,14 +3524,6 @@
 	branch = master
 	path = packages/apps/Car/LocalMediaPlayer
 	url = ../packages/apps/Car/LocalMediaPlayer
-[submodule "platform/packages/apps/Car/Media"]
-	branch = master
-	path = packages/apps/Car/Media
-	url = ../packages/apps/Car/Media
-[submodule "platform/packages/apps/Car/Messenger"]
-	branch = master
-	path = packages/apps/Car/Messenger
-	url = ../packages/apps/Car/Messenger
 [submodule "platform/packages/apps/Car/Notification"]
 	branch = master
 	path = packages/apps/Car/Notification
@@ -3557,18 +3556,10 @@
 	branch = master
 	path = packages/apps/Car/SystemUpdater
 	url = ../packages/apps/Car/SystemUpdater
-[submodule "platform/packages/apps/Car/libs"]
-	branch = master
-	path = packages/apps/Car/libs
-	url = ../packages/apps/Car/libs
 [submodule "platform/packages/apps/Car/systemlibs"]
 	branch = master
 	path = packages/apps/Car/systemlibs
 	url = ../packages/apps/Car/systemlibs
-[submodule "platform/packages/apps/Car/tests"]
-	branch = master
-	path = packages/apps/Car/tests
-	url = ../packages/apps/Car/tests
 [submodule "platform/packages/apps/CarrierConfig"]
 	branch = master
 	path = packages/apps/CarrierConfig
@@ -3717,6 +3708,10 @@
 	branch = master
 	path = packages/apps/StorageManager
 	url = ../packages/apps/StorageManager
+[submodule "platform/packages/apps/SystemUIGo"]
+	branch = master
+	path = packages/apps/SystemUIGo
+	url = ../packages/apps/SystemUIGo
 [submodule "platform/packages/apps/TV"]
 	branch = master
 	path = packages/apps/TV
@@ -3761,6 +3756,10 @@
 	branch = master
 	path = packages/inputmethods/LeanbackIME
 	url = ../packages/inputmethods/LeanbackIME
+[submodule "platform/packages/modules/AdServices"]
+	branch = master
+	path = packages/modules/AdServices
+	url = ../packages/modules/AdServices
 [submodule "platform/packages/modules/AppSearch"]
 	branch = master
 	path = packages/modules/AppSearch
@@ -3840,6 +3839,10 @@
 	branch = master
 	path = packages/modules/NeuralNetworks
 	url = ../packages/modules/NeuralNetworks
+[submodule "platform/packages/modules/OnDevicePersonalization"]
+	branch = master
+	path = packages/modules/OnDevicePersonalization
+	url = ../packages/modules/OnDevicePersonalization
 [submodule "platform/packages/modules/Permission"]
 	branch = master
 	path = packages/modules/Permission
@@ -4162,6 +4165,16 @@
 	shallow = true
 	path = prebuilts/misc
 	url = ../prebuilts/misc
+[submodule "platform/prebuilts/module_sdk/AdServices"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/AdServices
+	url = ../prebuilts/module_sdk/AdServices
+[submodule "platform/prebuilts/module_sdk/AppSearch"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/AppSearch
+	url = ../prebuilts/module_sdk/AppSearch
 [submodule "platform/prebuilts/module_sdk/Bluetooth"]
 	branch = master
 	shallow = true
@@ -4187,6 +4200,11 @@
 	shallow = true
 	path = prebuilts/module_sdk/MediaProvider
 	url = ../prebuilts/module_sdk/MediaProvider
+[submodule "platform/prebuilts/module_sdk/OnDevicePersonalization"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/OnDevicePersonalization
+	url = ../prebuilts/module_sdk/OnDevicePersonalization
 [submodule "platform/prebuilts/module_sdk/Permission"]
 	branch = master
 	shallow = true
@@ -4207,6 +4225,11 @@
 	shallow = true
 	path = prebuilts/module_sdk/StatsD
 	url = ../prebuilts/module_sdk/StatsD
+[submodule "platform/prebuilts/module_sdk/Uwb"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/Uwb
+	url = ../prebuilts/module_sdk/Uwb
 [submodule "platform/prebuilts/module_sdk/Wifi"]
 	branch = master
 	shallow = true
@@ -4302,6 +4325,11 @@
 	shallow = true
 	path = prebuilts/vndk/v32
 	url = ../prebuilts/vndk/v32
+[submodule "platform/prebuilts/vndk/v33"]
+	branch = master
+	shallow = true
+	path = prebuilts/vndk/v33
+	url = ../prebuilts/vndk/v33
 [submodule "platform/sdk"]
 	branch = master
 	path = sdk
@@ -4720,6 +4748,7 @@
 	url = ../tools/tradefederation/contrib
 [submodule "platform/tools/tradefederation/prebuilts"]
 	branch = master
+	shallow = true
 	path = tools/tradefederation/prebuilts
 	url = ../tools/tradefederation/prebuilts
 [submodule "platform/tools/treble"]
