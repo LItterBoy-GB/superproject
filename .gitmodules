@@ -4715,6 +4715,10 @@
 	branch = master
 	path = tools/ndkports
 	url = ../tools/ndkports
+[submodule "platform/tools/netsim"]
+	branch = master
+	path = tools/netsim
+	url = ../tools/netsim
 [submodule "platform/tools/repohooks"]
 	branch = master
 	path = tools/repohooks
