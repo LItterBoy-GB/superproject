@@ -238,6 +238,10 @@
 	branch = emu-master-dev
 	path = tools/buildSrc
 	url = ../tools/buildSrc
+[submodule "platform/tools/netsim"]
+	branch = master
+	path = tools/netsim
+	url = ../tools/netsim
 [submodule "toolchain/m4"]
 	branch = master
 	path = external/m4
