@@ -3013,7 +3013,7 @@
 	path = frameworks/libs/native_bridge_support
 	url = ../frameworks/libs/native_bridge_support
 [submodule "platform/frameworks/libs/net"]
-	branch = android13-release
+	branch = android13-tests-dev
 	path = frameworks/libs/net
 	url = ../frameworks/libs/net
 [submodule "platform/frameworks/libs/service_entitlement"]
