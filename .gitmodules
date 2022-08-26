@@ -4127,11 +4127,6 @@
 	shallow = true
 	path = prebuilts/manifest-merger
 	url = ../prebuilts/manifest-merger
-[submodule "platform/prebuilts/maven_repo/android"]
-	branch = master
-	shallow = true
-	path = prebuilts/maven_repo/android
-	url = ../prebuilts/maven_repo/android
 [submodule "platform/prebuilts/maven_repo/bumptech"]
 	branch = master
 	shallow = true
