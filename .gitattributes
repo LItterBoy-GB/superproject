@@ -1020,7 +1020,6 @@
 /prebuilts/jdk/jdk9 pdk
 /prebuilts/ktlint pdk
 /prebuilts/manifest-merger pdk
-/prebuilts/maven_repo/android pdk-fs pdk-cw-fs
 /prebuilts/maven_repo/bumptech pdk-fs pdk-cw-fs
 /prebuilts/misc pdk
 /prebuilts/module_sdk/AdServices pdk
