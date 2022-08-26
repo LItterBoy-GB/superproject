@@ -103,6 +103,9 @@
 [submodule "device/google/cuttlefish_prebuilts"]
 	path = device/google/cuttlefish_prebuilts
 	url = ../../device/google/cuttlefish_prebuilts
+[submodule "device/google/fuchsia"]
+	path = device/google/fuchsia
+	url = ../../device/google/fuchsia
 [submodule "device/google/gs-common"]
 	path = device/google/gs-common
 	url = ../../device/google/gs-common
@@ -3043,9 +3046,6 @@
 [submodule "platform/prebuilts/manifest-merger"]
 	path = prebuilts/manifest-merger
 	url = ../prebuilts/manifest-merger
-[submodule "platform/prebuilts/maven_repo/android"]
-	path = prebuilts/maven_repo/android
-	url = ../prebuilts/maven_repo/android
 [submodule "platform/prebuilts/maven_repo/bumptech"]
 	path = prebuilts/maven_repo/bumptech
 	url = ../prebuilts/maven_repo/bumptech
