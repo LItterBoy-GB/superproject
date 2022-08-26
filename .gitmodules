@@ -476,10 +476,6 @@
 	branch = master
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
-[submodule "platform/external/adt-infra"]
-	branch = master
-	path = external/adt-infra
-	url = ../external/adt-infra
 [submodule "platform/external/android-clat"]
 	branch = master
 	path = external/android-clat
@@ -4587,10 +4583,6 @@
 	branch = master
 	path = tools/acloud
 	url = ../tools/acloud
-[submodule "platform/tools/adt/idea"]
-	branch = master
-	path = tools/adt/idea
-	url = ../tools/adt/idea
 [submodule "platform/tools/apifinder"]
 	branch = master
 	path = tools/apifinder
@@ -4607,14 +4599,6 @@
 	branch = master
 	path = tools/asuite
 	url = ../tools/asuite
-[submodule "platform/tools/base"]
-	branch = master
-	path = tools/base
-	url = ../tools/base
-[submodule "platform/tools/build"]
-	branch = master
-	path = tools/build
-	url = ../tools/build
 [submodule "platform/tools/carrier_settings"]
 	branch = master
 	path = tools/carrier_settings
@@ -4639,10 +4623,6 @@
 	branch = master
 	path = tools/external_updater
 	url = ../tools/external_updater
-[submodule "platform/tools/idea"]
-	branch = master
-	path = tools/idea
-	url = ../tools/idea
 [submodule "platform/tools/loganalysis"]
 	branch = master
 	path = tools/loganalysis
@@ -4651,10 +4631,6 @@
 	branch = master
 	path = tools/metalava
 	url = ../tools/metalava
-[submodule "platform/tools/motodev"]
-	branch = master
-	path = tools/motodev
-	url = ../tools/motodev
 [submodule "platform/tools/ndkports"]
 	branch = master
 	path = tools/ndkports
@@ -4671,14 +4647,6 @@
 	branch = master
 	path = tools/security
 	url = ../tools/security
-[submodule "platform/tools/studio/cloud"]
-	branch = master
-	path = tools/studio/cloud
-	url = ../tools/studio/cloud
-[submodule "platform/tools/swt"]
-	branch = master
-	path = tools/swt
-	url = ../tools/swt
 [submodule "platform/tools/test/connectivity"]
 	branch = master
 	path = tools/test/connectivity
