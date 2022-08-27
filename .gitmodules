@@ -3761,16 +3761,6 @@
 	branch = master
 	path = packages/modules/Bluetooth
 	url = ../packages/modules/Bluetooth
-[submodule "platform/packages/modules/BootPrebuilt/5.10/arm64"]
-	branch = master
-	shallow = true
-	path = packages/modules/BootPrebuilt/5.10/arm64
-	url = ../packages/modules/BootPrebuilt/5.10/arm64
-[submodule "platform/packages/modules/BootPrebuilt/5.4/arm64"]
-	branch = master
-	shallow = true
-	path = packages/modules/BootPrebuilt/5.4/arm64
-	url = ../packages/modules/BootPrebuilt/5.4/arm64
 [submodule "platform/packages/modules/CaptivePortalLogin"]
 	branch = master
 	path = packages/modules/CaptivePortalLogin
