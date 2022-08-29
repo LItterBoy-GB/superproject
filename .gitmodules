@@ -151,6 +151,10 @@
 	branch = master
 	path = external/googletest
 	url = ../external/googletest
+[submodule "platform/external/gson"]
+	branch = master
+	path = external/gson
+	url = ../external/gson
 [submodule "platform/external/guava"]
 	branch = master
 	path = external/guava
