@@ -234,7 +234,7 @@
 /external/gptfdisk pdk
 /external/grpc-grpc tradefed pdk
 /external/grpc-grpc-java tradefed pdk
-/external/gson pdk
+/external/gson tradefed pdk
 /external/guava pdk
 /external/guice pdk
 /external/gwp_asan pdk
