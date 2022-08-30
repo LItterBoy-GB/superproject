@@ -3768,7 +3768,7 @@
 	path = packages/modules/TestModule
 	url = ../packages/modules/TestModule
 [submodule "platform/packages/modules/Uwb"]
-	branch = android13-release
+	branch = android13-tests-dev
 	path = packages/modules/Uwb
 	url = ../packages/modules/Uwb
 [submodule "platform/packages/modules/Virtualization"]
