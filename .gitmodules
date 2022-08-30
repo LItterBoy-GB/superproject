@@ -112,6 +112,9 @@
 [submodule "platform/external/googletest"]
 	path = external/googletest
 	url = ../external/googletest
+[submodule "platform/external/gson"]
+	path = external/gson
+	url = ../external/gson
 [submodule "platform/external/guava"]
 	path = external/guava
 	url = ../external/guava

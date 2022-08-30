@@ -36,6 +36,7 @@
 /external/golang-x-tools
 /external/google-java-format
 /external/googletest
+/external/gson pdk
 /external/guava
 /external/icu
 /external/javapoet
