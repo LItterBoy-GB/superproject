@@ -334,9 +334,6 @@
 [submodule "platform/external/abseil-cpp"]
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
-[submodule "platform/external/adt-infra"]
-	path = external/adt-infra
-	url = ../external/adt-infra
 [submodule "platform/external/android-clat"]
 	path = external/android-clat
 	url = ../external/android-clat
@@ -2797,12 +2794,6 @@
 [submodule "platform/packages/modules/Bluetooth"]
 	path = packages/modules/Bluetooth
 	url = ../packages/modules/Bluetooth
-[submodule "platform/packages/modules/BootPrebuilt/5.10/arm64"]
-	path = packages/modules/BootPrebuilt/5.10/arm64
-	url = ../packages/modules/BootPrebuilt/5.10/arm64
-[submodule "platform/packages/modules/BootPrebuilt/5.4/arm64"]
-	path = packages/modules/BootPrebuilt/5.4/arm64
-	url = ../packages/modules/BootPrebuilt/5.4/arm64
 [submodule "platform/packages/modules/CaptivePortalLogin"]
 	path = packages/modules/CaptivePortalLogin
 	url = ../packages/modules/CaptivePortalLogin
@@ -3367,9 +3358,6 @@
 [submodule "platform/tools/acloud"]
 	path = tools/acloud
 	url = ../tools/acloud
-[submodule "platform/tools/adt/idea"]
-	path = tools/adt/idea
-	url = ../tools/adt/idea
 [submodule "platform/tools/apifinder"]
 	path = tools/apifinder
 	url = ../tools/apifinder
@@ -3382,12 +3370,6 @@
 [submodule "platform/tools/asuite"]
 	path = tools/asuite
 	url = ../tools/asuite
-[submodule "platform/tools/base"]
-	path = tools/base
-	url = ../tools/base
-[submodule "platform/tools/build"]
-	path = tools/build
-	url = ../tools/build
 [submodule "platform/tools/carrier_settings"]
 	path = tools/carrier_settings
 	url = ../tools/carrier_settings
@@ -3406,18 +3388,12 @@
 [submodule "platform/tools/external_updater"]
 	path = tools/external_updater
 	url = ../tools/external_updater
-[submodule "platform/tools/idea"]
-	path = tools/idea
-	url = ../tools/idea
 [submodule "platform/tools/loganalysis"]
 	path = tools/loganalysis
 	url = ../tools/loganalysis
 [submodule "platform/tools/metalava"]
 	path = tools/metalava
 	url = ../tools/metalava
-[submodule "platform/tools/motodev"]
-	path = tools/motodev
-	url = ../tools/motodev
 [submodule "platform/tools/ndkports"]
 	path = tools/ndkports
 	url = ../tools/ndkports
@@ -3430,12 +3406,6 @@
 [submodule "platform/tools/security"]
 	path = tools/security
 	url = ../tools/security
-[submodule "platform/tools/studio/cloud"]
-	path = tools/studio/cloud
-	url = ../tools/studio/cloud
-[submodule "platform/tools/swt"]
-	path = tools/swt
-	url = ../tools/swt
 [submodule "platform/tools/test/connectivity"]
 	path = tools/test/connectivity
 	url = ../tools/test/connectivity

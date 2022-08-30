@@ -110,7 +110,6 @@
 /external/XNNPACK pdk
 /external/aac pdk
 /external/abseil-cpp pdk
-/external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
 /external/android-nn-driver pdk-gs-arm pdk-lassen
 /external/androidplot pdk
@@ -235,7 +234,7 @@
 /external/gptfdisk pdk
 /external/grpc-grpc tradefed pdk
 /external/grpc-grpc-java tradefed pdk
-/external/gson pdk
+/external/gson tradefed pdk
 /external/guava pdk
 /external/guice pdk
 /external/gwp_asan pdk
@@ -931,8 +930,6 @@
 /packages/modules/AppSearch pdk
 /packages/modules/ArtPrebuilt pdk
 /packages/modules/Bluetooth pdk
-/packages/modules/BootPrebuilt/5.10/arm64 pdk
-/packages/modules/BootPrebuilt/5.4/arm64 pdk
 /packages/modules/CaptivePortalLogin pdk-fs pdk-cw-fs
 /packages/modules/CellBroadcastService pdk
 /packages/modules/Connectivity pdk-fs pdk-cw-fs
@@ -1121,29 +1118,22 @@
 /test/vts-testcase/vndk vts pdk
 /tools/aadevtools pdk
 /tools/acloud vts tradefed pdk tools projectarch
-/tools/adt/idea notdefault tools
 /tools/apifinder pdk tools
 /tools/apksig tradefed pdk
 /tools/apkzlib tradefed pdk
 /tools/asuite pdk
-/tools/base notdefault tools
-/tools/build notdefault tools
 /tools/carrier_settings tools
 /tools/currysrc pdk
 /tools/dexter pdk-fs tools
 /tools/doc_generation pdk tools
 /tools/external/fat32lib tools
 /tools/external_updater tools
-/tools/idea notdefault tools
 /tools/loganalysis tradefed pdk nopresubmit
 /tools/metalava pdk tools
-/tools/motodev notdefault motodev
 /tools/ndkports pdk
 /tools/netsim pdk
 /tools/repohooks cts tradefed developers pdk tools adt-infra motodev
 /tools/security pdk tools
-/tools/studio/cloud notdefault tools
-/tools/swt notdefault tools
 /tools/test/connectivity pdk
 /tools/test/graphicsbenchmark pdk
 /tools/test/mobly_snippets pdk
