@@ -27,11 +27,7 @@
 /prebuilts/python/darwin-x86 darwin
 /prebuilts/python/linux-x86 presubmit linux
 /prebuilts/python/windows-x86
-/prebuilts/renderscript/host/darwin-x86
-/prebuilts/renderscript/host/linux-x86 presubmit
-/prebuilts/renderscript/host/windows-x86
 /prebuilts/simpleperf presubmit
-/toolchain/binutils presubmit
 /toolchain/llvm-project presubmit
 /toolchain/make presubmit
 /toolchain/yasm presubmit

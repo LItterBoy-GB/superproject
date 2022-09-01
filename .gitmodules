@@ -114,26 +114,10 @@
 	branch = llvm-toolchain
 	path = prebuilts/python/windows-x86
 	url = ../prebuilts/python/windows-x86
-[submodule "platform/prebuilts/renderscript/host/darwin-x86"]
-	branch = master
-	path = prebuilts/renderscript/host/darwin-x86
-	url = ../prebuilts/renderscript/host/darwin-x86
-[submodule "platform/prebuilts/renderscript/host/linux-x86"]
-	branch = master
-	path = prebuilts/renderscript/host/linux-x86
-	url = ../prebuilts/renderscript/host/linux-x86
-[submodule "platform/prebuilts/renderscript/host/windows-x86"]
-	branch = master
-	path = prebuilts/renderscript/host/windows-x86
-	url = ../prebuilts/renderscript/host/windows-x86
 [submodule "platform/prebuilts/simpleperf"]
 	branch = master
 	path = prebuilts/simpleperf
 	url = ../prebuilts/simpleperf
-[submodule "toolchain/binutils"]
-	branch = master
-	path = toolchain/binutils
-	url = ../../toolchain/binutils
 [submodule "toolchain/llvm-project"]
 	branch = ndk
 	path = toolchain/llvm-project
