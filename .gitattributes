@@ -5,6 +5,7 @@
 /device/generic/vulkan-cereal pdk
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
+/device/google/cuttlefish_vmm pdk device
 /device/sample pdk
 /kernel/configs vts pdk
 /kernel/prebuilts/4.19/arm64 pdk
