@@ -319,9 +319,6 @@
 [submodule "platform/external/OpenCSD"]
 	path = external/OpenCSD
 	url = ../external/OpenCSD
-[submodule "platform/external/Reactive-Extensions/RxCpp"]
-	path = external/Reactive-Extensions/RxCpp
-	url = ../external/Reactive-Extensions/RxCpp
 [submodule "platform/external/TestParameterInjector"]
 	path = external/TestParameterInjector
 	url = ../external/TestParameterInjector
@@ -394,6 +391,9 @@
 [submodule "platform/external/bazel-skylib"]
 	path = external/bazel-skylib
 	url = ../external/bazel-skylib
+[submodule "platform/external/bazelbuild-kotlin-rules"]
+	path = external/bazelbuild-kotlin-rules
+	url = ../external/bazelbuild-kotlin-rules
 [submodule "platform/external/bazelbuild-rules_android"]
 	path = external/bazelbuild-rules_android
 	url = ../external/bazelbuild-rules_android

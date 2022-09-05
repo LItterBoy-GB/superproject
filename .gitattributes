@@ -105,7 +105,6 @@
 /external/ImageMagick pdk
 /external/OpenCL-CTS
 /external/OpenCSD pdk
-/external/Reactive-Extensions/RxCpp pdk
 /external/TestParameterInjector pdk
 /external/XNNPACK pdk
 /external/aac pdk
@@ -130,6 +129,7 @@
 /external/autotest pdk-fs
 /external/avb pdk
 /external/bazel-skylib pdk
+/external/bazelbuild-kotlin-rules pdk
 /external/bazelbuild-rules_android pdk
 /external/bc pdk
 /external/bcc pdk
