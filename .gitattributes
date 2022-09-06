@@ -52,6 +52,9 @@
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 platform-linux notdefault
 /prebuilts/ninja/darwin-x86 notdefault platform-darwin
 /prebuilts/ninja/linux-x86 platform-linux notdefault
+/prebuilts/python/darwin-x86 notdefault platform-darwin
+/prebuilts/python/linux-x86 platform-linux notdefault
+/prebuilts/python/windows-x86 notdefault platform-windows
 /prebuilts/tools
 /tools/buildSrc
 /tools/netsim
