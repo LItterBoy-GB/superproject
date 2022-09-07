@@ -1998,6 +1998,10 @@
 	branch = master
 	path = external/rust/crates/clap
 	url = ../external/rust/crates/clap
+[submodule "platform/external/rust/crates/clap_derive"]
+	branch = master
+	path = external/rust/crates/clap_derive
+	url = ../external/rust/crates/clap_derive
 [submodule "platform/external/rust/crates/clap_lex"]
 	branch = master
 	path = external/rust/crates/clap_lex
