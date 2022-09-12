@@ -488,6 +488,7 @@
 /external/rust/crates/ciborium-ll pdk
 /external/rust/crates/clang-sys pdk
 /external/rust/crates/clap pdk
+/external/rust/crates/clap_derive pdk
 /external/rust/crates/clap_lex pdk
 /external/rust/crates/codespan-reporting pdk
 /external/rust/crates/combine pdk

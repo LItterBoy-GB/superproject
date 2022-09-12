@@ -1468,6 +1468,9 @@
 [submodule "platform/external/rust/crates/clap"]
 	path = external/rust/crates/clap
 	url = ../external/rust/crates/clap
+[submodule "platform/external/rust/crates/clap_derive"]
+	path = external/rust/crates/clap_derive
+	url = ../external/rust/crates/clap_derive
 [submodule "platform/external/rust/crates/clap_lex"]
 	path = external/rust/crates/clap_lex
 	url = ../external/rust/crates/clap_lex
