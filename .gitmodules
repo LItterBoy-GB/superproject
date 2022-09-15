@@ -3829,6 +3829,10 @@
 	branch = master
 	path = packages/modules/Permission
 	url = ../packages/modules/Permission
+[submodule "platform/packages/modules/RemoteKeyProvisioning"]
+	branch = master
+	path = packages/modules/RemoteKeyProvisioning
+	url = ../packages/modules/RemoteKeyProvisioning
 [submodule "platform/packages/modules/RuntimeI18n"]
 	branch = master
 	path = packages/modules/RuntimeI18n

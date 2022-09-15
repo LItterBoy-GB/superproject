@@ -947,6 +947,7 @@
 /packages/modules/NeuralNetworks pdk-fs pdk-cw-fs
 /packages/modules/OnDevicePersonalization pdk-fs
 /packages/modules/Permission pdk-fs pdk-cw-fs
+/packages/modules/RemoteKeyProvisioning pdk-fs pdk-cw-fs
 /packages/modules/RuntimeI18n pdk-fs pdk-cw-fs
 /packages/modules/SEPolicy pdk-fs pdk-cw-fs
 /packages/modules/Scheduling pdk-fs pdk-cw-fs
