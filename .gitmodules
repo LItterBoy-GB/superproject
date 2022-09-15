@@ -184,6 +184,10 @@
 	shallow = true
 	path = prebuilts/android-emulator-build/qt
 	url = ../prebuilts/android-emulator-build/qt
+[submodule "platform/prebuilts/android-emulator-build/system-images"]
+	branch = master
+	path = prebuilts/android-emulator-build/system-images
+	url = ../prebuilts/android-emulator-build/system-images
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
 	branch = master
 	shallow = true
