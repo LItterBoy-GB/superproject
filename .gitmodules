@@ -560,6 +560,10 @@
 	branch = master
 	path = external/bazelbuild-rules_android
 	url = ../external/bazelbuild-rules_android
+[submodule "platform/external/bazelbuild-rules_license"]
+	branch = master
+	path = external/bazelbuild-rules_license
+	url = ../external/bazelbuild-rules_license
 [submodule "platform/external/bc"]
 	branch = master
 	path = external/bc
