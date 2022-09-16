@@ -4303,7 +4303,7 @@
 	path = system/linkerconfig
 	url = ../system/linkerconfig
 [submodule "platform/system/logging"]
-	branch = android13-release
+	branch = android13-tests-dev
 	path = system/logging
 	url = ../system/logging
 [submodule "platform/system/media"]
