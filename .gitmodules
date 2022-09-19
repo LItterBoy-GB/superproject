@@ -397,6 +397,9 @@
 [submodule "platform/external/bazelbuild-rules_android"]
 	path = external/bazelbuild-rules_android
 	url = ../external/bazelbuild-rules_android
+[submodule "platform/external/bazelbuild-rules_license"]
+	path = external/bazelbuild-rules_license
+	url = ../external/bazelbuild-rules_license
 [submodule "platform/external/bc"]
 	path = external/bc
 	url = ../external/bc
@@ -2845,6 +2848,9 @@
 [submodule "platform/packages/modules/Permission"]
 	path = packages/modules/Permission
 	url = ../packages/modules/Permission
+[submodule "platform/packages/modules/RemoteKeyProvisioning"]
+	path = packages/modules/RemoteKeyProvisioning
+	url = ../packages/modules/RemoteKeyProvisioning
 [submodule "platform/packages/modules/RuntimeI18n"]
 	path = packages/modules/RuntimeI18n
 	url = ../packages/modules/RuntimeI18n
