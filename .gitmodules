@@ -1794,10 +1794,6 @@
 	branch = master
 	path = external/python/pyfakefs
 	url = ../external/python/pyfakefs
-[submodule "platform/external/python/pyopenssl"]
-	branch = master
-	path = external/python/pyopenssl
-	url = ../external/python/pyopenssl
 [submodule "platform/external/python/pyserial"]
 	branch = master
 	path = external/python/pyserial
