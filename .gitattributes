@@ -437,7 +437,6 @@
 /external/python/pycparser pdk
 /external/python/pyee pdk
 /external/python/pyfakefs pdk
-/external/python/pyopenssl pdk
 /external/python/pyserial pdk
 /external/python/python-api-core pdk
 /external/python/pyyaml pdk

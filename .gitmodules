@@ -1315,9 +1315,6 @@
 [submodule "platform/external/python/pyfakefs"]
 	path = external/python/pyfakefs
 	url = ../external/python/pyfakefs
-[submodule "platform/external/python/pyopenssl"]
-	path = external/python/pyopenssl
-	url = ../external/python/pyopenssl
 [submodule "platform/external/python/pyserial"]
 	path = external/python/pyserial
 	url = ../external/python/pyserial
