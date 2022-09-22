@@ -70,36 +70,30 @@
 [submodule "platform/prebuilts/cmake/linux-x86"]
 	path = prebuilts/fullsdk-linux/cmake
 	url = ../prebuilts/cmake/linux-x86
-[submodule "platform/prebuilts/fullsdk-darwin/build-tools/30.0.3"]
-	path = prebuilts/fullsdk-darwin/build-tools/30.0.3
-	url = ../prebuilts/fullsdk-darwin/build-tools/30.0.3
-[submodule "platform/prebuilts/fullsdk-darwin/build-tools/32.1.0"]
-	path = prebuilts/fullsdk-darwin/build-tools/32.1.0
-	url = ../prebuilts/fullsdk-darwin/build-tools/32.1.0
+[submodule "platform/prebuilts/fullsdk-darwin/build-tools"]
+	path = prebuilts/fullsdk-darwin/build-tools
+	url = ../prebuilts/fullsdk-darwin/build-tools
 [submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
 	path = prebuilts/fullsdk-darwin/platform-tools
 	url = ../prebuilts/fullsdk-darwin/platform-tools
 [submodule "platform/prebuilts/fullsdk-darwin/tools"]
 	path = prebuilts/fullsdk-darwin/tools
 	url = ../prebuilts/fullsdk-darwin/tools
-[submodule "platform/prebuilts/fullsdk-linux/build-tools/30.0.3"]
-	path = prebuilts/fullsdk-linux/build-tools/30.0.3
-	url = ../prebuilts/fullsdk-linux/build-tools/30.0.3
-[submodule "platform/prebuilts/fullsdk-linux/build-tools/32.1.0"]
-	path = prebuilts/fullsdk-linux/build-tools/32.1.0
-	url = ../prebuilts/fullsdk-linux/build-tools/32.1.0
+[submodule "platform/prebuilts/fullsdk-linux/build-tools"]
+	path = prebuilts/fullsdk-linux/build-tools
+	url = ../prebuilts/fullsdk-linux/build-tools
 [submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
 	path = prebuilts/fullsdk-linux/platform-tools
 	url = ../prebuilts/fullsdk-linux/platform-tools
 [submodule "platform/prebuilts/fullsdk-linux/tools"]
 	path = prebuilts/fullsdk-linux/tools
 	url = ../prebuilts/fullsdk-linux/tools
-[submodule "platform/prebuilts/fullsdk/platforms/android-31"]
-	path = prebuilts/fullsdk-darwin/platforms/android-31
-	url = ../prebuilts/fullsdk/platforms/android-31
-[submodule "platform/prebuilts/fullsdk/sources/android-31"]
-	path = prebuilts/fullsdk-darwin/sources/android-31
-	url = ../prebuilts/fullsdk/sources/android-31
+[submodule "platform/prebuilts/fullsdk/platforms/android-33"]
+	path = prebuilts/fullsdk-darwin/platforms/android-33
+	url = ../prebuilts/fullsdk/platforms/android-33
+[submodule "platform/prebuilts/fullsdk/sources/android-33"]
+	path = prebuilts/fullsdk-darwin/sources/android-33
+	url = ../prebuilts/fullsdk/sources/android-33
 [submodule "platform/prebuilts/jdk/jdk11"]
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
@@ -128,10 +122,10 @@
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "toolchain/prebuilts/ndk-darwin/r23"]
-	path = prebuilts/fullsdk-darwin/ndk
+	path = prebuilts/fullsdk-darwin/ndk-bundle
 	url = ../../toolchain/prebuilts/ndk-darwin/r23
 [submodule "toolchain/prebuilts/ndk/r23"]
-	path = prebuilts/fullsdk-linux/ndk
+	path = prebuilts/fullsdk-linux/ndk-bundle
 	url = ../../toolchain/prebuilts/ndk/r23
 [submodule "tools/fetch_artifact"]
 	path = tools/fetch_artifact
