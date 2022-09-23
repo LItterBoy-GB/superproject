@@ -2354,6 +2354,10 @@
 	branch = master
 	path = external/rust/crates/num_cpus
 	url = ../external/rust/crates/num_cpus
+[submodule "platform/external/rust/crates/octets"]
+	branch = master
+	path = external/rust/crates/octets
+	url = ../external/rust/crates/octets
 [submodule "platform/external/rust/crates/oid-registry"]
 	branch = master
 	path = external/rust/crates/oid-registry
