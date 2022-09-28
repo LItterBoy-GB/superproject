@@ -12,11 +12,6 @@
 	shallow = true
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
-[submodule "platform/external/doclava"]
-	branch = master
-	shallow = true
-	path = external/doclava
-	url = ../external/doclava
 [submodule "platform/external/dokka"]
 	branch = master
 	shallow = true
