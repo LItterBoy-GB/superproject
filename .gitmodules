@@ -7,9 +7,6 @@
 [submodule "platform/external/abseil-cpp"]
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
-[submodule "platform/external/doclava"]
-	path = external/doclava
-	url = ../external/doclava
 [submodule "platform/external/dokka"]
 	path = external/dokka
 	url = ../external/dokka
