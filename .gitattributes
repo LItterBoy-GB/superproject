@@ -493,6 +493,7 @@
 /external/rust/crates/codespan-reporting pdk
 /external/rust/crates/combine pdk
 /external/rust/crates/command-fds pdk
+/external/rust/crates/const-oid pdk
 /external/rust/crates/coset pdk
 /external/rust/crates/crc32fast pdk
 /external/rust/crates/criterion pdk
@@ -504,8 +505,10 @@
 /external/rust/crates/crossbeam-utils pdk
 /external/rust/crates/csv pdk
 /external/rust/crates/csv-core pdk
+/external/rust/crates/der pdk
 /external/rust/crates/der-oid-macro pdk
 /external/rust/crates/der-parser pdk
+/external/rust/crates/der_derive pdk
 /external/rust/crates/derive_arbitrary pdk
 /external/rust/crates/downcast-rs pdk
 /external/rust/crates/either pdk
@@ -513,6 +516,7 @@
 /external/rust/crates/env_logger pdk
 /external/rust/crates/fallible-iterator pdk
 /external/rust/crates/fallible-streaming-iterator pdk
+/external/rust/crates/flagset pdk
 /external/rust/crates/flate2 pdk
 /external/rust/crates/fnv pdk
 /external/rust/crates/foreign-types pdk
@@ -596,6 +600,8 @@
 /external/rust/crates/pin-project-internal pdk
 /external/rust/crates/pin-project-lite pdk
 /external/rust/crates/pin-utils pdk
+/external/rust/crates/pkcs1 pdk
+/external/rust/crates/pkcs8 pdk
 /external/rust/crates/plotters pdk
 /external/rust/crates/plotters-backend pdk
 /external/rust/crates/plotters-svg pdk
@@ -632,6 +638,7 @@
 /external/rust/crates/ryu pdk
 /external/rust/crates/same-file pdk
 /external/rust/crates/scopeguard pdk
+/external/rust/crates/sec1 pdk
 /external/rust/crates/semver pdk
 /external/rust/crates/serde pdk
 /external/rust/crates/serde-xml-rs pdk
@@ -645,10 +652,12 @@
 /external/rust/crates/slab pdk
 /external/rust/crates/smallvec pdk
 /external/rust/crates/spin pdk
+/external/rust/crates/spki pdk
 /external/rust/crates/structopt pdk
 /external/rust/crates/structopt-derive pdk
 /external/rust/crates/syn pdk
 /external/rust/crates/syn-mid pdk
+/external/rust/crates/synstructure pdk
 /external/rust/crates/tempfile pdk
 /external/rust/crates/termcolor pdk
 /external/rust/crates/terminal-size pdk
@@ -678,8 +687,11 @@
 /external/rust/crates/weak-table pdk
 /external/rust/crates/webpki pdk
 /external/rust/crates/which pdk
+/external/rust/crates/x509-cert pdk
 /external/rust/crates/x509-parser pdk
 /external/rust/crates/xml-rs pdk
+/external/rust/crates/zeroize pdk
+/external/rust/crates/zeroize_derive pdk
 /external/rust/crates/zip pdk
 /external/rust/cxx pdk
 /external/ruy pdk
