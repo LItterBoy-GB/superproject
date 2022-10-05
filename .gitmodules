@@ -2018,6 +2018,10 @@
 	branch = master
 	path = external/rust/crates/command-fds
 	url = ../external/rust/crates/command-fds
+[submodule "platform/external/rust/crates/const-oid"]
+	branch = master
+	path = external/rust/crates/const-oid
+	url = ../external/rust/crates/const-oid
 [submodule "platform/external/rust/crates/coset"]
 	branch = master
 	path = external/rust/crates/coset
@@ -2062,6 +2066,10 @@
 	branch = master
 	path = external/rust/crates/csv-core
 	url = ../external/rust/crates/csv-core
+[submodule "platform/external/rust/crates/der"]
+	branch = master
+	path = external/rust/crates/der
+	url = ../external/rust/crates/der
 [submodule "platform/external/rust/crates/der-oid-macro"]
 	branch = master
 	path = external/rust/crates/der-oid-macro
@@ -2070,6 +2078,10 @@
 	branch = master
 	path = external/rust/crates/der-parser
 	url = ../external/rust/crates/der-parser
+[submodule "platform/external/rust/crates/der_derive"]
+	branch = master
+	path = external/rust/crates/der_derive
+	url = ../external/rust/crates/der_derive
 [submodule "platform/external/rust/crates/derive_arbitrary"]
 	branch = master
 	path = external/rust/crates/derive_arbitrary
@@ -2098,6 +2110,10 @@
 	branch = master
 	path = external/rust/crates/fallible-streaming-iterator
 	url = ../external/rust/crates/fallible-streaming-iterator
+[submodule "platform/external/rust/crates/flagset"]
+	branch = master
+	path = external/rust/crates/flagset
+	url = ../external/rust/crates/flagset
 [submodule "platform/external/rust/crates/flate2"]
 	branch = master
 	path = external/rust/crates/flate2
@@ -2430,6 +2446,14 @@
 	branch = master
 	path = external/rust/crates/pin-utils
 	url = ../external/rust/crates/pin-utils
+[submodule "platform/external/rust/crates/pkcs1"]
+	branch = master
+	path = external/rust/crates/pkcs1
+	url = ../external/rust/crates/pkcs1
+[submodule "platform/external/rust/crates/pkcs8"]
+	branch = master
+	path = external/rust/crates/pkcs8
+	url = ../external/rust/crates/pkcs8
 [submodule "platform/external/rust/crates/plotters"]
 	branch = master
 	path = external/rust/crates/plotters
@@ -2574,6 +2598,10 @@
 	branch = master
 	path = external/rust/crates/scopeguard
 	url = ../external/rust/crates/scopeguard
+[submodule "platform/external/rust/crates/sec1"]
+	branch = master
+	path = external/rust/crates/sec1
+	url = ../external/rust/crates/sec1
 [submodule "platform/external/rust/crates/semver"]
 	branch = master
 	path = external/rust/crates/semver
@@ -2626,6 +2654,10 @@
 	branch = master
 	path = external/rust/crates/spin
 	url = ../external/rust/crates/spin
+[submodule "platform/external/rust/crates/spki"]
+	branch = master
+	path = external/rust/crates/spki
+	url = ../external/rust/crates/spki
 [submodule "platform/external/rust/crates/structopt"]
 	branch = master
 	path = external/rust/crates/structopt
@@ -2642,6 +2674,10 @@
 	branch = master
 	path = external/rust/crates/syn-mid
 	url = ../external/rust/crates/syn-mid
+[submodule "platform/external/rust/crates/synstructure"]
+	branch = master
+	path = external/rust/crates/synstructure
+	url = ../external/rust/crates/synstructure
 [submodule "platform/external/rust/crates/tempfile"]
 	branch = master
 	path = external/rust/crates/tempfile
@@ -2758,6 +2794,10 @@
 	branch = master
 	path = external/rust/crates/which
 	url = ../external/rust/crates/which
+[submodule "platform/external/rust/crates/x509-cert"]
+	branch = master
+	path = external/rust/crates/x509-cert
+	url = ../external/rust/crates/x509-cert
 [submodule "platform/external/rust/crates/x509-parser"]
 	branch = master
 	path = external/rust/crates/x509-parser
@@ -2766,6 +2806,14 @@
 	branch = master
 	path = external/rust/crates/xml-rs
 	url = ../external/rust/crates/xml-rs
+[submodule "platform/external/rust/crates/zeroize"]
+	branch = master
+	path = external/rust/crates/zeroize
+	url = ../external/rust/crates/zeroize
+[submodule "platform/external/rust/crates/zeroize_derive"]
+	branch = master
+	path = external/rust/crates/zeroize_derive
+	url = ../external/rust/crates/zeroize_derive
 [submodule "platform/external/rust/crates/zip"]
 	branch = master
 	path = external/rust/crates/zip
