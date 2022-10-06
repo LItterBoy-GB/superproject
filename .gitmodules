@@ -1483,6 +1483,9 @@
 [submodule "platform/external/rust/crates/command-fds"]
 	path = external/rust/crates/command-fds
 	url = ../external/rust/crates/command-fds
+[submodule "platform/external/rust/crates/const-oid"]
+	path = external/rust/crates/const-oid
+	url = ../external/rust/crates/const-oid
 [submodule "platform/external/rust/crates/coset"]
 	path = external/rust/crates/coset
 	url = ../external/rust/crates/coset
@@ -1516,12 +1519,18 @@
 [submodule "platform/external/rust/crates/csv-core"]
 	path = external/rust/crates/csv-core
 	url = ../external/rust/crates/csv-core
+[submodule "platform/external/rust/crates/der"]
+	path = external/rust/crates/der
+	url = ../external/rust/crates/der
 [submodule "platform/external/rust/crates/der-oid-macro"]
 	path = external/rust/crates/der-oid-macro
 	url = ../external/rust/crates/der-oid-macro
 [submodule "platform/external/rust/crates/der-parser"]
 	path = external/rust/crates/der-parser
 	url = ../external/rust/crates/der-parser
+[submodule "platform/external/rust/crates/der_derive"]
+	path = external/rust/crates/der_derive
+	url = ../external/rust/crates/der_derive
 [submodule "platform/external/rust/crates/derive_arbitrary"]
 	path = external/rust/crates/derive_arbitrary
 	url = ../external/rust/crates/derive_arbitrary
@@ -1543,6 +1552,9 @@
 [submodule "platform/external/rust/crates/fallible-streaming-iterator"]
 	path = external/rust/crates/fallible-streaming-iterator
 	url = ../external/rust/crates/fallible-streaming-iterator
+[submodule "platform/external/rust/crates/flagset"]
+	path = external/rust/crates/flagset
+	url = ../external/rust/crates/flagset
 [submodule "platform/external/rust/crates/flate2"]
 	path = external/rust/crates/flate2
 	url = ../external/rust/crates/flate2
@@ -1792,6 +1804,12 @@
 [submodule "platform/external/rust/crates/pin-utils"]
 	path = external/rust/crates/pin-utils
 	url = ../external/rust/crates/pin-utils
+[submodule "platform/external/rust/crates/pkcs1"]
+	path = external/rust/crates/pkcs1
+	url = ../external/rust/crates/pkcs1
+[submodule "platform/external/rust/crates/pkcs8"]
+	path = external/rust/crates/pkcs8
+	url = ../external/rust/crates/pkcs8
 [submodule "platform/external/rust/crates/plotters"]
 	path = external/rust/crates/plotters
 	url = ../external/rust/crates/plotters
@@ -1900,6 +1918,9 @@
 [submodule "platform/external/rust/crates/scopeguard"]
 	path = external/rust/crates/scopeguard
 	url = ../external/rust/crates/scopeguard
+[submodule "platform/external/rust/crates/sec1"]
+	path = external/rust/crates/sec1
+	url = ../external/rust/crates/sec1
 [submodule "platform/external/rust/crates/semver"]
 	path = external/rust/crates/semver
 	url = ../external/rust/crates/semver
@@ -1939,6 +1960,9 @@
 [submodule "platform/external/rust/crates/spin"]
 	path = external/rust/crates/spin
 	url = ../external/rust/crates/spin
+[submodule "platform/external/rust/crates/spki"]
+	path = external/rust/crates/spki
+	url = ../external/rust/crates/spki
 [submodule "platform/external/rust/crates/structopt"]
 	path = external/rust/crates/structopt
 	url = ../external/rust/crates/structopt
@@ -1951,6 +1975,9 @@
 [submodule "platform/external/rust/crates/syn-mid"]
 	path = external/rust/crates/syn-mid
 	url = ../external/rust/crates/syn-mid
+[submodule "platform/external/rust/crates/synstructure"]
+	path = external/rust/crates/synstructure
+	url = ../external/rust/crates/synstructure
 [submodule "platform/external/rust/crates/tempfile"]
 	path = external/rust/crates/tempfile
 	url = ../external/rust/crates/tempfile
@@ -2038,12 +2065,21 @@
 [submodule "platform/external/rust/crates/which"]
 	path = external/rust/crates/which
 	url = ../external/rust/crates/which
+[submodule "platform/external/rust/crates/x509-cert"]
+	path = external/rust/crates/x509-cert
+	url = ../external/rust/crates/x509-cert
 [submodule "platform/external/rust/crates/x509-parser"]
 	path = external/rust/crates/x509-parser
 	url = ../external/rust/crates/x509-parser
 [submodule "platform/external/rust/crates/xml-rs"]
 	path = external/rust/crates/xml-rs
 	url = ../external/rust/crates/xml-rs
+[submodule "platform/external/rust/crates/zeroize"]
+	path = external/rust/crates/zeroize
+	url = ../external/rust/crates/zeroize
+[submodule "platform/external/rust/crates/zeroize_derive"]
+	path = external/rust/crates/zeroize_derive
+	url = ../external/rust/crates/zeroize_derive
 [submodule "platform/external/rust/crates/zip"]
 	path = external/rust/crates/zip
 	url = ../external/rust/crates/zip
