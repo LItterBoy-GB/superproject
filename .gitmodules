@@ -2226,6 +2226,10 @@
 	branch = master
 	path = external/rust/crates/heck
 	url = ../external/rust/crates/heck
+[submodule "platform/external/rust/crates/hex"]
+	branch = master
+	path = external/rust/crates/hex
+	url = ../external/rust/crates/hex
 [submodule "platform/external/rust/crates/idna"]
 	branch = master
 	path = external/rust/crates/idna
