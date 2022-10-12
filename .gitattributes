@@ -24,4 +24,5 @@
 /toolchain/llvm-project
 /toolchain/llvm_android
 /toolchain/prebuilts/ndk/r24
+/toolchain/prebuilts/ndk/r25
 /toolchain/xz
