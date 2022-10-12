@@ -117,6 +117,10 @@
 	branch = master
 	path = toolchain/prebuilts/ndk/r24
 	url = ../../toolchain/prebuilts/ndk/r24
+[submodule "toolchain/prebuilts/ndk/r25"]
+	branch = master
+	path = toolchain/prebuilts/ndk/r25
+	url = ../../toolchain/prebuilts/ndk/r25
 [submodule "toolchain/xz"]
 	branch = master
 	path = toolchain/xz
