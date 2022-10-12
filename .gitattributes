@@ -18,4 +18,5 @@
 /toolchain/android_rust
 /toolchain/common
 /toolchain/prebuilts/ndk/r24
+/toolchain/prebuilts/ndk/r25
 /toolchain/rustc
