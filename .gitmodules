@@ -4809,11 +4809,6 @@
 	branch = master
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
-[submodule "toolchain/prebuilts/ndk/r24"]
-	branch = master
-	shallow = true
-	path = toolchain/prebuilts/ndk/r24
-	url = ../../toolchain/prebuilts/ndk/r24
 [submodule "toolchain/prebuilts/ndk/r25"]
 	branch = master
 	shallow = true
