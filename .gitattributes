@@ -545,6 +545,7 @@
 /external/rust/crates/hashbrown pdk
 /external/rust/crates/hashlink pdk
 /external/rust/crates/heck pdk
+/external/rust/crates/hex pdk
 /external/rust/crates/idna pdk
 /external/rust/crates/indexmap pdk
 /external/rust/crates/instant pdk
