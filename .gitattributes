@@ -37,6 +37,11 @@
 /device/google/gs-common slider pdk-gs-arm device
 /device/google/gs101 slider pdk-gs-arm device
 /device/google/gs101-sepolicy slider pdk-gs-arm device
+/device/google/gs201 device cloudripper
+/device/google/gs201-sepolicy device cloudripper
+/device/google/pantah device cloudripper
+/device/google/pantah-kernel device cloudripper
+/device/google/pantah-sepolicy device cloudripper
 /device/google/raviole slider pdk-gs-arm device
 /device/google/raviole-kernel slider pdk-gs-arm device
 /device/google/redbull redbull device
@@ -817,6 +822,7 @@
 /hardware/google/gchips pdk-gs-arm pdk-lassen
 /hardware/google/graphics/common pdk-gs-arm pdk-lassen
 /hardware/google/graphics/gs101 pdk-gs-arm pdk-lassen
+/hardware/google/graphics/gs201 cloudripper
 /hardware/google/interfaces pdk
 /hardware/google/pixel generic_fs pixel
 /hardware/google/pixel-sepolicy generic_fs pixel
