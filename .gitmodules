@@ -158,6 +158,27 @@
 	branch = main-16k
 	path = device/google/gs101-sepolicy
 	url = ../../device/google/gs101-sepolicy
+[submodule "device/google/gs201"]
+	branch = main-16k
+	path = device/google/gs201
+	url = ../../device/google/gs201
+[submodule "device/google/gs201-sepolicy"]
+	branch = main-16k
+	path = device/google/gs201-sepolicy
+	url = ../../device/google/gs201-sepolicy
+[submodule "device/google/pantah"]
+	branch = main-16k
+	path = device/google/pantah
+	url = ../../device/google/pantah
+[submodule "device/google/pantah-kernel"]
+	branch = main-16k
+	shallow = true
+	path = device/google/pantah-kernel
+	url = ../../device/google/pantah-kernel
+[submodule "device/google/pantah-sepolicy"]
+	branch = main-16k
+	path = device/google/pantah-sepolicy
+	url = ../../device/google/pantah-sepolicy
 [submodule "device/google/raviole"]
 	branch = main-16k
 	path = device/google/raviole
@@ -3308,6 +3329,10 @@
 	branch = main-16k
 	path = hardware/google/graphics/gs101
 	url = ../hardware/google/graphics/gs101
+[submodule "platform/hardware/google/graphics/gs201"]
+	branch = main-16k
+	path = hardware/google/graphics/gs201
+	url = ../hardware/google/graphics/gs201
 [submodule "platform/hardware/google/interfaces"]
 	branch = main-16k
 	path = hardware/google/interfaces
