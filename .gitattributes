@@ -456,6 +456,7 @@
 /external/replicaisland pdk
 /external/rmi4utils pdk
 /external/rnnoise pdk
+/external/robolectric pdk-fs pdk-cw-fs
 /external/robolectric-shadows pdk-fs pdk-cw-fs
 /external/roboto-fonts pdk
 /external/rootdev pdk
