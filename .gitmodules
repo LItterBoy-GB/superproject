@@ -1863,6 +1863,10 @@
 	branch = main-16k
 	path = external/rnnoise
 	url = ../external/rnnoise
+[submodule "platform/external/robolectric"]
+	branch = main-16k
+	path = external/robolectric
+	url = ../external/robolectric
 [submodule "platform/external/robolectric-shadows"]
 	branch = main-16k
 	path = external/robolectric-shadows
