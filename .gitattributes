@@ -59,6 +59,7 @@
 /prebuilts/python/darwin-x86 notdefault platform-darwin
 /prebuilts/python/linux-x86 platform-linux notdefault
 /prebuilts/python/windows-x86 notdefault platform-windows
+/prebuilts/rust platform-linux notdefault platform-darwin
 /tools/buildSrc
 /tools/netsim
 /external/m4 platform-linux notdefault platform-darwin
