@@ -4,6 +4,7 @@
 /external/libncurses
 /external/swig
 /external/toolchain-utils
+/external/zstd
 /prebuilts/build-tools
 /prebuilts/clang/host/darwin-universal
 /prebuilts/clang/host/darwin-x86
