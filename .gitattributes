@@ -29,7 +29,6 @@
 /prebuilts/fullsdk-linux/tools platform-linux notdefault
 /prebuilts/fullsdk-darwin/platforms/android-33
 /prebuilts/fullsdk-darwin/sources/android-33
-/prebuilts/jdk/jdk11
 /prebuilts/jdk/jdk17
 /prebuilts/jdk/jdk8
 /prebuilts/fullsdk-darwin/ninja notdefault platform-darwin
