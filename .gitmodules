@@ -115,6 +115,21 @@
 [submodule "device/google/gs101-sepolicy"]
 	path = device/google/gs101-sepolicy
 	url = ../../device/google/gs101-sepolicy
+[submodule "device/google/gs201"]
+	path = device/google/gs201
+	url = ../../device/google/gs201
+[submodule "device/google/gs201-sepolicy"]
+	path = device/google/gs201-sepolicy
+	url = ../../device/google/gs201-sepolicy
+[submodule "device/google/pantah"]
+	path = device/google/pantah
+	url = ../../device/google/pantah
+[submodule "device/google/pantah-kernel"]
+	path = device/google/pantah-kernel
+	url = ../../device/google/pantah-kernel
+[submodule "device/google/pantah-sepolicy"]
+	path = device/google/pantah-sepolicy
+	url = ../../device/google/pantah-sepolicy
 [submodule "device/google/raviole"]
 	path = device/google/raviole
 	url = ../../device/google/raviole
@@ -1357,6 +1372,9 @@
 [submodule "platform/external/rnnoise"]
 	path = external/rnnoise
 	url = ../external/rnnoise
+[submodule "platform/external/robolectric"]
+	path = external/robolectric
+	url = ../external/robolectric
 [submodule "platform/external/robolectric-shadows"]
 	path = external/robolectric-shadows
 	url = ../external/robolectric-shadows
@@ -1639,6 +1657,9 @@
 [submodule "platform/external/rust/crates/heck"]
 	path = external/rust/crates/heck
 	url = ../external/rust/crates/heck
+[submodule "platform/external/rust/crates/hex"]
+	path = external/rust/crates/hex
+	url = ../external/rust/crates/hex
 [submodule "platform/external/rust/crates/idna"]
 	path = external/rust/crates/idna
 	url = ../external/rust/crates/idna
@@ -2452,6 +2473,9 @@
 [submodule "platform/hardware/google/graphics/gs101"]
 	path = hardware/google/graphics/gs101
 	url = ../hardware/google/graphics/gs101
+[submodule "platform/hardware/google/graphics/gs201"]
+	path = hardware/google/graphics/gs201
+	url = ../hardware/google/graphics/gs201
 [submodule "platform/hardware/google/interfaces"]
 	path = hardware/google/interfaces
 	url = ../hardware/google/interfaces
