@@ -270,6 +270,10 @@
 	branch = master
 	path = external/mockwebserver
 	url = ../external/mockwebserver
+[submodule "platform/external/musl"]
+	branch = master
+	path = external/musl
+	url = ../external/musl
 [submodule "platform/external/nist-pkits"]
 	branch = master
 	path = external/nist-pkits

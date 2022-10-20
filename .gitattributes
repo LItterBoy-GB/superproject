@@ -66,6 +66,7 @@
 /external/mockftpserver pdk
 /external/mockito pdk
 /external/mockwebserver pdk
+/external/musl pdk
 /external/nist-pkits pdk
 /external/objenesis pdk
 /external/oj-libjdwp pdk
