@@ -1,0 +1,158 @@
+[submodule "platform/art"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = art
+	url = ../art
+[submodule "platform/external/autotest"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/autotest
+	url = ../external/autotest
+[submodule "platform/external/blktrace"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/blktrace
+	url = ../external/blktrace
+[submodule "platform/external/dnsmasq"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/dnsmasq
+	url = ../external/dnsmasq
+[submodule "platform/external/dtc"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/dtc
+	url = ../external/dtc
+[submodule "platform/external/e2fsprogs"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/e2fsprogs
+	url = ../external/e2fsprogs
+[submodule "platform/external/eigen"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/eigen
+	url = ../external/eigen
+[submodule "platform/external/elfutils"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/elfutils
+	url = ../external/elfutils
+[submodule "platform/external/f2fs-tools"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/f2fs-tools
+	url = ../external/f2fs-tools
+[submodule "platform/external/fec"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/fec
+	url = ../external/fec
+[submodule "platform/external/fsverity-utils"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/fsverity-utils
+	url = ../external/fsverity-utils
+[submodule "platform/external/gptfdisk"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/gptfdisk
+	url = ../external/gptfdisk
+[submodule "platform/external/hyphenation-patterns"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/hyphenation-patterns
+	url = ../external/hyphenation-patterns
+[submodule "platform/external/iproute2"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/iproute2
+	url = ../external/iproute2
+[submodule "platform/external/iptables"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/iptables
+	url = ../external/iptables
+[submodule "platform/external/jdiff"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/jdiff
+	url = ../external/jdiff
+[submodule "platform/external/kernel-headers"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/kernel-headers
+	url = ../external/kernel-headers
+[submodule "platform/external/kmod"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/kmod
+	url = ../external/kmod
+[submodule "platform/external/kotlinc"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/kotlinc
+	url = ../external/kotlinc
+[submodule "platform/external/libcap-ng"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/libcap-ng
+	url = ../external/libcap-ng
+[submodule "platform/external/libcups"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/libcups
+	url = ../external/libcups
+[submodule "platform/external/libexif"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/libexif
+	url = ../external/libexif
+[submodule "platform/external/libnetfilter_conntrack"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/libnetfilter_conntrack
+	url = ../external/libnetfilter_conntrack
+[submodule "platform/external/libnfnetlink"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/libnfnetlink
+	url = ../external/libnfnetlink
+[submodule "platform/external/libnl"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/libnl
+	url = ../external/libnl
+[submodule "platform/external/libusb"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/libusb
+	url = ../external/libusb
+[submodule "platform/external/linux-kselftest"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	shallow = true
+	path = external/linux-kselftest
+	url = ../external/linux-kselftest
+[submodule "platform/external/ltp"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/ltp
+	url = ../external/ltp
+[submodule "platform/external/lz4"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/lz4
+	url = ../external/lz4
+[submodule "platform/external/oj-libjdwp"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/oj-libjdwp
+	url = ../external/oj-libjdwp
+[submodule "platform/external/ppp"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/ppp
+	url = ../external/ppp
+[submodule "platform/external/proguard"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/proguard
+	url = ../external/proguard
+[submodule "platform/external/seccomp-tests"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/seccomp-tests
+	url = ../external/seccomp-tests
+[submodule "platform/external/selinux"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/selinux
+	url = ../external/selinux
+[submodule "platform/external/squashfs-tools"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = external/squashfs-tools
+	url = ../external/squashfs-tools
+[submodule "platform/libcore"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = libcore
+	url = ../libcore
+[submodule "platform/packages/modules/NeuralNetworks"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = packages/modules/NeuralNetworks
+	url = ../packages/modules/NeuralNetworks
+[submodule "platform/prebuilts/tools"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	shallow = true
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "platform/tools/external/fat32lib"]
+	ref = refs/tags/android-t-qpr1-beta-3-gpl
+	path = tools/external/fat32lib
+	url = ../tools/external/fat32lib

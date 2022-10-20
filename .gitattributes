@@ -1,0 +1,39 @@
+/art pdk
+/external/autotest pdk-fs
+/external/blktrace pdk
+/external/dnsmasq pdk
+/external/dtc pdk
+/external/e2fsprogs pdk
+/external/eigen pdk
+/external/elfutils pdk
+/external/f2fs-tools pdk
+/external/fec pdk
+/external/fsverity-utils pdk
+/external/gptfdisk pdk
+/external/hyphenation-patterns pdk
+/external/iproute2 pdk
+/external/iptables pdk
+/external/jdiff pdk
+/external/kernel-headers pdk
+/external/kmod pdk
+/external/kotlinc pdk
+/external/libcap-ng pdk
+/external/libcups pdk-fs pdk-cw-fs
+/external/libexif pdk
+/external/libnetfilter_conntrack pdk
+/external/libnfnetlink pdk
+/external/libnl pdk
+/external/libusb pdk
+/external/linux-kselftest vts pdk
+/external/ltp vts pdk
+/external/lz4 pdk
+/external/oj-libjdwp pdk
+/external/ppp pdk
+/external/proguard pdk
+/external/seccomp-tests pdk
+/external/selinux pdk
+/external/squashfs-tools pdk
+/libcore pdk
+/packages/modules/NeuralNetworks pdk-fs pdk-cw-fs
+/prebuilts/tools pdk tools
+/tools/external/fat32lib tools
