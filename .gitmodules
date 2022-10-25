@@ -3021,6 +3021,10 @@
 	branch = master
 	path = external/tremolo
 	url = ../external/tremolo
+[submodule "platform/external/truth"]
+	branch = master
+	path = external/truth
+	url = ../external/truth
 [submodule "platform/external/turbine"]
 	branch = master
 	path = external/turbine
