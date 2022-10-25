@@ -748,6 +748,7 @@
 /external/tpm2-tss pdk
 /external/trace-cmd pdk
 /external/tremolo pdk
+/external/truth pdk
 /external/turbine pdk
 /external/ukey2 pdk
 /external/unicode pdk
