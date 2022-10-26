@@ -297,6 +297,7 @@
 /external/libcap pdk
 /external/libcap-ng pdk
 /external/libchrome pdk
+/external/libchrome-gestures pdk
 /external/libchromeos-rs pdk
 /external/libconfig pdk
 /external/libcups pdk-fs pdk-cw-fs

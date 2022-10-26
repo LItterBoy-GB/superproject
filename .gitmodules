@@ -1226,6 +1226,10 @@
 	branch = master
 	path = external/libchrome
 	url = ../external/libchrome
+[submodule "platform/external/libchrome-gestures"]
+	branch = master
+	path = external/libchrome-gestures
+	url = ../external/libchrome-gestures
 [submodule "platform/external/libchromeos-rs"]
 	branch = master
 	path = external/libchromeos-rs
