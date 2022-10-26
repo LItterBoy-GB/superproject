@@ -3021,6 +3021,10 @@
 	branch = main-16k
 	path = external/tremolo
 	url = ../external/tremolo
+[submodule "platform/external/truth"]
+	branch = main-16k
+	path = external/truth
+	url = ../external/truth
 [submodule "platform/external/turbine"]
 	branch = main-16k
 	path = external/turbine
