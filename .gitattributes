@@ -1,6 +1,8 @@
 /device/generic/art pdk
 /art pdk
 /build/make pdk
+/build/bazel pdk
+/build/bazel_common_rules pdk
 /build/blueprint tradefed pdk
 /build/soong tradefed pdk
 /dalvik pdk-fs pdk-cw-fs
@@ -12,6 +14,10 @@
 /external/apache-xml pdk
 /external/auto pdk
 /external/avb pdk
+/external/bazel-skylib pdk
+/external/bazelbuild-kotlin-rules pdk
+/external/bazelbuild-rules_android pdk
+/external/bazelbuild-rules_license pdk
 /external/bcc pdk
 /external/boringssl pdk
 /external/bouncycastle pdk
@@ -102,6 +108,9 @@
 /packages/modules/vndk pdk-fs pdk-cw-fs
 /platform_testing pdk-fs cts pdk-cw-fs
 /prebuilts/asuite pdk
+/prebuilts/bazel/common pdk
+/prebuilts/bazel/darwin-x86_64 darwin pdk
+/prebuilts/bazel/linux-x86_64 pdk linux
 /prebuilts/build-tools pdk
 /prebuilts/bundletool pdk
 /prebuilts/clang-tools pdk
