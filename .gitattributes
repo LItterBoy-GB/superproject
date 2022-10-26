@@ -1,3 +1,4 @@
+/external/rust/chromium/crates
 /device/generic/goldfish-opengl
 /device/generic/vulkan-cereal
 /device/google/cuttlefish
@@ -27,6 +28,18 @@
 /external/protobuf
 /external/qemu
 /external/rapidjson
+/external/rust/crates/bindgen
+/external/rust/crates/bytes
+/external/rust/crates/clang-sys
+/external/rust/crates/num-bigint
+/external/rust/crates/num-derive
+/external/rust/crates/num-integer
+/external/rust/crates/num-traits
+/external/rust/crates/pin-utils
+/external/rust/crates/rand
+/external/rust/crates/thiserror
+/external/rust/crates/thiserror-impl
+/external/rust/crates/walkdir
 /external/tink
 /external/tinyobjloader
 /external/virglrenderer
