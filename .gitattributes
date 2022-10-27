@@ -1,11 +1,17 @@
 /bionic
 /build/make
+/build/bazel pdk
+/build/bazel_common_rules pdk
 /build/blueprint
 /build/kati
 /build/soong
 /dalvik
 /development
 /external/abseil-cpp
+/external/bazel-skylib pdk
+/external/bazelbuild-kotlin-rules pdk
+/external/bazelbuild-rules_android pdk
+/external/bazelbuild-rules_license pdk
 /external/boringssl pdk
 /external/clang
 /external/compiler-rt
@@ -63,6 +69,9 @@
 /external/starlark-go
 /external/zlib
 /external/zopfli
+/prebuilts/bazel/common pdk
+/prebuilts/bazel/darwin-x86_64 darwin pdk
+/prebuilts/bazel/linux-x86_64 pdk linux
 /prebuilts/build-tools
 /prebuilts/clang-tools
 /prebuilts/clang/host/darwin-x86 darwin
