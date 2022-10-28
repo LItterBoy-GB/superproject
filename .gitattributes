@@ -25,4 +25,5 @@
 /toolchain/llvm-project
 /toolchain/llvm_android
 /toolchain/prebuilts/ndk/r25
+/toolchain/prebuilts/sysroot/platform/riscv64-linux-android
 /toolchain/xz
