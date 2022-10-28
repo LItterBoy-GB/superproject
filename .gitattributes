@@ -1,7 +1,13 @@
 /build/make
+/build/bazel pdk
+/build/bazel_common_rules pdk
 /build/blueprint
 /build/kati
 /build/soong
+/external/bazel-skylib pdk
+/external/bazelbuild-kotlin-rules pdk
+/external/bazelbuild-rules_android pdk
+/external/bazelbuild-rules_license pdk
 /external/easymock
 /external/emma
 /external/golang-protobuf
@@ -13,6 +19,9 @@
 /external/junit
 /external/perfetto
 /external/proguard
+/prebuilts/bazel/common pdk
+/prebuilts/bazel/darwin-x86_64 darwin pdk
+/prebuilts/bazel/linux-x86_64 pdk linux
 /prebuilts/build-tools pdk
 /prebuilts/clang/darwin-x86/host/3.6 pdk darwin
 /prebuilts/clang/host/darwin-x86 pdk darwin
