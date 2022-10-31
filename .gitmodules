@@ -3708,7 +3708,7 @@
 	path = packages/modules/GeoTZ
 	url = ../packages/modules/GeoTZ
 [submodule "platform/packages/modules/Gki"]
-	branch = android13-release
+	branch = android13-tests-dev
 	path = packages/modules/Gki
 	url = ../packages/modules/Gki
 [submodule "platform/packages/modules/IPsec"]
