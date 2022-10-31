@@ -7,6 +7,12 @@
 [submodule "platform/build"]
 	path = build/make
 	url = ../build
+[submodule "platform/build/bazel"]
+	path = build/bazel
+	url = ../build/bazel
+[submodule "platform/build/bazel_common_rules"]
+	path = build/bazel_common_rules
+	url = ../build/bazel_common_rules
 [submodule "platform/build/blueprint"]
 	path = build/blueprint
 	url = ../build/blueprint
@@ -31,6 +37,9 @@
 [submodule "platform/external/auto"]
 	path = external/auto
 	url = ../external/auto
+[submodule "platform/external/bazel-skylib"]
+	path = external/bazel-skylib
+	url = ../external/bazel-skylib
 [submodule "platform/external/bc"]
 	path = external/bc
 	url = ../external/bc
@@ -223,6 +232,15 @@
 [submodule "platform/external/zopfli"]
 	path = external/zopfli
 	url = ../external/zopfli
+[submodule "platform/prebuilts/bazel/common"]
+	path = prebuilts/bazel/common
+	url = ../prebuilts/bazel/common
+[submodule "platform/prebuilts/bazel/darwin-x86_64"]
+	path = prebuilts/bazel/darwin-x86_64
+	url = ../prebuilts/bazel/darwin-x86_64
+[submodule "platform/prebuilts/bazel/linux-x86_64"]
+	path = prebuilts/bazel/linux-x86_64
+	url = ../prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/build-tools"]
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools

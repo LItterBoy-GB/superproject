@@ -1,6 +1,8 @@
 /art
 /bionic
 /build/make
+/build/bazel pdk
+/build/bazel_common_rules pdk
 /build/blueprint
 /build/kati
 /build/soong
@@ -9,6 +11,7 @@
 /external/abseil-cpp
 /external/arm-optimized-routines
 /external/auto
+/external/bazel-skylib pdk
 /external/bc
 /external/bison
 /external/bloaty
@@ -73,6 +76,9 @@
 /external/turbine
 /external/zlib
 /external/zopfli
+/prebuilts/bazel/common pdk
+/prebuilts/bazel/darwin-x86_64 darwin pdk
+/prebuilts/bazel/linux-x86_64 pdk linux
 /prebuilts/build-tools
 /prebuilts/clang-tools
 /prebuilts/clang/host/darwin-x86 darwin
