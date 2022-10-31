@@ -32,6 +32,15 @@
 	shallow = true
 	path = device/google/cuttlefish_vmm
 	url = ../../device/google/cuttlefish_vmm
+[submodule "device/linaro/dragonboard"]
+	branch = android13-gsi
+	path = device/linaro/dragonboard
+	url = ../../device/linaro/dragonboard
+[submodule "device/linaro/dragonboard-kernel"]
+	branch = android13-gsi
+	shallow = true
+	path = device/linaro/dragonboard-kernel
+	url = ../../device/linaro/dragonboard-kernel
 [submodule "device/sample"]
 	branch = android13-gsi
 	path = device/sample
