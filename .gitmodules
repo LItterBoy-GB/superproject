@@ -469,6 +469,10 @@
 	branch = master
 	path = external/ImageMagick
 	url = ../external/ImageMagick
+[submodule "platform/external/MPAndroidChart"]
+	branch = master
+	path = external/MPAndroidChart
+	url = ../external/MPAndroidChart
 [submodule "platform/external/OpenCL-CTS"]
 	branch = master
 	path = external/OpenCL-CTS
