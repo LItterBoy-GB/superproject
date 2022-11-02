@@ -1747,10 +1747,6 @@
 	branch = main-16k
 	path = external/python/enum34
 	url = ../external/python/enum34
-[submodule "platform/external/python/futures"]
-	branch = main-16k
-	path = external/python/futures
-	url = ../external/python/futures
 [submodule "platform/external/python/google-api-python-client"]
 	branch = main-16k
 	path = external/python/google-api-python-client
