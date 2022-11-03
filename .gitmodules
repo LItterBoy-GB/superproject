@@ -2803,6 +2803,10 @@
 	branch = master
 	path = external/rust/crates/uuid
 	url = ../external/rust/crates/uuid
+[submodule "platform/external/rust/crates/virtio-drivers"]
+	branch = master
+	path = external/rust/crates/virtio-drivers
+	url = ../external/rust/crates/virtio-drivers
 [submodule "platform/external/rust/crates/vsock"]
 	branch = master
 	path = external/rust/crates/vsock
