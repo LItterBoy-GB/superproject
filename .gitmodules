@@ -2119,6 +2119,10 @@
 	branch = master
 	path = external/rust/crates/derive_arbitrary
 	url = ../external/rust/crates/derive_arbitrary
+[submodule "platform/external/rust/crates/document-features"]
+	branch = master
+	path = external/rust/crates/document-features
+	url = ../external/rust/crates/document-features
 [submodule "platform/external/rust/crates/downcast-rs"]
 	branch = master
 	path = external/rust/crates/downcast-rs
