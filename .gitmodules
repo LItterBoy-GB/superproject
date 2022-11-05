@@ -2695,6 +2695,10 @@
 	branch = master
 	path = external/rust/crates/spki
 	url = ../external/rust/crates/spki
+[submodule "platform/external/rust/crates/static_assertions"]
+	branch = master
+	path = external/rust/crates/static_assertions
+	url = ../external/rust/crates/static_assertions
 [submodule "platform/external/rust/crates/structopt"]
 	branch = master
 	path = external/rust/crates/structopt

@@ -664,6 +664,7 @@
 /external/rust/crates/smallvec pdk
 /external/rust/crates/spin pdk
 /external/rust/crates/spki pdk
+/external/rust/crates/static_assertions pdk
 /external/rust/crates/structopt pdk
 /external/rust/crates/structopt-derive pdk
 /external/rust/crates/syn pdk
