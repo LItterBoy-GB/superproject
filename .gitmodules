@@ -1971,6 +1971,10 @@
 	branch = master
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/bitreader"]
+	branch = master
+	path = external/rust/crates/bitreader
+	url = ../external/rust/crates/bitreader
 [submodule "platform/external/rust/crates/bstr"]
 	branch = master
 	path = external/rust/crates/bstr
