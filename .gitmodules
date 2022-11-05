@@ -2331,6 +2331,10 @@
 	branch = master
 	path = external/rust/crates/linked-hash-map
 	url = ../external/rust/crates/linked-hash-map
+[submodule "platform/external/rust/crates/litrs"]
+	branch = master
+	path = external/rust/crates/litrs
+	url = ../external/rust/crates/litrs
 [submodule "platform/external/rust/crates/lock_api"]
 	branch = master
 	path = external/rust/crates/lock_api

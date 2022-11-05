@@ -573,6 +573,7 @@
 /external/rust/crates/libsqlite3-sys pdk
 /external/rust/crates/libz-sys pdk
 /external/rust/crates/linked-hash-map pdk
+/external/rust/crates/litrs pdk
 /external/rust/crates/lock_api pdk
 /external/rust/crates/log pdk
 /external/rust/crates/lru-cache pdk
