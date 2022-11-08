@@ -1963,6 +1963,10 @@
 	branch = main-16k
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/bitreader"]
+	branch = main-16k
+	path = external/rust/crates/bitreader
+	url = ../external/rust/crates/bitreader
 [submodule "platform/external/rust/crates/bstr"]
 	branch = main-16k
 	path = external/rust/crates/bstr
@@ -2107,6 +2111,10 @@
 	branch = main-16k
 	path = external/rust/crates/derive_arbitrary
 	url = ../external/rust/crates/derive_arbitrary
+[submodule "platform/external/rust/crates/document-features"]
+	branch = main-16k
+	path = external/rust/crates/document-features
+	url = ../external/rust/crates/document-features
 [submodule "platform/external/rust/crates/downcast-rs"]
 	branch = main-16k
 	path = external/rust/crates/downcast-rs
@@ -2323,6 +2331,10 @@
 	branch = main-16k
 	path = external/rust/crates/linked-hash-map
 	url = ../external/rust/crates/linked-hash-map
+[submodule "platform/external/rust/crates/litrs"]
+	branch = main-16k
+	path = external/rust/crates/litrs
+	url = ../external/rust/crates/litrs
 [submodule "platform/external/rust/crates/lock_api"]
 	branch = main-16k
 	path = external/rust/crates/lock_api
@@ -2683,6 +2695,10 @@
 	branch = main-16k
 	path = external/rust/crates/spki
 	url = ../external/rust/crates/spki
+[submodule "platform/external/rust/crates/static_assertions"]
+	branch = main-16k
+	path = external/rust/crates/static_assertions
+	url = ../external/rust/crates/static_assertions
 [submodule "platform/external/rust/crates/structopt"]
 	branch = main-16k
 	path = external/rust/crates/structopt
@@ -2795,6 +2811,10 @@
 	branch = main-16k
 	path = external/rust/crates/uuid
 	url = ../external/rust/crates/uuid
+[submodule "platform/external/rust/crates/virtio-drivers"]
+	branch = main-16k
+	path = external/rust/crates/virtio-drivers
+	url = ../external/rust/crates/virtio-drivers
 [submodule "platform/external/rust/crates/vsock"]
 	branch = main-16k
 	path = external/rust/crates/vsock

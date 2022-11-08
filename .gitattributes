@@ -481,6 +481,7 @@
 /external/rust/crates/bencher pdk
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bitflags pdk
+/external/rust/crates/bitreader pdk
 /external/rust/crates/bstr pdk
 /external/rust/crates/buddy_system_allocator pdk
 /external/rust/crates/byteorder pdk
@@ -517,6 +518,7 @@
 /external/rust/crates/der-parser pdk
 /external/rust/crates/der_derive pdk
 /external/rust/crates/derive_arbitrary pdk
+/external/rust/crates/document-features pdk
 /external/rust/crates/downcast-rs pdk
 /external/rust/crates/either pdk
 /external/rust/crates/enumn pdk
@@ -571,6 +573,7 @@
 /external/rust/crates/libsqlite3-sys pdk
 /external/rust/crates/libz-sys pdk
 /external/rust/crates/linked-hash-map pdk
+/external/rust/crates/litrs pdk
 /external/rust/crates/lock_api pdk
 /external/rust/crates/log pdk
 /external/rust/crates/lru-cache pdk
@@ -661,6 +664,7 @@
 /external/rust/crates/smallvec pdk
 /external/rust/crates/spin pdk
 /external/rust/crates/spki pdk
+/external/rust/crates/static_assertions pdk
 /external/rust/crates/structopt pdk
 /external/rust/crates/structopt-derive pdk
 /external/rust/crates/syn pdk
@@ -689,6 +693,7 @@
 /external/rust/crates/untrusted pdk
 /external/rust/crates/url pdk
 /external/rust/crates/uuid pdk
+/external/rust/crates/virtio-drivers pdk
 /external/rust/crates/vsock pdk
 /external/rust/crates/vulkano pdk
 /external/rust/crates/walkdir pdk
