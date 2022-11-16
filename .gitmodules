@@ -1631,6 +1631,10 @@
 	branch = master
 	path = external/oss-fuzz
 	url = ../external/oss-fuzz
+[submodule "platform/external/ow2-asm"]
+	branch = master
+	path = external/ow2-asm
+	url = ../external/ow2-asm
 [submodule "platform/external/owasp/sanitizer"]
 	branch = master
 	path = external/owasp/sanitizer
