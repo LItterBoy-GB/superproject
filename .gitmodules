@@ -2811,6 +2811,10 @@
 	branch = master
 	path = external/rust/crates/url
 	url = ../external/rust/crates/url
+[submodule "platform/external/rust/crates/userfaultfd"]
+	branch = master
+	path = external/rust/crates/userfaultfd
+	url = ../external/rust/crates/userfaultfd
 [submodule "platform/external/rust/crates/uuid"]
 	branch = master
 	path = external/rust/crates/uuid
