@@ -695,6 +695,7 @@
 /external/rust/crates/unicode-xid pdk
 /external/rust/crates/untrusted pdk
 /external/rust/crates/url pdk
+/external/rust/crates/userfaultfd pdk
 /external/rust/crates/uuid pdk
 /external/rust/crates/virtio-drivers pdk
 /external/rust/crates/vsock pdk
