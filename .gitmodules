@@ -314,6 +314,10 @@
 	branch = master
 	path = external/okhttp
 	url = ../external/okhttp
+[submodule "platform/external/ow2-asm"]
+	branch = master
+	path = external/ow2-asm
+	url = ../external/ow2-asm
 [submodule "platform/external/pcre"]
 	branch = master
 	path = external/pcre

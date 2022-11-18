@@ -77,6 +77,7 @@
 /external/objenesis pdk
 /external/oj-libjdwp pdk
 /external/okhttp pdk
+/external/ow2-asm pdk
 /external/pcre pdk
 /external/protobuf pdk
 /external/python/cpython2 pdk
