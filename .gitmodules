@@ -259,6 +259,10 @@
 	branch = build-tools
 	path = external/openssl
 	url = ../external/openssl
+[submodule "platform/external/ow2-asm"]
+	branch = master
+	path = external/ow2-asm
+	url = ../external/ow2-asm
 [submodule "platform/external/pcre"]
 	branch = master
 	path = external/pcre
