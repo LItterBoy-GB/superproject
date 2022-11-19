@@ -2815,6 +2815,10 @@
 	branch = main-16k
 	path = external/rust/crates/userfaultfd
 	url = ../external/rust/crates/userfaultfd
+[submodule "platform/external/rust/crates/userfaultfd-sys"]
+	branch = main-16k
+	path = external/rust/crates/userfaultfd-sys
+	url = ../external/rust/crates/userfaultfd-sys
 [submodule "platform/external/rust/crates/uuid"]
 	branch = main-16k
 	path = external/rust/crates/uuid
