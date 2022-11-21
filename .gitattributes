@@ -722,6 +722,7 @@
 /external/setupcompat pdk
 /external/setupdesign pdk
 /external/sfntly pdk qcom_msm8x26
+/external/sg3_utils pdk
 /external/shaderc/spirv-headers pdk
 /external/shflags pdk
 /external/skia pdk qcom_msm8x26
