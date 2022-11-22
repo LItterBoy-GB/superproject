@@ -2919,6 +2919,10 @@
 	branch = main-16k
 	path = external/sfntly
 	url = ../external/sfntly
+[submodule "platform/external/sg3_utils"]
+	branch = main-16k
+	path = external/sg3_utils
+	url = ../external/sg3_utils
 [submodule "platform/external/shaderc/spirv-headers"]
 	branch = main-16k
 	path = external/shaderc/spirv-headers
