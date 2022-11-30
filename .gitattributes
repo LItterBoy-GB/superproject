@@ -1056,6 +1056,7 @@
 /prebuilts/module_sdk/MediaProvider pdk
 /prebuilts/module_sdk/OnDevicePersonalization pdk
 /prebuilts/module_sdk/Permission pdk
+/prebuilts/module_sdk/RemoteKeyProvisioning pdk
 /prebuilts/module_sdk/Scheduling pdk
 /prebuilts/module_sdk/SdkExtensions pdk
 /prebuilts/module_sdk/StatsD pdk
