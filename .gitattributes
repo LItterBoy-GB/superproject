@@ -179,6 +179,7 @@
 /external/dnsmasq pdk
 /external/doclava pdk
 /external/dokka pdk
+/external/double-conversion pdk
 /external/downloader pdk
 /external/drm_hwcomposer pdk-fs drm_hwcomposer
 /external/dtc pdk
