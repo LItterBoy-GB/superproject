@@ -754,6 +754,10 @@
 	branch = master
 	path = external/dokka
 	url = ../external/dokka
+[submodule "platform/external/double-conversion"]
+	branch = master
+	path = external/double-conversion
+	url = ../external/double-conversion
 [submodule "platform/external/downloader"]
 	branch = master
 	path = external/downloader
