@@ -1,0 +1,104 @@
+/tools/dx/dalvik platform-linux notdefault platform-darwin
+/external/AntennaPod/AntennaPod
+/external/AntennaPod/AudioPlayer
+/external/AntennaPod/afollestad
+/external/android-studio-gradle-test
+/external/ant-glob
+/external/boringssl
+/tools/external/desugar
+/external/doclava
+/external/gmock gpu
+/external/googletest
+/external/gradle-perf-android-medium
+/external/grpc-grpc
+/external/gtest
+/external/iosched
+/external/jetbrains/kotlin
+/external/libunwind platform-linux notdefault platform-darwin
+/external/nanopb-c
+/external/protobuf
+/external/smali
+/external/zlib
+/frameworks/base notdefault layoutlib
+/tools/data-binding
+/frameworks/native
+/tools/sherpa
+/tools/dx/libcore platform-linux notdefault platform-darwin
+/prebuilts/clang/darwin-x86/host/3.5 notdefault gpu platform-darwin
+/prebuilts/clang/darwin-x86/sdk/3.5
+/prebuilts/clang/host/darwin-x86 notdefault platform-darwin
+/prebuilts/clang/host/linux-x86 platform-linux notdefault
+/prebuilts/clang/linux-x86/host/3.6 platform-linux notdefault lldb
+/prebuilts/cmake/darwin-x86 notdefault lldb platform-darwin
+/prebuilts/cmake/linux-x86 platform-linux notdefault lldb
+/prebuilts/cmake/windows-x86 platform-cygwin_nt-6.3 platform-cygwin_nt-6.1 platform-cygwin_nt-6.2 notdefault lldb platform-cygwin_nt-10.0
+/prebuilts/eclipse
+/prebuilts/eclipse-build-deps
+/prebuilts/fullsdk/darwin/build-tools/21-darwin notdefault gpu platform-darwin
+/prebuilts/fullsdk/linux/build-tools/21-linux platform-linux notdefault gpu
+/prebuilts/fullsdk/darwin/platforms/android-21 notdefault gpu platform-darwin
+/prebuilts/fullsdk/linux/platforms/android-21 platform-linux notdefault gpu
+/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9 notdefault gpu platform-darwin
+/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9 notdefault gpu platform-darwin
+/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9 notdefault gpu platform-darwin
+/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9 platform-linux notdefault gpu
+/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9 platform-linux notdefault gpu
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6 platform-linux notdefault
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8 platform-linux notdefault
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8 platform-linux notdefault lldb
+/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9 platform-linux notdefault gpu
+/prebuilts/go/darwin-x86 notdefault gpu platform-darwin
+/prebuilts/go/linux-x86 platform-linux notdefault gpu
+/prebuilts/go/windows-x86 notdefault gpu platform-windows
+/prebuilts/google-breakpad/darwin-x86 darwin notdefault lldb
+/prebuilts/google-breakpad/linux-x86 linux notdefault lldb
+/prebuilts/google-breakpad/windows-x86 notdefault lldb windows
+/prebuilts/libedit/darwin-x86 darwin notdefault lldb
+/prebuilts/libedit/linux-x86 linux notdefault lldb
+/prebuilts/libglog/darwin-x86 darwin notdefault lldb
+/prebuilts/libglog/linux-x86 linux notdefault lldb
+/prebuilts/libglog/windows-x86 notdefault lldb windows
+/prebuilts/libprotobuf/darwin-x86 darwin notdefault lldb
+/prebuilts/libprotobuf/linux-x86 linux notdefault lldb
+/prebuilts/libprotobuf/windows-x86 notdefault lldb windows
+/prebuilts/maven_repo/android
+/prebuilts/ndk platform-linux notdefault gpu platform-darwin
+/prebuilts/ninja/darwin-x86 notdefault lldb platform-darwin
+/prebuilts/ninja/linux-x86 platform-linux notdefault lldb
+/prebuilts/ninja/windows-x86 platform-cygwin_nt-6.3 platform-cygwin_nt-6.1 platform-cygwin_nt-6.2 notdefault lldb platform-cygwin_nt-10.0
+/prebuilts/python/linux-x86 linux notdefault lldb
+/prebuilts/python/windows-x86 notdefault lldb windows
+/prebuilts/r8
+/prebuilts/sdk
+/prebuilts/studio/jdk
+/prebuilts/studio/layoutlib
+/prebuilts/swig/darwin-x86 darwin notdefault lldb
+/prebuilts/swig/linux-x86 linux notdefault lldb
+/prebuilts/swig/windows-x86 notdefault lldb windows
+/prebuilts/tools
+/sdk
+/tools/adt/idea
+/tools/analytics-library
+/tools/apksig
+/tools/apkzlib
+/tools/base
+/tools/buildSrc
+/external/dexter
+/tools/external/fat32lib
+/tools/external/go/src/golang.org/x/net
+/tools/external/go/src/golang.org/x/tools
+/tools/external/gradle
+/tools/gpu/src/android.googlesource.com/platform/tools/gpu gpu
+/tools/gradle
+/tools/idea
+/tools/repohooks
+/tools/studio/google/appindexing
+/tools/studio/google/cloud/testing
+/tools/studio/google/cloud/tools
+/tools/studio/google/login
+/tools/studio/google/play
+/tools/studio/google/samples
+/tools/studio/google/services
+/tools/swing-testing
+/tools/swt
