@@ -12,3 +12,7 @@
 	branch = master
 	path = tools/metalava
 	url = ../tools/metalava
+[submodule "platform/tools/repohooks"]
+	branch = master
+	path = tools/repohooks
+	url = ../tools/repohooks
