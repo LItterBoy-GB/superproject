@@ -1,0 +1,50 @@
+/bionic pdk
+/build/make pdk
+/build/blueprint tradefed pdk
+/build/kati
+/build/soong tradefed pdk
+/external/apache-http pdk-cw-fs
+/external/clang pdk-cw-fs
+/external/compiler-rt pdk-cw-fs
+/external/dexmaker pdk-cw-fs
+/external/guava pdk-cw-fs
+/external/hamcrest pdk-cw-fs tradefed
+/external/icu pdk-cw-fs
+/external/jemalloc pdk-cw-fs
+/external/jsr305 pdk-cw-fs
+/external/junit pdk-cw-fs tradefed
+/external/libcap pdk-cw-fs
+/external/libcxx pdk-cw-fs
+/external/libcxxabi pdk-cw-fs
+/external/libunwind_llvm pdk-cw-fs
+/external/llvm pdk-cw-fs
+/external/minijail pdk-cw-fs
+/external/mockito pdk-cw-fs
+/external/objenesis pdk-cw-fs
+/external/proguard tradefed pdk-java
+/external/protobuf pdk-cw-fs
+/external/zlib pdk-cw-fs
+/frameworks/ex pdk-fs pdk-cw-fs
+/libnativehelper pdk
+/packages/apps/TV
+/prebuilts/build-tools
+/prebuilts/clang-tools
+/prebuilts/clang/host/darwin-x86 pdk darwin
+/prebuilts/clang/host/linux-x86 pdk linux
+/prebuilts/devtools
+/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 pdk darwin
+/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8 pdk linux
+/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+/prebuilts/go/darwin-x86 tradefed darwin pdk
+/prebuilts/go/linux-x86 tradefed pdk linux
+/prebuilts/jdk/jdk8
+/prebuilts/jdk/jdk9
+/prebuilts/misc
+/prebuilts/ndk tradefed pdk
+/prebuilts/sdk tradefed pdk
+/prebuilts/tools
+/system/core pdk
+/tools/repohooks
