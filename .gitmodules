@@ -1,93 +1,93 @@
-[submodule "external/doclava"]
+[submodule "platform/external/doclava"]
 	branch = android-room-release
 	shallow = true
 	path = external/doclava
 	url = ../external/doclava
-[submodule "external/flatbuffers"]
+[submodule "platform/external/flatbuffers"]
 	branch = android-room-release
 	shallow = true
 	path = external/flatbuffers
 	url = ../external/flatbuffers
-[submodule "external/jdiff"]
+[submodule "platform/external/jdiff"]
 	branch = android-room-release
 	shallow = true
 	path = external/jdiff
 	url = ../external/jdiff
-[submodule "external/noto-fonts"]
+[submodule "platform/external/noto-fonts"]
 	branch = android-room-release
 	shallow = true
 	path = external/noto-fonts
 	url = ../external/noto-fonts
-[submodule "external/webview_support_interfaces"]
+[submodule "platform/external/webview_support_interfaces"]
 	branch = android-room-release
 	shallow = true
 	path = external/webview_support_interfaces
 	url = ../external/webview_support_interfaces
-[submodule "frameworks/support"]
+[submodule "platform/frameworks/support"]
 	branch = android-room-release
 	path = frameworks/support
 	url = ../frameworks/support
-[submodule "prebuilts/androidx/external"]
+[submodule "platform/prebuilts/androidx/external"]
 	branch = android-room-release
 	shallow = true
 	path = prebuilts/androidx/external
 	url = ../prebuilts/androidx/external
-[submodule "prebuilts/androidx/internal"]
+[submodule "platform/prebuilts/androidx/internal"]
 	branch = android-room-release
 	shallow = true
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
-[submodule "prebuilts/checkstyle"]
+[submodule "platform/prebuilts/checkstyle"]
 	branch = android-room-release
 	shallow = true
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
-[submodule "prebuilts/fullsdk-darwin/build-tools/27.0.3"]
+[submodule "platform/prebuilts/fullsdk-darwin/build-tools/27.0.3"]
 	branch = android-room-release
 	shallow = true
 	path = prebuilts/fullsdk-darwin/build-tools/27.0.3
 	url = ../prebuilts/fullsdk-darwin/build-tools/27.0.3
-[submodule "prebuilts/fullsdk-darwin/platform-tools"]
+[submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
 	branch = android-room-release
 	shallow = true
 	path = prebuilts/fullsdk-darwin/platform-tools
 	url = ../prebuilts/fullsdk-darwin/platform-tools
-[submodule "prebuilts/fullsdk-darwin/platforms/android-28"]
-	branch = android-room-release
-	shallow = true
-	path = prebuilts/fullsdk-darwin/platforms/android-28
-	url = ../prebuilts/fullsdk/platforms/android-28
-[submodule "prebuilts/fullsdk-darwin/tools"]
+[submodule "platform/prebuilts/fullsdk-darwin/tools"]
 	branch = android-room-release
 	shallow = true
 	path = prebuilts/fullsdk-darwin/tools
 	url = ../prebuilts/fullsdk-darwin/tools
-[submodule "prebuilts/fullsdk-linux/build-tools/27.0.3"]
+[submodule "platform/prebuilts/fullsdk-linux/build-tools/27.0.3"]
 	branch = android-room-release
 	shallow = true
 	path = prebuilts/fullsdk-linux/build-tools/27.0.3
 	url = ../prebuilts/fullsdk-linux/build-tools/27.0.3
-[submodule "prebuilts/fullsdk-linux/platform-tools"]
+[submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
 	branch = android-room-release
 	shallow = true
 	path = prebuilts/fullsdk-linux/platform-tools
 	url = ../prebuilts/fullsdk-linux/platform-tools
-[submodule "prebuilts/fullsdk-linux/tools"]
+[submodule "platform/prebuilts/fullsdk-linux/tools"]
 	branch = android-room-release
 	shallow = true
 	path = prebuilts/fullsdk-linux/tools
 	url = ../prebuilts/fullsdk-linux/tools
-[submodule "prebuilts/ktlint"]
+[submodule "platform/prebuilts/fullsdk/platforms/android-28"]
+	branch = android-room-release
+	shallow = true
+	path = prebuilts/fullsdk-darwin/platforms/android-28
+	url = ../prebuilts/fullsdk/platforms/android-28
+[submodule "platform/prebuilts/ktlint"]
 	branch = android-room-release
 	shallow = true
 	path = prebuilts/ktlint
 	url = ../prebuilts/ktlint
-[submodule "tools/external/gradle"]
+[submodule "platform/tools/external/gradle"]
 	branch = android-room-release
 	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
-[submodule "tools/repohooks"]
+[submodule "platform/tools/repohooks"]
 	branch = android-room-release
 	path = tools/repohooks
 	url = ../tools/repohooks
