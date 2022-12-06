@@ -1,24 +1,10 @@
-/art pdk
-/bionic pdk
-/bootable/recovery pdk
-/build/blueprint tradefed pdk
-/build/kati tradefed pdk
-/build/make pdk
-/build/soong tradefed pdk
-/compatibility/cdd pdk
-/cts pdk-fs cts pdk-cw-fs
-/dalvik pdk-fs pdk-cw-fs
-/developers/build developers
-/developers/demos developers
-/developers/samples/android developers
-/development pdk-fs pdk-cw-fs developers
 /device/common pdk-cw-fs pdk
 /device/generic/arm64 pdk
 /device/generic/armv7-a-neon pdk
 /device/generic/car pdk
 /device/generic/common pdk
-/device/generic/goldfish-opengl pdk
 /device/generic/goldfish pdk
+/device/generic/goldfish-opengl pdk
 /device/generic/mini-emulator-arm64 pdk
 /device/generic/mini-emulator-armv7-a-neon pdk
 /device/generic/mini-emulator-x86 pdk
@@ -34,25 +20,41 @@
 /device/google/cuttlefish device
 /device/google/cuttlefish_common device
 /device/google/cuttlefish_kernel device
-/device/google/dragon-kernel dragon device
 /device/google/dragon dragon device
-/device/google/marlin-kernel pdk device marlin
+/device/google/dragon-kernel dragon device
 /device/google/marlin pdk device marlin
+/device/google/marlin-kernel pdk device marlin
 /device/google/muskie muskie device
 /device/google/taimen taimen device
 /device/google/vrservices pdk
-/device/google/wahoo-kernel wahoo device
 /device/google/wahoo wahoo device
-/device/huawei/angler-kernel broadcom_pdk angler device
+/device/google/wahoo-kernel wahoo device
 /device/huawei/angler broadcom_pdk angler device
-/device/lge/bullhead-kernel bullhead device
+/device/huawei/angler-kernel broadcom_pdk angler device
 /device/lge/bullhead bullhead device
+/device/lge/bullhead-kernel bullhead device
 /device/linaro/bootloader/OpenPlatformPkg
 /device/linaro/bootloader/arm-trusted-firmware
 /device/linaro/bootloader/edk2
-/device/linaro/hikey-kernel hikey pdk device
 /device/linaro/hikey hikey pdk device
+/device/linaro/hikey-kernel hikey pdk device
 /device/sample pdk
+/kernel/configs vts pdk
+/kernel/tests
+/art pdk
+/bionic pdk
+/bootable/recovery pdk
+/build/make pdk
+/build/blueprint tradefed pdk
+/build/kati tradefed pdk
+/build/soong tradefed pdk
+/compatibility/cdd pdk
+/cts pdk-fs cts pdk-cw-fs
+/dalvik pdk-fs pdk-cw-fs
+/developers/build developers
+/developers/demos developers
+/developers/samples/android developers
+/development pdk-fs pdk-cw-fs developers
 /external/ImageMagick pdk
 /external/Microsoft-GSL pdk
 /external/aac pdk
@@ -165,8 +167,8 @@
 /external/jsoncpp pdk
 /external/jsr305 pdk
 /external/jsr330 pdk
-/external/junit-params pdk
 /external/junit pdk
+/external/junit-params pdk
 /external/kernel-headers pdk
 /external/kmod pdk
 /external/kotlinc pdk
@@ -174,8 +176,8 @@
 /external/libavc pdk
 /external/libbackup pdk
 /external/libbrillo pdk
-/external/libcap-ng pdk
 /external/libcap pdk
+/external/libcap-ng pdk
 /external/libchrome pdk
 /external/libconstrainedcrypto pdk
 /external/libcups pdk-fs pdk-cw-fs
@@ -206,8 +208,8 @@
 /external/libtextclassifier pdk
 /external/libunwind pdk
 /external/libunwind_llvm pdk
-/external/libusb-compat pdk
 /external/libusb pdk
+/external/libusb-compat pdk
 /external/libvncserver pdk
 /external/libvpx pdk
 /external/libvterm pdk
@@ -274,8 +276,8 @@
 /external/python/futures vts pdk
 /external/python/gapic-google-cloud-pubsub-v1 vts pdk
 /external/python/google-api-python-client vts pdk
-/external/python/google-auth-httplib2 vts pdk
 /external/python/google-auth vts pdk
+/external/python/google-auth-httplib2 vts pdk
 /external/python/google-cloud-core vts pdk
 /external/python/google-cloud-pubsub vts pdk
 /external/python/google-gax vts pdk
@@ -292,8 +294,8 @@
 /external/python/ply vts pdk
 /external/python/proto-google-cloud-pubsub-v1 vts pdk
 /external/python/protobuf vts pdk
-/external/python/pyasn1-modules vts pdk
 /external/python/pyasn1 vts pdk
+/external/python/pyasn1-modules vts pdk
 /external/python/pyparsing vts pdk
 /external/python/requests vts pdk
 /external/python/rsa vts pdk
@@ -435,8 +437,6 @@
 /hardware/qcom/wlan pdk qcom_wlan
 /hardware/ril pdk
 /hardware/st/nfc pdk
-/kernel/configs vts pdk
-/kernel/tests
 /libcore pdk
 /libnativehelper pdk
 /packages/apps/BasicSmsReceiver pdk-fs pdk-cw-fs
@@ -609,18 +609,15 @@
 /test/vti/dashboard vts pdk
 /test/vti/fuzz_test_serving vts pdk
 /test/vti/test_serving vts pdk
+/test/vts vts pdk
 /test/vts-testcase/fuzz vts pdk
-/test/vts-testcase/hal-trace vts pdk
 /test/vts-testcase/hal vts pdk
+/test/vts-testcase/hal-trace vts pdk
 /test/vts-testcase/kernel vts pdk
 /test/vts-testcase/nbu vts pdk
 /test/vts-testcase/performance vts pdk
 /test/vts-testcase/security vts pdk
 /test/vts-testcase/vndk vts pdk
-/test/vts vts pdk
-/toolchain/benchmark
-/toolchain/binutils pdk
-/toolchain/pgo-profiles pdk
 /tools/acloud vts tradefed pdk tools
 /tools/adt/idea notdefault tools
 /tools/apksig tradefed pdk
@@ -641,5 +638,8 @@
 /tools/swt notdefault tools
 /tools/test/connectivity pdk
 /tools/test/graphicsbenchmark pdk
-/tools/tradefederation/contrib tradefed pdk
 /tools/tradefederation/core tradefed pdk
+/tools/tradefederation/contrib tradefed pdk
+/toolchain/benchmark
+/toolchain/binutils pdk
+/toolchain/pgo-profiles pdk
