@@ -1,221 +1,401 @@
-[submodule "external/AntennaPod/AntennaPod"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/AntennaPod/AntennaPod
-	url = ../external/AntennaPod/AntennaPod
-[submodule "external/AntennaPod/AudioPlayer"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/AntennaPod/AudioPlayer
-	url = ../external/AntennaPod/AudioPlayer
-[submodule "external/AntennaPod/afollestad"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/AntennaPod/afollestad
-	url = ../external/AntennaPod/afollestad
-[submodule "external/android-studio-gradle-test"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/android-studio-gradle-test
-	url = ../external/android-studio-gradle-test
-[submodule "external/ant-glob"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/ant-glob
-	url = ../external/ant-glob
-[submodule "external/boringssl"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/boringssl
-	url = ../external/boringssl
-[submodule "external/doclava"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/doclava
-	url = ../external/doclava
-[submodule "external/gmock"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/gmock
-	url = ../external/gmock
-[submodule "external/googletest"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/googletest
-	url = ../external/googletest
-[submodule "external/gradle-perf-android-medium"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/gradle-perf-android-medium
-	url = ../external/gradle-perf-android-medium
-[submodule "external/grpc-grpc"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/grpc-grpc
-	url = ../external/grpc-grpc
-[submodule "external/gtest"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/gtest
-	url = ../external/gtest
-[submodule "external/iosched"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/iosched
-	url = ../external/iosched
-[submodule "external/nanopb-c"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/nanopb-c
-	url = ../external/nanopb-c
-[submodule "external/protobuf"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/protobuf
-	url = ../external/protobuf
-[submodule "external/smali"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/smali
-	url = ../external/smali
-[submodule "external/zlib"]
-	branch = refs/tags/gradle_3.0.0
-	path = external/zlib
-	url = ../external/zlib
-[submodule "frameworks/native"]
-	branch = refs/tags/gradle_3.0.0
-	path = frameworks/native
-	url = ../frameworks/native
-[submodule "prebuilts/clang/darwin-x86/sdk/3.5"]
-	branch = refs/tags/gradle_3.0.0
-	path = prebuilts/clang/darwin-x86/sdk/3.5
-	url = ../prebuilts/clang/darwin-x86/sdk/3.5
-[submodule "prebuilts/eclipse-build-deps"]
-	branch = refs/tags/gradle_3.0.0
-	path = prebuilts/eclipse-build-deps
-	url = ../prebuilts/eclipse-build-deps
-[submodule "prebuilts/eclipse"]
-	branch = refs/tags/gradle_3.0.0
-	path = prebuilts/eclipse
-	url = ../prebuilts/eclipse
-[submodule "prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
-	branch = refs/tags/gradle_3.0.0
-	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
-	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
-[submodule "prebuilts/maven_repo/android"]
-	branch = refs/tags/gradle_3.0.0
-	path = prebuilts/maven_repo/android
-	url = ../prebuilts/maven_repo/android
-[submodule "prebuilts/sdk"]
-	branch = refs/tags/gradle_3.0.0
-	path = prebuilts/sdk
-	url = ../prebuilts/sdk
-[submodule "prebuilts/studio/jdk"]
-	branch = refs/tags/gradle_3.0.0
-	path = prebuilts/studio/jdk
-	url = ../prebuilts/studio/jdk
-[submodule "prebuilts/studio/layoutlib"]
-	branch = refs/tags/gradle_3.0.0
-	path = prebuilts/studio/layoutlib
-	url = ../prebuilts/studio/layoutlib
-[submodule "prebuilts/tools"]
-	branch = refs/tags/gradle_3.0.0
-	path = prebuilts/tools
-	url = ../prebuilts/tools
-[submodule "sdk"]
-	branch = refs/tags/gradle_3.0.0
-	path = sdk
-	url = ../sdk
-[submodule "tools/adt/idea"]
-	branch = refs/tags/gradle_3.0.0
-	path = tools/adt/idea
-	url = ../tools/adt/idea
-[submodule "tools/analytics-library"]
-	branch = refs/tags/gradle_3.0.0
-	path = tools/analytics-library
-	url = ../tools/analytics-library
-[submodule "tools/apksig"]
-	branch = refs/tags/gradle_3.0.0
-	path = tools/apksig
-	url = ../tools/apksig
-[submodule "tools/assets"]
-	branch = refs/tags/gradle_3.0.0
+[submodule "assets/android-studio-ux-assets"]
+	ref = refs/tags/gradle_3.0.0
 	shallow = true
 	path = tools/assets
 	url = ../../assets/android-studio-ux-assets
-[submodule "tools/base"]
-	branch = refs/tags/gradle_3.0.0
-	path = tools/base
-	url = ../tools/base
-[submodule "tools/buildSrc"]
-	branch = refs/tags/gradle_3.0.0
-	path = tools/buildSrc
-	url = ../tools/buildSrc
-[submodule "tools/data-binding"]
-	branch = refs/tags/gradle_3.0.0
-	path = tools/data-binding
-	url = ../frameworks/data-binding
-[submodule "tools/external/desugar"]
-	branch = refs/tags/gradle_3.0.0
+[submodule "platform/dalvik"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/dx/dalvik
+	url = ../dalvik
+[submodule "platform/external/AntennaPod/AntennaPod"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/AntennaPod/AntennaPod
+	url = ../external/AntennaPod/AntennaPod
+[submodule "platform/external/AntennaPod/AudioPlayer"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/AntennaPod/AudioPlayer
+	url = ../external/AntennaPod/AudioPlayer
+[submodule "platform/external/AntennaPod/afollestad"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/AntennaPod/afollestad
+	url = ../external/AntennaPod/afollestad
+[submodule "platform/external/android-studio-gradle-test"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/android-studio-gradle-test
+	url = ../external/android-studio-gradle-test
+[submodule "platform/external/ant-glob"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/ant-glob
+	url = ../external/ant-glob
+[submodule "platform/external/boringssl"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/boringssl
+	url = ../external/boringssl
+[submodule "platform/external/desugar"]
+	ref = refs/tags/gradle_3.0.0
 	path = tools/external/desugar
 	url = ../external/desugar
-[submodule "tools/external/fat32lib"]
-	branch = refs/tags/gradle_3.0.0
-	path = tools/external/fat32lib
-	url = ../tools/external/fat32lib
-[submodule "tools/external/go/src/golang.org/x/net"]
-	branch = refs/tags/gradle_3.0.0
-	path = tools/external/go/src/golang.org/x/net
-	url = ../tools/external/go/src/golang.org/x/net
-[submodule "tools/external/go/src/golang.org/x/tools"]
-	branch = refs/tags/gradle_3.0.0
-	path = tools/external/go/src/golang.org/x/tools
-	url = ../tools/external/go/src/golang.org/x/tools
-[submodule "tools/external/gradle"]
-	branch = refs/tags/gradle_3.0.0
-	path = tools/external/gradle
-	url = ../tools/external/gradle
-[submodule "tools/external/r8"]
-	branch = refs/tags/gradle_3.0.0
+[submodule "platform/external/doclava"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/doclava
+	url = ../external/doclava
+[submodule "platform/external/gmock"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/gmock
+	url = ../external/gmock
+[submodule "platform/external/googletest"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/googletest
+	url = ../external/googletest
+[submodule "platform/external/gradle-perf-android-medium"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/gradle-perf-android-medium
+	url = ../external/gradle-perf-android-medium
+[submodule "platform/external/grpc-grpc"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/grpc-grpc
+	url = ../external/grpc-grpc
+[submodule "platform/external/gtest"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/gtest
+	url = ../external/gtest
+[submodule "platform/external/iosched"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/iosched
+	url = ../external/iosched
+[submodule "platform/external/nanopb-c"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/nanopb-c
+	url = ../external/nanopb-c
+[submodule "platform/external/protobuf"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "platform/external/r8"]
+	ref = refs/tags/gradle_3.0.0
 	path = tools/external/r8
 	url = ../external/r8
-[submodule "tools/gpu/src/android.googlesource.com/platform/tools/gpu"]
-	branch = refs/tags/gradle_3.0.0
-	path = tools/gpu/src/android.googlesource.com/platform/tools/gpu
-	url = ../tools/gpu
-[submodule "tools/gradle"]
-	branch = refs/tags/gradle_3.0.0
-	path = tools/gradle
-	url = ../tools/gradle
-[submodule "tools/idea"]
-	branch = refs/tags/gradle_3.0.0
-	path = tools/idea
-	url = ../tools/idea
-[submodule "tools/repohooks"]
-	branch = refs/tags/gradle_3.0.0
-	path = tools/repohooks
-	url = ../tools/repohooks
-[submodule "tools/sherpa"]
-	branch = refs/tags/gradle_3.0.0
+[submodule "platform/external/smali"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/smali
+	url = ../external/smali
+[submodule "platform/external/zlib"]
+	ref = refs/tags/gradle_3.0.0
+	path = external/zlib
+	url = ../external/zlib
+[submodule "platform/frameworks/base"]
+	ref = refs/tags/gradle_3.0.0
+	path = frameworks/base
+	url = ../frameworks/base
+[submodule "platform/frameworks/data-binding"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/data-binding
+	url = ../frameworks/data-binding
+[submodule "platform/frameworks/native"]
+	ref = refs/tags/gradle_3.0.0
+	path = frameworks/native
+	url = ../frameworks/native
+[submodule "platform/frameworks/opt/sherpa"]
+	ref = refs/tags/gradle_3.0.0
 	path = tools/sherpa
 	url = ../frameworks/opt/sherpa
-[submodule "tools/studio/google/appindexing"]
-	branch = refs/tags/gradle_3.0.0
+[submodule "platform/prebuilts/clang/darwin-x86/host/3.5"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/clang/darwin-x86/host/3.5
+	url = ../prebuilts/clang/darwin-x86/host/3.5
+[submodule "platform/prebuilts/clang/darwin-x86/sdk/3.5"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/clang/darwin-x86/sdk/3.5
+	url = ../prebuilts/clang/darwin-x86/sdk/3.5
+[submodule "platform/prebuilts/clang/host/darwin-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/clang/host/darwin-x86
+	url = ../prebuilts/clang/host/darwin-x86
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/clang/host/linux-x86
+	url = ../prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/clang/linux-x86/host/3.6"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/clang/linux-x86/host/3.6
+	url = ../prebuilts/clang/linux-x86/host/3.6
+[submodule "platform/prebuilts/cmake/darwin-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/cmake/darwin-x86
+	url = ../prebuilts/cmake/darwin-x86
+[submodule "platform/prebuilts/cmake/linux-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/cmake/linux-x86
+	url = ../prebuilts/cmake/linux-x86
+[submodule "platform/prebuilts/cmake/windows-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/cmake/windows-x86
+	url = ../prebuilts/cmake/windows-x86
+[submodule "platform/prebuilts/eclipse"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/eclipse
+	url = ../prebuilts/eclipse
+[submodule "platform/prebuilts/eclipse-build-deps"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/eclipse-build-deps
+	url = ../prebuilts/eclipse-build-deps
+[submodule "platform/prebuilts/fullsdk/build-tools/21-darwin"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/fullsdk/darwin/build-tools/21-darwin
+	url = ../prebuilts/fullsdk/build-tools/21-darwin
+[submodule "platform/prebuilts/fullsdk/build-tools/21-linux"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/fullsdk/linux/build-tools/21-linux
+	url = ../prebuilts/fullsdk/build-tools/21-linux
+[submodule "platform/prebuilts/fullsdk/platforms/android-21/prebuilts/fullsdk/darwin/platforms/android-21"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/fullsdk/darwin/platforms/android-21
+	url = ../prebuilts/fullsdk/platforms/android-21
+[submodule "platform/prebuilts/fullsdk/platforms/android-21/prebuilts/fullsdk/linux/platforms/android-21"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/fullsdk/linux/platforms/android-21
+	url = ../prebuilts/fullsdk/platforms/android-21
+[submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/prebuilts/go/darwin-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/go/darwin-x86
+	url = ../prebuilts/go/darwin-x86
+[submodule "platform/prebuilts/go/linux-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/go/linux-x86
+	url = ../prebuilts/go/linux-x86
+[submodule "platform/prebuilts/go/windows-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/go/windows-x86
+	url = ../prebuilts/go/windows-x86
+[submodule "platform/prebuilts/google-breakpad/darwin-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/google-breakpad/darwin-x86
+	url = ../prebuilts/google-breakpad/darwin-x86
+[submodule "platform/prebuilts/google-breakpad/linux-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/google-breakpad/linux-x86
+	url = ../prebuilts/google-breakpad/linux-x86
+[submodule "platform/prebuilts/google-breakpad/windows-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/google-breakpad/windows-x86
+	url = ../prebuilts/google-breakpad/windows-x86
+[submodule "platform/prebuilts/libedit/darwin-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/libedit/darwin-x86
+	url = ../prebuilts/libedit/darwin-x86
+[submodule "platform/prebuilts/libedit/linux-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/libedit/linux-x86
+	url = ../prebuilts/libedit/linux-x86
+[submodule "platform/prebuilts/libglog/darwin-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/libglog/darwin-x86
+	url = ../prebuilts/libglog/darwin-x86
+[submodule "platform/prebuilts/libglog/linux-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/libglog/linux-x86
+	url = ../prebuilts/libglog/linux-x86
+[submodule "platform/prebuilts/libglog/windows-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/libglog/windows-x86
+	url = ../prebuilts/libglog/windows-x86
+[submodule "platform/prebuilts/libprotobuf/darwin-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/libprotobuf/darwin-x86
+	url = ../prebuilts/libprotobuf/darwin-x86
+[submodule "platform/prebuilts/libprotobuf/linux-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/libprotobuf/linux-x86
+	url = ../prebuilts/libprotobuf/linux-x86
+[submodule "platform/prebuilts/libprotobuf/windows-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/libprotobuf/windows-x86
+	url = ../prebuilts/libprotobuf/windows-x86
+[submodule "platform/prebuilts/maven_repo/android"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/maven_repo/android
+	url = ../prebuilts/maven_repo/android
+[submodule "platform/prebuilts/ndk"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/ndk
+	url = ../prebuilts/ndk
+[submodule "platform/prebuilts/ninja/darwin-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/ninja/darwin-x86
+	url = ../prebuilts/ninja/darwin-x86
+[submodule "platform/prebuilts/ninja/linux-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/ninja/linux-x86
+	url = ../prebuilts/ninja/linux-x86
+[submodule "platform/prebuilts/ninja/windows-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/ninja/windows-x86
+	url = ../prebuilts/ninja/windows-x86
+[submodule "platform/prebuilts/python/linux-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/python/linux-x86
+	url = ../prebuilts/python/linux-x86
+[submodule "platform/prebuilts/python/windows-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/python/windows-x86
+	url = ../prebuilts/python/windows-x86
+[submodule "platform/prebuilts/sdk"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "platform/prebuilts/studio/jdk"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/studio/jdk
+	url = ../prebuilts/studio/jdk
+[submodule "platform/prebuilts/studio/layoutlib"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/studio/layoutlib
+	url = ../prebuilts/studio/layoutlib
+[submodule "platform/prebuilts/swig/darwin-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/swig/darwin-x86
+	url = ../prebuilts/swig/darwin-x86
+[submodule "platform/prebuilts/swig/linux-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/swig/linux-x86
+	url = ../prebuilts/swig/linux-x86
+[submodule "platform/prebuilts/swig/windows-x86"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/swig/windows-x86
+	url = ../prebuilts/swig/windows-x86
+[submodule "platform/prebuilts/tools"]
+	ref = refs/tags/gradle_3.0.0
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "platform/sdk"]
+	ref = refs/tags/gradle_3.0.0
+	path = sdk
+	url = ../sdk
+[submodule "platform/tools/adt/idea"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/adt/idea
+	url = ../tools/adt/idea
+[submodule "platform/tools/analytics-library"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/analytics-library
+	url = ../tools/analytics-library
+[submodule "platform/tools/apksig"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/apksig
+	url = ../tools/apksig
+[submodule "platform/tools/base"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/base
+	url = ../tools/base
+[submodule "platform/tools/buildSrc"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/buildSrc
+	url = ../tools/buildSrc
+[submodule "platform/tools/external/fat32lib"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/external/fat32lib
+	url = ../tools/external/fat32lib
+[submodule "platform/tools/external/go/src/golang.org/x/net"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/external/go/src/golang.org/x/net
+	url = ../tools/external/go/src/golang.org/x/net
+[submodule "platform/tools/external/go/src/golang.org/x/tools"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/external/go/src/golang.org/x/tools
+	url = ../tools/external/go/src/golang.org/x/tools
+[submodule "platform/tools/external/gradle"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/external/gradle
+	url = ../tools/external/gradle
+[submodule "platform/tools/gpu"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/gpu/src/android.googlesource.com/platform/tools/gpu
+	url = ../tools/gpu
+[submodule "platform/tools/gradle"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/gradle
+	url = ../tools/gradle
+[submodule "platform/tools/idea"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/idea
+	url = ../tools/idea
+[submodule "platform/tools/repohooks"]
+	ref = refs/tags/gradle_3.0.0
+	path = tools/repohooks
+	url = ../tools/repohooks
+[submodule "platform/tools/studio/google/appindexing"]
+	ref = refs/tags/gradle_3.0.0
 	path = tools/studio/google/appindexing
 	url = ../tools/studio/google/appindexing
-[submodule "tools/studio/google/cloud/testing"]
-	branch = refs/tags/gradle_3.0.0
+[submodule "platform/tools/studio/google/cloud/testing"]
+	ref = refs/tags/gradle_3.0.0
 	path = tools/studio/google/cloud/testing
 	url = ../tools/studio/google/cloud/testing
-[submodule "tools/studio/google/cloud/tools"]
-	branch = refs/tags/gradle_3.0.0
+[submodule "platform/tools/studio/google/cloud/tools"]
+	ref = refs/tags/gradle_3.0.0
 	path = tools/studio/google/cloud/tools
 	url = ../tools/studio/google/cloud/tools
-[submodule "tools/studio/google/login"]
-	branch = refs/tags/gradle_3.0.0
+[submodule "platform/tools/studio/google/login"]
+	ref = refs/tags/gradle_3.0.0
 	path = tools/studio/google/login
 	url = ../tools/studio/google/login
-[submodule "tools/studio/google/play"]
-	branch = refs/tags/gradle_3.0.0
+[submodule "platform/tools/studio/google/play"]
+	ref = refs/tags/gradle_3.0.0
 	path = tools/studio/google/play
 	url = ../tools/studio/google/play
-[submodule "tools/studio/google/samples"]
-	branch = refs/tags/gradle_3.0.0
+[submodule "platform/tools/studio/google/samples"]
+	ref = refs/tags/gradle_3.0.0
 	path = tools/studio/google/samples
 	url = ../tools/studio/google/samples
-[submodule "tools/studio/google/services"]
-	branch = refs/tags/gradle_3.0.0
+[submodule "platform/tools/studio/google/services"]
+	ref = refs/tags/gradle_3.0.0
 	path = tools/studio/google/services
 	url = ../tools/studio/google/services
-[submodule "tools/swing-testing"]
-	branch = refs/tags/gradle_3.0.0
+[submodule "platform/tools/swing-testing"]
+	ref = refs/tags/gradle_3.0.0
 	path = tools/swing-testing
 	url = ../tools/swing-testing
-[submodule "tools/swt"]
-	branch = refs/tags/gradle_3.0.0
+[submodule "platform/tools/swt"]
+	ref = refs/tags/gradle_3.0.0
 	path = tools/swt
 	url = ../tools/swt
