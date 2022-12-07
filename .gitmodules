@@ -110,11 +110,11 @@
 	path = toolchain/common
 	url = ../../toolchain/common
 [submodule "toolchain/llvm-project"]
-	branch = testing-upstream
+	branch = master-legacy
 	path = toolchain/llvm-project
 	url = ../../toolchain/llvm-project
 [submodule "toolchain/llvm_android"]
-	branch = master
+	branch = llvm-toolchain-testing
 	path = toolchain/llvm_android
 	url = ../../toolchain/llvm_android
 [submodule "toolchain/prebuilts/ndk/r25"]
