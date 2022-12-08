@@ -2702,7 +2702,7 @@
 	path = frameworks/libs/systemui
 	url = ../frameworks/libs/systemui
 [submodule "platform/frameworks/minikin"]
-	branch = android12-dev
+	branch = android12-hostruntime-dev
 	path = frameworks/minikin
 	url = ../frameworks/minikin
 [submodule "platform/frameworks/multidex"]
