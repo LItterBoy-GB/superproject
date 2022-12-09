@@ -2375,6 +2375,14 @@
 	branch = master
 	path = external/rust/crates/memoffset
 	url = ../external/rust/crates/memoffset
+[submodule "platform/external/rust/crates/merge"]
+	branch = master
+	path = external/rust/crates/merge
+	url = ../external/rust/crates/merge
+[submodule "platform/external/rust/crates/merge_derive"]
+	branch = master
+	path = external/rust/crates/merge_derive
+	url = ../external/rust/crates/merge_derive
 [submodule "platform/external/rust/crates/minimal-lexical"]
 	branch = master
 	path = external/rust/crates/minimal-lexical
