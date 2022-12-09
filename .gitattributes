@@ -34,9 +34,9 @@
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
 /device/google/fuchsia fuchsia device
-/device/google/gs-common slider pdk-gs-arm device
-/device/google/gs101 slider pdk-gs-arm device
-/device/google/gs101-sepolicy slider pdk-gs-arm device
+/device/google/gs-common slider pdk-gs-arm bluejay device cloudripper
+/device/google/gs101 slider pdk-gs-arm bluejay device
+/device/google/gs101-sepolicy slider pdk-gs-arm bluejay device
 /device/google/gs201 device cloudripper
 /device/google/gs201-sepolicy device cloudripper
 /device/google/pantah device cloudripper
@@ -899,11 +899,14 @@
 /packages/apps/Car/Calendar pdk-fs
 /packages/apps/Car/Cluster pdk-fs
 /packages/apps/Car/DebuggingRestrictionController pdk-fs
+/packages/apps/Car/DialerPrebuilt pdk-fs
 /packages/apps/Car/Hvac pdk-fs
 /packages/apps/Car/LatinIME pdk-fs
 /packages/apps/Car/Launcher pdk-fs
 /packages/apps/Car/LinkViewer pdk-fs
 /packages/apps/Car/LocalMediaPlayer pdk-fs
+/packages/apps/Car/MediaPrebuilt pdk-fs
+/packages/apps/Car/MessengerPrebuilt pdk-fs
 /packages/apps/Car/Notification pdk-fs
 /packages/apps/Car/Provision pdk-fs
 /packages/apps/Car/Radio pdk-fs
@@ -975,6 +978,7 @@
 /packages/modules/GeoTZ pdk-fs pdk-cw-fs
 /packages/modules/Gki pdk-fs pdk-cw-fs
 /packages/modules/IPsec pdk
+/packages/modules/IntentResolver pdk
 /packages/modules/Media pdk
 /packages/modules/ModuleMetadata pdk
 /packages/modules/NetworkPermissionConfig pdk-fs pdk-cw-fs
