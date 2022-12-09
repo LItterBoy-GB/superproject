@@ -3649,6 +3649,10 @@
 	branch = master
 	path = packages/apps/Car/DebuggingRestrictionController
 	url = ../packages/apps/Car/DebuggingRestrictionController
+[submodule "platform/packages/apps/Car/DialerPrebuilt"]
+	branch = master
+	path = packages/apps/Car/DialerPrebuilt
+	url = ../packages/apps/Car/DialerPrebuilt
 [submodule "platform/packages/apps/Car/Hvac"]
 	branch = master
 	path = packages/apps/Car/Hvac
@@ -3669,6 +3673,14 @@
 	branch = master
 	path = packages/apps/Car/LocalMediaPlayer
 	url = ../packages/apps/Car/LocalMediaPlayer
+[submodule "platform/packages/apps/Car/MediaPrebuilt"]
+	branch = master
+	path = packages/apps/Car/MediaPrebuilt
+	url = ../packages/apps/Car/MediaPrebuilt
+[submodule "platform/packages/apps/Car/MessengerPrebuilt"]
+	branch = master
+	path = packages/apps/Car/MessengerPrebuilt
+	url = ../packages/apps/Car/MessengerPrebuilt
 [submodule "platform/packages/apps/Car/Notification"]
 	branch = master
 	path = packages/apps/Car/Notification
@@ -3954,6 +3966,10 @@
 	branch = master
 	path = packages/modules/IPsec
 	url = ../packages/modules/IPsec
+[submodule "platform/packages/modules/IntentResolver"]
+	branch = master
+	path = packages/modules/IntentResolver
+	url = ../packages/modules/IntentResolver
 [submodule "platform/packages/modules/Media"]
 	branch = master
 	path = packages/modules/Media
