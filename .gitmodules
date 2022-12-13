@@ -4683,6 +4683,10 @@
 	branch = main-16k
 	path = test/cts-root
 	url = ../test/cts-root
+[submodule "platform/test/dittosuite"]
+	branch = main-16k
+	path = test/dittosuite
+	url = ../test/dittosuite
 [submodule "platform/test/framework"]
 	branch = main-16k
 	path = test/framework
