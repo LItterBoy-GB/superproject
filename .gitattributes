@@ -34,9 +34,9 @@
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
 /device/google/fuchsia fuchsia device
-/device/google/gs-common slider pdk-gs-arm device
-/device/google/gs101 slider pdk-gs-arm device
-/device/google/gs101-sepolicy slider pdk-gs-arm device
+/device/google/gs-common slider pdk-gs-arm bluejay device cloudripper
+/device/google/gs101 slider pdk-gs-arm bluejay device
+/device/google/gs101-sepolicy slider pdk-gs-arm bluejay device
 /device/google/gs201 device cloudripper
 /device/google/gs201-sepolicy device cloudripper
 /device/google/pantah device cloudripper
@@ -179,6 +179,7 @@
 /external/dnsmasq pdk
 /external/doclava pdk
 /external/dokka pdk
+/external/double-conversion pdk
 /external/downloader pdk
 /external/drm_hwcomposer pdk-fs drm_hwcomposer
 /external/dtc pdk
@@ -583,6 +584,8 @@
 /external/rust/crates/matches pdk
 /external/rust/crates/memchr pdk
 /external/rust/crates/memoffset pdk
+/external/rust/crates/merge pdk
+/external/rust/crates/merge_derive pdk
 /external/rust/crates/minimal-lexical pdk
 /external/rust/crates/mio pdk
 /external/rust/crates/nix pdk
@@ -896,11 +899,14 @@
 /packages/apps/Car/Calendar pdk-fs
 /packages/apps/Car/Cluster pdk-fs
 /packages/apps/Car/DebuggingRestrictionController pdk-fs
+/packages/apps/Car/DialerPrebuilt pdk-fs
 /packages/apps/Car/Hvac pdk-fs
 /packages/apps/Car/LatinIME pdk-fs
 /packages/apps/Car/Launcher pdk-fs
 /packages/apps/Car/LinkViewer pdk-fs
 /packages/apps/Car/LocalMediaPlayer pdk-fs
+/packages/apps/Car/MediaPrebuilt pdk-fs
+/packages/apps/Car/MessengerPrebuilt pdk-fs
 /packages/apps/Car/Notification pdk-fs
 /packages/apps/Car/Provision pdk-fs
 /packages/apps/Car/Radio pdk-fs
@@ -972,6 +978,7 @@
 /packages/modules/GeoTZ pdk-fs pdk-cw-fs
 /packages/modules/Gki pdk-fs pdk-cw-fs
 /packages/modules/IPsec pdk
+/packages/modules/IntentResolver pdk
 /packages/modules/Media pdk
 /packages/modules/ModuleMetadata pdk
 /packages/modules/NetworkPermissionConfig pdk-fs pdk-cw-fs
@@ -1056,6 +1063,7 @@
 /prebuilts/module_sdk/MediaProvider pdk
 /prebuilts/module_sdk/OnDevicePersonalization pdk
 /prebuilts/module_sdk/Permission pdk
+/prebuilts/module_sdk/RemoteKeyProvisioning pdk
 /prebuilts/module_sdk/Scheduling pdk
 /prebuilts/module_sdk/SdkExtensions pdk
 /prebuilts/module_sdk/StatsD pdk
