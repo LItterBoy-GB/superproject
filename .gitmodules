@@ -2799,6 +2799,10 @@
 	branch = main-16k
 	path = external/rust/crates/unicode-bidi
 	url = ../external/rust/crates/unicode-bidi
+[submodule "platform/external/rust/crates/unicode-ident"]
+	branch = main-16k
+	path = external/rust/crates/unicode-ident
+	url = ../external/rust/crates/unicode-ident
 [submodule "platform/external/rust/crates/unicode-normalization"]
 	branch = main-16k
 	path = external/rust/crates/unicode-normalization
