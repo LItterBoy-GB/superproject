@@ -712,6 +712,8 @@
 /external/rust/crates/x509-cert pdk
 /external/rust/crates/x509-parser pdk
 /external/rust/crates/xml-rs pdk
+/external/rust/crates/zerocopy pdk
+/external/rust/crates/zerocopy-derive pdk
 /external/rust/crates/zeroize pdk
 /external/rust/crates/zeroize_derive pdk
 /external/rust/crates/zip pdk

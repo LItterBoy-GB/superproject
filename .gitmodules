@@ -2887,6 +2887,14 @@
 	branch = master
 	path = external/rust/crates/xml-rs
 	url = ../external/rust/crates/xml-rs
+[submodule "platform/external/rust/crates/zerocopy"]
+	branch = master
+	path = external/rust/crates/zerocopy
+	url = ../external/rust/crates/zerocopy
+[submodule "platform/external/rust/crates/zerocopy-derive"]
+	branch = master
+	path = external/rust/crates/zerocopy-derive
+	url = ../external/rust/crates/zerocopy-derive
 [submodule "platform/external/rust/crates/zeroize"]
 	branch = master
 	path = external/rust/crates/zeroize
