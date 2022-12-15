@@ -2879,6 +2879,14 @@
 	branch = main-16k
 	path = external/rust/crates/xml-rs
 	url = ../external/rust/crates/xml-rs
+[submodule "platform/external/rust/crates/zerocopy"]
+	branch = main-16k
+	path = external/rust/crates/zerocopy
+	url = ../external/rust/crates/zerocopy
+[submodule "platform/external/rust/crates/zerocopy-derive"]
+	branch = main-16k
+	path = external/rust/crates/zerocopy-derive
+	url = ../external/rust/crates/zerocopy-derive
 [submodule "platform/external/rust/crates/zeroize"]
 	branch = main-16k
 	path = external/rust/crates/zeroize
@@ -3241,6 +3249,10 @@
 	branch = main-16k
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
+[submodule "platform/frameworks/libs/binary_translation"]
+	branch = main-16k
+	path = frameworks/libs/binary_translation
+	url = ../frameworks/libs/binary_translation
 [submodule "platform/frameworks/libs/modules-utils"]
 	branch = main-16k
 	path = frameworks/libs/modules-utils

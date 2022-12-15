@@ -710,6 +710,8 @@
 /external/rust/crates/x509-cert pdk
 /external/rust/crates/x509-parser pdk
 /external/rust/crates/xml-rs pdk
+/external/rust/crates/zerocopy pdk
+/external/rust/crates/zerocopy-derive pdk
 /external/rust/crates/zeroize pdk
 /external/rust/crates/zeroize_derive pdk
 /external/rust/crates/zip pdk
@@ -800,6 +802,7 @@
 /frameworks/ex pdk-fs pdk-cw-fs
 /frameworks/hardware/interfaces pdk
 /frameworks/layoutlib pdk-fs pdk-cw-fs
+/frameworks/libs/binary_translation pdk
 /frameworks/libs/modules-utils pdk-fs pdk-cw-fs
 /frameworks/libs/native_bridge_support pdk
 /frameworks/libs/net pdk-fs pdk-cw-fs
