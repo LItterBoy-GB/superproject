@@ -116,6 +116,7 @@
 /external/aac pdk
 /external/abseil-cpp pdk
 /external/android-clat pdk
+/external/android-key-attestation pdk
 /external/android-nn-driver pdk-gs-arm pdk-lassen
 /external/androidplot pdk
 /external/angle pdk

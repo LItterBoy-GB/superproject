@@ -501,6 +501,10 @@
 	branch = master
 	path = external/android-clat
 	url = ../external/android-clat
+[submodule "platform/external/android-key-attestation"]
+	branch = master
+	path = external/android-key-attestation
+	url = ../external/android-key-attestation
 [submodule "platform/external/android-nn-driver"]
 	branch = master
 	path = external/android-nn-driver
