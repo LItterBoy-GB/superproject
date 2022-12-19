@@ -1467,6 +1467,10 @@
 	branch = master
 	path = external/markdown
 	url = ../external/markdown
+[submodule "platform/external/mbedtls"]
+	branch = master
+	path = external/mbedtls
+	url = ../external/mbedtls
 [submodule "platform/external/mdnsresponder"]
 	branch = master
 	path = external/mdnsresponder
