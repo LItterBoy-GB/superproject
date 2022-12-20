@@ -262,6 +262,10 @@
 	branch = master
 	path = external/rust/crates/textwrap
 	url = ../external/rust/crates/textwrap
+[submodule "platform/external/rust/crates/unicode-ident"]
+	branch = master
+	path = external/rust/crates/unicode-ident
+	url = ../external/rust/crates/unicode-ident
 [submodule "platform/external/rust/crates/unicode-xid"]
 	branch = master
 	path = external/rust/crates/unicode-xid

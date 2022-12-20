@@ -64,6 +64,7 @@
 /external/rust/crates/rustc-hash
 /external/rust/crates/shlex
 /external/rust/crates/textwrap
+/external/rust/crates/unicode-ident
 /external/rust/crates/unicode-xid
 /external/rust/crates/which
 /external/starlark-go
