@@ -718,6 +718,7 @@
 /external/rust/crates/zeroize_derive pdk
 /external/rust/crates/zip pdk
 /external/rust/cxx pdk
+/external/rust/pica pdk
 /external/ruy pdk
 /external/s2-geometry-library-java pdk
 /external/scapy pdk-fs
