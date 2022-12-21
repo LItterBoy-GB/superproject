@@ -2911,6 +2911,10 @@
 	branch = main-16k
 	path = external/rust/cxx
 	url = ../external/rust/cxx
+[submodule "platform/external/rust/pica"]
+	branch = main-16k
+	path = external/rust/pica
+	url = ../external/rust/pica
 [submodule "platform/external/ruy"]
 	branch = main-16k
 	path = external/ruy
