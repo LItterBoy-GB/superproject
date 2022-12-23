@@ -3277,6 +3277,10 @@
 	branch = master
 	path = frameworks/libs/binary_translation
 	url = ../frameworks/libs/binary_translation
+[submodule "platform/frameworks/libs/gsma_services"]
+	branch = master
+	path = frameworks/libs/gsma_services
+	url = ../frameworks/libs/gsma_services
 [submodule "platform/frameworks/libs/modules-utils"]
 	branch = master
 	path = frameworks/libs/modules-utils
