@@ -1975,6 +1975,10 @@
 	branch = master
 	path = external/rust/crates/bindgen
 	url = ../external/rust/crates/bindgen
+[submodule "platform/external/rust/crates/bindgen-cli"]
+	branch = master
+	path = external/rust/crates/bindgen-cli
+	url = ../external/rust/crates/bindgen-cli
 [submodule "platform/external/rust/crates/bitflags"]
 	branch = master
 	path = external/rust/crates/bitflags
