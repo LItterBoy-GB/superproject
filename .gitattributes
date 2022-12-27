@@ -486,6 +486,7 @@
 /external/rust/crates/base64 pdk
 /external/rust/crates/bencher pdk
 /external/rust/crates/bindgen pdk
+/external/rust/crates/bindgen-cli pdk
 /external/rust/crates/bitflags pdk
 /external/rust/crates/bitreader pdk
 /external/rust/crates/bstr pdk
