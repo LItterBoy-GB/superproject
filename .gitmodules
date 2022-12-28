@@ -694,6 +694,10 @@
 	branch = master
 	path = external/crcalc
 	url = ../external/crcalc
+[submodule "platform/external/cronet"]
+	branch = master
+	path = external/cronet
+	url = ../external/cronet
 [submodule "platform/external/cros/system_api"]
 	branch = master
 	path = external/cros/system_api
