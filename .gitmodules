@@ -501,10 +501,6 @@
 	branch = main-16k
 	path = external/android-clat
 	url = ../external/android-clat
-[submodule "platform/external/android-key-attestation"]
-	branch = main-16k
-	path = external/android-key-attestation
-	url = ../external/android-key-attestation
 [submodule "platform/external/android-nn-driver"]
 	branch = main-16k
 	path = external/android-nn-driver
@@ -758,10 +754,6 @@
 	branch = main-16k
 	path = external/dokka
 	url = ../external/dokka
-[submodule "platform/external/double-conversion"]
-	branch = main-16k
-	path = external/double-conversion
-	url = ../external/double-conversion
 [submodule "platform/external/downloader"]
 	branch = main-16k
 	path = external/downloader
@@ -1463,10 +1455,6 @@
 	branch = main-16k
 	path = external/markdown
 	url = ../external/markdown
-[submodule "platform/external/mbedtls"]
-	branch = main-16k
-	path = external/mbedtls
-	url = ../external/mbedtls
 [submodule "platform/external/mdnsresponder"]
 	branch = main-16k
 	path = external/mdnsresponder
@@ -2383,14 +2371,6 @@
 	branch = main-16k
 	path = external/rust/crates/memoffset
 	url = ../external/rust/crates/memoffset
-[submodule "platform/external/rust/crates/merge"]
-	branch = main-16k
-	path = external/rust/crates/merge
-	url = ../external/rust/crates/merge
-[submodule "platform/external/rust/crates/merge_derive"]
-	branch = main-16k
-	path = external/rust/crates/merge_derive
-	url = ../external/rust/crates/merge_derive
 [submodule "platform/external/rust/crates/minimal-lexical"]
 	branch = main-16k
 	path = external/rust/crates/minimal-lexical
@@ -2807,10 +2787,6 @@
 	branch = main-16k
 	path = external/rust/crates/unicode-bidi
 	url = ../external/rust/crates/unicode-bidi
-[submodule "platform/external/rust/crates/unicode-ident"]
-	branch = main-16k
-	path = external/rust/crates/unicode-ident
-	url = ../external/rust/crates/unicode-ident
 [submodule "platform/external/rust/crates/unicode-normalization"]
 	branch = main-16k
 	path = external/rust/crates/unicode-normalization
@@ -2887,14 +2863,6 @@
 	branch = main-16k
 	path = external/rust/crates/xml-rs
 	url = ../external/rust/crates/xml-rs
-[submodule "platform/external/rust/crates/zerocopy"]
-	branch = main-16k
-	path = external/rust/crates/zerocopy
-	url = ../external/rust/crates/zerocopy
-[submodule "platform/external/rust/crates/zerocopy-derive"]
-	branch = main-16k
-	path = external/rust/crates/zerocopy-derive
-	url = ../external/rust/crates/zerocopy-derive
 [submodule "platform/external/rust/crates/zeroize"]
 	branch = main-16k
 	path = external/rust/crates/zeroize
@@ -2911,10 +2879,6 @@
 	branch = main-16k
 	path = external/rust/cxx
 	url = ../external/rust/cxx
-[submodule "platform/external/rust/pica"]
-	branch = main-16k
-	path = external/rust/pica
-	url = ../external/rust/pica
 [submodule "platform/external/ruy"]
 	branch = main-16k
 	path = external/ruy
@@ -3261,14 +3225,6 @@
 	branch = main-16k
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
-[submodule "platform/frameworks/libs/binary_translation"]
-	branch = main-16k
-	path = frameworks/libs/binary_translation
-	url = ../frameworks/libs/binary_translation
-[submodule "platform/frameworks/libs/gsma_services"]
-	branch = main-16k
-	path = frameworks/libs/gsma_services
-	url = ../frameworks/libs/gsma_services
 [submodule "platform/frameworks/libs/modules-utils"]
 	branch = main-16k
 	path = frameworks/libs/modules-utils
@@ -3669,10 +3625,6 @@
 	branch = main-16k
 	path = packages/apps/Car/DebuggingRestrictionController
 	url = ../packages/apps/Car/DebuggingRestrictionController
-[submodule "platform/packages/apps/Car/DialerPrebuilt"]
-	branch = main-16k
-	path = packages/apps/Car/DialerPrebuilt
-	url = ../packages/apps/Car/DialerPrebuilt
 [submodule "platform/packages/apps/Car/Hvac"]
 	branch = main-16k
 	path = packages/apps/Car/Hvac
@@ -3693,14 +3645,6 @@
 	branch = main-16k
 	path = packages/apps/Car/LocalMediaPlayer
 	url = ../packages/apps/Car/LocalMediaPlayer
-[submodule "platform/packages/apps/Car/MediaPrebuilt"]
-	branch = main-16k
-	path = packages/apps/Car/MediaPrebuilt
-	url = ../packages/apps/Car/MediaPrebuilt
-[submodule "platform/packages/apps/Car/MessengerPrebuilt"]
-	branch = main-16k
-	path = packages/apps/Car/MessengerPrebuilt
-	url = ../packages/apps/Car/MessengerPrebuilt
 [submodule "platform/packages/apps/Car/Notification"]
 	branch = main-16k
 	path = packages/apps/Car/Notification
@@ -3986,10 +3930,6 @@
 	branch = main-16k
 	path = packages/modules/IPsec
 	url = ../packages/modules/IPsec
-[submodule "platform/packages/modules/IntentResolver"]
-	branch = main-16k
-	path = packages/modules/IntentResolver
-	url = ../packages/modules/IntentResolver
 [submodule "platform/packages/modules/Media"]
 	branch = main-16k
 	path = packages/modules/Media
@@ -4711,10 +4651,6 @@
 	branch = main-16k
 	path = test/cts-root
 	url = ../test/cts-root
-[submodule "platform/test/dittosuite"]
-	branch = main-16k
-	path = test/dittosuite
-	url = ../test/dittosuite
 [submodule "platform/test/framework"]
 	branch = main-16k
 	path = test/framework

@@ -116,7 +116,6 @@
 /external/aac pdk
 /external/abseil-cpp pdk
 /external/android-clat pdk
-/external/android-key-attestation pdk
 /external/android-nn-driver pdk-gs-arm pdk-lassen
 /external/androidplot pdk
 /external/angle pdk
@@ -180,7 +179,6 @@
 /external/dnsmasq pdk
 /external/doclava pdk
 /external/dokka pdk
-/external/double-conversion pdk
 /external/downloader pdk
 /external/drm_hwcomposer pdk-fs drm_hwcomposer
 /external/dtc pdk
@@ -356,7 +354,6 @@
 /external/lzma pdk
 /external/marisa-trie pdk
 /external/markdown pdk
-/external/mbedtls pdk
 /external/mdnsresponder pdk
 /external/mesa3d pdk-fs pdk-cw-fs
 /external/mime-support pdk
@@ -586,8 +583,6 @@
 /external/rust/crates/matches pdk
 /external/rust/crates/memchr pdk
 /external/rust/crates/memoffset pdk
-/external/rust/crates/merge pdk
-/external/rust/crates/merge_derive pdk
 /external/rust/crates/minimal-lexical pdk
 /external/rust/crates/mio pdk
 /external/rust/crates/nix pdk
@@ -692,7 +687,6 @@
 /external/rust/crates/tokio-test pdk
 /external/rust/crates/ucd-trie pdk
 /external/rust/crates/unicode-bidi pdk
-/external/rust/crates/unicode-ident pdk
 /external/rust/crates/unicode-normalization pdk
 /external/rust/crates/unicode-segmentation pdk
 /external/rust/crates/unicode-width pdk
@@ -712,13 +706,10 @@
 /external/rust/crates/x509-cert pdk
 /external/rust/crates/x509-parser pdk
 /external/rust/crates/xml-rs pdk
-/external/rust/crates/zerocopy pdk
-/external/rust/crates/zerocopy-derive pdk
 /external/rust/crates/zeroize pdk
 /external/rust/crates/zeroize_derive pdk
 /external/rust/crates/zip pdk
 /external/rust/cxx pdk
-/external/rust/pica pdk
 /external/ruy pdk
 /external/s2-geometry-library-java pdk
 /external/scapy pdk-fs
@@ -805,8 +796,6 @@
 /frameworks/ex pdk-fs pdk-cw-fs
 /frameworks/hardware/interfaces pdk
 /frameworks/layoutlib pdk-fs pdk-cw-fs
-/frameworks/libs/binary_translation pdk
-/frameworks/libs/gsma_services pdk
 /frameworks/libs/modules-utils pdk-fs pdk-cw-fs
 /frameworks/libs/native_bridge_support pdk
 /frameworks/libs/net pdk-fs pdk-cw-fs
@@ -907,14 +896,11 @@
 /packages/apps/Car/Calendar pdk-fs
 /packages/apps/Car/Cluster pdk-fs
 /packages/apps/Car/DebuggingRestrictionController pdk-fs
-/packages/apps/Car/DialerPrebuilt pdk-fs
 /packages/apps/Car/Hvac pdk-fs
 /packages/apps/Car/LatinIME pdk-fs
 /packages/apps/Car/Launcher pdk-fs
 /packages/apps/Car/LinkViewer pdk-fs
 /packages/apps/Car/LocalMediaPlayer pdk-fs
-/packages/apps/Car/MediaPrebuilt pdk-fs
-/packages/apps/Car/MessengerPrebuilt pdk-fs
 /packages/apps/Car/Notification pdk-fs
 /packages/apps/Car/Provision pdk-fs
 /packages/apps/Car/Radio pdk-fs
@@ -986,7 +972,6 @@
 /packages/modules/GeoTZ pdk-fs pdk-cw-fs
 /packages/modules/Gki pdk-fs pdk-cw-fs
 /packages/modules/IPsec pdk
-/packages/modules/IntentResolver pdk
 /packages/modules/Media pdk
 /packages/modules/ModuleMetadata pdk
 /packages/modules/NetworkPermissionConfig pdk-fs pdk-cw-fs
@@ -1152,7 +1137,6 @@
 /test/app_compat/csuite pdk
 /test/catbox
 /test/cts-root
-/test/dittosuite pdk
 /test/framework vts pdk projectarch
 /test/mlts/benchmark pdk
 /test/mlts/models pdk
