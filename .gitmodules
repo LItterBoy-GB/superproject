@@ -166,6 +166,10 @@
 	branch = master
 	path = external/regex-re2
 	url = ../external/regex-re2
+[submodule "platform/external/rust/crates/ahash"]
+	branch = master
+	path = external/rust/crates/ahash
+	url = ../external/rust/crates/ahash
 [submodule "platform/external/rust/crates/aho-corasick"]
 	branch = master
 	path = external/rust/crates/aho-corasick
@@ -174,6 +178,10 @@
 	branch = master
 	path = external/rust/crates/bindgen
 	url = ../external/rust/crates/bindgen
+[submodule "platform/external/rust/crates/bindgen-cli"]
+	branch = master
+	path = external/rust/crates/bindgen-cli
+	url = ../external/rust/crates/bindgen-cli
 [submodule "platform/external/rust/crates/bitflags"]
 	branch = master
 	path = external/rust/crates/bitflags
@@ -194,14 +202,42 @@
 	branch = master
 	path = external/rust/crates/clap
 	url = ../external/rust/crates/clap
+[submodule "platform/external/rust/crates/clap_derive"]
+	branch = master
+	path = external/rust/crates/clap_derive
+	url = ../external/rust/crates/clap_derive
+[submodule "platform/external/rust/crates/clap_lex"]
+	branch = master
+	path = external/rust/crates/clap_lex
+	url = ../external/rust/crates/clap_lex
 [submodule "platform/external/rust/crates/either"]
 	branch = master
 	path = external/rust/crates/either
 	url = ../external/rust/crates/either
+[submodule "platform/external/rust/crates/env_logger"]
+	branch = master
+	path = external/rust/crates/env_logger
+	url = ../external/rust/crates/env_logger
+[submodule "platform/external/rust/crates/getrandom"]
+	branch = master
+	path = external/rust/crates/getrandom
+	url = ../external/rust/crates/getrandom
 [submodule "platform/external/rust/crates/glob"]
 	branch = master
 	path = external/rust/crates/glob
 	url = ../external/rust/crates/glob
+[submodule "platform/external/rust/crates/hashbrown"]
+	branch = master
+	path = external/rust/crates/hashbrown
+	url = ../external/rust/crates/hashbrown
+[submodule "platform/external/rust/crates/heck"]
+	branch = master
+	path = external/rust/crates/heck
+	url = ../external/rust/crates/heck
+[submodule "platform/external/rust/crates/indexmap"]
+	branch = master
+	path = external/rust/crates/indexmap
+	url = ../external/rust/crates/indexmap
 [submodule "platform/external/rust/crates/lazy_static"]
 	branch = master
 	path = external/rust/crates/lazy_static
@@ -218,6 +254,10 @@
 	branch = master
 	path = external/rust/crates/libloading
 	url = ../external/rust/crates/libloading
+[submodule "platform/external/rust/crates/log"]
+	branch = master
+	path = external/rust/crates/log
+	url = ../external/rust/crates/log
 [submodule "platform/external/rust/crates/memchr"]
 	branch = master
 	path = external/rust/crates/memchr
@@ -230,10 +270,26 @@
 	branch = master
 	path = external/rust/crates/nom
 	url = ../external/rust/crates/nom
+[submodule "platform/external/rust/crates/once_cell"]
+	branch = master
+	path = external/rust/crates/once_cell
+	url = ../external/rust/crates/once_cell
+[submodule "platform/external/rust/crates/os_str_bytes"]
+	branch = master
+	path = external/rust/crates/os_str_bytes
+	url = ../external/rust/crates/os_str_bytes
 [submodule "platform/external/rust/crates/peeking_take_while"]
 	branch = master
 	path = external/rust/crates/peeking_take_while
 	url = ../external/rust/crates/peeking_take_while
+[submodule "platform/external/rust/crates/proc-macro-error"]
+	branch = master
+	path = external/rust/crates/proc-macro-error
+	url = ../external/rust/crates/proc-macro-error
+[submodule "platform/external/rust/crates/proc-macro-error-attr"]
+	branch = master
+	path = external/rust/crates/proc-macro-error-attr
+	url = ../external/rust/crates/proc-macro-error-attr
 [submodule "platform/external/rust/crates/proc-macro2"]
 	branch = master
 	path = external/rust/crates/proc-macro2
@@ -258,6 +314,10 @@
 	branch = master
 	path = external/rust/crates/shlex
 	url = ../external/rust/crates/shlex
+[submodule "platform/external/rust/crates/syn"]
+	branch = master
+	path = external/rust/crates/syn
+	url = ../external/rust/crates/syn
 [submodule "platform/external/rust/crates/textwrap"]
 	branch = master
 	path = external/rust/crates/textwrap
@@ -266,6 +326,10 @@
 	branch = master
 	path = external/rust/crates/unicode-ident
 	url = ../external/rust/crates/unicode-ident
+[submodule "platform/external/rust/crates/unicode-segmentation"]
+	branch = master
+	path = external/rust/crates/unicode-segmentation
+	url = ../external/rust/crates/unicode-segmentation
 [submodule "platform/external/rust/crates/unicode-xid"]
 	branch = master
 	path = external/rust/crates/unicode-xid
