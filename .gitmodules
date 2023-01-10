@@ -3011,6 +3011,10 @@
 	branch = master
 	path = external/sonivox
 	url = ../external/sonivox
+[submodule "platform/external/spdx-tools"]
+	branch = master
+	path = external/spdx-tools
+	url = ../external/spdx-tools
 [submodule "platform/external/speex"]
 	branch = master
 	path = external/speex
