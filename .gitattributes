@@ -741,6 +741,7 @@
 /external/snakeyaml pdk
 /external/sonic pdk
 /external/sonivox pdk
+/external/spdx-tools pdk
 /external/speex pdk
 /external/sqlite pdk
 /external/squashfs-tools pdk
