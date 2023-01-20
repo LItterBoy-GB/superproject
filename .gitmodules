@@ -3481,6 +3481,10 @@
 	branch = master
 	path = hardware/nxp/secure_element
 	url = ../hardware/nxp/secure_element
+[submodule "platform/hardware/nxp/uwb"]
+	branch = master
+	path = hardware/nxp/uwb
+	url = ../hardware/nxp/uwb
 [submodule "platform/hardware/qcom/audio"]
 	branch = master
 	path = hardware/qcom/audio
