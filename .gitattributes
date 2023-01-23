@@ -483,6 +483,7 @@
 /external/rust/crates/async-stream-impl pdk
 /external/rust/crates/async-task pdk
 /external/rust/crates/async-trait pdk
+/external/rust/crates/atomic pdk
 /external/rust/crates/atty pdk
 /external/rust/crates/base64 pdk
 /external/rust/crates/bencher pdk
