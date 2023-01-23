@@ -3137,10 +3137,6 @@
 	branch = master
 	path = external/universal-tween-engine
 	url = ../external/universal-tween-engine
-[submodule "platform/external/usrsctp"]
-	branch = master
-	path = external/usrsctp
-	url = ../external/usrsctp
 [submodule "platform/external/uwb"]
 	branch = master
 	path = external/uwb
