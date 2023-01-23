@@ -1963,6 +1963,10 @@
 	branch = master
 	path = external/rust/crates/async-trait
 	url = ../external/rust/crates/async-trait
+[submodule "platform/external/rust/crates/atomic"]
+	branch = master
+	path = external/rust/crates/atomic
+	url = ../external/rust/crates/atomic
 [submodule "platform/external/rust/crates/atty"]
 	branch = master
 	path = external/rust/crates/atty
