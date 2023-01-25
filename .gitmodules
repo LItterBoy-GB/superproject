@@ -337,7 +337,7 @@
 	path = art
 	url = ../art
 [submodule "platform/bionic"]
-	branch = android12-dev
+	branch = android12-hostruntime-dev
 	path = bionic
 	url = ../bionic
 [submodule "platform/bootable/libbootloader"]
@@ -365,7 +365,7 @@
 	path = build/pesto
 	url = ../build/pesto
 [submodule "platform/build/soong"]
-	branch = android12-dev
+	branch = android12-hostruntime-dev
 	path = build/soong
 	url = ../build/soong
 [submodule "platform/cts"]
@@ -654,7 +654,7 @@
 	path = external/dlmalloc
 	url = ../external/dlmalloc
 [submodule "platform/external/dng_sdk"]
-	branch = android12-dev
+	branch = android12-hostruntime-dev
 	path = external/dng_sdk
 	url = ../external/dng_sdk
 [submodule "platform/external/dnsmasq"]
@@ -1515,7 +1515,7 @@
 	path = external/proguard
 	url = ../external/proguard
 [submodule "platform/external/protobuf"]
-	branch = android12-dev
+	branch = android12-hostruntime-dev
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/psimd"]
@@ -2710,7 +2710,7 @@
 	path = frameworks/multidex
 	url = ../frameworks/multidex
 [submodule "platform/frameworks/native"]
-	branch = android12-dev
+	branch = android12-hostruntime-dev
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "platform/frameworks/opt/bitmap"]
