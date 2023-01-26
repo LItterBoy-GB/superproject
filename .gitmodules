@@ -10,10 +10,10 @@
 	branch = emu-33-release
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
-[submodule "platform/build/bazel"]
+[submodule "platform/build"]
 	branch = emu-33-release
-	path = build/bazel
-	url = ../build/bazel
+	path = build
+	url = ../build
 [submodule "platform/external/adt-infra"]
 	branch = emu-33-release
 	path = external/adt-infra

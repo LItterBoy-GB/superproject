@@ -1,7 +1,7 @@
 /device/generic/goldfish-opengl
 /device/generic/vulkan-cereal
 /device/google/cuttlefish
-/build/bazel
+/build
 /external/adt-infra
 /external/angle
 /external/astc-codec
