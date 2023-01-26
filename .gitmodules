@@ -10,10 +10,10 @@
 	branch = master
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
-[submodule "platform/build/bazel"]
+[submodule "platform/build"]
 	branch = emu-master-dev
-	path = build/bazel
-	url = ../build/bazel
+	path = build
+	url = ../build
 [submodule "platform/external/adt-infra"]
 	branch = emu-master-dev
 	path = external/adt-infra
