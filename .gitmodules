@@ -54,6 +54,10 @@
 	branch = master
 	path = external/bazel-skylib
 	url = ../external/bazel-skylib
+[submodule "platform/external/bazelbuild-rules_license"]
+	branch = master
+	path = external/bazelbuild-rules_license
+	url = ../external/bazelbuild-rules_license
 [submodule "platform/external/bc"]
 	branch = master
 	path = external/bc

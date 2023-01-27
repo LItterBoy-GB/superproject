@@ -12,6 +12,7 @@
 /external/arm-optimized-routines
 /external/auto
 /external/bazel-skylib pdk
+/external/bazelbuild-rules_license
 /external/bc
 /external/bison
 /external/bloaty
