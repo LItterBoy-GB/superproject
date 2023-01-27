@@ -1,332 +1,231 @@
 [submodule "device/generic/goldfish-opengl"]
-	branch = emu-33-release
 	path = device/generic/goldfish-opengl
 	url = ../../device/generic/goldfish-opengl
 [submodule "device/generic/vulkan-cereal"]
-	branch = emu-33-release
 	path = device/generic/vulkan-cereal
 	url = ../../device/generic/vulkan-cereal
 [submodule "device/google/cuttlefish"]
-	branch = emu-33-release
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
 [submodule "platform/build"]
-	branch = emu-33-release
 	path = build
 	url = ../build
 [submodule "platform/external/adt-infra"]
-	branch = emu-33-release
 	path = external/adt-infra
 	url = ../external/adt-infra
 [submodule "platform/external/angle"]
-	branch = emu-33-release
 	path = external/angle
 	url = ../external/angle
 [submodule "platform/external/astc-codec"]
-	branch = emu-33-release
 	path = external/astc-codec
 	url = ../external/astc-codec
 [submodule "platform/external/bison"]
-	branch = emu-33-release
 	path = external/bison
 	url = ../external/bison
 [submodule "platform/external/boringssl"]
-	branch = emu-33-release
-	shallow = true
 	path = external/boringssl
 	url = ../external/boringssl
 [submodule "platform/external/c-ares"]
-	branch = emu-33-release
 	path = external/cares
 	url = ../external/c-ares
 [submodule "platform/external/curl"]
-	branch = emu-33-release
 	path = external/curl
 	url = ../external/curl
 [submodule "platform/external/deqp"]
-	branch = emu-33-release
 	path = external/deqp
 	url = ../external/deqp
 [submodule "platform/external/flatbuffers"]
-	branch = emu-33-release
 	path = external/flatbuffers
 	url = ../external/flatbuffers
 [submodule "platform/external/flex"]
-	branch = emu-33-release
 	path = external/flex
 	url = ../external/flex
 [submodule "platform/external/gfxstream-protocols"]
-	branch = emu-33-release
 	path = external/gfxstream-protocols
 	url = ../external/gfxstream-protocols
 [submodule "platform/external/google-benchmark"]
-	branch = emu-33-release
 	path = external/google-benchmark
 	url = ../external/google-benchmark
 [submodule "platform/external/google-breakpad"]
-	branch = emu-33-release
 	path = external/google-breakpad
 	url = ../external/google-breakpad
 [submodule "platform/external/googletest"]
-	branch = emu-33-release
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/grpc-grpc"]
-	branch = emu-33-release
 	path = external/grpc
 	url = ../external/grpc-grpc
 [submodule "platform/external/libchrome"]
-	branch = emu-33-release
 	path = external/libchrome
 	url = ../external/libchrome
 [submodule "platform/external/libpng"]
-	branch = emu-33-release
 	path = external/libpng
 	url = ../external/libpng
 [submodule "platform/external/libusb"]
-	branch = emu-33-release
 	path = external/libusb
 	url = ../external/libusb
 [submodule "platform/external/libyuv"]
-	branch = emu-33-release
 	path = external/libyuv
 	url = ../external/libyuv
 [submodule "platform/external/lz4"]
-	branch = emu-33-release
 	path = external/lz4
 	url = ../external/lz4
 [submodule "platform/external/nasm"]
-	branch = emu-33-release
 	path = external/nasm
 	url = ../external/nasm
 [submodule "platform/external/perfetto"]
-	branch = emu-33-release
 	path = external/perfetto
 	url = ../external/perfetto
 [submodule "platform/external/protobuf"]
-	branch = emu-33-release
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/qemu"]
-	branch = emu-33-release
 	path = external/qemu
 	url = ../external/qemu
 [submodule "platform/external/rapidjson"]
-	branch = emu-33-release
 	path = external/rapidjson
 	url = ../external/rapidjson
 [submodule "platform/external/rust/crates/bindgen"]
-	branch = emu-33-release
 	path = external/rust/crates/bindgen
 	url = ../external/rust/crates/bindgen
 [submodule "platform/external/rust/crates/bytes"]
-	branch = emu-33-release
 	path = external/rust/crates/bytes
 	url = ../external/rust/crates/bytes
 [submodule "platform/external/rust/crates/clang-sys"]
-	branch = emu-33-release
 	path = external/rust/crates/clang-sys
 	url = ../external/rust/crates/clang-sys
 [submodule "platform/external/rust/crates/num-bigint"]
-	branch = emu-33-release
 	path = external/rust/crates/num-bigint
 	url = ../external/rust/crates/num-bigint
 [submodule "platform/external/rust/crates/num-derive"]
-	branch = emu-33-release
 	path = external/rust/crates/num-derive
 	url = ../external/rust/crates/num-derive
 [submodule "platform/external/rust/crates/num-integer"]
-	branch = emu-33-release
 	path = external/rust/crates/num-integer
 	url = ../external/rust/crates/num-integer
 [submodule "platform/external/rust/crates/num-traits"]
-	branch = emu-33-release
 	path = external/rust/crates/num-traits
 	url = ../external/rust/crates/num-traits
 [submodule "platform/external/rust/crates/pin-utils"]
-	branch = emu-33-release
 	path = external/rust/crates/pin-utils
 	url = ../external/rust/crates/pin-utils
 [submodule "platform/external/rust/crates/rand"]
-	branch = emu-33-release
 	path = external/rust/crates/rand
 	url = ../external/rust/crates/rand
 [submodule "platform/external/rust/crates/thiserror"]
-	branch = emu-33-release
 	path = external/rust/crates/thiserror
 	url = ../external/rust/crates/thiserror
 [submodule "platform/external/rust/crates/thiserror-impl"]
-	branch = emu-33-release
 	path = external/rust/crates/thiserror-impl
 	url = ../external/rust/crates/thiserror-impl
 [submodule "platform/external/rust/crates/walkdir"]
-	branch = emu-33-release
 	path = external/rust/crates/walkdir
 	url = ../external/rust/crates/walkdir
 [submodule "platform/external/tink"]
-	branch = emu-33-release
 	path = external/tink
 	url = ../external/tink
 [submodule "platform/external/tinyobjloader"]
-	branch = emu-33-release
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
 [submodule "platform/external/virglrenderer"]
-	branch = emu-33-release
 	path = external/virglrenderer
 	url = ../external/virglrenderer
 [submodule "platform/external/webrtc"]
-	branch = emu-33-release
 	path = external/webrtc
 	url = ../external/webrtc
 [submodule "platform/external/wpa_supplicant_8"]
-	branch = emu-33-release
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
 [submodule "platform/external/zlib"]
-	branch = emu-33-release
 	path = external/zlib
 	url = ../external/zlib
 [submodule "platform/frameworks/native"]
-	branch = emu-33-release
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "platform/hardware/google/aemu"]
-	branch = emu-33-release
 	path = hardware/google/aemu
 	url = ../hardware/google/aemu
 [submodule "platform/packages/modules/Bluetooth"]
-	branch = emu-33-release
 	path = packages/modules/Bluetooth
 	url = ../packages/modules/Bluetooth
 [submodule "platform/prebuilts/android-emulator"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
 [submodule "platform/prebuilts/android-emulator-build/archive"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/android-emulator-build/archive
 	url = ../prebuilts/android-emulator-build/archive
 [submodule "platform/prebuilts/android-emulator-build/common"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/android-emulator-build/common
 	url = ../prebuilts/android-emulator-build/common
 [submodule "platform/prebuilts/android-emulator-build/mesa"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/android-emulator-build/mesa
 	url = ../prebuilts/android-emulator-build/mesa
 [submodule "platform/prebuilts/android-emulator-build/mesa-deps"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/android-emulator-build/mesa-deps
 	url = ../prebuilts/android-emulator-build/mesa-deps
 [submodule "platform/prebuilts/android-emulator-build/qemu-android-deps"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/android-emulator-build/qemu-android-deps
 	url = ../prebuilts/android-emulator-build/qemu-android-deps
 [submodule "platform/prebuilts/android-emulator-build/qt"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/android-emulator-build/qt
 	url = ../prebuilts/android-emulator-build/qt
 [submodule "platform/prebuilts/android-emulator-build/system-images"]
-	branch = emu-33-release
 	path = prebuilts/android-emulator-build/system-images
 	url = ../prebuilts/android-emulator-build/system-images
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/bazel/darwin-x86_64
 	url = ../prebuilts/bazel/darwin-x86_64
 [submodule "platform/prebuilts/bazel/linux-x86_64"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/bazel/linux-x86_64
 	url = ../prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/bazel/windows-x86_64"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/bazel/windows-x86_64
 	url = ../prebuilts/bazel/windows-x86_64
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/clang/host/windows-x86"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/clang/host/windows-x86
 	url = ../prebuilts/clang/host/windows-x86
 [submodule "platform/prebuilts/cmake/darwin-x86"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/cmake/darwin-x86
 	url = ../prebuilts/cmake/darwin-x86
 [submodule "platform/prebuilts/cmake/linux-x86"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/cmake/linux-x86
 	url = ../prebuilts/cmake/linux-x86
 [submodule "platform/prebuilts/cmake/windows-x86"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/cmake/windows-x86
 	url = ../prebuilts/cmake/windows-x86
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/ninja/darwin-x86"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/ninja/darwin-x86
 	url = ../prebuilts/ninja/darwin-x86
 [submodule "platform/prebuilts/ninja/linux-x86"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
 [submodule "platform/prebuilts/python/darwin-x86"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/python/darwin-x86
 	url = ../prebuilts/python/darwin-x86
 [submodule "platform/prebuilts/python/linux-x86"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/python/linux-x86
 	url = ../prebuilts/python/linux-x86
 [submodule "platform/prebuilts/python/windows-x86"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/python/windows-x86
 	url = ../prebuilts/python/windows-x86
 [submodule "platform/prebuilts/rust"]
-	branch = emu-33-release
-	shallow = true
 	path = prebuilts/rust
 	url = ../prebuilts/rust
 [submodule "platform/tools/buildSrc"]
-	branch = emu-33-release
 	path = tools/buildSrc
 	url = ../tools/buildSrc
 [submodule "platform/tools/netsim"]
-	branch = emu-33-release
 	path = tools/netsim
 	url = ../tools/netsim
 [submodule "toolchain/m4"]
-	branch = emu-33-release
 	path = external/m4
 	url = ../../toolchain/m4
