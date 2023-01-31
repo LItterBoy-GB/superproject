@@ -83,6 +83,8 @@
 /external/python/cpython2 pdk
 /external/python/cpython3 pdk
 /external/python/six pdk
+/external/rust/crates/rustc-demangle pdk
+/external/rust/crates/rustc-demangle-capi pdk
 /external/selinux pdk
 /external/slf4j pdk
 /external/smali pdk
@@ -134,6 +136,7 @@
 /prebuilts/r8 pdk
 /prebuilts/remoteexecution-client pdk
 /prebuilts/runtime pdk
+/prebuilts/rust pdk
 /prebuilts/sdk pdk
 /prebuilts/tools pdk tools
 /sdk pdk-fs pdk-cw-fs

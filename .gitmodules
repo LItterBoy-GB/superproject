@@ -338,6 +338,14 @@
 	branch = master
 	path = external/python/six
 	url = ../external/python/six
+[submodule "platform/external/rust/crates/rustc-demangle"]
+	branch = master
+	path = external/rust/crates/rustc-demangle
+	url = ../external/rust/crates/rustc-demangle
+[submodule "platform/external/rust/crates/rustc-demangle-capi"]
+	branch = master
+	path = external/rust/crates/rustc-demangle-capi
+	url = ../external/rust/crates/rustc-demangle-capi
 [submodule "platform/external/selinux"]
 	branch = master
 	path = external/selinux
@@ -568,6 +576,11 @@
 	shallow = true
 	path = prebuilts/runtime
 	url = ../prebuilts/runtime
+[submodule "platform/prebuilts/rust"]
+	branch = master
+	shallow = true
+	path = prebuilts/rust
+	url = ../prebuilts/rust
 [submodule "platform/prebuilts/sdk"]
 	branch = master
 	shallow = true
