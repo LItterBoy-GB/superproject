@@ -22,6 +22,11 @@
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/clang/host/windows-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang/host/windows-x86
+	url = ../prebuilts/clang/host/windows-x86
 [submodule "platform/prebuilts/cmake/darwin-x86"]
 	branch = master
 	shallow = true
@@ -57,6 +62,11 @@
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	branch = master
 	shallow = true
