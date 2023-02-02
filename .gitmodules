@@ -40,6 +40,9 @@
 [submodule "platform/external/bazel-skylib"]
 	path = external/bazel-skylib
 	url = ../external/bazel-skylib
+[submodule "platform/external/bazelbuild-rules_license"]
+	path = external/bazelbuild-rules_license
+	url = ../external/bazelbuild-rules_license
 [submodule "platform/external/bc"]
 	path = external/bc
 	url = ../external/bc
