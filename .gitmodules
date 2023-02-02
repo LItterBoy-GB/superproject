@@ -141,6 +141,10 @@
 	branch = master
 	path = external/rust/crates/num-traits
 	url = ../external/rust/crates/num-traits
+[submodule "platform/external/rust/crates/paste"]
+	branch = master
+	path = external/rust/crates/paste
+	url = ../external/rust/crates/paste
 [submodule "platform/external/rust/crates/pin-utils"]
 	branch = master
 	path = external/rust/crates/pin-utils

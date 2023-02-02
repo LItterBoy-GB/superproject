@@ -34,6 +34,7 @@
 /external/rust/crates/num-derive
 /external/rust/crates/num-integer
 /external/rust/crates/num-traits
+/external/rust/crates/paste
 /external/rust/crates/pin-utils
 /external/rust/crates/rand
 /external/rust/crates/thiserror
