@@ -60,6 +60,7 @@
 	path = external/gfxstream-protocols
 	url = ../external/gfxstream-protocols
 [submodule "platform/external/google-benchmark"]
+	branch = master
 	path = external/google-benchmark
 	url = ../external/google-benchmark
 [submodule "platform/external/google-breakpad"]
