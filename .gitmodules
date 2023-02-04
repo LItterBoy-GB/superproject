@@ -114,18 +114,110 @@
 	branch = master
 	path = external/rapidjson
 	url = ../external/rapidjson
+[submodule "platform/external/rust/crates/aho-corasick"]
+	branch = master
+	path = external/rust/crates/aho-corasick
+	url = ../external/rust/crates/aho-corasick
+[submodule "platform/external/rust/crates/atty"]
+	branch = master
+	path = external/rust/crates/atty
+	url = ../external/rust/crates/atty
 [submodule "platform/external/rust/crates/bindgen"]
 	branch = master
 	path = external/rust/crates/bindgen
 	url = ../external/rust/crates/bindgen
+[submodule "platform/external/rust/crates/bitflags"]
+	branch = master
+	path = external/rust/crates/bitflags
+	url = ../external/rust/crates/bitflags
 [submodule "platform/external/rust/crates/bytes"]
 	branch = master
 	path = external/rust/crates/bytes
 	url = ../external/rust/crates/bytes
+[submodule "platform/external/rust/crates/cexpr"]
+	branch = master
+	path = external/rust/crates/cexpr
+	url = ../external/rust/crates/cexpr
+[submodule "platform/external/rust/crates/cfg-if"]
+	branch = master
+	path = external/rust/crates/cfg-if
+	url = ../external/rust/crates/cfg-if
 [submodule "platform/external/rust/crates/clang-sys"]
 	branch = master
 	path = external/rust/crates/clang-sys
 	url = ../external/rust/crates/clang-sys
+[submodule "platform/external/rust/crates/clap"]
+	branch = master
+	path = external/rust/crates/clap
+	url = ../external/rust/crates/clap
+[submodule "platform/external/rust/crates/clap_derive"]
+	branch = master
+	path = external/rust/crates/clap_derive
+	url = ../external/rust/crates/clap_derive
+[submodule "platform/external/rust/crates/clap_lex"]
+	branch = master
+	path = external/rust/crates/clap_lex
+	url = ../external/rust/crates/clap_lex
+[submodule "platform/external/rust/crates/either"]
+	branch = master
+	path = external/rust/crates/either
+	url = ../external/rust/crates/either
+[submodule "platform/external/rust/crates/env_logger"]
+	branch = master
+	path = external/rust/crates/env_logger
+	url = ../external/rust/crates/env_logger
+[submodule "platform/external/rust/crates/getrandom"]
+	branch = master
+	path = external/rust/crates/getrandom
+	url = ../external/rust/crates/getrandom
+[submodule "platform/external/rust/crates/glob"]
+	branch = master
+	path = external/rust/crates/glob
+	url = ../external/rust/crates/glob
+[submodule "platform/external/rust/crates/hashbrown"]
+	branch = master
+	path = external/rust/crates/hashbrown
+	url = ../external/rust/crates/hashbrown
+[submodule "platform/external/rust/crates/heck"]
+	branch = master
+	path = external/rust/crates/heck
+	url = ../external/rust/crates/heck
+[submodule "platform/external/rust/crates/indexmap"]
+	branch = master
+	path = external/rust/crates/indexmap
+	url = ../external/rust/crates/indexmap
+[submodule "platform/external/rust/crates/lazy_static"]
+	branch = master
+	path = external/rust/crates/lazy_static
+	url = ../external/rust/crates/lazy_static
+[submodule "platform/external/rust/crates/lazycell"]
+	branch = master
+	path = external/rust/crates/lazycell
+	url = ../external/rust/crates/lazycell
+[submodule "platform/external/rust/crates/libc"]
+	branch = master
+	path = external/rust/crates/libc
+	url = ../external/rust/crates/libc
+[submodule "platform/external/rust/crates/libloading"]
+	branch = master
+	path = external/rust/crates/libloading
+	url = ../external/rust/crates/libloading
+[submodule "platform/external/rust/crates/log"]
+	branch = master
+	path = external/rust/crates/log
+	url = ../external/rust/crates/log
+[submodule "platform/external/rust/crates/memchr"]
+	branch = master
+	path = external/rust/crates/memchr
+	url = ../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/minimal-lexical"]
+	branch = master
+	path = external/rust/crates/minimal-lexical
+	url = ../external/rust/crates/minimal-lexical
+[submodule "platform/external/rust/crates/nom"]
+	branch = master
+	path = external/rust/crates/nom
+	url = ../external/rust/crates/nom
 [submodule "platform/external/rust/crates/num-bigint"]
 	branch = master
 	path = external/rust/crates/num-bigint
@@ -142,18 +234,94 @@
 	branch = master
 	path = external/rust/crates/num-traits
 	url = ../external/rust/crates/num-traits
+[submodule "platform/external/rust/crates/once_cell"]
+	branch = master
+	path = external/rust/crates/once_cell
+	url = ../external/rust/crates/once_cell
+[submodule "platform/external/rust/crates/os_str_bytes"]
+	branch = master
+	path = external/rust/crates/os_str_bytes
+	url = ../external/rust/crates/os_str_bytes
 [submodule "platform/external/rust/crates/paste"]
 	branch = master
 	path = external/rust/crates/paste
 	url = ../external/rust/crates/paste
+[submodule "platform/external/rust/crates/peeking_take_while"]
+	branch = master
+	path = external/rust/crates/peeking_take_while
+	url = ../external/rust/crates/peeking_take_while
 [submodule "platform/external/rust/crates/pin-utils"]
 	branch = master
 	path = external/rust/crates/pin-utils
 	url = ../external/rust/crates/pin-utils
+[submodule "platform/external/rust/crates/ppv-lite86"]
+	branch = master
+	path = external/rust/crates/ppv-lite86
+	url = ../external/rust/crates/ppv-lite86
+[submodule "platform/external/rust/crates/proc-macro-error"]
+	branch = master
+	path = external/rust/crates/proc-macro-error
+	url = ../external/rust/crates/proc-macro-error
+[submodule "platform/external/rust/crates/proc-macro-error-attr"]
+	branch = master
+	path = external/rust/crates/proc-macro-error-attr
+	url = ../external/rust/crates/proc-macro-error-attr
+[submodule "platform/external/rust/crates/proc-macro2"]
+	branch = master
+	path = external/rust/crates/proc-macro2
+	url = ../external/rust/crates/proc-macro2
+[submodule "platform/external/rust/crates/protobuf"]
+	branch = master
+	path = external/rust/crates/protobuf
+	url = ../external/rust/crates/protobuf
+[submodule "platform/external/rust/crates/quote"]
+	branch = master
+	path = external/rust/crates/quote
+	url = ../external/rust/crates/quote
 [submodule "platform/external/rust/crates/rand"]
 	branch = master
 	path = external/rust/crates/rand
 	url = ../external/rust/crates/rand
+[submodule "platform/external/rust/crates/rand_chacha"]
+	branch = master
+	path = external/rust/crates/rand_chacha
+	url = ../external/rust/crates/rand_chacha
+[submodule "platform/external/rust/crates/rand_core"]
+	branch = master
+	path = external/rust/crates/rand_core
+	url = ../external/rust/crates/rand_core
+[submodule "platform/external/rust/crates/regex"]
+	branch = master
+	path = external/rust/crates/regex
+	url = ../external/rust/crates/regex
+[submodule "platform/external/rust/crates/regex-syntax"]
+	branch = master
+	path = external/rust/crates/regex-syntax
+	url = ../external/rust/crates/regex-syntax
+[submodule "platform/external/rust/crates/rustc-hash"]
+	branch = master
+	path = external/rust/crates/rustc-hash
+	url = ../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/same-file"]
+	branch = master
+	path = external/rust/crates/same-file
+	url = ../external/rust/crates/same-file
+[submodule "platform/external/rust/crates/shlex"]
+	branch = master
+	path = external/rust/crates/shlex
+	url = ../external/rust/crates/shlex
+[submodule "platform/external/rust/crates/syn"]
+	branch = master
+	path = external/rust/crates/syn
+	url = ../external/rust/crates/syn
+[submodule "platform/external/rust/crates/termcolor"]
+	branch = master
+	path = external/rust/crates/termcolor
+	url = ../external/rust/crates/termcolor
+[submodule "platform/external/rust/crates/textwrap"]
+	branch = master
+	path = external/rust/crates/textwrap
+	url = ../external/rust/crates/textwrap
 [submodule "platform/external/rust/crates/thiserror"]
 	branch = master
 	path = external/rust/crates/thiserror
@@ -162,10 +330,26 @@
 	branch = master
 	path = external/rust/crates/thiserror-impl
 	url = ../external/rust/crates/thiserror-impl
+[submodule "platform/external/rust/crates/unicode-ident"]
+	branch = master
+	path = external/rust/crates/unicode-ident
+	url = ../external/rust/crates/unicode-ident
+[submodule "platform/external/rust/crates/unicode-width"]
+	branch = master
+	path = external/rust/crates/unicode-width
+	url = ../external/rust/crates/unicode-width
 [submodule "platform/external/rust/crates/walkdir"]
 	branch = master
 	path = external/rust/crates/walkdir
 	url = ../external/rust/crates/walkdir
+[submodule "platform/external/rust/crates/which"]
+	branch = master
+	path = external/rust/crates/which
+	url = ../external/rust/crates/which
+[submodule "platform/external/rust/cxx"]
+	branch = master
+	path = external/rust/crates/cxx
+	url = ../external/rust/cxx
 [submodule "platform/external/tink"]
 	branch = emu-master-dev
 	path = external/tink
