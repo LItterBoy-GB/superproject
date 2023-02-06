@@ -2563,10 +2563,6 @@
 	branch = master
 	path = external/rust/crates/proc-macro-error-attr
 	url = ../external/rust/crates/proc-macro-error-attr
-[submodule "platform/external/rust/crates/proc-macro-hack"]
-	branch = master
-	path = external/rust/crates/proc-macro-hack
-	url = ../external/rust/crates/proc-macro-hack
 [submodule "platform/external/rust/crates/proc-macro-nested"]
 	branch = master
 	path = external/rust/crates/proc-macro-nested
