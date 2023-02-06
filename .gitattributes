@@ -682,7 +682,6 @@
 /external/rust/crates/synstructure pdk
 /external/rust/crates/tempfile pdk
 /external/rust/crates/termcolor pdk
-/external/rust/crates/terminal-size pdk
 /external/rust/crates/textwrap pdk
 /external/rust/crates/thiserror pdk
 /external/rust/crates/thiserror-impl pdk
