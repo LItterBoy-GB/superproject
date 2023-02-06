@@ -629,7 +629,6 @@
 /external/rust/crates/ppv-lite86 pdk
 /external/rust/crates/proc-macro-error pdk
 /external/rust/crates/proc-macro-error-attr pdk
-/external/rust/crates/proc-macro-hack pdk
 /external/rust/crates/proc-macro-nested pdk
 /external/rust/crates/proc-macro2 pdk
 /external/rust/crates/protobuf pdk
@@ -683,7 +682,6 @@
 /external/rust/crates/synstructure pdk
 /external/rust/crates/tempfile pdk
 /external/rust/crates/termcolor pdk
-/external/rust/crates/terminal-size pdk
 /external/rust/crates/textwrap pdk
 /external/rust/crates/thiserror pdk
 /external/rust/crates/thiserror-impl pdk

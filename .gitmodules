@@ -1891,9 +1891,6 @@
 [submodule "platform/external/rust/crates/proc-macro-error-attr"]
 	path = external/rust/crates/proc-macro-error-attr
 	url = ../external/rust/crates/proc-macro-error-attr
-[submodule "platform/external/rust/crates/proc-macro-hack"]
-	path = external/rust/crates/proc-macro-hack
-	url = ../external/rust/crates/proc-macro-hack
 [submodule "platform/external/rust/crates/proc-macro-nested"]
 	path = external/rust/crates/proc-macro-nested
 	url = ../external/rust/crates/proc-macro-nested
@@ -2053,9 +2050,6 @@
 [submodule "platform/external/rust/crates/termcolor"]
 	path = external/rust/crates/termcolor
 	url = ../external/rust/crates/termcolor
-[submodule "platform/external/rust/crates/terminal-size"]
-	path = external/rust/crates/terminal-size
-	url = ../external/rust/crates/terminal-size
 [submodule "platform/external/rust/crates/textwrap"]
 	path = external/rust/crates/textwrap
 	url = ../external/rust/crates/textwrap
