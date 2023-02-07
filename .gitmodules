@@ -1186,6 +1186,10 @@
 	branch = master
 	path = external/kotlinc
 	url = ../external/kotlinc
+[submodule "platform/external/kotlinpoet"]
+	branch = master
+	path = external/kotlinpoet
+	url = ../external/kotlinpoet
 [submodule "platform/external/kotlinx.atomicfu"]
 	branch = master
 	path = external/kotlinx.atomicfu

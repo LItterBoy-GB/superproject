@@ -287,6 +287,7 @@
 /external/kernel-headers pdk
 /external/kmod pdk
 /external/kotlinc pdk
+/external/kotlinpoet pdk
 /external/kotlinx.atomicfu pdk
 /external/kotlinx.coroutines pdk
 /external/kotlinx.metadata pdk
