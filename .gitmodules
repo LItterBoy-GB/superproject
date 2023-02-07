@@ -319,6 +319,10 @@
 	branch = master
 	path = external/zopfli
 	url = ../external/zopfli
+[submodule "platform/packages/modules/common"]
+	branch = master
+	path = packages/modules/common
+	url = ../packages/modules/common
 [submodule "platform/prebuilts/bazel/common"]
 	branch = master
 	shallow = true
@@ -444,6 +448,10 @@
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
+[submodule "platform/system/apex"]
+	branch = master
+	path = system/apex
+	url = ../system/apex
 [submodule "platform/system/core"]
 	branch = master
 	path = system/core
