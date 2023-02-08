@@ -238,6 +238,9 @@
 [submodule "platform/external/zopfli"]
 	path = external/zopfli
 	url = ../external/zopfli
+[submodule "platform/packages/modules/common"]
+	path = packages/modules/common
+	url = ../packages/modules/common
 [submodule "platform/prebuilts/bazel/common"]
 	path = prebuilts/bazel/common
 	url = ../prebuilts/bazel/common
@@ -313,6 +316,9 @@
 [submodule "platform/prebuilts/tools"]
 	path = prebuilts/tools
 	url = ../prebuilts/tools
+[submodule "platform/system/apex"]
+	path = system/apex
+	url = ../system/apex
 [submodule "platform/system/core"]
 	path = system/core
 	url = ../system/core
