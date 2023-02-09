@@ -86,6 +86,7 @@
 /kernel/prebuilts/mainline/arm64 pdk
 /kernel/prebuilts/mainline/x86_64 pdk
 /kernel/tests vts pdk
+/apisurface multitree
 /art pdk
 /bionic pdk
 /bootable/libbootloader vts pdk
@@ -116,6 +117,7 @@
 /external/aac pdk
 /external/abseil-cpp pdk
 /external/android-clat pdk
+/external/android-key-attestation pdk
 /external/android-nn-driver pdk-gs-arm pdk-lassen
 /external/androidplot pdk
 /external/angle pdk
@@ -163,6 +165,7 @@
 /external/cpu_features pdk
 /external/cpuinfo pdk
 /external/crcalc pdk
+/external/cronet pdk
 /external/cros/system_api pdk
 /external/crosvm pdk
 /external/curl pdk
@@ -355,6 +358,7 @@
 /external/lzma pdk
 /external/marisa-trie pdk
 /external/markdown pdk
+/external/mbedtls pdk
 /external/mdnsresponder pdk
 /external/mesa3d pdk-fs pdk-cw-fs
 /external/mime-support pdk
@@ -478,10 +482,12 @@
 /external/rust/crates/async-stream-impl pdk
 /external/rust/crates/async-task pdk
 /external/rust/crates/async-trait pdk
+/external/rust/crates/atomic pdk
 /external/rust/crates/atty pdk
 /external/rust/crates/base64 pdk
 /external/rust/crates/bencher pdk
 /external/rust/crates/bindgen pdk
+/external/rust/crates/bindgen-cli pdk
 /external/rust/crates/bitflags pdk
 /external/rust/crates/bitreader pdk
 /external/rust/crates/bstr pdk
@@ -601,6 +607,7 @@
 /external/rust/crates/once_cell pdk
 /external/rust/crates/oorandom pdk
 /external/rust/crates/openssl pdk
+/external/rust/crates/openssl-macros pdk
 /external/rust/crates/os_str_bytes pdk
 /external/rust/crates/parking_lot pdk
 /external/rust/crates/parking_lot_core pdk
@@ -666,6 +673,7 @@
 /external/rust/crates/shlex pdk
 /external/rust/crates/slab pdk
 /external/rust/crates/smallvec pdk
+/external/rust/crates/socket2 pdk
 /external/rust/crates/spin pdk
 /external/rust/crates/spki pdk
 /external/rust/crates/static_assertions pdk
@@ -710,10 +718,13 @@
 /external/rust/crates/x509-cert pdk
 /external/rust/crates/x509-parser pdk
 /external/rust/crates/xml-rs pdk
+/external/rust/crates/zerocopy pdk
+/external/rust/crates/zerocopy-derive pdk
 /external/rust/crates/zeroize pdk
 /external/rust/crates/zeroize_derive pdk
 /external/rust/crates/zip pdk
 /external/rust/cxx pdk
+/external/rust/pica pdk
 /external/ruy pdk
 /external/s2-geometry-library-java pdk
 /external/scapy pdk-fs
@@ -734,6 +745,7 @@
 /external/snakeyaml pdk
 /external/sonic pdk
 /external/sonivox pdk
+/external/spdx-tools pdk
 /external/speex pdk
 /external/sqlite pdk
 /external/squashfs-tools pdk
@@ -764,7 +776,6 @@
 /external/ukey2 pdk
 /external/unicode pdk
 /external/universal-tween-engine
-/external/usrsctp pdk
 /external/uwb pdk
 /external/v4l2_codec2 pdk
 /external/vboot_reference pdk-fs vboot
@@ -800,6 +811,8 @@
 /frameworks/ex pdk-fs pdk-cw-fs
 /frameworks/hardware/interfaces pdk
 /frameworks/layoutlib pdk-fs pdk-cw-fs
+/frameworks/libs/binary_translation pdk
+/frameworks/libs/gsma_services pdk
 /frameworks/libs/modules-utils pdk-fs pdk-cw-fs
 /frameworks/libs/native_bridge_support pdk
 /frameworks/libs/net pdk-fs pdk-cw-fs
@@ -849,6 +862,7 @@
 /hardware/libhardware_legacy pdk
 /hardware/nxp/nfc pdk
 /hardware/nxp/secure_element pdk
+/hardware/nxp/uwb pdk
 /hardware/qcom/audio qcom_audio qcom pdk-qcom
 /hardware/qcom/bootctrl pdk-qcom
 /hardware/qcom/bt qcom pdk-qcom

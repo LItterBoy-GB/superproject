@@ -381,6 +381,10 @@
 	branch = master
 	path = kernel/tests
 	url = ../../kernel/tests
+[submodule "platform/apisurface"]
+	branch = master
+	path = apisurface
+	url = ../apisurface
 [submodule "platform/art"]
 	branch = master
 	path = art
@@ -501,6 +505,10 @@
 	branch = master
 	path = external/android-clat
 	url = ../external/android-clat
+[submodule "platform/external/android-key-attestation"]
+	branch = master
+	path = external/android-key-attestation
+	url = ../external/android-key-attestation
 [submodule "platform/external/android-nn-driver"]
 	branch = master
 	path = external/android-nn-driver
@@ -690,6 +698,10 @@
 	branch = master
 	path = external/crcalc
 	url = ../external/crcalc
+[submodule "platform/external/cronet"]
+	branch = master
+	path = external/cronet
+	url = ../external/cronet
 [submodule "platform/external/cros/system_api"]
 	branch = master
 	path = external/cros/system_api
@@ -1459,6 +1471,10 @@
 	branch = master
 	path = external/markdown
 	url = ../external/markdown
+[submodule "platform/external/mbedtls"]
+	branch = master
+	path = external/mbedtls
+	url = ../external/mbedtls
 [submodule "platform/external/mdnsresponder"]
 	branch = master
 	path = external/mdnsresponder
@@ -1951,6 +1967,10 @@
 	branch = master
 	path = external/rust/crates/async-trait
 	url = ../external/rust/crates/async-trait
+[submodule "platform/external/rust/crates/atomic"]
+	branch = master
+	path = external/rust/crates/atomic
+	url = ../external/rust/crates/atomic
 [submodule "platform/external/rust/crates/atty"]
 	branch = master
 	path = external/rust/crates/atty
@@ -1967,6 +1987,10 @@
 	branch = master
 	path = external/rust/crates/bindgen
 	url = ../external/rust/crates/bindgen
+[submodule "platform/external/rust/crates/bindgen-cli"]
+	branch = master
+	path = external/rust/crates/bindgen-cli
+	url = ../external/rust/crates/bindgen-cli
 [submodule "platform/external/rust/crates/bitflags"]
 	branch = master
 	path = external/rust/crates/bitflags
@@ -2443,6 +2467,10 @@
 	branch = master
 	path = external/rust/crates/openssl
 	url = ../external/rust/crates/openssl
+[submodule "platform/external/rust/crates/openssl-macros"]
+	branch = master
+	path = external/rust/crates/openssl-macros
+	url = ../external/rust/crates/openssl-macros
 [submodule "platform/external/rust/crates/os_str_bytes"]
 	branch = master
 	path = external/rust/crates/os_str_bytes
@@ -2703,6 +2731,10 @@
 	branch = master
 	path = external/rust/crates/smallvec
 	url = ../external/rust/crates/smallvec
+[submodule "platform/external/rust/crates/socket2"]
+	branch = master
+	path = external/rust/crates/socket2
+	url = ../external/rust/crates/socket2
 [submodule "platform/external/rust/crates/spin"]
 	branch = master
 	path = external/rust/crates/spin
@@ -2879,6 +2911,14 @@
 	branch = master
 	path = external/rust/crates/xml-rs
 	url = ../external/rust/crates/xml-rs
+[submodule "platform/external/rust/crates/zerocopy"]
+	branch = master
+	path = external/rust/crates/zerocopy
+	url = ../external/rust/crates/zerocopy
+[submodule "platform/external/rust/crates/zerocopy-derive"]
+	branch = master
+	path = external/rust/crates/zerocopy-derive
+	url = ../external/rust/crates/zerocopy-derive
 [submodule "platform/external/rust/crates/zeroize"]
 	branch = master
 	path = external/rust/crates/zeroize
@@ -2895,6 +2935,10 @@
 	branch = master
 	path = external/rust/cxx
 	url = ../external/rust/cxx
+[submodule "platform/external/rust/pica"]
+	branch = master
+	path = external/rust/pica
+	url = ../external/rust/pica
 [submodule "platform/external/ruy"]
 	branch = master
 	path = external/ruy
@@ -2975,6 +3019,10 @@
 	branch = master
 	path = external/sonivox
 	url = ../external/sonivox
+[submodule "platform/external/spdx-tools"]
+	branch = master
+	path = external/spdx-tools
+	url = ../external/spdx-tools
 [submodule "platform/external/speex"]
 	branch = master
 	path = external/speex
@@ -3097,10 +3145,6 @@
 	branch = master
 	path = external/universal-tween-engine
 	url = ../external/universal-tween-engine
-[submodule "platform/external/usrsctp"]
-	branch = master
-	path = external/usrsctp
-	url = ../external/usrsctp
 [submodule "platform/external/uwb"]
 	branch = master
 	path = external/uwb
@@ -3241,6 +3285,14 @@
 	branch = master
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
+[submodule "platform/frameworks/libs/binary_translation"]
+	branch = master
+	path = frameworks/libs/binary_translation
+	url = ../frameworks/libs/binary_translation
+[submodule "platform/frameworks/libs/gsma_services"]
+	branch = master
+	path = frameworks/libs/gsma_services
+	url = ../frameworks/libs/gsma_services
 [submodule "platform/frameworks/libs/modules-utils"]
 	branch = master
 	path = frameworks/libs/modules-utils
@@ -3437,6 +3489,10 @@
 	branch = master
 	path = hardware/nxp/secure_element
 	url = ../hardware/nxp/secure_element
+[submodule "platform/hardware/nxp/uwb"]
+	branch = master
+	path = hardware/nxp/uwb
+	url = ../hardware/nxp/uwb
 [submodule "platform/hardware/qcom/audio"]
 	branch = master
 	path = hardware/qcom/audio
