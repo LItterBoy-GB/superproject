@@ -85,15 +85,84 @@
 [submodule "platform/external/rapidjson"]
 	path = external/rapidjson
 	url = ../external/rapidjson
+[submodule "platform/external/rust/crates/aho-corasick"]
+	path = external/rust/crates/aho-corasick
+	url = ../external/rust/crates/aho-corasick
+[submodule "platform/external/rust/crates/atty"]
+	path = external/rust/crates/atty
+	url = ../external/rust/crates/atty
 [submodule "platform/external/rust/crates/bindgen"]
 	path = external/rust/crates/bindgen
 	url = ../external/rust/crates/bindgen
+[submodule "platform/external/rust/crates/bitflags"]
+	path = external/rust/crates/bitflags
+	url = ../external/rust/crates/bitflags
 [submodule "platform/external/rust/crates/bytes"]
 	path = external/rust/crates/bytes
 	url = ../external/rust/crates/bytes
+[submodule "platform/external/rust/crates/cexpr"]
+	path = external/rust/crates/cexpr
+	url = ../external/rust/crates/cexpr
+[submodule "platform/external/rust/crates/cfg-if"]
+	path = external/rust/crates/cfg-if
+	url = ../external/rust/crates/cfg-if
 [submodule "platform/external/rust/crates/clang-sys"]
 	path = external/rust/crates/clang-sys
 	url = ../external/rust/crates/clang-sys
+[submodule "platform/external/rust/crates/clap"]
+	path = external/rust/crates/clap
+	url = ../external/rust/crates/clap
+[submodule "platform/external/rust/crates/clap_derive"]
+	path = external/rust/crates/clap_derive
+	url = ../external/rust/crates/clap_derive
+[submodule "platform/external/rust/crates/clap_lex"]
+	path = external/rust/crates/clap_lex
+	url = ../external/rust/crates/clap_lex
+[submodule "platform/external/rust/crates/either"]
+	path = external/rust/crates/either
+	url = ../external/rust/crates/either
+[submodule "platform/external/rust/crates/env_logger"]
+	path = external/rust/crates/env_logger
+	url = ../external/rust/crates/env_logger
+[submodule "platform/external/rust/crates/getrandom"]
+	path = external/rust/crates/getrandom
+	url = ../external/rust/crates/getrandom
+[submodule "platform/external/rust/crates/glob"]
+	path = external/rust/crates/glob
+	url = ../external/rust/crates/glob
+[submodule "platform/external/rust/crates/hashbrown"]
+	path = external/rust/crates/hashbrown
+	url = ../external/rust/crates/hashbrown
+[submodule "platform/external/rust/crates/heck"]
+	path = external/rust/crates/heck
+	url = ../external/rust/crates/heck
+[submodule "platform/external/rust/crates/indexmap"]
+	path = external/rust/crates/indexmap
+	url = ../external/rust/crates/indexmap
+[submodule "platform/external/rust/crates/lazy_static"]
+	path = external/rust/crates/lazy_static
+	url = ../external/rust/crates/lazy_static
+[submodule "platform/external/rust/crates/lazycell"]
+	path = external/rust/crates/lazycell
+	url = ../external/rust/crates/lazycell
+[submodule "platform/external/rust/crates/libc"]
+	path = external/rust/crates/libc
+	url = ../external/rust/crates/libc
+[submodule "platform/external/rust/crates/libloading"]
+	path = external/rust/crates/libloading
+	url = ../external/rust/crates/libloading
+[submodule "platform/external/rust/crates/log"]
+	path = external/rust/crates/log
+	url = ../external/rust/crates/log
+[submodule "platform/external/rust/crates/memchr"]
+	path = external/rust/crates/memchr
+	url = ../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/minimal-lexical"]
+	path = external/rust/crates/minimal-lexical
+	url = ../external/rust/crates/minimal-lexical
+[submodule "platform/external/rust/crates/nom"]
+	path = external/rust/crates/nom
+	url = ../external/rust/crates/nom
 [submodule "platform/external/rust/crates/num-bigint"]
 	path = external/rust/crates/num-bigint
 	url = ../external/rust/crates/num-bigint
@@ -106,21 +175,93 @@
 [submodule "platform/external/rust/crates/num-traits"]
 	path = external/rust/crates/num-traits
 	url = ../external/rust/crates/num-traits
+[submodule "platform/external/rust/crates/once_cell"]
+	path = external/rust/crates/once_cell
+	url = ../external/rust/crates/once_cell
+[submodule "platform/external/rust/crates/os_str_bytes"]
+	path = external/rust/crates/os_str_bytes
+	url = ../external/rust/crates/os_str_bytes
+[submodule "platform/external/rust/crates/paste"]
+	path = external/rust/crates/paste
+	url = ../external/rust/crates/paste
+[submodule "platform/external/rust/crates/peeking_take_while"]
+	path = external/rust/crates/peeking_take_while
+	url = ../external/rust/crates/peeking_take_while
 [submodule "platform/external/rust/crates/pin-utils"]
 	path = external/rust/crates/pin-utils
 	url = ../external/rust/crates/pin-utils
+[submodule "platform/external/rust/crates/ppv-lite86"]
+	path = external/rust/crates/ppv-lite86
+	url = ../external/rust/crates/ppv-lite86
+[submodule "platform/external/rust/crates/proc-macro-error"]
+	path = external/rust/crates/proc-macro-error
+	url = ../external/rust/crates/proc-macro-error
+[submodule "platform/external/rust/crates/proc-macro-error-attr"]
+	path = external/rust/crates/proc-macro-error-attr
+	url = ../external/rust/crates/proc-macro-error-attr
+[submodule "platform/external/rust/crates/proc-macro2"]
+	path = external/rust/crates/proc-macro2
+	url = ../external/rust/crates/proc-macro2
+[submodule "platform/external/rust/crates/protobuf"]
+	path = external/rust/crates/protobuf
+	url = ../external/rust/crates/protobuf
+[submodule "platform/external/rust/crates/quote"]
+	path = external/rust/crates/quote
+	url = ../external/rust/crates/quote
 [submodule "platform/external/rust/crates/rand"]
 	path = external/rust/crates/rand
 	url = ../external/rust/crates/rand
+[submodule "platform/external/rust/crates/rand_chacha"]
+	path = external/rust/crates/rand_chacha
+	url = ../external/rust/crates/rand_chacha
+[submodule "platform/external/rust/crates/rand_core"]
+	path = external/rust/crates/rand_core
+	url = ../external/rust/crates/rand_core
+[submodule "platform/external/rust/crates/regex"]
+	path = external/rust/crates/regex
+	url = ../external/rust/crates/regex
+[submodule "platform/external/rust/crates/regex-syntax"]
+	path = external/rust/crates/regex-syntax
+	url = ../external/rust/crates/regex-syntax
+[submodule "platform/external/rust/crates/rustc-hash"]
+	path = external/rust/crates/rustc-hash
+	url = ../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/same-file"]
+	path = external/rust/crates/same-file
+	url = ../external/rust/crates/same-file
+[submodule "platform/external/rust/crates/shlex"]
+	path = external/rust/crates/shlex
+	url = ../external/rust/crates/shlex
+[submodule "platform/external/rust/crates/syn"]
+	path = external/rust/crates/syn
+	url = ../external/rust/crates/syn
+[submodule "platform/external/rust/crates/termcolor"]
+	path = external/rust/crates/termcolor
+	url = ../external/rust/crates/termcolor
+[submodule "platform/external/rust/crates/textwrap"]
+	path = external/rust/crates/textwrap
+	url = ../external/rust/crates/textwrap
 [submodule "platform/external/rust/crates/thiserror"]
 	path = external/rust/crates/thiserror
 	url = ../external/rust/crates/thiserror
 [submodule "platform/external/rust/crates/thiserror-impl"]
 	path = external/rust/crates/thiserror-impl
 	url = ../external/rust/crates/thiserror-impl
+[submodule "platform/external/rust/crates/unicode-ident"]
+	path = external/rust/crates/unicode-ident
+	url = ../external/rust/crates/unicode-ident
+[submodule "platform/external/rust/crates/unicode-width"]
+	path = external/rust/crates/unicode-width
+	url = ../external/rust/crates/unicode-width
 [submodule "platform/external/rust/crates/walkdir"]
 	path = external/rust/crates/walkdir
 	url = ../external/rust/crates/walkdir
+[submodule "platform/external/rust/crates/which"]
+	path = external/rust/crates/which
+	url = ../external/rust/crates/which
+[submodule "platform/external/rust/cxx"]
+	path = external/rust/crates/cxx
+	url = ../external/rust/cxx
 [submodule "platform/external/tink"]
 	path = external/tink
 	url = ../external/tink
