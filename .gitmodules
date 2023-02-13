@@ -533,6 +533,14 @@
 	branch = master
 	path = external/apache-commons-compress
 	url = ../external/apache-commons-compress
+[submodule "platform/external/apache-commons-io"]
+	branch = master
+	path = external/apache-commons-io
+	url = ../external/apache-commons-io
+[submodule "platform/external/apache-commons-lang"]
+	branch = master
+	path = external/apache-commons-lang
+	url = ../external/apache-commons-lang
 [submodule "platform/external/apache-commons-math"]
 	branch = master
 	path = external/apache-commons-math
@@ -545,6 +553,10 @@
 	branch = master
 	path = external/apache-http
 	url = ../external/apache-http
+[submodule "platform/external/apache-velocity-engine"]
+	branch = master
+	path = external/apache-velocity-engine
+	url = ../external/apache-velocity-engine
 [submodule "platform/external/apache-xml"]
 	branch = master
 	path = external/apache-xml
