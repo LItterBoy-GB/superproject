@@ -124,9 +124,12 @@
 /external/antlr pdk
 /external/apache-commons-bcel pdk
 /external/apache-commons-compress pdk
+/external/apache-commons-io pdk
+/external/apache-commons-lang pdk
 /external/apache-commons-math pdk
 /external/apache-harmony pdk
 /external/apache-http pdk
+/external/apache-velocity-engine pdk
 /external/apache-xml pdk
 /external/arm-neon-tests vendor
 /external/arm-optimized-routines pdk
