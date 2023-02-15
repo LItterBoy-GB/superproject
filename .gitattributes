@@ -73,6 +73,8 @@
 /kernel/prebuilts/5.15/x86_64 pdk
 /kernel/prebuilts/5.4/arm64 pdk
 /kernel/prebuilts/5.4/x86_64 pdk
+/kernel/prebuilts/6.1/arm64 pdk
+/kernel/prebuilts/6.1/x86_64 pdk
 /kernel/prebuilts/common-modules/virtual-device/4.19/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/4.19/x86-64 pdk
 /kernel/prebuilts/common-modules/virtual-device/5.10/arm64 pdk
@@ -81,6 +83,8 @@
 /kernel/prebuilts/common-modules/virtual-device/5.15/x86-64 pdk
 /kernel/prebuilts/common-modules/virtual-device/5.4/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/5.4/x86-64 pdk
+/kernel/prebuilts/common-modules/virtual-device/6.1/arm64 pdk
+/kernel/prebuilts/common-modules/virtual-device/6.1/x86-64 pdk
 /kernel/prebuilts/common-modules/virtual-device/mainline/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/mainline/x86-64 pdk
 /kernel/prebuilts/mainline/arm64 pdk
