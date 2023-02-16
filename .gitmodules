@@ -1959,6 +1959,10 @@
 	branch = master
 	path = external/rust/crates/aho-corasick
 	url = ../external/rust/crates/aho-corasick
+[submodule "platform/external/rust/crates/aliasable"]
+	branch = master
+	path = external/rust/crates/aliasable
+	url = ../external/rust/crates/aliasable
 [submodule "platform/external/rust/crates/android_log-sys"]
 	branch = master
 	path = external/rust/crates/android_log-sys
@@ -2179,6 +2183,10 @@
 	branch = master
 	path = external/rust/crates/der_derive
 	url = ../external/rust/crates/der_derive
+[submodule "platform/external/rust/crates/derive-getters"]
+	branch = master
+	path = external/rust/crates/derive-getters
+	url = ../external/rust/crates/derive-getters
 [submodule "platform/external/rust/crates/derive_arbitrary"]
 	branch = master
 	path = external/rust/crates/derive_arbitrary
@@ -2339,6 +2347,10 @@
 	branch = master
 	path = external/rust/crates/indexmap
 	url = ../external/rust/crates/indexmap
+[submodule "platform/external/rust/crates/inflector"]
+	branch = master
+	path = external/rust/crates/inflector
+	url = ../external/rust/crates/inflector
 [submodule "platform/external/rust/crates/instant"]
 	branch = master
 	path = external/rust/crates/instant
@@ -2515,6 +2527,14 @@
 	branch = master
 	path = external/rust/crates/os_str_bytes
 	url = ../external/rust/crates/os_str_bytes
+[submodule "platform/external/rust/crates/ouroboros"]
+	branch = master
+	path = external/rust/crates/ouroboros
+	url = ../external/rust/crates/ouroboros
+[submodule "platform/external/rust/crates/ouroboros_macro"]
+	branch = master
+	path = external/rust/crates/ouroboros_macro
+	url = ../external/rust/crates/ouroboros_macro
 [submodule "platform/external/rust/crates/parking_lot"]
 	branch = master
 	path = external/rust/crates/parking_lot
