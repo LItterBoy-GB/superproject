@@ -477,6 +477,7 @@
 /external/rust/crates/aarch64-paging pdk
 /external/rust/crates/ahash pdk
 /external/rust/crates/aho-corasick pdk
+/external/rust/crates/aliasable pdk
 /external/rust/crates/android_log-sys pdk
 /external/rust/crates/android_logger pdk
 /external/rust/crates/anyhow pdk
@@ -532,6 +533,7 @@
 /external/rust/crates/der-oid-macro pdk
 /external/rust/crates/der-parser pdk
 /external/rust/crates/der_derive pdk
+/external/rust/crates/derive-getters pdk
 /external/rust/crates/derive_arbitrary pdk
 /external/rust/crates/document-features pdk
 /external/rust/crates/downcast-rs pdk
@@ -572,6 +574,7 @@
 /external/rust/crates/hex pdk
 /external/rust/crates/idna pdk
 /external/rust/crates/indexmap pdk
+/external/rust/crates/inflector pdk
 /external/rust/crates/instant pdk
 /external/rust/crates/intrusive-collections pdk
 /external/rust/crates/itertools pdk
@@ -616,6 +619,8 @@
 /external/rust/crates/openssl pdk
 /external/rust/crates/openssl-macros pdk
 /external/rust/crates/os_str_bytes pdk
+/external/rust/crates/ouroboros pdk
+/external/rust/crates/ouroboros_macro pdk
 /external/rust/crates/parking_lot pdk
 /external/rust/crates/parking_lot_core pdk
 /external/rust/crates/paste pdk
