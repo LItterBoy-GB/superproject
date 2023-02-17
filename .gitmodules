@@ -349,7 +349,7 @@
 	path = bootable/recovery
 	url = ../bootable/recovery
 [submodule "platform/build"]
-	branch = android12-dev
+	branch = android12-hostruntime-dev
 	path = build/make
 	url = ../build
 [submodule "platform/build/bazel"]
@@ -2634,7 +2634,7 @@
 	path = external/yapf
 	url = ../external/yapf
 [submodule "platform/external/zlib"]
-	branch = android12-dev
+	branch = android12-hostruntime-dev
 	path = external/zlib
 	url = ../external/zlib
 [submodule "platform/external/zopfli"]
