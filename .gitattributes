@@ -23,8 +23,12 @@
 /kernel/configs vts pdk
 /kernel/prebuilts/5.15/arm64 pdk
 /kernel/prebuilts/5.15/x86_64 pdk
+/kernel/prebuilts/6.1/arm64 pdk
+/kernel/prebuilts/6.1/x86_64 pdk
 /kernel/prebuilts/common-modules/virtual-device/5.15/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/5.15/x86-64 pdk
+/kernel/prebuilts/common-modules/virtual-device/6.1/arm64 pdk
+/kernel/prebuilts/common-modules/virtual-device/6.1/x86-64 pdk
 /apisurface multitree
 /art pdk
 /bionic pdk
@@ -54,9 +58,12 @@
 /external/antlr pdk
 /external/apache-commons-bcel pdk
 /external/apache-commons-compress pdk
+/external/apache-commons-io pdk
+/external/apache-commons-lang pdk
 /external/apache-commons-math pdk
 /external/apache-harmony pdk
 /external/apache-http pdk
+/external/apache-velocity-engine pdk
 /external/apache-xml pdk
 /external/arm-optimized-routines pdk
 /external/armnn pdk-gs-arm pdk-lassen
@@ -186,6 +193,7 @@
 /external/junit-params pdk
 /external/kmod pdk
 /external/kotlinc pdk
+/external/kotlinpoet pdk
 /external/kotlinx.atomicfu pdk
 /external/kotlinx.coroutines pdk
 /external/kotlinx.metadata pdk
@@ -339,6 +347,7 @@
 /external/rust/crates/aarch64-paging pdk
 /external/rust/crates/ahash pdk
 /external/rust/crates/aho-corasick pdk
+/external/rust/crates/aliasable pdk
 /external/rust/crates/android_log-sys pdk
 /external/rust/crates/android_logger pdk
 /external/rust/crates/anyhow pdk
@@ -394,6 +403,7 @@
 /external/rust/crates/der-oid-macro pdk
 /external/rust/crates/der-parser pdk
 /external/rust/crates/der_derive pdk
+/external/rust/crates/derive-getters pdk
 /external/rust/crates/derive_arbitrary pdk
 /external/rust/crates/document-features pdk
 /external/rust/crates/downcast-rs pdk
@@ -434,6 +444,7 @@
 /external/rust/crates/hex pdk
 /external/rust/crates/idna pdk
 /external/rust/crates/indexmap pdk
+/external/rust/crates/inflector pdk
 /external/rust/crates/instant pdk
 /external/rust/crates/intrusive-collections pdk
 /external/rust/crates/itertools pdk
@@ -478,6 +489,8 @@
 /external/rust/crates/openssl pdk
 /external/rust/crates/openssl-macros pdk
 /external/rust/crates/os_str_bytes pdk
+/external/rust/crates/ouroboros pdk
+/external/rust/crates/ouroboros_macro pdk
 /external/rust/crates/parking_lot pdk
 /external/rust/crates/parking_lot_core pdk
 /external/rust/crates/paste pdk
@@ -499,7 +512,6 @@
 /external/rust/crates/ppv-lite86 pdk
 /external/rust/crates/proc-macro-error pdk
 /external/rust/crates/proc-macro-error-attr pdk
-/external/rust/crates/proc-macro-hack pdk
 /external/rust/crates/proc-macro-nested pdk
 /external/rust/crates/proc-macro2 pdk
 /external/rust/crates/protobuf pdk
@@ -553,7 +565,6 @@
 /external/rust/crates/synstructure pdk
 /external/rust/crates/tempfile pdk
 /external/rust/crates/termcolor pdk
-/external/rust/crates/terminal-size pdk
 /external/rust/crates/textwrap pdk
 /external/rust/crates/thiserror pdk
 /external/rust/crates/thiserror-impl pdk
@@ -840,7 +851,6 @@
 /prebuilts/rust pdk
 /prebuilts/sdk pdk
 /prebuilts/tools pdk tools
-/prebuilts/vndk/v28 pdk
 /prebuilts/vndk/v29 pdk
 /prebuilts/vndk/v30 pdk
 /prebuilts/vndk/v31 pdk

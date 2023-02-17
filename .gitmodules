@@ -102,6 +102,16 @@
 	shallow = true
 	path = kernel/prebuilts/5.15/x86_64
 	url = ../../kernel/prebuilts/5.15/x86-64
+[submodule "kernel/prebuilts/6.1/arm64"]
+	branch = master
+	shallow = true
+	path = kernel/prebuilts/6.1/arm64
+	url = ../../kernel/prebuilts/6.1/arm64
+[submodule "kernel/prebuilts/6.1/x86-64"]
+	branch = master
+	shallow = true
+	path = kernel/prebuilts/6.1/x86_64
+	url = ../../kernel/prebuilts/6.1/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.15/arm64"]
 	branch = master
 	shallow = true
@@ -112,6 +122,16 @@
 	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/5.15/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.15/x86-64
+[submodule "kernel/prebuilts/common-modules/virtual-device/6.1/arm64"]
+	branch = master
+	shallow = true
+	path = kernel/prebuilts/common-modules/virtual-device/6.1/arm64
+	url = ../../kernel/prebuilts/common-modules/virtual-device/6.1/arm64
+[submodule "kernel/prebuilts/common-modules/virtual-device/6.1/x86-64"]
+	branch = master
+	shallow = true
+	path = kernel/prebuilts/common-modules/virtual-device/6.1/x86-64
+	url = ../../kernel/prebuilts/common-modules/virtual-device/6.1/x86-64
 [submodule "platform/apisurface"]
 	branch = master
 	path = apisurface
@@ -228,6 +248,14 @@
 	branch = master
 	path = external/apache-commons-compress
 	url = ../external/apache-commons-compress
+[submodule "platform/external/apache-commons-io"]
+	branch = master
+	path = external/apache-commons-io
+	url = ../external/apache-commons-io
+[submodule "platform/external/apache-commons-lang"]
+	branch = master
+	path = external/apache-commons-lang
+	url = ../external/apache-commons-lang
 [submodule "platform/external/apache-commons-math"]
 	branch = master
 	path = external/apache-commons-math
@@ -240,6 +268,10 @@
 	branch = master
 	path = external/apache-http
 	url = ../external/apache-http
+[submodule "platform/external/apache-velocity-engine"]
+	branch = master
+	path = external/apache-velocity-engine
+	url = ../external/apache-velocity-engine
 [submodule "platform/external/apache-xml"]
 	branch = master
 	path = external/apache-xml
@@ -756,6 +788,10 @@
 	branch = master
 	path = external/kotlinc
 	url = ../external/kotlinc
+[submodule "platform/external/kotlinpoet"]
+	branch = master
+	path = external/kotlinpoet
+	url = ../external/kotlinpoet
 [submodule "platform/external/kotlinx.atomicfu"]
 	branch = master
 	path = external/kotlinx.atomicfu
@@ -1369,6 +1405,10 @@
 	branch = master
 	path = external/rust/crates/aho-corasick
 	url = ../external/rust/crates/aho-corasick
+[submodule "platform/external/rust/crates/aliasable"]
+	branch = master
+	path = external/rust/crates/aliasable
+	url = ../external/rust/crates/aliasable
 [submodule "platform/external/rust/crates/android_log-sys"]
 	branch = master
 	path = external/rust/crates/android_log-sys
@@ -1589,6 +1629,10 @@
 	branch = master
 	path = external/rust/crates/der_derive
 	url = ../external/rust/crates/der_derive
+[submodule "platform/external/rust/crates/derive-getters"]
+	branch = master
+	path = external/rust/crates/derive-getters
+	url = ../external/rust/crates/derive-getters
 [submodule "platform/external/rust/crates/derive_arbitrary"]
 	branch = master
 	path = external/rust/crates/derive_arbitrary
@@ -1749,6 +1793,10 @@
 	branch = master
 	path = external/rust/crates/indexmap
 	url = ../external/rust/crates/indexmap
+[submodule "platform/external/rust/crates/inflector"]
+	branch = master
+	path = external/rust/crates/inflector
+	url = ../external/rust/crates/inflector
 [submodule "platform/external/rust/crates/instant"]
 	branch = master
 	path = external/rust/crates/instant
@@ -1925,6 +1973,14 @@
 	branch = master
 	path = external/rust/crates/os_str_bytes
 	url = ../external/rust/crates/os_str_bytes
+[submodule "platform/external/rust/crates/ouroboros"]
+	branch = master
+	path = external/rust/crates/ouroboros
+	url = ../external/rust/crates/ouroboros
+[submodule "platform/external/rust/crates/ouroboros_macro"]
+	branch = master
+	path = external/rust/crates/ouroboros_macro
+	url = ../external/rust/crates/ouroboros_macro
 [submodule "platform/external/rust/crates/parking_lot"]
 	branch = master
 	path = external/rust/crates/parking_lot
@@ -2009,10 +2065,6 @@
 	branch = master
 	path = external/rust/crates/proc-macro-error-attr
 	url = ../external/rust/crates/proc-macro-error-attr
-[submodule "platform/external/rust/crates/proc-macro-hack"]
-	branch = master
-	path = external/rust/crates/proc-macro-hack
-	url = ../external/rust/crates/proc-macro-hack
 [submodule "platform/external/rust/crates/proc-macro-nested"]
 	branch = master
 	path = external/rust/crates/proc-macro-nested
@@ -2225,10 +2277,6 @@
 	branch = master
 	path = external/rust/crates/termcolor
 	url = ../external/rust/crates/termcolor
-[submodule "platform/external/rust/crates/terminal-size"]
-	branch = master
-	path = external/rust/crates/terminal-size
-	url = ../external/rust/crates/terminal-size
 [submodule "platform/external/rust/crates/textwrap"]
 	branch = master
 	path = external/rust/crates/textwrap
@@ -3418,11 +3466,6 @@
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
-[submodule "platform/prebuilts/vndk/v28"]
-	branch = master
-	shallow = true
-	path = prebuilts/vndk/v28
-	url = ../prebuilts/vndk/v28
 [submodule "platform/prebuilts/vndk/v29"]
 	branch = master
 	shallow = true
