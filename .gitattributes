@@ -480,6 +480,7 @@
 /external/rust/crates/aliasable pdk
 /external/rust/crates/android_log-sys pdk
 /external/rust/crates/android_logger pdk
+/external/rust/crates/anes pdk
 /external/rust/crates/anyhow pdk
 /external/rust/crates/arbitrary pdk
 /external/rust/crates/argh pdk

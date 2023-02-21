@@ -1963,6 +1963,10 @@
 	branch = master
 	path = external/rust/crates/android_logger
 	url = ../external/rust/crates/android_logger
+[submodule "platform/external/rust/crates/anes"]
+	branch = master
+	path = external/rust/crates/anes
+	url = ../external/rust/crates/anes
 [submodule "platform/external/rust/crates/anyhow"]
 	branch = master
 	path = external/rust/crates/anyhow
