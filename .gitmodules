@@ -3525,10 +3525,6 @@
 	branch = master
 	path = hardware/libhardware_legacy
 	url = ../hardware/libhardware_legacy
-[submodule "platform/hardware/nxp/keymint"]
-	branch = master
-	path = hardware/nxp/keymint
-	url = ../hardware/nxp/keymint
 [submodule "platform/hardware/nxp/nfc"]
 	branch = master
 	path = hardware/nxp/nfc
@@ -3541,10 +3537,6 @@
 	branch = master
 	path = hardware/nxp/uwb
 	url = ../hardware/nxp/uwb
-[submodule "platform/hardware/nxp/weaver"]
-	branch = master
-	path = hardware/nxp/weaver
-	url = ../hardware/nxp/weaver
 [submodule "platform/hardware/qcom/audio"]
 	branch = master
 	path = hardware/qcom/audio
