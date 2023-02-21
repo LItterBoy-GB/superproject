@@ -17,7 +17,6 @@
 /external/google-breakpad
 /external/googletest
 /external/grpc
-/external/libchrome platform-linux notdefault
 /external/libpng
 /external/libusb
 /external/libyuv

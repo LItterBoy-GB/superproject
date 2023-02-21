@@ -75,10 +75,6 @@
 	branch = emu-master-dev
 	path = external/grpc
 	url = ../external/grpc-grpc
-[submodule "platform/external/libchrome"]
-	branch = emu-master-dev
-	path = external/libchrome
-	url = ../external/libchrome
 [submodule "platform/external/libpng"]
 	branch = emu-master-dev
 	path = external/libpng
