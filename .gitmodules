@@ -2439,10 +2439,6 @@
 	branch = master
 	path = external/rust/crates/managed
 	url = ../external/rust/crates/managed
-[submodule "platform/external/rust/crates/matches"]
-	branch = master
-	path = external/rust/crates/matches
-	url = ../external/rust/crates/matches
 [submodule "platform/external/rust/crates/memchr"]
 	branch = master
 	path = external/rust/crates/memchr

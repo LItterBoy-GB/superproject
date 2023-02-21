@@ -599,7 +599,6 @@
 /external/rust/crates/lru-cache pdk
 /external/rust/crates/macaddr pdk
 /external/rust/crates/managed pdk
-/external/rust/crates/matches pdk
 /external/rust/crates/memchr pdk
 /external/rust/crates/memoffset pdk
 /external/rust/crates/merge pdk
