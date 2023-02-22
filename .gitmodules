@@ -2215,6 +2215,10 @@
 	branch = master
 	path = external/rust/crates/fallible-streaming-iterator
 	url = ../external/rust/crates/fallible-streaming-iterator
+[submodule "platform/external/rust/crates/fastrand"]
+	branch = master
+	path = external/rust/crates/fastrand
+	url = ../external/rust/crates/fastrand
 [submodule "platform/external/rust/crates/flagset"]
 	branch = master
 	path = external/rust/crates/flagset
