@@ -356,6 +356,7 @@
 /external/libxkbcommon pdk
 /external/libxml2 pdk libxml2
 /external/libyuv libyuv pdk
+/external/licenseclassifier pdk
 /external/linux-kselftest vts pdk
 /external/llvm pdk
 /external/lmfit pdk
