@@ -55,9 +55,6 @@
 [submodule "platform/external/grpc-grpc"]
 	path = external/grpc
 	url = ../external/grpc-grpc
-[submodule "platform/external/libchrome"]
-	path = external/libchrome
-	url = ../external/libchrome
 [submodule "platform/external/libpng"]
 	path = external/libpng
 	url = ../external/libpng
