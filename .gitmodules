@@ -1000,6 +1000,10 @@
 	branch = master
 	path = external/libyuv
 	url = ../external/libyuv
+[submodule "platform/external/licenseclassifier"]
+	branch = master
+	path = external/licenseclassifier
+	url = ../external/licenseclassifier
 [submodule "platform/external/linux-kselftest"]
 	branch = master
 	shallow = true
@@ -1417,6 +1421,10 @@
 	branch = master
 	path = external/rust/crates/android_logger
 	url = ../external/rust/crates/android_logger
+[submodule "platform/external/rust/crates/anes"]
+	branch = master
+	path = external/rust/crates/anes
+	url = ../external/rust/crates/anes
 [submodule "platform/external/rust/crates/anyhow"]
 	branch = master
 	path = external/rust/crates/anyhow
@@ -1665,6 +1673,10 @@
 	branch = master
 	path = external/rust/crates/fallible-streaming-iterator
 	url = ../external/rust/crates/fallible-streaming-iterator
+[submodule "platform/external/rust/crates/fastrand"]
+	branch = master
+	path = external/rust/crates/fastrand
+	url = ../external/rust/crates/fastrand
 [submodule "platform/external/rust/crates/flagset"]
 	branch = master
 	path = external/rust/crates/flagset
@@ -1885,10 +1897,6 @@
 	branch = master
 	path = external/rust/crates/managed
 	url = ../external/rust/crates/managed
-[submodule "platform/external/rust/crates/matches"]
-	branch = master
-	path = external/rust/crates/matches
-	url = ../external/rust/crates/matches
 [submodule "platform/external/rust/crates/memchr"]
 	branch = master
 	path = external/rust/crates/memchr
