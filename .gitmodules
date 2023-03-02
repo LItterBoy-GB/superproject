@@ -223,6 +223,12 @@
 [submodule "kernel/prebuilts/5.4/x86-64"]
 	path = kernel/prebuilts/5.4/x86_64
 	url = ../../kernel/prebuilts/5.4/x86-64
+[submodule "kernel/prebuilts/6.1/arm64"]
+	path = kernel/prebuilts/6.1/arm64
+	url = ../../kernel/prebuilts/6.1/arm64
+[submodule "kernel/prebuilts/6.1/x86-64"]
+	path = kernel/prebuilts/6.1/x86_64
+	url = ../../kernel/prebuilts/6.1/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/4.19/arm64"]
 	path = kernel/prebuilts/common-modules/virtual-device/4.19/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/4.19/arm64
@@ -247,6 +253,12 @@
 [submodule "kernel/prebuilts/common-modules/virtual-device/5.4/x86-64"]
 	path = kernel/prebuilts/common-modules/virtual-device/5.4/x86-64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/5.4/x86-64
+[submodule "kernel/prebuilts/common-modules/virtual-device/6.1/arm64"]
+	path = kernel/prebuilts/common-modules/virtual-device/6.1/arm64
+	url = ../../kernel/prebuilts/common-modules/virtual-device/6.1/arm64
+[submodule "kernel/prebuilts/common-modules/virtual-device/6.1/x86-64"]
+	path = kernel/prebuilts/common-modules/virtual-device/6.1/x86-64
+	url = ../../kernel/prebuilts/common-modules/virtual-device/6.1/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/mainline/arm64"]
 	path = kernel/prebuilts/common-modules/virtual-device/mainline/arm64
 	url = ../../kernel/prebuilts/common-modules/virtual-device/mainline/arm64
@@ -376,6 +388,12 @@
 [submodule "platform/external/apache-commons-compress"]
 	path = external/apache-commons-compress
 	url = ../external/apache-commons-compress
+[submodule "platform/external/apache-commons-io"]
+	path = external/apache-commons-io
+	url = ../external/apache-commons-io
+[submodule "platform/external/apache-commons-lang"]
+	path = external/apache-commons-lang
+	url = ../external/apache-commons-lang
 [submodule "platform/external/apache-commons-math"]
 	path = external/apache-commons-math
 	url = ../external/apache-commons-math
@@ -385,6 +403,9 @@
 [submodule "platform/external/apache-http"]
 	path = external/apache-http
 	url = ../external/apache-http
+[submodule "platform/external/apache-velocity-engine"]
+	path = external/apache-velocity-engine
+	url = ../external/apache-velocity-engine
 [submodule "platform/external/apache-xml"]
 	path = external/apache-xml
 	url = ../external/apache-xml
@@ -865,6 +886,9 @@
 [submodule "platform/external/kotlinc"]
 	path = external/kotlinc
 	url = ../external/kotlinc
+[submodule "platform/external/kotlinpoet"]
+	path = external/kotlinpoet
+	url = ../external/kotlinpoet
 [submodule "platform/external/kotlinx.atomicfu"]
 	path = external/kotlinx.atomicfu
 	url = ../external/kotlinx.atomicfu
@@ -1045,6 +1069,9 @@
 [submodule "platform/external/libyuv"]
 	path = external/libyuv
 	url = ../external/libyuv
+[submodule "platform/external/licenseclassifier"]
+	path = external/licenseclassifier
+	url = ../external/licenseclassifier
 [submodule "platform/external/linux-kselftest"]
 	path = external/linux-kselftest
 	url = ../external/linux-kselftest
@@ -1411,12 +1438,18 @@
 [submodule "platform/external/rust/crates/aho-corasick"]
 	path = external/rust/crates/aho-corasick
 	url = ../external/rust/crates/aho-corasick
+[submodule "platform/external/rust/crates/aliasable"]
+	path = external/rust/crates/aliasable
+	url = ../external/rust/crates/aliasable
 [submodule "platform/external/rust/crates/android_log-sys"]
 	path = external/rust/crates/android_log-sys
 	url = ../external/rust/crates/android_log-sys
 [submodule "platform/external/rust/crates/android_logger"]
 	path = external/rust/crates/android_logger
 	url = ../external/rust/crates/android_logger
+[submodule "platform/external/rust/crates/anes"]
+	path = external/rust/crates/anes
+	url = ../external/rust/crates/anes
 [submodule "platform/external/rust/crates/anyhow"]
 	path = external/rust/crates/anyhow
 	url = ../external/rust/crates/anyhow
@@ -1576,6 +1609,9 @@
 [submodule "platform/external/rust/crates/der_derive"]
 	path = external/rust/crates/der_derive
 	url = ../external/rust/crates/der_derive
+[submodule "platform/external/rust/crates/derive-getters"]
+	path = external/rust/crates/derive-getters
+	url = ../external/rust/crates/derive-getters
 [submodule "platform/external/rust/crates/derive_arbitrary"]
 	path = external/rust/crates/derive_arbitrary
 	url = ../external/rust/crates/derive_arbitrary
@@ -1600,6 +1636,9 @@
 [submodule "platform/external/rust/crates/fallible-streaming-iterator"]
 	path = external/rust/crates/fallible-streaming-iterator
 	url = ../external/rust/crates/fallible-streaming-iterator
+[submodule "platform/external/rust/crates/fastrand"]
+	path = external/rust/crates/fastrand
+	url = ../external/rust/crates/fastrand
 [submodule "platform/external/rust/crates/flagset"]
 	path = external/rust/crates/flagset
 	url = ../external/rust/crates/flagset
@@ -1696,6 +1735,9 @@
 [submodule "platform/external/rust/crates/indexmap"]
 	path = external/rust/crates/indexmap
 	url = ../external/rust/crates/indexmap
+[submodule "platform/external/rust/crates/inflector"]
+	path = external/rust/crates/inflector
+	url = ../external/rust/crates/inflector
 [submodule "platform/external/rust/crates/instant"]
 	path = external/rust/crates/instant
 	url = ../external/rust/crates/instant
@@ -1762,9 +1804,6 @@
 [submodule "platform/external/rust/crates/managed"]
 	path = external/rust/crates/managed
 	url = ../external/rust/crates/managed
-[submodule "platform/external/rust/crates/matches"]
-	path = external/rust/crates/matches
-	url = ../external/rust/crates/matches
 [submodule "platform/external/rust/crates/memchr"]
 	path = external/rust/crates/memchr
 	url = ../external/rust/crates/memchr
@@ -1828,6 +1867,12 @@
 [submodule "platform/external/rust/crates/os_str_bytes"]
 	path = external/rust/crates/os_str_bytes
 	url = ../external/rust/crates/os_str_bytes
+[submodule "platform/external/rust/crates/ouroboros"]
+	path = external/rust/crates/ouroboros
+	url = ../external/rust/crates/ouroboros
+[submodule "platform/external/rust/crates/ouroboros_macro"]
+	path = external/rust/crates/ouroboros_macro
+	url = ../external/rust/crates/ouroboros_macro
 [submodule "platform/external/rust/crates/parking_lot"]
 	path = external/rust/crates/parking_lot
 	url = ../external/rust/crates/parking_lot
@@ -3277,9 +3322,6 @@
 [submodule "platform/prebuilts/tools"]
 	path = prebuilts/tools
 	url = ../prebuilts/tools
-[submodule "platform/prebuilts/vndk/v28"]
-	path = prebuilts/vndk/v28
-	url = ../prebuilts/vndk/v28
 [submodule "platform/prebuilts/vndk/v29"]
 	path = prebuilts/vndk/v29
 	url = ../prebuilts/vndk/v29
