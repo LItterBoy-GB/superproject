@@ -37,6 +37,11 @@
 	shallow = true
 	path = prebuilts/cmake/linux-x86
 	url = ../prebuilts/cmake/linux-x86
+[submodule "platform/prebuilts/cmake/windows-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/cmake/windows-x86
+	url = ../prebuilts/cmake/windows-x86
 [submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
 	branch = master
 	shallow = true
@@ -77,6 +82,11 @@
 	shallow = true
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
+[submodule "platform/prebuilts/ninja/windows-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/ninja/windows-x86
+	url = ../prebuilts/ninja/windows-x86
 [submodule "platform/prebuilts/python/darwin-x86"]
 	branch = llvm-toolchain
 	shallow = true
@@ -87,6 +97,11 @@
 	shallow = true
 	path = prebuilts/python/linux-x86
 	url = ../prebuilts/python/linux-x86
+[submodule "platform/prebuilts/python/windows-x86"]
+	branch = llvm-toolchain
+	shallow = true
+	path = prebuilts/python/windows-x86
+	url = ../prebuilts/python/windows-x86
 [submodule "platform/prebuilts/rust"]
 	branch = master
 	shallow = true
