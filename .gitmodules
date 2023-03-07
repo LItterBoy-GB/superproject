@@ -70,6 +70,9 @@
 	branch = master
 	path = gamesdk
 	url = ../frameworks/opt/gamesdk
+[submodule "platform/packages/modules/StatsD"]
+	path = external/StatsD
+	url = ../packages/modules/StatsD
 [submodule "platform/prebuilts/cmake/darwin-x86"]
 	path = prebuilts/cmake/darwin-x86
 	url = ../prebuilts/cmake/darwin-x86
