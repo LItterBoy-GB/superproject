@@ -1,0 +1,55 @@
+/art pdk
+/external/ImageMagick pdk
+/external/autotest pdk-fs
+/external/blktrace pdk
+/external/dnsmasq pdk
+/external/dtc pdk
+/external/e2fsprogs pdk
+/external/eigen pdk
+/external/elfutils pdk
+/external/erofs-utils pdk
+/external/error_prone pdk
+/external/exfatprogs pdk
+/external/f2fs-tools pdk
+/external/fec pdk
+/external/fsverity-utils pdk
+/external/gptfdisk pdk
+/external/hyphenation-patterns pdk
+/external/ims pdk
+/external/iproute2 pdk
+/external/iptables pdk
+/external/jdiff pdk
+/external/kernel-headers pdk
+/external/kmod pdk
+/external/kotlinc pdk
+/external/libcap-ng pdk
+/external/libconfig pdk
+/external/libcups pdk-fs pdk-cw-fs
+/external/libexif pdk
+/external/libfuse pdk
+/external/libiio pdk
+/external/libnetfilter_conntrack pdk
+/external/libnfnetlink pdk
+/external/libnl pdk
+/external/libpcap pdk
+/external/libusb pdk
+/external/linux-kselftest vts pdk
+/external/ltp vts pdk
+/external/lz4 pdk
+/external/mesa3d pdk-fs pdk-cw-fs
+/external/mtools pdk
+/external/obstack pdk
+/external/oj-libjdwp pdk
+/external/openwrt-prebuilts pdk
+/external/ppp pdk
+/external/proguard pdk
+/external/seccomp-tests pdk
+/external/selinux pdk
+/external/squashfs-tools pdk
+/external/tagsoup pdk
+/external/wmediumd pdk
+/libcore pdk
+/packages/modules/NeuralNetworks pdk-fs pdk-cw-fs
+/prebuilts/tools pdk tools
+/system/sepolicy pdk
+/tools/external/fat32lib tools
