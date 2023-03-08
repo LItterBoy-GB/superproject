@@ -2074,12 +2074,6 @@
 [submodule "platform/external/rust/crates/static_assertions"]
 	path = external/rust/crates/static_assertions
 	url = ../external/rust/crates/static_assertions
-[submodule "platform/external/rust/crates/structopt"]
-	path = external/rust/crates/structopt
-	url = ../external/rust/crates/structopt
-[submodule "platform/external/rust/crates/structopt-derive"]
-	path = external/rust/crates/structopt-derive
-	url = ../external/rust/crates/structopt-derive
 [submodule "platform/external/rust/crates/syn"]
 	path = external/rust/crates/syn
 	url = ../external/rust/crates/syn
