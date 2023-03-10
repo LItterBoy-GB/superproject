@@ -348,7 +348,6 @@
 /external/rust/crates/aarch64-paging pdk
 /external/rust/crates/ahash pdk
 /external/rust/crates/aho-corasick pdk
-/external/rust/crates/aliasable pdk
 /external/rust/crates/android_log-sys pdk
 /external/rust/crates/android_logger pdk
 /external/rust/crates/anes pdk
@@ -447,7 +446,6 @@
 /external/rust/crates/hex pdk
 /external/rust/crates/idna pdk
 /external/rust/crates/indexmap pdk
-/external/rust/crates/inflector pdk
 /external/rust/crates/instant pdk
 /external/rust/crates/intrusive-collections pdk
 /external/rust/crates/itertools pdk
@@ -491,8 +489,6 @@
 /external/rust/crates/openssl pdk
 /external/rust/crates/openssl-macros pdk
 /external/rust/crates/os_str_bytes pdk
-/external/rust/crates/ouroboros pdk
-/external/rust/crates/ouroboros_macro pdk
 /external/rust/crates/parking_lot pdk
 /external/rust/crates/parking_lot_core pdk
 /external/rust/crates/paste pdk
@@ -560,8 +556,6 @@
 /external/rust/crates/spin pdk
 /external/rust/crates/spki pdk
 /external/rust/crates/static_assertions pdk
-/external/rust/crates/structopt pdk
-/external/rust/crates/structopt-derive pdk
 /external/rust/crates/syn pdk
 /external/rust/crates/syn-mid pdk
 /external/rust/crates/synstructure pdk
@@ -785,6 +779,7 @@
 /packages/modules/NeuralNetworks pdk-fs pdk-cw-fs
 /packages/modules/OnDevicePersonalization pdk-fs
 /packages/modules/Permission pdk-fs pdk-cw-fs
+/packages/modules/RemoteKeyProvisioning pdk-fs pdk-cw-fs
 /packages/modules/RuntimeI18n pdk-fs pdk-cw-fs
 /packages/modules/SEPolicy pdk-fs pdk-cw-fs
 /packages/modules/Scheduling pdk-fs pdk-cw-fs

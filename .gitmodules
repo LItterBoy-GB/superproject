@@ -1409,10 +1409,6 @@
 	branch = master
 	path = external/rust/crates/aho-corasick
 	url = ../external/rust/crates/aho-corasick
-[submodule "platform/external/rust/crates/aliasable"]
-	branch = master
-	path = external/rust/crates/aliasable
-	url = ../external/rust/crates/aliasable
 [submodule "platform/external/rust/crates/android_log-sys"]
 	branch = master
 	path = external/rust/crates/android_log-sys
@@ -1805,10 +1801,6 @@
 	branch = master
 	path = external/rust/crates/indexmap
 	url = ../external/rust/crates/indexmap
-[submodule "platform/external/rust/crates/inflector"]
-	branch = master
-	path = external/rust/crates/inflector
-	url = ../external/rust/crates/inflector
 [submodule "platform/external/rust/crates/instant"]
 	branch = master
 	path = external/rust/crates/instant
@@ -1981,14 +1973,6 @@
 	branch = master
 	path = external/rust/crates/os_str_bytes
 	url = ../external/rust/crates/os_str_bytes
-[submodule "platform/external/rust/crates/ouroboros"]
-	branch = master
-	path = external/rust/crates/ouroboros
-	url = ../external/rust/crates/ouroboros
-[submodule "platform/external/rust/crates/ouroboros_macro"]
-	branch = master
-	path = external/rust/crates/ouroboros_macro
-	url = ../external/rust/crates/ouroboros_macro
 [submodule "platform/external/rust/crates/parking_lot"]
 	branch = master
 	path = external/rust/crates/parking_lot
@@ -2257,14 +2241,6 @@
 	branch = master
 	path = external/rust/crates/static_assertions
 	url = ../external/rust/crates/static_assertions
-[submodule "platform/external/rust/crates/structopt"]
-	branch = master
-	path = external/rust/crates/structopt
-	url = ../external/rust/crates/structopt
-[submodule "platform/external/rust/crates/structopt-derive"]
-	branch = master
-	path = external/rust/crates/structopt-derive
-	url = ../external/rust/crates/structopt-derive
 [submodule "platform/external/rust/crates/syn"]
 	branch = master
 	path = external/rust/crates/syn
@@ -3157,6 +3133,10 @@
 	branch = master
 	path = packages/modules/Permission
 	url = ../packages/modules/Permission
+[submodule "platform/packages/modules/RemoteKeyProvisioning"]
+	branch = master
+	path = packages/modules/RemoteKeyProvisioning
+	url = ../packages/modules/RemoteKeyProvisioning
 [submodule "platform/packages/modules/RuntimeI18n"]
 	branch = master
 	path = packages/modules/RuntimeI18n
