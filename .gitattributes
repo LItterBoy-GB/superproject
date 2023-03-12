@@ -172,7 +172,6 @@
 /external/cpuinfo pdk
 /external/crcalc pdk
 /external/cronet pdk
-/external/cros/system_api pdk
 /external/crosvm pdk
 /external/curl pdk
 /external/dagger2 pdk

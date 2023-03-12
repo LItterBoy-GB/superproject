@@ -730,10 +730,6 @@
 	branch = master
 	path = external/cronet
 	url = ../external/cronet
-[submodule "platform/external/cros/system_api"]
-	branch = master
-	path = external/cros/system_api
-	url = ../external/cros/system_api
 [submodule "platform/external/crosvm"]
 	branch = master
 	path = external/crosvm
