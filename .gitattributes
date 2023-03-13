@@ -645,6 +645,8 @@
 /external/rust/crates/proc-macro2 pdk
 /external/rust/crates/protobuf pdk
 /external/rust/crates/protobuf-codegen pdk
+/external/rust/crates/protobuf-parse pdk
+/external/rust/crates/protobuf-support pdk
 /external/rust/crates/psci pdk
 /external/rust/crates/quiche pdk
 /external/rust/crates/quickcheck pdk
