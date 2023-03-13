@@ -1695,6 +1695,10 @@
 	branch = master
 	path = external/ow2-asm
 	url = ../external/ow2-asm
+[submodule "platform/external/owasp/java-encoder"]
+	branch = master
+	path = external/owasp/java-encoder
+	url = ../external/owasp/java-encoder
 [submodule "platform/external/owasp/sanitizer"]
 	branch = master
 	path = external/owasp/sanitizer
