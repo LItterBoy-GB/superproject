@@ -89,13 +89,13 @@
 	path = prebuilts/fullsdk-darwin/platforms/android-33
 	url = ../prebuilts/fullsdk/platforms/android-33
 [submodule "platform/prebuilts/fullsdk/platforms/android-TPS"]
-	path = prebuilts/fullsdk-darwin/platforms/android-33-ext4
+	path = prebuilts/fullsdk-darwin/platforms/android-33-ext5
 	url = ../prebuilts/fullsdk/platforms/android-TPS
 [submodule "platform/prebuilts/fullsdk/sources/android-33"]
 	path = prebuilts/fullsdk-darwin/sources/android-33
 	url = ../prebuilts/fullsdk/sources/android-33
 [submodule "platform/prebuilts/fullsdk/sources/android-TPS"]
-	path = prebuilts/fullsdk-darwin/sources/android-33-ext4
+	path = prebuilts/fullsdk-darwin/sources/android-33-ext5
 	url = ../prebuilts/fullsdk/sources/android-TPS
 [submodule "platform/prebuilts/jdk/jdk17"]
 	path = prebuilts/jdk/jdk17
