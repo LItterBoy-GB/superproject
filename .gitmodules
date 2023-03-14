@@ -12,8 +12,12 @@
 	url = ../../device/google/cuttlefish
 [submodule "platform/build"]
 	branch = emu-master-dev
-	path = build
+	path = build/make
 	url = ../build
+[submodule "platform/build/bazel"]
+	branch = emu-master-dev
+	path = build/bazel
+	url = ../build/bazel
 [submodule "platform/external/adt-infra"]
 	branch = emu-master-dev
 	path = external/adt-infra
