@@ -118,6 +118,10 @@
 	branch = master
 	path = external/rust/crates/aho-corasick
 	url = ../external/rust/crates/aho-corasick
+[submodule "platform/external/rust/crates/anyhow"]
+	branch = master
+	path = external/rust/crates/anyhow
+	url = ../external/rust/crates/anyhow
 [submodule "platform/external/rust/crates/atty"]
 	branch = master
 	path = external/rust/crates/atty
@@ -166,6 +170,10 @@
 	branch = master
 	path = external/rust/crates/env_logger
 	url = ../external/rust/crates/env_logger
+[submodule "platform/external/rust/crates/fastrand"]
+	branch = master
+	path = external/rust/crates/fastrand
+	url = ../external/rust/crates/fastrand
 [submodule "platform/external/rust/crates/getrandom"]
 	branch = master
 	path = external/rust/crates/getrandom
@@ -186,6 +194,10 @@
 	branch = master
 	path = external/rust/crates/indexmap
 	url = ../external/rust/crates/indexmap
+[submodule "platform/external/rust/crates/instant"]
+	branch = master
+	path = external/rust/crates/instant
+	url = ../external/rust/crates/instant
 [submodule "platform/external/rust/crates/lazy_static"]
 	branch = master
 	path = external/rust/crates/lazy_static
@@ -274,6 +286,18 @@
 	branch = master
 	path = external/rust/crates/protobuf
 	url = ../external/rust/crates/protobuf
+[submodule "platform/external/rust/crates/protobuf-codegen"]
+	branch = master
+	path = external/rust/crates/protobuf-codegen
+	url = ../external/rust/crates/protobuf-codegen
+[submodule "platform/external/rust/crates/protobuf-parse"]
+	branch = master
+	path = external/rust/crates/protobuf-parse
+	url = ../external/rust/crates/protobuf-parse
+[submodule "platform/external/rust/crates/protobuf-support"]
+	branch = master
+	path = external/rust/crates/protobuf-support
+	url = ../external/rust/crates/protobuf-support
 [submodule "platform/external/rust/crates/quote"]
 	branch = master
 	path = external/rust/crates/quote
@@ -314,6 +338,10 @@
 	branch = master
 	path = external/rust/crates/syn
 	url = ../external/rust/crates/syn
+[submodule "platform/external/rust/crates/tempfile"]
+	branch = master
+	path = external/rust/crates/tempfile
+	url = ../external/rust/crates/tempfile
 [submodule "platform/external/rust/crates/termcolor"]
 	branch = master
 	path = external/rust/crates/termcolor

@@ -28,6 +28,7 @@
 /external/qemu
 /external/rapidjson
 /external/rust/crates/aho-corasick
+/external/rust/crates/anyhow
 /external/rust/crates/atty
 /external/rust/crates/bindgen
 /external/rust/crates/bitflags
@@ -40,11 +41,13 @@
 /external/rust/crates/clap_lex
 /external/rust/crates/either
 /external/rust/crates/env_logger
+/external/rust/crates/fastrand
 /external/rust/crates/getrandom
 /external/rust/crates/glob
 /external/rust/crates/hashbrown
 /external/rust/crates/heck
 /external/rust/crates/indexmap
+/external/rust/crates/instant
 /external/rust/crates/lazy_static
 /external/rust/crates/lazycell
 /external/rust/crates/libc
@@ -67,6 +70,9 @@
 /external/rust/crates/proc-macro-error-attr
 /external/rust/crates/proc-macro2
 /external/rust/crates/protobuf
+/external/rust/crates/protobuf-codegen
+/external/rust/crates/protobuf-parse
+/external/rust/crates/protobuf-support
 /external/rust/crates/quote
 /external/rust/crates/rand
 /external/rust/crates/rand_chacha
@@ -77,6 +83,7 @@
 /external/rust/crates/same-file
 /external/rust/crates/shlex
 /external/rust/crates/syn
+/external/rust/crates/tempfile
 /external/rust/crates/termcolor
 /external/rust/crates/textwrap
 /external/rust/crates/thiserror
