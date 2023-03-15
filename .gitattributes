@@ -172,7 +172,6 @@
 /external/cpuinfo pdk
 /external/crcalc pdk
 /external/cronet pdk
-/external/cros/system_api pdk
 /external/crosvm pdk
 /external/curl pdk
 /external/dagger2 pdk
@@ -412,6 +411,7 @@
 /external/openwrt-prebuilts pdk
 /external/oss-fuzz pdk
 /external/ow2-asm pdk
+/external/owasp/java-encoder pdk
 /external/owasp/sanitizer pdk
 /external/pandora/avatar pdk
 /external/pandora/bt-test-interfaces pdk
@@ -478,7 +478,6 @@
 /external/rust/crates/aarch64-paging pdk
 /external/rust/crates/ahash pdk
 /external/rust/crates/aho-corasick pdk
-/external/rust/crates/aliasable pdk
 /external/rust/crates/android_log-sys pdk
 /external/rust/crates/android_logger pdk
 /external/rust/crates/anes pdk
@@ -577,7 +576,6 @@
 /external/rust/crates/hex pdk
 /external/rust/crates/idna pdk
 /external/rust/crates/indexmap pdk
-/external/rust/crates/inflector pdk
 /external/rust/crates/instant pdk
 /external/rust/crates/intrusive-collections pdk
 /external/rust/crates/itertools pdk
@@ -621,8 +619,6 @@
 /external/rust/crates/openssl pdk
 /external/rust/crates/openssl-macros pdk
 /external/rust/crates/os_str_bytes pdk
-/external/rust/crates/ouroboros pdk
-/external/rust/crates/ouroboros_macro pdk
 /external/rust/crates/parking_lot pdk
 /external/rust/crates/parking_lot_core pdk
 /external/rust/crates/paste pdk
@@ -648,6 +644,8 @@
 /external/rust/crates/proc-macro2 pdk
 /external/rust/crates/protobuf pdk
 /external/rust/crates/protobuf-codegen pdk
+/external/rust/crates/protobuf-parse pdk
+/external/rust/crates/protobuf-support pdk
 /external/rust/crates/psci pdk
 /external/rust/crates/quiche pdk
 /external/rust/crates/quickcheck pdk

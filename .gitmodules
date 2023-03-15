@@ -520,9 +520,6 @@
 [submodule "platform/external/cronet"]
 	path = external/cronet
 	url = ../external/cronet
-[submodule "platform/external/cros/system_api"]
-	path = external/cros/system_api
-	url = ../external/cros/system_api
 [submodule "platform/external/crosvm"]
 	path = external/crosvm
 	url = ../external/crosvm
@@ -1240,6 +1237,9 @@
 [submodule "platform/external/ow2-asm"]
 	path = external/ow2-asm
 	url = ../external/ow2-asm
+[submodule "platform/external/owasp/java-encoder"]
+	path = external/owasp/java-encoder
+	url = ../external/owasp/java-encoder
 [submodule "platform/external/owasp/sanitizer"]
 	path = external/owasp/sanitizer
 	url = ../external/owasp/sanitizer
@@ -1438,9 +1438,6 @@
 [submodule "platform/external/rust/crates/aho-corasick"]
 	path = external/rust/crates/aho-corasick
 	url = ../external/rust/crates/aho-corasick
-[submodule "platform/external/rust/crates/aliasable"]
-	path = external/rust/crates/aliasable
-	url = ../external/rust/crates/aliasable
 [submodule "platform/external/rust/crates/android_log-sys"]
 	path = external/rust/crates/android_log-sys
 	url = ../external/rust/crates/android_log-sys
@@ -1735,9 +1732,6 @@
 [submodule "platform/external/rust/crates/indexmap"]
 	path = external/rust/crates/indexmap
 	url = ../external/rust/crates/indexmap
-[submodule "platform/external/rust/crates/inflector"]
-	path = external/rust/crates/inflector
-	url = ../external/rust/crates/inflector
 [submodule "platform/external/rust/crates/instant"]
 	path = external/rust/crates/instant
 	url = ../external/rust/crates/instant
@@ -1867,12 +1861,6 @@
 [submodule "platform/external/rust/crates/os_str_bytes"]
 	path = external/rust/crates/os_str_bytes
 	url = ../external/rust/crates/os_str_bytes
-[submodule "platform/external/rust/crates/ouroboros"]
-	path = external/rust/crates/ouroboros
-	url = ../external/rust/crates/ouroboros
-[submodule "platform/external/rust/crates/ouroboros_macro"]
-	path = external/rust/crates/ouroboros_macro
-	url = ../external/rust/crates/ouroboros_macro
 [submodule "platform/external/rust/crates/parking_lot"]
 	path = external/rust/crates/parking_lot
 	url = ../external/rust/crates/parking_lot
@@ -1948,6 +1936,12 @@
 [submodule "platform/external/rust/crates/protobuf-codegen"]
 	path = external/rust/crates/protobuf-codegen
 	url = ../external/rust/crates/protobuf-codegen
+[submodule "platform/external/rust/crates/protobuf-parse"]
+	path = external/rust/crates/protobuf-parse
+	url = ../external/rust/crates/protobuf-parse
+[submodule "platform/external/rust/crates/protobuf-support"]
+	path = external/rust/crates/protobuf-support
+	url = ../external/rust/crates/protobuf-support
 [submodule "platform/external/rust/crates/psci"]
 	path = external/rust/crates/psci
 	url = ../external/rust/crates/psci
