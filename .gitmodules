@@ -87,10 +87,6 @@
 	branch = emu-master-dev
 	path = external/libusb
 	url = ../external/libusb
-[submodule "platform/external/libyuv"]
-	branch = emu-master-dev
-	path = external/libyuv
-	url = ../external/libyuv
 [submodule "platform/external/lz4"]
 	branch = master
 	path = external/lz4
