@@ -3913,10 +3913,6 @@
 	branch = master
 	path = packages/apps/QuickSearchBox
 	url = ../packages/apps/QuickSearchBox
-[submodule "platform/packages/apps/RemoteProvisioner"]
-	branch = master
-	path = packages/apps/RemoteProvisioner
-	url = ../packages/apps/RemoteProvisioner
 [submodule "platform/packages/apps/SafetyRegulatoryInfo"]
 	branch = master
 	path = packages/apps/SafetyRegulatoryInfo
