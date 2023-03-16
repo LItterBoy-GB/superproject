@@ -970,7 +970,6 @@
 /packages/apps/Provision pdk-fs
 /packages/apps/QuickAccessWallet pdk-fs
 /packages/apps/QuickSearchBox pdk-fs
-/packages/apps/RemoteProvisioner pdk-fs
 /packages/apps/SafetyRegulatoryInfo pdk-fs
 /packages/apps/SampleLocationAttribution pdk-fs
 /packages/apps/SecureElement pdk-fs apps_se
