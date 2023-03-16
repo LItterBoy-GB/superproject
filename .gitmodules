@@ -262,27 +262,12 @@
 [submodule "platform/prebuilts/clang/host/linux-x86"]
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
-[submodule "platform/prebuilts/clang/host/windows-x86"]
-	path = prebuilts/clang/host/windows-x86
-	url = ../prebuilts/clang/host/windows-x86
-[submodule "platform/prebuilts/gcc/darwin-x86/host/headers"]
-	path = prebuilts/gcc/darwin-x86/host/headers
-	url = ../prebuilts/gcc/darwin-x86/host/headers
-[submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
-	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
-	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
-[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
-	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
-	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
-[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
-	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
-	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 [submodule "platform/prebuilts/go/darwin-x86"]
 	path = prebuilts/go/darwin-x86
 	url = ../prebuilts/go/darwin-x86
@@ -304,12 +289,6 @@
 [submodule "platform/prebuilts/misc"]
 	path = prebuilts/misc
 	url = ../prebuilts/misc
-[submodule "platform/prebuilts/ninja/darwin-x86"]
-	path = prebuilts/ninja/darwin-x86
-	url = ../prebuilts/ninja/darwin-x86
-[submodule "platform/prebuilts/ninja/linux-x86"]
-	path = prebuilts/ninja/linux-x86
-	url = ../prebuilts/ninja/linux-x86
 [submodule "platform/prebuilts/remoteexecution-client"]
 	path = prebuilts/remoteexecution-client
 	url = ../prebuilts/remoteexecution-client

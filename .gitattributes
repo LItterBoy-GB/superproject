@@ -80,28 +80,21 @@
 /external/zopfli
 /packages/modules/common pdk-fs pdk-cw-fs
 /prebuilts/bazel/common pdk
-/prebuilts/bazel/darwin-x86_64 darwin pdk
+/prebuilts/bazel/darwin-x86_64 pdk notdefault platform-darwin
 /prebuilts/bazel/linux-x86_64 pdk linux
 /prebuilts/build-tools
 /prebuilts/clang-tools
-/prebuilts/clang/host/darwin-x86 darwin
+/prebuilts/clang/host/darwin-x86 notdefault platform-darwin
 /prebuilts/clang/host/linux-x86 linux
-/prebuilts/clang/host/windows-x86 linux
-/prebuilts/gcc/darwin-x86/host/headers darwin
-/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 darwin
-/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 /prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 linux
-/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
-/prebuilts/go/darwin-x86 darwin
+/prebuilts/go/darwin-x86 notdefault platform-darwin
 /prebuilts/go/linux-x86 linux
 /prebuilts/jdk/jdk11
 /prebuilts/jdk/jdk17
 /prebuilts/jdk/jdk8
 /prebuilts/jdk/jdk9
 /prebuilts/misc
-/prebuilts/ninja/darwin-x86 darwin
-/prebuilts/ninja/linux-x86 linux
 /prebuilts/remoteexecution-client pdk
 /prebuilts/tools pdk tools
 /system/apex pdk
