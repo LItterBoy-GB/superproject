@@ -261,10 +261,6 @@
 	shallow = true
 	path = device/linaro/poplar-kernel
 	url = ../../device/linaro/poplar-kernel
-[submodule "device/mediatek/wembley-sepolicy"]
-	branch = master
-	path = device/mediatek/wembley-sepolicy
-	url = ../../device/mediatek/wembley-sepolicy
 [submodule "device/sample"]
 	branch = master
 	path = device/sample

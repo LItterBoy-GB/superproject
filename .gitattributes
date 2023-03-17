@@ -61,7 +61,6 @@
 /device/linaro/hikey-kernel hikey pdk device
 /device/linaro/poplar poplar pdk device
 /device/linaro/poplar-kernel poplar pdk device
-/device/mediatek/wembley-sepolicy device
 /device/sample pdk
 /device/ti/beagle_x15 pdk beagle_x15 device
 /device/ti/beagle_x15-kernel pdk beagle_x15 device
