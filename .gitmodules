@@ -2407,6 +2407,10 @@
 	branch = master
 	path = external/rust/crates/libsqlite3-sys
 	url = ../external/rust/crates/libsqlite3-sys
+[submodule "platform/external/rust/crates/libtest-mimic"]
+	branch = master
+	path = external/rust/crates/libtest-mimic
+	url = ../external/rust/crates/libtest-mimic
 [submodule "platform/external/rust/crates/libz-sys"]
 	branch = master
 	path = external/rust/crates/libz-sys
