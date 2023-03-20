@@ -589,6 +589,7 @@
 /external/rust/crates/libloading pdk
 /external/rust/crates/libm pdk
 /external/rust/crates/libsqlite3-sys pdk
+/external/rust/crates/libtest-mimic pdk
 /external/rust/crates/libz-sys pdk
 /external/rust/crates/linked-hash-map pdk
 /external/rust/crates/litrs pdk
