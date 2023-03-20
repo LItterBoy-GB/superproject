@@ -1181,7 +1181,6 @@
 /test/mts
 /test/suite_harness pdk-fs cts pdk-cw-fs
 /test/vts vts pdk
-/test/vts-testcase/fuzz vts pdk projectarch
 /test/vts-testcase/hal vts pdk
 /test/vts-testcase/hal-trace vts pdk
 /test/vts-testcase/kernel vts pdk
