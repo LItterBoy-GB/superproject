@@ -4794,10 +4794,6 @@
 	branch = master
 	path = test/vts
 	url = ../test/vts
-[submodule "platform/test/vts-testcase/fuzz"]
-	branch = master
-	path = test/vts-testcase/fuzz
-	url = ../test/vts-testcase/fuzz
 [submodule "platform/test/vts-testcase/hal"]
 	branch = master
 	path = test/vts-testcase/hal
