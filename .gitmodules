@@ -1,0 +1,172 @@
+[submodule "platform/art"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = art
+	url = ../art
+[submodule "platform/external/autotest"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/autotest
+	url = ../external/autotest
+[submodule "platform/external/blktrace"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/blktrace
+	url = ../external/blktrace
+[submodule "platform/external/chromium-libpac"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/chromium-libpac
+	url = ../external/chromium-libpac
+[submodule "platform/external/dnsmasq"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/dnsmasq
+	url = ../external/dnsmasq
+[submodule "platform/external/dtc"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/dtc
+	url = ../external/dtc
+[submodule "platform/external/e2fsprogs"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/e2fsprogs
+	url = ../external/e2fsprogs
+[submodule "platform/external/eigen"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/eigen
+	url = ../external/eigen
+[submodule "platform/external/elfutils"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/elfutils
+	url = ../external/elfutils
+[submodule "platform/external/f2fs-tools"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/f2fs-tools
+	url = ../external/f2fs-tools
+[submodule "platform/external/fec"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/fec
+	url = ../external/fec
+[submodule "platform/external/fsverity-utils"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/fsverity-utils
+	url = ../external/fsverity-utils
+[submodule "platform/external/gptfdisk"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/gptfdisk
+	url = ../external/gptfdisk
+[submodule "platform/external/hyphenation-patterns"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/hyphenation-patterns
+	url = ../external/hyphenation-patterns
+[submodule "platform/external/iproute2"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/iproute2
+	url = ../external/iproute2
+[submodule "platform/external/iptables"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/iptables
+	url = ../external/iptables
+[submodule "platform/external/jdiff"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/jdiff
+	url = ../external/jdiff
+[submodule "platform/external/kernel-headers"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/kernel-headers
+	url = ../external/kernel-headers
+[submodule "platform/external/kmod"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/kmod
+	url = ../external/kmod
+[submodule "platform/external/kotlinc"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/kotlinc
+	url = ../external/kotlinc
+[submodule "platform/external/libcap"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/libcap
+	url = ../external/libcap
+[submodule "platform/external/libcap-ng"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/libcap-ng
+	url = ../external/libcap-ng
+[submodule "platform/external/libcups"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/libcups
+	url = ../external/libcups
+[submodule "platform/external/libexif"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/libexif
+	url = ../external/libexif
+[submodule "platform/external/libnetfilter_conntrack"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/libnetfilter_conntrack
+	url = ../external/libnetfilter_conntrack
+[submodule "platform/external/libnfnetlink"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/libnfnetlink
+	url = ../external/libnfnetlink
+[submodule "platform/external/libnl"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/libnl
+	url = ../external/libnl
+[submodule "platform/external/libusb"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/libusb
+	url = ../external/libusb
+[submodule "platform/external/linux-kselftest"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/linux-kselftest
+	url = ../external/linux-kselftest
+[submodule "platform/external/ltp"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/ltp
+	url = ../external/ltp
+[submodule "platform/external/lz4"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/lz4
+	url = ../external/lz4
+[submodule "platform/external/nfacct"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/nfacct
+	url = ../external/nfacct
+[submodule "platform/external/oj-libjdwp"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/oj-libjdwp
+	url = ../external/oj-libjdwp
+[submodule "platform/external/ppp"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/ppp
+	url = ../external/ppp
+[submodule "platform/external/proguard"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/proguard
+	url = ../external/proguard
+[submodule "platform/external/seccomp-tests"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/seccomp-tests
+	url = ../external/seccomp-tests
+[submodule "platform/external/selinux"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/selinux
+	url = ../external/selinux
+[submodule "platform/external/squashfs-tools"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/squashfs-tools
+	url = ../external/squashfs-tools
+[submodule "platform/external/tinycompress"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/tinycompress
+	url = ../external/tinycompress
+[submodule "platform/external/u-boot"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/u-boot
+	url = ../external/u-boot
+[submodule "platform/external/wpa_supplicant_8"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = external/wpa_supplicant_8
+	url = ../external/wpa_supplicant_8
+[submodule "platform/libcore"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = libcore
+	url = ../libcore
+[submodule "platform/prebuilts/tools"]
+	ref = refs/tags/android-wear-11.0.0-gpl_r4
+	path = prebuilts/tools
+	url = ../prebuilts/tools
