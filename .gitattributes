@@ -128,3 +128,4 @@
 /tools/buildSrc
 /tools/netsim
 /external/m4 platform-linux notdefault platform-darwin
+/external/libslirp

@@ -541,3 +541,7 @@
 	branch = master
 	path = external/m4
 	url = ../../toolchain/m4
+[submodule "trusty/external/qemu-libslirp"]
+	branch = emu-master-dev
+	path = external/libslirp
+	url = ../../trusty/external/qemu-libslirp
