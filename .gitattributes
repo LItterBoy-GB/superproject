@@ -89,6 +89,7 @@
 /external/slf4j pdk
 /external/smali pdk
 /external/snakeyaml pdk
+/external/spdx-tools pdk
 /external/sqlite pdk
 /external/squashfs-tools pdk
 /external/starlark-go pdk

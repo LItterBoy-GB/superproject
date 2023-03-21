@@ -362,6 +362,10 @@
 	branch = master
 	path = external/snakeyaml
 	url = ../external/snakeyaml
+[submodule "platform/external/spdx-tools"]
+	branch = master
+	path = external/spdx-tools
+	url = ../external/spdx-tools
 [submodule "platform/external/sqlite"]
 	branch = master
 	path = external/sqlite
