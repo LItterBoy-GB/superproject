@@ -187,9 +187,6 @@
 [submodule "device/linaro/poplar-kernel"]
 	path = device/linaro/poplar-kernel
 	url = ../../device/linaro/poplar-kernel
-[submodule "device/mediatek/wembley-sepolicy"]
-	path = device/mediatek/wembley-sepolicy
-	url = ../../device/mediatek/wembley-sepolicy
 [submodule "device/sample"]
 	path = device/sample
 	url = ../../device/sample
@@ -1774,6 +1771,9 @@
 [submodule "platform/external/rust/crates/libsqlite3-sys"]
 	path = external/rust/crates/libsqlite3-sys
 	url = ../external/rust/crates/libsqlite3-sys
+[submodule "platform/external/rust/crates/libtest-mimic"]
+	path = external/rust/crates/libtest-mimic
+	url = ../external/rust/crates/libtest-mimic
 [submodule "platform/external/rust/crates/libz-sys"]
 	path = external/rust/crates/libz-sys
 	url = ../external/rust/crates/libz-sys
@@ -2905,9 +2905,6 @@
 [submodule "platform/packages/apps/QuickSearchBox"]
 	path = packages/apps/QuickSearchBox
 	url = ../packages/apps/QuickSearchBox
-[submodule "platform/packages/apps/RemoteProvisioner"]
-	path = packages/apps/RemoteProvisioner
-	url = ../packages/apps/RemoteProvisioner
 [submodule "platform/packages/apps/SafetyRegulatoryInfo"]
 	path = packages/apps/SafetyRegulatoryInfo
 	url = ../packages/apps/SafetyRegulatoryInfo
@@ -3523,9 +3520,6 @@
 [submodule "platform/test/vts"]
 	path = test/vts
 	url = ../test/vts
-[submodule "platform/test/vts-testcase/fuzz"]
-	path = test/vts-testcase/fuzz
-	url = ../test/vts-testcase/fuzz
 [submodule "platform/test/vts-testcase/hal"]
 	path = test/vts-testcase/hal
 	url = ../test/vts-testcase/hal

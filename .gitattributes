@@ -61,7 +61,6 @@
 /device/linaro/hikey-kernel hikey pdk device
 /device/linaro/poplar poplar pdk device
 /device/linaro/poplar-kernel poplar pdk device
-/device/mediatek/wembley-sepolicy device
 /device/sample pdk
 /device/ti/beagle_x15 pdk beagle_x15 device
 /device/ti/beagle_x15-kernel pdk beagle_x15 device
@@ -590,6 +589,7 @@
 /external/rust/crates/libloading pdk
 /external/rust/crates/libm pdk
 /external/rust/crates/libsqlite3-sys pdk
+/external/rust/crates/libtest-mimic pdk
 /external/rust/crates/libz-sys pdk
 /external/rust/crates/linked-hash-map pdk
 /external/rust/crates/litrs pdk
@@ -967,7 +967,6 @@
 /packages/apps/Provision pdk-fs
 /packages/apps/QuickAccessWallet pdk-fs
 /packages/apps/QuickSearchBox pdk-fs
-/packages/apps/RemoteProvisioner pdk-fs
 /packages/apps/SafetyRegulatoryInfo pdk-fs
 /packages/apps/SampleLocationAttribution pdk-fs
 /packages/apps/SecureElement pdk-fs apps_se
@@ -1173,7 +1172,6 @@
 /test/mts
 /test/suite_harness pdk-fs cts pdk-cw-fs
 /test/vts vts pdk
-/test/vts-testcase/fuzz vts pdk projectarch
 /test/vts-testcase/hal vts pdk
 /test/vts-testcase/hal-trace vts pdk
 /test/vts-testcase/kernel vts pdk
