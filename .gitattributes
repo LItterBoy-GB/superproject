@@ -38,6 +38,7 @@
 /external/rust/crates/clap
 /external/rust/crates/clap_derive
 /external/rust/crates/clap_lex
+/external/rust/crates/codespan-reporting
 /external/rust/crates/either
 /external/rust/crates/env_logger
 /external/rust/crates/fastrand

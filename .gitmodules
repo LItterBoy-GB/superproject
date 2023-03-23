@@ -158,6 +158,10 @@
 	branch = master
 	path = external/rust/crates/clap_lex
 	url = ../external/rust/crates/clap_lex
+[submodule "platform/external/rust/crates/codespan-reporting"]
+	branch = master
+	path = external/rust/crates/codespan-reporting
+	url = ../external/rust/crates/codespan-reporting
 [submodule "platform/external/rust/crates/either"]
 	branch = master
 	path = external/rust/crates/either
