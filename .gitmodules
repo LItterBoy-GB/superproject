@@ -466,3 +466,7 @@
 	branch = master
 	path = system/logging
 	url = ../system/logging
+[submodule "platform/system/tools/aidl"]
+	branch = master
+	path = system/tools/aidl
+	url = ../system/tools/aidl
