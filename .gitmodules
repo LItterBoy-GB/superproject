@@ -4944,6 +4944,10 @@
 	branch = master
 	path = tools/test/graphicsbenchmark
 	url = ../tools/test/graphicsbenchmark
+[submodule "platform/tools/test/mobly_extensions"]
+	branch = master
+	path = tools/test/mobly_extensions
+	url = ../tools/test/mobly_extensions
 [submodule "platform/tools/test/mobly_snippets"]
 	branch = master
 	path = tools/test/mobly_snippets
