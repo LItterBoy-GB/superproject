@@ -2867,6 +2867,22 @@
 	branch = master
 	path = external/rust/crates/tokio-test
 	url = ../external/rust/crates/tokio-test
+[submodule "platform/external/rust/crates/tokio-util"]
+	branch = master
+	path = external/rust/crates/tokio-util
+	url = ../external/rust/crates/tokio-util
+[submodule "platform/external/rust/crates/tracing"]
+	branch = master
+	path = external/rust/crates/tracing
+	url = ../external/rust/crates/tracing
+[submodule "platform/external/rust/crates/tracing-attributes"]
+	branch = master
+	path = external/rust/crates/tracing-attributes
+	url = ../external/rust/crates/tracing-attributes
+[submodule "platform/external/rust/crates/tracing-core"]
+	branch = master
+	path = external/rust/crates/tracing-core
+	url = ../external/rust/crates/tracing-core
 [submodule "platform/external/rust/crates/ucd-trie"]
 	branch = master
 	path = external/rust/crates/ucd-trie
