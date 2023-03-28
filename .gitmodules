@@ -3132,6 +3132,10 @@
 	branch = master
 	path = external/tflite-support
 	url = ../external/tflite-support
+[submodule "platform/external/third-party-review"]
+	branch = master
+	path = external/third-party-review
+	url = ../external/third-party-review
 [submodule "platform/external/timezone-boundary-builder"]
 	branch = master
 	shallow = true
