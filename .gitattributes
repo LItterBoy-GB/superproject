@@ -64,6 +64,7 @@
 /external/rust/crates/os_str_bytes
 /external/rust/crates/paste
 /external/rust/crates/peeking_take_while
+/external/rust/crates/pin-project-lite
 /external/rust/crates/pin-utils
 /external/rust/crates/ppv-lite86
 /external/rust/crates/proc-macro-error
@@ -88,6 +89,7 @@
 /external/rust/crates/textwrap
 /external/rust/crates/thiserror
 /external/rust/crates/thiserror-impl
+/external/rust/crates/tokio
 /external/rust/crates/unicode-ident
 /external/rust/crates/unicode-width
 /external/rust/crates/walkdir
