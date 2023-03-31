@@ -3505,6 +3505,10 @@
 	branch = master
 	path = hardware/google/gchips
 	url = ../hardware/google/gchips
+[submodule "platform/hardware/google/gfxstream"]
+	branch = master
+	path = hardware/google/gfxstream
+	url = ../hardware/google/gfxstream
 [submodule "platform/hardware/google/graphics/common"]
 	branch = master
 	path = hardware/google/graphics/common
