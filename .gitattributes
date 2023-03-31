@@ -33,6 +33,7 @@
 /external/libcxxabi
 /external/libunwind
 /external/libunwind_llvm
+/external/licenseclassifier
 /external/llvm
 /external/ninja
 /external/protobuf
@@ -83,6 +84,7 @@
 /external/rust/crates/unicode-segmentation
 /external/rust/crates/unicode-xid
 /external/rust/crates/which
+/external/spdx-tools
 /external/starlark-go
 /external/zlib
 /external/zopfli
