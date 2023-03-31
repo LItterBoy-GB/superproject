@@ -57,6 +57,7 @@
 /external/libnl
 /external/libunwind
 /external/libunwind_llvm
+/external/licenseclassifier
 /external/llvm
 /external/lzma
 /external/musl
@@ -71,6 +72,7 @@
 /external/python/cpython3
 /external/safe-iop
 /external/selinux
+/external/spdx-tools
 /external/sqlite
 /external/starlark-go
 /external/tinyxml2
