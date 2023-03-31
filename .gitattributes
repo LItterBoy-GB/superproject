@@ -66,6 +66,7 @@
 /external/libffi pdk
 /external/libunwind_llvm pdk
 /external/libxml2 pdk libxml2
+/external/licenseclassifier pdk
 /external/lz4 pdk
 /external/lzma pdk
 /external/mksh pdk

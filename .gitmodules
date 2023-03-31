@@ -270,6 +270,10 @@
 	branch = master
 	path = external/libxml2
 	url = ../external/libxml2
+[submodule "platform/external/licenseclassifier"]
+	branch = master
+	path = external/licenseclassifier
+	url = ../external/licenseclassifier
 [submodule "platform/external/lz4"]
 	branch = master
 	path = external/lz4
