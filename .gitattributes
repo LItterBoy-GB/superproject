@@ -17,8 +17,10 @@
 /external/jline
 /external/jsr305
 /external/junit
+/external/licenseclassifier
 /external/perfetto
 /external/proguard
+/external/spdx-tools
 /prebuilts/bazel/common pdk
 /prebuilts/bazel/darwin-x86_64 darwin pdk
 /prebuilts/bazel/linux-x86_64 pdk linux

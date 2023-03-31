@@ -75,6 +75,10 @@
 	branch = master
 	path = external/junit
 	url = ../external/junit
+[submodule "platform/external/licenseclassifier"]
+	branch = master
+	path = external/licenseclassifier
+	url = ../external/licenseclassifier
 [submodule "platform/external/perfetto"]
 	branch = master
 	path = external/perfetto
@@ -83,6 +87,10 @@
 	branch = master
 	path = external/proguard
 	url = ../external/proguard
+[submodule "platform/external/spdx-tools"]
+	branch = master
+	path = external/spdx-tools
+	url = ../external/spdx-tools
 [submodule "platform/prebuilts/bazel/common"]
 	branch = master
 	shallow = true
