@@ -862,6 +862,7 @@
 /hardware/google/camera pdk
 /hardware/google/easel easel pdk
 /hardware/google/gchips pdk-gs-arm pdk-lassen
+/hardware/google/gfxstream pdk
 /hardware/google/graphics/common pdk-gs-arm pdk-lassen
 /hardware/google/graphics/gs101 pdk-gs-arm pdk-lassen
 /hardware/google/graphics/gs201 cloudripper
