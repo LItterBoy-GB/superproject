@@ -244,6 +244,7 @@
 /external/google-fonts/zilla-slab pdk
 /external/google-fruit pdk
 /external/google-java-format pdk
+/external/google-smali pdk
 /external/google-styleguide pdk
 /external/googletest pdk
 /external/gptfdisk pdk
