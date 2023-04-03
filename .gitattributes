@@ -72,6 +72,7 @@
 /external/rust/crates/proc-macro2
 /external/rust/crates/protobuf
 /external/rust/crates/protobuf-codegen
+/external/rust/crates/protobuf-json-mapping
 /external/rust/crates/protobuf-parse
 /external/rust/crates/protobuf-support
 /external/rust/crates/quote
