@@ -175,6 +175,9 @@
 [submodule "platform/external/libunwind_llvm"]
 	path = external/libunwind_llvm
 	url = ../external/libunwind_llvm
+[submodule "platform/external/licenseclassifier"]
+	path = external/licenseclassifier
+	url = ../external/licenseclassifier
 [submodule "platform/external/llvm"]
 	path = external/llvm
 	url = ../external/llvm
@@ -217,6 +220,9 @@
 [submodule "platform/external/selinux"]
 	path = external/selinux
 	url = ../external/selinux
+[submodule "platform/external/spdx-tools"]
+	path = external/spdx-tools
+	url = ../external/spdx-tools
 [submodule "platform/external/sqlite"]
 	path = external/sqlite
 	url = ../external/sqlite
