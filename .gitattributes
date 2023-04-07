@@ -402,7 +402,6 @@
 /external/obstack pdk
 /external/oj-libjdwp pdk
 /external/okhttp pdk
-/external/okhttp4 pdk
 /external/okio pdk
 /external/one-true-awk pdk
 /external/open-dice pdk
@@ -776,7 +775,6 @@
 /external/tflite-support pdk
 /external/third-party-review
 /external/timezone-boundary-builder pdk
-/external/tink pdk
 /external/tinyalsa pdk
 /external/tinyalsa_new pdk
 /external/tinycompress pdk
