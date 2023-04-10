@@ -1939,6 +1939,10 @@
 	branch = master
 	path = external/robolectric-shadows
 	url = ../external/robolectric-shadows
+[submodule "platform/external/roboto-flex-fonts"]
+	branch = master
+	path = external/roboto-flex-fonts
+	url = ../external/roboto-flex-fonts
 [submodule "platform/external/roboto-fonts"]
 	branch = master
 	path = external/roboto-fonts
