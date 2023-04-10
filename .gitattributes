@@ -474,7 +474,6 @@
 /external/rnnoise pdk
 /external/robolectric pdk-fs pdk-cw-fs
 /external/robolectric-shadows pdk-fs pdk-cw-fs
-/external/roboto-flex-fonts pdk
 /external/roboto-fonts pdk
 /external/rootdev pdk
 /external/rust/crates/aarch64-paging pdk
