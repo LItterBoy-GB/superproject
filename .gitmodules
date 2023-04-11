@@ -1,0 +1,9 @@
+[submodule "platform/prebuilts/rust"]
+	branch = master
+	shallow = true
+	path = prebuilts/rust
+	url = ../prebuilts/rust
+[submodule "toolchain/sccache"]
+	branch = master
+	path = toolchain/sccache
+	url = ../../toolchain/sccache
