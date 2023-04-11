@@ -64,6 +64,7 @@
 /external/rust/crates/os_str_bytes
 /external/rust/crates/paste
 /external/rust/crates/peeking_take_while
+/external/rust/crates/pin-project-lite
 /external/rust/crates/pin-utils
 /external/rust/crates/ppv-lite86
 /external/rust/crates/proc-macro-error
@@ -71,6 +72,7 @@
 /external/rust/crates/proc-macro2
 /external/rust/crates/protobuf
 /external/rust/crates/protobuf-codegen
+/external/rust/crates/protobuf-json-mapping
 /external/rust/crates/protobuf-parse
 /external/rust/crates/protobuf-support
 /external/rust/crates/quote
@@ -88,6 +90,7 @@
 /external/rust/crates/textwrap
 /external/rust/crates/thiserror
 /external/rust/crates/thiserror-impl
+/external/rust/crates/tokio
 /external/rust/crates/unicode-ident
 /external/rust/crates/unicode-width
 /external/rust/crates/walkdir
@@ -101,6 +104,7 @@
 /external/zlib
 /frameworks/native
 /hardware/google/aemu pdk
+/hardware/google/gfxstream pdk
 /packages/modules/Bluetooth pdk
 /prebuilts/android-emulator
 /prebuilts/android-emulator-build/archive

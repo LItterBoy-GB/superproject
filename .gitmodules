@@ -196,6 +196,9 @@
 [submodule "platform/external/rust/crates/peeking_take_while"]
 	path = external/rust/crates/peeking_take_while
 	url = ../external/rust/crates/peeking_take_while
+[submodule "platform/external/rust/crates/pin-project-lite"]
+	path = external/rust/crates/pin-project-lite
+	url = ../external/rust/crates/pin-project-lite
 [submodule "platform/external/rust/crates/pin-utils"]
 	path = external/rust/crates/pin-utils
 	url = ../external/rust/crates/pin-utils
@@ -217,6 +220,9 @@
 [submodule "platform/external/rust/crates/protobuf-codegen"]
 	path = external/rust/crates/protobuf-codegen
 	url = ../external/rust/crates/protobuf-codegen
+[submodule "platform/external/rust/crates/protobuf-json-mapping"]
+	path = external/rust/crates/protobuf-json-mapping
+	url = ../external/rust/crates/protobuf-json-mapping
 [submodule "platform/external/rust/crates/protobuf-parse"]
 	path = external/rust/crates/protobuf-parse
 	url = ../external/rust/crates/protobuf-parse
@@ -268,6 +274,9 @@
 [submodule "platform/external/rust/crates/thiserror-impl"]
 	path = external/rust/crates/thiserror-impl
 	url = ../external/rust/crates/thiserror-impl
+[submodule "platform/external/rust/crates/tokio"]
+	path = external/rust/crates/tokio
+	url = ../external/rust/crates/tokio
 [submodule "platform/external/rust/crates/unicode-ident"]
 	path = external/rust/crates/unicode-ident
 	url = ../external/rust/crates/unicode-ident
@@ -307,6 +316,9 @@
 [submodule "platform/hardware/google/aemu"]
 	path = hardware/google/aemu
 	url = ../hardware/google/aemu
+[submodule "platform/hardware/google/gfxstream"]
+	path = hardware/google/gfxstream
+	url = ../hardware/google/gfxstream
 [submodule "platform/packages/modules/Bluetooth"]
 	path = packages/modules/Bluetooth
 	url = ../packages/modules/Bluetooth
