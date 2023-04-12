@@ -121,6 +121,10 @@
 	branch = master
 	path = toolchain/prebuilts/ndk/r25
 	url = ../../toolchain/prebuilts/ndk/r25
+[submodule "toolchain/prebuilts/ndk/r26"]
+	branch = master
+	path = toolchain/prebuilts/ndk/r26
+	url = ../../toolchain/prebuilts/ndk/r26
 [submodule "toolchain/prebuilts/sysroot/platform/riscv64-linux-android"]
 	branch = master
 	path = toolchain/prebuilts/sysroot/platform/riscv64-linux-android
