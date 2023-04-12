@@ -1,0 +1,43 @@
+/prebuilts/fullsdk-linux/kernel-build-tools platform-linux notdefault
+/build/make
+/external/abseil-cpp
+/external/dokka
+/external/google-benchmark
+/external/icing
+/external/icu
+/external/ink-stroke-modeler
+/external/libyuv
+/external/noto-fonts
+/external/protobuf
+/external/webview_support_interfaces
+/frameworks/support
+/golden
+/prebuilts/androidx/exoplayer
+/prebuilts/androidx/external
+/prebuilts/androidx/internal
+/prebuilts/androidx/konan
+/prebuilts/androidx/traceprocessor
+/prebuilts/build-tools platform-linux notdefault
+/prebuilts/checkstyle
+/prebuilts/fullsdk-darwin/cmake notdefault platform-darwin
+/prebuilts/fullsdk-linux/cmake platform-linux notdefault
+/prebuilts/fullsdk-darwin/build-tools notdefault platform-darwin
+/prebuilts/fullsdk-darwin/platform-tools notdefault platform-darwin
+/prebuilts/fullsdk-darwin/tools notdefault platform-darwin
+/prebuilts/fullsdk-linux/build-tools platform-linux notdefault
+/prebuilts/fullsdk-linux/platform-tools platform-linux notdefault
+/prebuilts/fullsdk-linux/tools platform-linux notdefault
+/prebuilts/fullsdk-darwin/platforms
+/prebuilts/fullsdk-darwin/sources
+/prebuilts/jdk/jdk17
+/prebuilts/jdk/jdk8
+/prebuilts/fullsdk-darwin/ninja notdefault platform-darwin
+/prebuilts/fullsdk-linux/ninja platform-linux notdefault
+/prebuilts/protobuf
+/external/dexter
+/tools/external/gradle
+/tools/metalava
+/tools/repohooks
+/prebuilts/fullsdk-darwin/ndk-bundle notdefault platform-darwin
+/prebuilts/fullsdk-linux/ndk-bundle platform-linux notdefault
+/tools/fetch_artifact
