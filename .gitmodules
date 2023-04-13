@@ -1,0 +1,216 @@
+[submodule "assets/android-studio-ux-assets"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = tools/assets
+	url = ../../assets/android-studio-ux-assets
+[submodule "platform/external/doclava"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/doclava
+	url = ../external/doclava
+[submodule "platform/external/dokka"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = external/dokka
+	url = ../external/dokka
+[submodule "platform/external/freetype"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/freetype
+	url = ../external/freetype
+[submodule "platform/external/gflags"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/gflags
+	url = ../external/gflags
+[submodule "platform/external/googletest"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/googletest
+	url = ../external/googletest
+[submodule "platform/external/grpc-grpc"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/grpc-grpc
+	url = ../external/grpc-grpc
+[submodule "platform/external/jarjar"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/jarjar
+	url = ../external/jarjar
+[submodule "platform/external/jetbrains/intellij-kotlin"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/jetbrains/intellij-kotlin
+	url = ../external/jetbrains/intellij-kotlin
+[submodule "platform/external/jetbrains/kotlin"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/jetbrains/kotlin
+	url = ../external/jetbrains/kotlin
+[submodule "platform/external/libpng"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/libpng
+	url = ../external/libpng
+[submodule "platform/external/nanopb-c"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/nanopb-c
+	url = ../external/nanopb-c
+[submodule "platform/external/perfetto"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/perfetto
+	url = ../external/perfetto
+[submodule "platform/external/protobuf"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "platform/external/skia"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/skia
+	url = ../external/skia
+[submodule "platform/external/zlib"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/zlib
+	url = ../external/zlib
+[submodule "platform/frameworks/data-binding"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/data-binding
+	url = ../frameworks/data-binding
+[submodule "platform/frameworks/layoutlib"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = frameworks/layoutlib
+	url = ../frameworks/layoutlib
+[submodule "platform/frameworks/opt/sherpa"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/sherpa
+	url = ../frameworks/opt/sherpa
+[submodule "platform/prebuilts/android-emulator"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = prebuilts/android-emulator
+	url = ../prebuilts/android-emulator
+[submodule "platform/prebuilts/clang/host/darwin-x86"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = prebuilts/clang/host/darwin-x86
+	url = ../prebuilts/clang/host/darwin-x86
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = prebuilts/clang/host/linux-x86
+	url = ../prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/clang/host/windows-x86"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = prebuilts/clang/host/windows-x86
+	url = ../prebuilts/clang/host/windows-x86
+[submodule "platform/prebuilts/python/darwin-x86"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = prebuilts/python/darwin-x86
+	url = ../prebuilts/python/darwin-x86
+[submodule "platform/prebuilts/python/linux-x86"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = prebuilts/python/linux-x86
+	url = ../prebuilts/python/linux-x86
+[submodule "platform/prebuilts/python/windows-x86"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = prebuilts/python/windows-x86
+	url = ../prebuilts/python/windows-x86
+[submodule "platform/prebuilts/r8"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = prebuilts/r8
+	url = ../prebuilts/r8
+[submodule "platform/prebuilts/studio/jdk"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = prebuilts/studio/jdk
+	url = ../prebuilts/studio/jdk
+[submodule "platform/prebuilts/studio/layoutlib"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = prebuilts/studio/layoutlib
+	url = ../prebuilts/studio/layoutlib
+[submodule "platform/prebuilts/tools"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "platform/tools/adt/idea"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/adt/idea
+	url = ../tools/adt/idea
+[submodule "platform/tools/analytics-library"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/analytics-library
+	url = ../tools/analytics-library
+[submodule "platform/tools/apksig"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/apksig
+	url = ../tools/apksig
+[submodule "platform/tools/apkzlib"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/apkzlib
+	url = ../tools/apkzlib
+[submodule "platform/tools/base"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/base
+	url = ../tools/base
+[submodule "platform/tools/buildSrc"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/buildSrc
+	url = ../tools/buildSrc
+[submodule "platform/tools/dexter"]
+	ref = refs/tags/studio-2022.2.1
+	path = external/dexter
+	url = ../tools/dexter
+[submodule "platform/tools/external/bazelbuild-rules-kotlin"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/external/bazelbuild-rules-kotlin
+	url = ../tools/external/bazelbuild-rules-kotlin
+[submodule "platform/tools/external/fat32lib"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/external/fat32lib
+	url = ../tools/external/fat32lib
+[submodule "platform/tools/external/gradle"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = tools/external/gradle
+	url = ../tools/external/gradle
+[submodule "platform/tools/google_prebuilts/studio/sdk/remote"]
+	ref = refs/tags/studio-2022.2.1
+	shallow = true
+	path = prebuilts/studio/sdk/remote
+	url = ../tools/google_prebuilts/studio/sdk/remote
+[submodule "platform/tools/gradle"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/gradle
+	url = ../tools/gradle
+[submodule "platform/tools/gradle-recipes"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/gradle-recipes
+	url = ../tools/gradle-recipes
+[submodule "platform/tools/idea"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/idea
+	url = ../tools/idea
+[submodule "platform/tools/repohooks"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/repohooks
+	url = ../tools/repohooks
+[submodule "platform/tools/studio/google/appindexing"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/studio/google/appindexing
+	url = ../tools/studio/google/appindexing
+[submodule "platform/tools/studio/google/cloud/testing"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/studio/google/cloud/testing
+	url = ../tools/studio/google/cloud/testing
+[submodule "platform/tools/studio/google/cloud/tools"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/studio/google/cloud/tools
+	url = ../tools/studio/google/cloud/tools
+[submodule "platform/tools/studio/google/samples"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/studio/google/samples
+	url = ../tools/studio/google/samples
+[submodule "platform/tools/swing-testing"]
+	ref = refs/tags/studio-2022.2.1
+	path = tools/swing-testing
+	url = ../tools/swing-testing
