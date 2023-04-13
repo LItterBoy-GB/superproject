@@ -34,6 +34,7 @@
 /external/rust/crates/bytes
 /external/rust/crates/cexpr
 /external/rust/crates/cfg-if
+/external/rust/crates/chrono
 /external/rust/crates/clang-sys
 /external/rust/crates/clap
 /external/rust/crates/clap_derive

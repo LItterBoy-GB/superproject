@@ -142,6 +142,10 @@
 	branch = master
 	path = external/rust/crates/cfg-if
 	url = ../external/rust/crates/cfg-if
+[submodule "platform/external/rust/crates/chrono"]
+	branch = master
+	path = external/rust/crates/chrono
+	url = ../external/rust/crates/chrono
 [submodule "platform/external/rust/crates/clang-sys"]
 	branch = master
 	path = external/rust/crates/clang-sys
