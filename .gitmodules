@@ -1234,6 +1234,10 @@
 	branch = master
 	path = external/ksoap2
 	url = ../external/ksoap2
+[submodule "platform/external/ksp"]
+	branch = master
+	path = external/ksp
+	url = ../external/ksp
 [submodule "platform/external/ktfmt"]
 	branch = master
 	path = external/ktfmt

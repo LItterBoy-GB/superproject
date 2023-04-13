@@ -298,6 +298,7 @@
 /external/kotlinx.coroutines pdk
 /external/kotlinx.metadata pdk
 /external/ksoap2 pdk
+/external/ksp pdk
 /external/ktfmt pdk
 /external/libabigail pdk
 /external/libaom pdk
