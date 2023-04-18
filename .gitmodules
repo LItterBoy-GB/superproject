@@ -178,10 +178,22 @@
 	branch = master
 	path = external/rust/crates/fastrand
 	url = ../external/rust/crates/fastrand
+[submodule "platform/external/rust/crates/futures-core"]
+	branch = master
+	path = external/rust/crates/futures-core
+	url = ../external/rust/crates/futures-core
+[submodule "platform/external/rust/crates/futures-sink"]
+	branch = master
+	path = external/rust/crates/futures-sink
+	url = ../external/rust/crates/futures-sink
 [submodule "platform/external/rust/crates/getrandom"]
 	branch = master
 	path = external/rust/crates/getrandom
 	url = ../external/rust/crates/getrandom
+[submodule "platform/external/rust/crates/glam"]
+	branch = master
+	path = external/rust/crates/glam
+	url = ../external/rust/crates/glam
 [submodule "platform/external/rust/crates/glob"]
 	branch = master
 	path = external/rust/crates/glob
@@ -194,6 +206,10 @@
 	branch = master
 	path = external/rust/crates/heck
 	url = ../external/rust/crates/heck
+[submodule "platform/external/rust/crates/hex"]
+	branch = master
+	path = external/rust/crates/hex
+	url = ../external/rust/crates/hex
 [submodule "platform/external/rust/crates/indexmap"]
 	branch = master
 	path = external/rust/crates/indexmap
@@ -202,6 +218,10 @@
 	branch = master
 	path = external/rust/crates/instant
 	url = ../external/rust/crates/instant
+[submodule "platform/external/rust/crates/itoa"]
+	branch = master
+	path = external/rust/crates/itoa
+	url = ../external/rust/crates/itoa
 [submodule "platform/external/rust/crates/lazy_static"]
 	branch = master
 	path = external/rust/crates/lazy_static
@@ -230,6 +250,10 @@
 	branch = master
 	path = external/rust/crates/minimal-lexical
 	url = ../external/rust/crates/minimal-lexical
+[submodule "platform/external/rust/crates/mio"]
+	branch = master
+	path = external/rust/crates/mio
+	url = ../external/rust/crates/mio
 [submodule "platform/external/rust/crates/nom"]
 	branch = master
 	path = external/rust/crates/nom
@@ -250,6 +274,10 @@
 	branch = master
 	path = external/rust/crates/num-traits
 	url = ../external/rust/crates/num-traits
+[submodule "platform/external/rust/crates/num_cpus"]
+	branch = master
+	path = external/rust/crates/num_cpus
+	url = ../external/rust/crates/num_cpus
 [submodule "platform/external/rust/crates/once_cell"]
 	branch = master
 	path = external/rust/crates/once_cell
@@ -338,14 +366,34 @@
 	branch = master
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/ryu"]
+	branch = master
+	path = external/rust/crates/ryu
+	url = ../external/rust/crates/ryu
 [submodule "platform/external/rust/crates/same-file"]
 	branch = master
 	path = external/rust/crates/same-file
 	url = ../external/rust/crates/same-file
+[submodule "platform/external/rust/crates/serde"]
+	branch = master
+	path = external/rust/crates/serde
+	url = ../external/rust/crates/serde
+[submodule "platform/external/rust/crates/serde_derive"]
+	branch = master
+	path = external/rust/crates/serde_derive
+	url = ../external/rust/crates/serde_derive
+[submodule "platform/external/rust/crates/serde_json"]
+	branch = master
+	path = external/rust/crates/serde_json
+	url = ../external/rust/crates/serde_json
 [submodule "platform/external/rust/crates/shlex"]
 	branch = master
 	path = external/rust/crates/shlex
 	url = ../external/rust/crates/shlex
+[submodule "platform/external/rust/crates/socket2"]
+	branch = master
+	path = external/rust/crates/socket2
+	url = ../external/rust/crates/socket2
 [submodule "platform/external/rust/crates/syn"]
 	branch = master
 	path = external/rust/crates/syn
@@ -374,6 +422,18 @@
 	branch = master
 	path = external/rust/crates/tokio
 	url = ../external/rust/crates/tokio
+[submodule "platform/external/rust/crates/tokio-macros"]
+	branch = master
+	path = external/rust/crates/tokio-macros
+	url = ../external/rust/crates/tokio-macros
+[submodule "platform/external/rust/crates/tokio-stream"]
+	branch = master
+	path = external/rust/crates/tokio-stream
+	url = ../external/rust/crates/tokio-stream
+[submodule "platform/external/rust/crates/tokio-util"]
+	branch = master
+	path = external/rust/crates/tokio-util
+	url = ../external/rust/crates/tokio-util
 [submodule "platform/external/rust/crates/unicode-ident"]
 	branch = master
 	path = external/rust/crates/unicode-ident
@@ -394,6 +454,10 @@
 	branch = master
 	path = external/rust/crates/cxx
 	url = ../external/rust/cxx
+[submodule "platform/external/rust/pica"]
+	branch = master
+	path = external/rust/crates/pica
+	url = ../external/rust/pica
 [submodule "platform/external/tink"]
 	branch = emu-master-dev
 	path = external/tink
