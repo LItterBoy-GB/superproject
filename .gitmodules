@@ -736,6 +736,9 @@
 [submodule "platform/external/google-java-format"]
 	path = external/google-java-format
 	url = ../external/google-java-format
+[submodule "platform/external/google-smali"]
+	path = external/google-smali
+	url = ../external/google-smali
 [submodule "platform/external/google-styleguide"]
 	path = external/google-styleguide
 	url = ../external/google-styleguide
@@ -895,6 +898,9 @@
 [submodule "platform/external/ksoap2"]
 	path = external/ksoap2
 	url = ../external/ksoap2
+[submodule "platform/external/ksp"]
+	path = external/ksp
+	url = ../external/ksp
 [submodule "platform/external/ktfmt"]
 	path = external/ktfmt
 	url = ../external/ktfmt
@@ -1207,9 +1213,6 @@
 [submodule "platform/external/okhttp"]
 	path = external/okhttp
 	url = ../external/okhttp
-[submodule "platform/external/okhttp4"]
-	path = external/okhttp4
-	url = ../external/okhttp4
 [submodule "platform/external/okio"]
 	path = external/okio
 	url = ../external/okio
@@ -1420,6 +1423,9 @@
 [submodule "platform/external/robolectric-shadows"]
 	path = external/robolectric-shadows
 	url = ../external/robolectric-shadows
+[submodule "platform/external/roboto-flex-fonts"]
+	path = external/roboto-flex-fonts
+	url = ../external/roboto-flex-fonts
 [submodule "platform/external/roboto-fonts"]
 	path = external/roboto-fonts
 	url = ../external/roboto-fonts
@@ -1936,6 +1942,9 @@
 [submodule "platform/external/rust/crates/protobuf-codegen"]
 	path = external/rust/crates/protobuf-codegen
 	url = ../external/rust/crates/protobuf-codegen
+[submodule "platform/external/rust/crates/protobuf-json-mapping"]
+	path = external/rust/crates/protobuf-json-mapping
+	url = ../external/rust/crates/protobuf-json-mapping
 [submodule "platform/external/rust/crates/protobuf-parse"]
 	path = external/rust/crates/protobuf-parse
 	url = ../external/rust/crates/protobuf-parse
@@ -2116,6 +2125,18 @@
 [submodule "platform/external/rust/crates/tokio-test"]
 	path = external/rust/crates/tokio-test
 	url = ../external/rust/crates/tokio-test
+[submodule "platform/external/rust/crates/tokio-util"]
+	path = external/rust/crates/tokio-util
+	url = ../external/rust/crates/tokio-util
+[submodule "platform/external/rust/crates/tracing"]
+	path = external/rust/crates/tracing
+	url = ../external/rust/crates/tracing
+[submodule "platform/external/rust/crates/tracing-attributes"]
+	path = external/rust/crates/tracing-attributes
+	url = ../external/rust/crates/tracing-attributes
+[submodule "platform/external/rust/crates/tracing-core"]
+	path = external/rust/crates/tracing-core
+	url = ../external/rust/crates/tracing-core
 [submodule "platform/external/rust/crates/ucd-trie"]
 	path = external/rust/crates/ucd-trie
 	url = ../external/rust/crates/ucd-trie
@@ -2308,12 +2329,12 @@
 [submodule "platform/external/tflite-support"]
 	path = external/tflite-support
 	url = ../external/tflite-support
+[submodule "platform/external/third-party-review"]
+	path = external/third-party-review
+	url = ../external/third-party-review
 [submodule "platform/external/timezone-boundary-builder"]
 	path = external/timezone-boundary-builder
 	url = ../external/timezone-boundary-builder
-[submodule "platform/external/tink"]
-	path = external/tink
-	url = ../external/tink
 [submodule "platform/external/tinyalsa"]
 	path = external/tinyalsa
 	url = ../external/tinyalsa
@@ -2575,6 +2596,9 @@
 [submodule "platform/hardware/google/gchips"]
 	path = hardware/google/gchips
 	url = ../hardware/google/gchips
+[submodule "platform/hardware/google/gfxstream"]
+	path = hardware/google/gfxstream
+	url = ../hardware/google/gfxstream
 [submodule "platform/hardware/google/graphics/common"]
 	path = hardware/google/graphics/common
 	url = ../hardware/google/graphics/common
@@ -3601,6 +3625,9 @@
 [submodule "platform/tools/test/graphicsbenchmark"]
 	path = tools/test/graphicsbenchmark
 	url = ../tools/test/graphicsbenchmark
+[submodule "platform/tools/test/mobly_extensions"]
+	path = tools/test/mobly_extensions
+	url = ../tools/test/mobly_extensions
 [submodule "platform/tools/test/mobly_snippets"]
 	path = tools/test/mobly_snippets
 	url = ../tools/test/mobly_snippets

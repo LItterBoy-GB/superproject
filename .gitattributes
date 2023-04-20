@@ -244,6 +244,7 @@
 /external/google-fonts/zilla-slab pdk
 /external/google-fruit pdk
 /external/google-java-format pdk
+/external/google-smali pdk
 /external/google-styleguide pdk
 /external/googletest pdk
 /external/gptfdisk pdk
@@ -297,6 +298,7 @@
 /external/kotlinx.coroutines pdk
 /external/kotlinx.metadata pdk
 /external/ksoap2 pdk
+/external/ksp pdk
 /external/ktfmt pdk
 /external/libabigail pdk
 /external/libaom pdk
@@ -401,7 +403,6 @@
 /external/obstack pdk
 /external/oj-libjdwp pdk
 /external/okhttp pdk
-/external/okhttp4 pdk
 /external/okio pdk
 /external/one-true-awk pdk
 /external/open-dice pdk
@@ -472,6 +473,7 @@
 /external/rnnoise pdk
 /external/robolectric pdk-fs pdk-cw-fs
 /external/robolectric-shadows pdk-fs pdk-cw-fs
+/external/roboto-flex-fonts pdk
 /external/roboto-fonts pdk
 /external/rootdev pdk
 /external/rust/crates/aarch64-paging pdk
@@ -644,6 +646,7 @@
 /external/rust/crates/proc-macro2 pdk
 /external/rust/crates/protobuf pdk
 /external/rust/crates/protobuf-codegen pdk
+/external/rust/crates/protobuf-json-mapping pdk
 /external/rust/crates/protobuf-parse pdk
 /external/rust/crates/protobuf-support pdk
 /external/rust/crates/psci pdk
@@ -704,6 +707,10 @@
 /external/rust/crates/tokio-macros pdk
 /external/rust/crates/tokio-stream pdk
 /external/rust/crates/tokio-test pdk
+/external/rust/crates/tokio-util pdk
+/external/rust/crates/tracing pdk
+/external/rust/crates/tracing-attributes pdk
+/external/rust/crates/tracing-core pdk
 /external/rust/crates/ucd-trie pdk
 /external/rust/crates/unicode-bidi pdk
 /external/rust/crates/unicode-ident pdk
@@ -768,8 +775,8 @@
 /external/tensorflow pdk
 /external/testng pdk
 /external/tflite-support pdk
+/external/third-party-review
 /external/timezone-boundary-builder pdk
-/external/tink pdk
 /external/tinyalsa pdk
 /external/tinyalsa_new pdk
 /external/tinycompress pdk
@@ -857,6 +864,7 @@
 /hardware/google/camera pdk
 /hardware/google/easel easel pdk
 /hardware/google/gchips pdk-gs-arm pdk-lassen
+/hardware/google/gfxstream pdk
 /hardware/google/graphics/common pdk-gs-arm pdk-lassen
 /hardware/google/graphics/gs101 pdk-gs-arm pdk-lassen
 /hardware/google/graphics/gs201 cloudripper
@@ -1199,6 +1207,7 @@
 /tools/security pdk tools
 /tools/test/connectivity pdk
 /tools/test/graphicsbenchmark pdk
+/tools/test/mobly_extensions pdk
 /tools/test/mobly_snippets pdk
 /tools/test/openhst tools
 /tools/tradefederation/core tradefed pdk
