@@ -88,6 +88,15 @@
 [submodule "platform/external/rust/crates/anyhow"]
 	path = external/rust/crates/anyhow
 	url = ../external/rust/crates/anyhow
+[submodule "platform/external/rust/crates/argh"]
+	path = external/rust/crates/argh
+	url = ../external/rust/crates/argh
+[submodule "platform/external/rust/crates/argh_derive"]
+	path = external/rust/crates/argh_derive
+	url = ../external/rust/crates/argh_derive
+[submodule "platform/external/rust/crates/argh_shared"]
+	path = external/rust/crates/argh_shared
+	url = ../external/rust/crates/argh_shared
 [submodule "platform/external/rust/crates/atty"]
 	path = external/rust/crates/atty
 	url = ../external/rust/crates/atty
@@ -106,6 +115,9 @@
 [submodule "platform/external/rust/crates/cfg-if"]
 	path = external/rust/crates/cfg-if
 	url = ../external/rust/crates/cfg-if
+[submodule "platform/external/rust/crates/chrono"]
+	path = external/rust/crates/chrono
+	url = ../external/rust/crates/chrono
 [submodule "platform/external/rust/crates/clang-sys"]
 	path = external/rust/crates/clang-sys
 	url = ../external/rust/crates/clang-sys
@@ -121,6 +133,18 @@
 [submodule "platform/external/rust/crates/codespan-reporting"]
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
+[submodule "platform/external/rust/crates/crossbeam-channel"]
+	path = external/rust/crates/crossbeam-channel
+	url = ../external/rust/crates/crossbeam-channel
+[submodule "platform/external/rust/crates/crossbeam-deque"]
+	path = external/rust/crates/crossbeam-deque
+	url = ../external/rust/crates/crossbeam-deque
+[submodule "platform/external/rust/crates/crossbeam-epoch"]
+	path = external/rust/crates/crossbeam-epoch
+	url = ../external/rust/crates/crossbeam-epoch
+[submodule "platform/external/rust/crates/crossbeam-utils"]
+	path = external/rust/crates/crossbeam-utils
+	url = ../external/rust/crates/crossbeam-utils
 [submodule "platform/external/rust/crates/either"]
 	path = external/rust/crates/either
 	url = ../external/rust/crates/either
@@ -130,9 +154,18 @@
 [submodule "platform/external/rust/crates/fastrand"]
 	path = external/rust/crates/fastrand
 	url = ../external/rust/crates/fastrand
+[submodule "platform/external/rust/crates/futures-core"]
+	path = external/rust/crates/futures-core
+	url = ../external/rust/crates/futures-core
+[submodule "platform/external/rust/crates/futures-sink"]
+	path = external/rust/crates/futures-sink
+	url = ../external/rust/crates/futures-sink
 [submodule "platform/external/rust/crates/getrandom"]
 	path = external/rust/crates/getrandom
 	url = ../external/rust/crates/getrandom
+[submodule "platform/external/rust/crates/glam"]
+	path = external/rust/crates/glam
+	url = ../external/rust/crates/glam
 [submodule "platform/external/rust/crates/glob"]
 	path = external/rust/crates/glob
 	url = ../external/rust/crates/glob
@@ -142,12 +175,18 @@
 [submodule "platform/external/rust/crates/heck"]
 	path = external/rust/crates/heck
 	url = ../external/rust/crates/heck
+[submodule "platform/external/rust/crates/hex"]
+	path = external/rust/crates/hex
+	url = ../external/rust/crates/hex
 [submodule "platform/external/rust/crates/indexmap"]
 	path = external/rust/crates/indexmap
 	url = ../external/rust/crates/indexmap
 [submodule "platform/external/rust/crates/instant"]
 	path = external/rust/crates/instant
 	url = ../external/rust/crates/instant
+[submodule "platform/external/rust/crates/itoa"]
+	path = external/rust/crates/itoa
+	url = ../external/rust/crates/itoa
 [submodule "platform/external/rust/crates/lazy_static"]
 	path = external/rust/crates/lazy_static
 	url = ../external/rust/crates/lazy_static
@@ -166,9 +205,15 @@
 [submodule "platform/external/rust/crates/memchr"]
 	path = external/rust/crates/memchr
 	url = ../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/memoffset"]
+	path = external/rust/crates/memoffset
+	url = ../external/rust/crates/memoffset
 [submodule "platform/external/rust/crates/minimal-lexical"]
 	path = external/rust/crates/minimal-lexical
 	url = ../external/rust/crates/minimal-lexical
+[submodule "platform/external/rust/crates/mio"]
+	path = external/rust/crates/mio
+	url = ../external/rust/crates/mio
 [submodule "platform/external/rust/crates/nom"]
 	path = external/rust/crates/nom
 	url = ../external/rust/crates/nom
@@ -184,6 +229,9 @@
 [submodule "platform/external/rust/crates/num-traits"]
 	path = external/rust/crates/num-traits
 	url = ../external/rust/crates/num-traits
+[submodule "platform/external/rust/crates/num_cpus"]
+	path = external/rust/crates/num_cpus
+	url = ../external/rust/crates/num_cpus
 [submodule "platform/external/rust/crates/once_cell"]
 	path = external/rust/crates/once_cell
 	url = ../external/rust/crates/once_cell
@@ -196,6 +244,18 @@
 [submodule "platform/external/rust/crates/peeking_take_while"]
 	path = external/rust/crates/peeking_take_while
 	url = ../external/rust/crates/peeking_take_while
+[submodule "platform/external/rust/crates/pest"]
+	path = external/rust/crates/pest
+	url = ../external/rust/crates/pest
+[submodule "platform/external/rust/crates/pest_derive"]
+	path = external/rust/crates/pest_derive
+	url = ../external/rust/crates/pest_derive
+[submodule "platform/external/rust/crates/pest_generator"]
+	path = external/rust/crates/pest_generator
+	url = ../external/rust/crates/pest_generator
+[submodule "platform/external/rust/crates/pest_meta"]
+	path = external/rust/crates/pest_meta
+	url = ../external/rust/crates/pest_meta
 [submodule "platform/external/rust/crates/pin-project-lite"]
 	path = external/rust/crates/pin-project-lite
 	url = ../external/rust/crates/pin-project-lite
@@ -241,6 +301,12 @@
 [submodule "platform/external/rust/crates/rand_core"]
 	path = external/rust/crates/rand_core
 	url = ../external/rust/crates/rand_core
+[submodule "platform/external/rust/crates/rayon"]
+	path = external/rust/crates/rayon
+	url = ../external/rust/crates/rayon
+[submodule "platform/external/rust/crates/rayon-core"]
+	path = external/rust/crates/rayon-core
+	url = ../external/rust/crates/rayon-core
 [submodule "platform/external/rust/crates/regex"]
 	path = external/rust/crates/regex
 	url = ../external/rust/crates/regex
@@ -250,18 +316,33 @@
 [submodule "platform/external/rust/crates/rustc-hash"]
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/ryu"]
+	path = external/rust/crates/ryu
+	url = ../external/rust/crates/ryu
 [submodule "platform/external/rust/crates/same-file"]
 	path = external/rust/crates/same-file
 	url = ../external/rust/crates/same-file
+[submodule "platform/external/rust/crates/scopeguard"]
+	path = external/rust/crates/scopeguard
+	url = ../external/rust/crates/scopeguard
+[submodule "platform/external/rust/crates/serde"]
+	path = external/rust/crates/serde
+	url = ../external/rust/crates/serde
+[submodule "platform/external/rust/crates/serde_derive"]
+	path = external/rust/crates/serde_derive
+	url = ../external/rust/crates/serde_derive
+[submodule "platform/external/rust/crates/serde_json"]
+	path = external/rust/crates/serde_json
+	url = ../external/rust/crates/serde_json
 [submodule "platform/external/rust/crates/shlex"]
 	path = external/rust/crates/shlex
 	url = ../external/rust/crates/shlex
+[submodule "platform/external/rust/crates/socket2"]
+	path = external/rust/crates/socket2
+	url = ../external/rust/crates/socket2
 [submodule "platform/external/rust/crates/syn"]
 	path = external/rust/crates/syn
 	url = ../external/rust/crates/syn
-[submodule "platform/external/rust/crates/tempfile"]
-	path = external/rust/crates/tempfile
-	url = ../external/rust/crates/tempfile
 [submodule "platform/external/rust/crates/termcolor"]
 	path = external/rust/crates/termcolor
 	url = ../external/rust/crates/termcolor
@@ -277,6 +358,18 @@
 [submodule "platform/external/rust/crates/tokio"]
 	path = external/rust/crates/tokio
 	url = ../external/rust/crates/tokio
+[submodule "platform/external/rust/crates/tokio-macros"]
+	path = external/rust/crates/tokio-macros
+	url = ../external/rust/crates/tokio-macros
+[submodule "platform/external/rust/crates/tokio-stream"]
+	path = external/rust/crates/tokio-stream
+	url = ../external/rust/crates/tokio-stream
+[submodule "platform/external/rust/crates/tokio-util"]
+	path = external/rust/crates/tokio-util
+	url = ../external/rust/crates/tokio-util
+[submodule "platform/external/rust/crates/ucd-trie"]
+	path = external/rust/crates/ucd-trie
+	url = ../external/rust/crates/ucd-trie
 [submodule "platform/external/rust/crates/unicode-ident"]
 	path = external/rust/crates/unicode-ident
 	url = ../external/rust/crates/unicode-ident
@@ -292,6 +385,9 @@
 [submodule "platform/external/rust/cxx"]
 	path = external/rust/crates/cxx
 	url = ../external/rust/cxx
+[submodule "platform/external/rust/pica"]
+	path = external/rust/crates/pica
+	url = ../external/rust/pica
 [submodule "platform/external/tink"]
 	path = external/tink
 	url = ../external/tink
