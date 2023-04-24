@@ -4902,6 +4902,10 @@
 	branch = master
 	path = tools/external_updater
 	url = ../tools/external_updater
+[submodule "platform/tools/lint_checks"]
+	branch = master
+	path = tools/lint_checks
+	url = ../tools/lint_checks
 [submodule "platform/tools/loganalysis"]
 	branch = master
 	path = tools/loganalysis
