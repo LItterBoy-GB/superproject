@@ -246,6 +246,10 @@
 	branch = master
 	path = external/kotlinx.metadata
 	url = ../external/kotlinx.metadata
+[submodule "platform/external/ksp"]
+	branch = master
+	path = external/ksp
+	url = ../external/ksp
 [submodule "platform/external/libbpf"]
 	branch = master
 	path = external/libbpf

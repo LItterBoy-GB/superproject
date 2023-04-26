@@ -60,6 +60,7 @@
 /external/junit-params pdk
 /external/kotlinc pdk
 /external/kotlinx.metadata pdk
+/external/ksp pdk
 /external/libbpf pdk
 /external/libcxx pdk
 /external/libcxxabi pdk
