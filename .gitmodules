@@ -2847,6 +2847,10 @@
 	branch = master
 	path = external/rust/crates/thread_local
 	url = ../external/rust/crates/thread_local
+[submodule "platform/external/rust/crates/threadpool"]
+	branch = master
+	path = external/rust/crates/threadpool
+	url = ../external/rust/crates/threadpool
 [submodule "platform/external/rust/crates/tinytemplate"]
 	branch = master
 	path = external/rust/crates/tinytemplate
