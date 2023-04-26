@@ -2467,6 +2467,10 @@
 	branch = master
 	path = external/rust/crates/mio
 	url = ../external/rust/crates/mio
+[submodule "platform/external/rust/crates/named-lock"]
+	branch = master
+	path = external/rust/crates/named-lock
+	url = ../external/rust/crates/named-lock
 [submodule "platform/external/rust/crates/nix"]
 	branch = master
 	path = external/rust/crates/nix
