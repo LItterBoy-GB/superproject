@@ -1,0 +1,100 @@
+[submodule "platform/external/ukey2"]
+	ref = refs/tags/ub-automotive-master-20230427
+	path = external/ukey2
+	url = ../external/ukey2
+[submodule "platform/frameworks/opt/car/setupwizard"]
+	ref = refs/tags/ub-automotive-master-20230427
+	path = frameworks/opt/car/setupwizard
+	url = ../frameworks/opt/car/setupwizard
+[submodule "platform/packages/apps/Car/CompanionDeviceSupport"]
+	ref = refs/tags/ub-automotive-master-20230427
+	path = packages/apps/Car/CompanionDeviceSupport
+	url = ../packages/apps/Car/CompanionDeviceSupport
+[submodule "platform/packages/apps/Car/Dialer"]
+	ref = refs/tags/ub-automotive-master-20230427
+	path = packages/apps/Car/Dialer
+	url = ../packages/apps/Car/Dialer
+[submodule "platform/packages/apps/Car/Media"]
+	ref = refs/tags/ub-automotive-master-20230427
+	path = packages/apps/Car/Media
+	url = ../packages/apps/Car/Media
+[submodule "platform/packages/apps/Car/Messenger"]
+	ref = refs/tags/ub-automotive-master-20230427
+	path = packages/apps/Car/Messenger
+	url = ../packages/apps/Car/Messenger
+[submodule "platform/packages/apps/Car/Templates"]
+	ref = refs/tags/ub-automotive-master-20230427
+	path = packages/apps/Car/Templates
+	url = ../packages/apps/Car/Templates
+[submodule "platform/packages/apps/Car/libs"]
+	ref = refs/tags/ub-automotive-master-20230427
+	path = packages/apps/Car/libs
+	url = ../packages/apps/Car/libs
+[submodule "platform/packages/apps/Car/tests"]
+	ref = refs/tags/ub-automotive-master-20230427
+	path = packages/apps/Car/tests
+	url = ../packages/apps/Car/tests
+[submodule "platform/prebuilts/checkstyle"]
+	ref = refs/tags/ub-automotive-master-20230427
+	shallow = true
+	path = prebuilts/checkstyle
+	url = ../prebuilts/checkstyle
+[submodule "platform/prebuilts/fullsdk-darwin/build-tools"]
+	ref = refs/tags/ub-automotive-master-20230427
+	shallow = true
+	path = prebuilts/fullsdk-darwin/build-tools
+	url = ../prebuilts/fullsdk-darwin/build-tools
+[submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
+	ref = refs/tags/ub-automotive-master-20230427
+	shallow = true
+	path = prebuilts/fullsdk-darwin/platform-tools
+	url = ../prebuilts/fullsdk-darwin/platform-tools
+[submodule "platform/prebuilts/fullsdk-darwin/tools"]
+	ref = refs/tags/ub-automotive-master-20230427
+	shallow = true
+	path = prebuilts/fullsdk-darwin/tools
+	url = ../prebuilts/fullsdk-darwin/tools
+[submodule "platform/prebuilts/fullsdk-linux/build-tools"]
+	ref = refs/tags/ub-automotive-master-20230427
+	shallow = true
+	path = prebuilts/fullsdk-linux/build-tools
+	url = ../prebuilts/fullsdk-linux/build-tools
+[submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
+	ref = refs/tags/ub-automotive-master-20230427
+	shallow = true
+	path = prebuilts/fullsdk-linux/platform-tools
+	url = ../prebuilts/fullsdk-linux/platform-tools
+[submodule "platform/prebuilts/fullsdk-linux/tools"]
+	ref = refs/tags/ub-automotive-master-20230427
+	shallow = true
+	path = prebuilts/fullsdk-linux/tools
+	url = ../prebuilts/fullsdk-linux/tools
+[submodule "platform/prebuilts/fullsdk/platforms/android-32"]
+	ref = refs/tags/ub-automotive-master-20230427
+	shallow = true
+	path = prebuilts/fullsdk-darwin/platforms/android-32
+	url = ../prebuilts/fullsdk/platforms/android-32
+[submodule "platform/prebuilts/fullsdk/sources/android-32"]
+	ref = refs/tags/ub-automotive-master-20230427
+	shallow = true
+	path = prebuilts/fullsdk-darwin/sources/android-32
+	url = ../prebuilts/fullsdk/sources/android-32
+[submodule "platform/prebuilts/jdk/jdk11"]
+	ref = refs/tags/ub-automotive-master-20230427
+	shallow = true
+	path = prebuilts/jdk/jdk11
+	url = ../prebuilts/jdk/jdk11
+[submodule "platform/prebuilts/ktlint"]
+	ref = refs/tags/ub-automotive-master-20230427
+	shallow = true
+	path = prebuilts/ktlint
+	url = ../prebuilts/ktlint
+[submodule "platform/prebuilts/sdk"]
+	ref = refs/tags/ub-automotive-master-20230427
+	shallow = true
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "platform/tools/repohooks"]
+	ref = refs/tags/ub-automotive-master-20230427
+	path = tools/repohooks
+	url = ../tools/repohooks
