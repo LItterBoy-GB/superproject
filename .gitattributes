@@ -1,7 +1,6 @@
 /prebuilts/fullsdk-linux/kernel-build-tools platform-linux notdefault
 /build/make
 /external/abseil-cpp
-/external/doclava
 /external/dokka
 /external/google-benchmark
 /external/icing
@@ -22,24 +21,23 @@
 /prebuilts/checkstyle
 /prebuilts/fullsdk-darwin/cmake notdefault platform-darwin
 /prebuilts/fullsdk-linux/cmake platform-linux notdefault
-/prebuilts/fullsdk-darwin/build-tools/30.0.3 notdefault platform-darwin
-/prebuilts/fullsdk-darwin/build-tools/32.1.0 notdefault platform-darwin
+/prebuilts/fullsdk-darwin/build-tools notdefault platform-darwin
 /prebuilts/fullsdk-darwin/platform-tools notdefault platform-darwin
 /prebuilts/fullsdk-darwin/tools notdefault platform-darwin
-/prebuilts/fullsdk-linux/build-tools/30.0.3 platform-linux notdefault
-/prebuilts/fullsdk-linux/build-tools/32.1.0 platform-linux notdefault
+/prebuilts/fullsdk-linux/build-tools platform-linux notdefault
 /prebuilts/fullsdk-linux/platform-tools platform-linux notdefault
 /prebuilts/fullsdk-linux/tools platform-linux notdefault
-/prebuilts/fullsdk-darwin/platforms/android-31
-/prebuilts/fullsdk-darwin/sources/android-31
-/prebuilts/jdk/jdk11
+/prebuilts/fullsdk-darwin/platforms
+/prebuilts/fullsdk-darwin/sources
+/prebuilts/jdk/jdk17
 /prebuilts/jdk/jdk8
 /prebuilts/fullsdk-darwin/ninja notdefault platform-darwin
 /prebuilts/fullsdk-linux/ninja platform-linux notdefault
 /prebuilts/protobuf
 /external/dexter
 /tools/external/gradle
+/tools/metalava
 /tools/repohooks
-/prebuilts/fullsdk-darwin/ndk notdefault platform-darwin
-/prebuilts/fullsdk-linux/ndk platform-linux notdefault
+/prebuilts/fullsdk-darwin/ndk-bundle notdefault platform-darwin
+/prebuilts/fullsdk-linux/ndk-bundle platform-linux notdefault
 /tools/fetch_artifact
