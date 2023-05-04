@@ -1158,10 +1158,6 @@
 	branch = master
 	path = external/jcommander
 	url = ../external/jcommander
-[submodule "platform/external/jdiff"]
-	branch = master
-	path = external/jdiff
-	url = ../external/jdiff
 [submodule "platform/external/jemalloc_new"]
 	branch = master
 	path = external/jemalloc_new
