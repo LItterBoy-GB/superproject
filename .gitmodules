@@ -2607,6 +2607,10 @@
 	branch = master
 	path = external/rust/crates/ppv-lite86
 	url = ../external/rust/crates/ppv-lite86
+[submodule "platform/external/rust/crates/prettyplease"]
+	branch = master
+	path = external/rust/crates/prettyplease
+	url = ../external/rust/crates/prettyplease
 [submodule "platform/external/rust/crates/proc-macro-error"]
 	branch = master
 	path = external/rust/crates/proc-macro-error
