@@ -643,6 +643,7 @@
 /external/rust/crates/plotters-backend pdk
 /external/rust/crates/plotters-svg pdk
 /external/rust/crates/ppv-lite86 pdk
+/external/rust/crates/prettyplease pdk
 /external/rust/crates/proc-macro-error pdk
 /external/rust/crates/proc-macro-error-attr pdk
 /external/rust/crates/proc-macro-nested pdk
