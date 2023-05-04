@@ -279,7 +279,6 @@
 /external/javassist pdk
 /external/jazzer-api pdk
 /external/jcommander pdk
-/external/jdiff pdk
 /external/jemalloc_new pdk
 /external/jimfs pdk
 /external/jline pdk-fs tradefed pdk
