@@ -62,8 +62,6 @@
 /device/linaro/poplar poplar pdk device
 /device/linaro/poplar-kernel poplar pdk device
 /device/sample pdk
-/device/ti/beagle_x15 pdk beagle_x15 device
-/device/ti/beagle_x15-kernel pdk beagle_x15 device
 /kernel/configs vts pdk
 /kernel/prebuilts/4.19/arm64 pdk
 /kernel/prebuilts/5.10/arm64 pdk
