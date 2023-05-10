@@ -143,6 +143,7 @@
 /external/bazelbuild-kotlin-rules pdk
 /external/bazelbuild-rules_android pdk
 /external/bazelbuild-rules_license pdk
+/external/bazelbuild-rules_testing pdk
 /external/bc pdk
 /external/bcc pdk
 /external/blktrace pdk
