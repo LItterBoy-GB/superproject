@@ -612,6 +612,10 @@
 	branch = master
 	path = external/bazelbuild-rules_license
 	url = ../external/bazelbuild-rules_license
+[submodule "platform/external/bazelbuild-rules_testing"]
+	branch = master
+	path = external/bazelbuild-rules_testing
+	url = ../external/bazelbuild-rules_testing
 [submodule "platform/external/bc"]
 	branch = master
 	path = external/bc
