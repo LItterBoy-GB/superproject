@@ -118,10 +118,6 @@
 	branch = master
 	path = prebuilts/simpleperf
 	url = ../prebuilts/simpleperf
-[submodule "toolchain/llvm-project"]
-	branch = ndk
-	path = toolchain/llvm-project
-	url = ../../toolchain/llvm-project
 [submodule "toolchain/make"]
 	branch = master
 	path = toolchain/make

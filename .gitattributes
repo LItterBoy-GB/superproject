@@ -28,6 +28,5 @@
 /prebuilts/python/linux-x86 presubmit linux
 /prebuilts/python/windows-x86
 /prebuilts/simpleperf presubmit
-/toolchain/llvm-project presubmit
 /toolchain/make presubmit
 /toolchain/yasm presubmit
