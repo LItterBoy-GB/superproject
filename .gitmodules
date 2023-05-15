@@ -428,6 +428,10 @@
 	branch = master
 	path = build/pesto
 	url = ../build/pesto
+[submodule "platform/build/release"]
+	branch = master
+	path = build/release
+	url = ../build/release
 [submodule "platform/build/soong"]
 	branch = master
 	path = build/soong
