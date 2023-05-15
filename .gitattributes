@@ -97,6 +97,7 @@
 /build/blueprint tradefed pdk
 /build/orchestrator pdk
 /build/pesto pdk
+/build/release tradefed pdk
 /build/soong tradefed pdk
 /cts pdk-fs cts pdk-cw-fs
 /dalvik pdk-fs pdk-cw-fs
