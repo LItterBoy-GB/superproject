@@ -87,6 +87,7 @@
 /external/rust/crates/pin-project-lite
 /external/rust/crates/pin-utils
 /external/rust/crates/ppv-lite86
+/external/rust/crates/prettyplease
 /external/rust/crates/proc-macro-error
 /external/rust/crates/proc-macro-error-attr
 /external/rust/crates/proc-macro2

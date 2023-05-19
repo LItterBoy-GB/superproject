@@ -265,6 +265,9 @@
 [submodule "platform/external/rust/crates/ppv-lite86"]
 	path = external/rust/crates/ppv-lite86
 	url = ../external/rust/crates/ppv-lite86
+[submodule "platform/external/rust/crates/prettyplease"]
+	path = external/rust/crates/prettyplease
+	url = ../external/rust/crates/prettyplease
 [submodule "platform/external/rust/crates/proc-macro-error"]
 	path = external/rust/crates/proc-macro-error
 	url = ../external/rust/crates/proc-macro-error
