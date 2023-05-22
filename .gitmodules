@@ -2542,6 +2542,10 @@
 	branch = master
 	path = external/rust/crates/paste
 	url = ../external/rust/crates/paste
+[submodule "platform/external/rust/crates/pdl-compiler"]
+	branch = master
+	path = external/rust/crates/pdl-compiler
+	url = ../external/rust/crates/pdl-compiler
 [submodule "platform/external/rust/crates/peeking_take_while"]
 	branch = master
 	path = external/rust/crates/peeking_take_while
