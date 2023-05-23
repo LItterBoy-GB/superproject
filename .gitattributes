@@ -4,6 +4,7 @@
 /build/bazel pdk
 /build/bazel_common_rules pdk
 /build/blueprint tradefed pdk
+/build/release tradefed pdk
 /build/soong tradefed pdk
 /dalvik pdk-fs pdk-cw-fs
 /development pdk-fs pdk-cw-fs
