@@ -1,5 +1,4 @@
 /build/soong
-/prebuilts/android-emulator-build/curl
 /prebuilts/build-tools
 /prebuilts/clang/host/darwin-x86
 /prebuilts/clang/host/linux-x86
