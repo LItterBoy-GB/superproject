@@ -1061,7 +1061,6 @@
 /prebuilts/abi-dumps/platform pdk-fs
 /prebuilts/abi-dumps/vndk pdk-fs
 /prebuilts/android-emulator pdk-fs
-/prebuilts/android-emulator-build/curl
 /prebuilts/asuite pdk
 /prebuilts/bazel/common pdk
 /prebuilts/bazel/darwin-x86_64 darwin pdk
