@@ -79,6 +79,7 @@
 /external/rust/crates/once_cell
 /external/rust/crates/os_str_bytes
 /external/rust/crates/paste
+/external/rust/crates/pdl-compiler
 /external/rust/crates/peeking_take_while
 /external/rust/crates/pest
 /external/rust/crates/pest_derive
