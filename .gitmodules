@@ -4842,6 +4842,10 @@
 	branch = master
 	path = test/mts
 	url = ../test/mts
+[submodule "platform/test/robolectric-extensions"]
+	branch = master
+	path = test/robolectric-extensions
+	url = ../test/robolectric-extensions
 [submodule "platform/test/suite_harness"]
 	branch = master
 	path = test/suite_harness
