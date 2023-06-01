@@ -190,12 +190,6 @@
 [submodule "device/sample"]
 	path = device/sample
 	url = ../../device/sample
-[submodule "device/ti/beagle-x15"]
-	path = device/ti/beagle_x15
-	url = ../../device/ti/beagle-x15
-[submodule "device/ti/beagle-x15-kernel"]
-	path = device/ti/beagle_x15-kernel
-	url = ../../device/ti/beagle-x15-kernel
 [submodule "kernel/configs"]
 	path = kernel/configs
 	url = ../../kernel/configs
@@ -301,6 +295,9 @@
 [submodule "platform/build/pesto"]
 	path = build/pesto
 	url = ../build/pesto
+[submodule "platform/build/release"]
+	path = build/release
+	url = ../build/release
 [submodule "platform/build/soong"]
 	path = build/soong
 	url = ../build/soong
@@ -439,6 +436,12 @@
 [submodule "platform/external/bazelbuild-rules_license"]
 	path = external/bazelbuild-rules_license
 	url = ../external/bazelbuild-rules_license
+[submodule "platform/external/bazelbuild-rules_rust"]
+	path = external/bazelbuild-rules_rust
+	url = ../external/bazelbuild-rules_rust
+[submodule "platform/external/bazelbuild-rules_testing"]
+	path = external/bazelbuild-rules_testing
+	url = ../external/bazelbuild-rules_testing
 [submodule "platform/external/bc"]
 	path = external/bc
 	url = ../external/bc
@@ -841,9 +844,6 @@
 [submodule "platform/external/jcommander"]
 	path = external/jcommander
 	url = ../external/jcommander
-[submodule "platform/external/jdiff"]
-	path = external/jdiff
-	url = ../external/jdiff
 [submodule "platform/external/jemalloc_new"]
 	path = external/jemalloc_new
 	url = ../external/jemalloc_new
@@ -1822,6 +1822,9 @@
 [submodule "platform/external/rust/crates/mio"]
 	path = external/rust/crates/mio
 	url = ../external/rust/crates/mio
+[submodule "platform/external/rust/crates/named-lock"]
+	path = external/rust/crates/named-lock
+	url = ../external/rust/crates/named-lock
 [submodule "platform/external/rust/crates/nix"]
 	path = external/rust/crates/nix
 	url = ../external/rust/crates/nix
@@ -1876,6 +1879,9 @@
 [submodule "platform/external/rust/crates/paste"]
 	path = external/rust/crates/paste
 	url = ../external/rust/crates/paste
+[submodule "platform/external/rust/crates/pdl-compiler"]
+	path = external/rust/crates/pdl-compiler
+	url = ../external/rust/crates/pdl-compiler
 [submodule "platform/external/rust/crates/peeking_take_while"]
 	path = external/rust/crates/peeking_take_while
 	url = ../external/rust/crates/peeking_take_while
@@ -1924,6 +1930,9 @@
 [submodule "platform/external/rust/crates/ppv-lite86"]
 	path = external/rust/crates/ppv-lite86
 	url = ../external/rust/crates/ppv-lite86
+[submodule "platform/external/rust/crates/prettyplease"]
+	path = external/rust/crates/prettyplease
+	url = ../external/rust/crates/prettyplease
 [submodule "platform/external/rust/crates/proc-macro-error"]
 	path = external/rust/crates/proc-macro-error
 	url = ../external/rust/crates/proc-macro-error
@@ -2065,6 +2074,9 @@
 [submodule "platform/external/rust/crates/smallvec"]
 	path = external/rust/crates/smallvec
 	url = ../external/rust/crates/smallvec
+[submodule "platform/external/rust/crates/smccc"]
+	path = external/rust/crates/smccc
+	url = ../external/rust/crates/smccc
 [submodule "platform/external/rust/crates/socket2"]
 	path = external/rust/crates/socket2
 	url = ../external/rust/crates/socket2
@@ -2104,6 +2116,9 @@
 [submodule "platform/external/rust/crates/thread_local"]
 	path = external/rust/crates/thread_local
 	url = ../external/rust/crates/thread_local
+[submodule "platform/external/rust/crates/threadpool"]
+	path = external/rust/crates/threadpool
+	url = ../external/rust/crates/threadpool
 [submodule "platform/external/rust/crates/tinytemplate"]
 	path = external/rust/crates/tinytemplate
 	url = ../external/rust/crates/tinytemplate
@@ -2329,9 +2344,6 @@
 [submodule "platform/external/tflite-support"]
 	path = external/tflite-support
 	url = ../external/tflite-support
-[submodule "platform/external/third-party-review"]
-	path = external/third-party-review
-	url = ../external/third-party-review
 [submodule "platform/external/timezone-boundary-builder"]
 	path = external/timezone-boundary-builder
 	url = ../external/timezone-boundary-builder
@@ -3073,6 +3085,9 @@
 [submodule "platform/packages/modules/TestModule"]
 	path = packages/modules/TestModule
 	url = ../packages/modules/TestModule
+[submodule "platform/packages/modules/ThreadNetwork"]
+	path = packages/modules/ThreadNetwork
+	url = ../packages/modules/ThreadNetwork
 [submodule "platform/packages/modules/Uwb"]
 	path = packages/modules/Uwb
 	url = ../packages/modules/Uwb
@@ -3346,6 +3361,9 @@
 [submodule "platform/prebuilts/vndk/v33"]
 	path = prebuilts/vndk/v33
 	url = ../prebuilts/vndk/v33
+[submodule "platform/prebuilts/vndk/v34"]
+	path = prebuilts/vndk/v34
+	url = ../prebuilts/vndk/v34
 [submodule "platform/sdk"]
 	path = sdk
 	url = ../sdk
@@ -3538,6 +3556,9 @@
 [submodule "platform/test/mts"]
 	path = test/mts
 	url = ../test/mts
+[submodule "platform/test/robolectric-extensions"]
+	path = test/robolectric-extensions
+	url = ../test/robolectric-extensions
 [submodule "platform/test/suite_harness"]
 	path = test/suite_harness
 	url = ../test/suite_harness
@@ -3601,6 +3622,9 @@
 [submodule "platform/tools/external_updater"]
 	path = tools/external_updater
 	url = ../tools/external_updater
+[submodule "platform/tools/lint_checks"]
+	path = tools/lint_checks
+	url = ../tools/lint_checks
 [submodule "platform/tools/loganalysis"]
 	path = tools/loganalysis
 	url = ../tools/loganalysis
