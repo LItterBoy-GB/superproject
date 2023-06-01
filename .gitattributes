@@ -20,6 +20,8 @@
 /prebuilts/python/windows-x86
 /prebuilts/rust
 /toolchain/android_rust
+/toolchain/cargo-deny
+/toolchain/cargo-vet
 /toolchain/common
 /toolchain/prebuilts/ndk/r25
 /toolchain/rustc

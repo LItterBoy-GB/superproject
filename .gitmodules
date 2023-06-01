@@ -106,6 +106,14 @@
 	branch = master
 	path = toolchain/android_rust
 	url = ../../toolchain/android_rust
+[submodule "toolchain/cargo-deny"]
+	branch = master
+	path = toolchain/cargo-deny
+	url = ../../toolchain/cargo-deny
+[submodule "toolchain/cargo-vet"]
+	branch = master
+	path = toolchain/cargo-vet
+	url = ../../toolchain/cargo-vet
 [submodule "toolchain/common"]
 	branch = master
 	path = toolchain/common
