@@ -2426,6 +2426,14 @@
 	branch = master
 	path = external/rust/crates/linked-hash-map
 	url = ../external/rust/crates/linked-hash-map
+[submodule "platform/external/rust/crates/linkme"]
+	branch = master
+	path = external/rust/crates/linkme
+	url = ../external/rust/crates/linkme
+[submodule "platform/external/rust/crates/linkme-impl"]
+	branch = master
+	path = external/rust/crates/linkme-impl
+	url = ../external/rust/crates/linkme-impl
 [submodule "platform/external/rust/crates/litrs"]
 	branch = master
 	path = external/rust/crates/litrs
