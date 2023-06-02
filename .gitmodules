@@ -59,6 +59,10 @@
 	branch = master
 	path = external/flex
 	url = ../external/flex
+[submodule "platform/external/fmtlib"]
+	branch = master
+	path = external/fmtlib
+	url = ../external/fmtlib
 [submodule "platform/external/gfxstream-protocols"]
 	branch = master
 	path = external/gfxstream-protocols

@@ -13,6 +13,7 @@
 /external/deqp
 /external/flatbuffers
 /external/flex platform-linux notdefault platform-darwin
+/external/fmtlib
 /external/gfxstream-protocols
 /external/google-benchmark
 /external/google-breakpad
