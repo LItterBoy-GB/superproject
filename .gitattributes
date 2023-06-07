@@ -408,8 +408,10 @@
 /external/open-dice pdk
 /external/opencensus-java tradefed pdk
 /external/openscreen pdk
+/external/openthread pdk
 /external/openwrt-prebuilts pdk
 /external/oss-fuzz pdk
+/external/ot-br-posix pdk
 /external/ow2-asm pdk
 /external/owasp/java-encoder pdk
 /external/owasp/sanitizer pdk
@@ -594,6 +596,8 @@
 /external/rust/crates/libtest-mimic pdk
 /external/rust/crates/libz-sys pdk
 /external/rust/crates/linked-hash-map pdk
+/external/rust/crates/linkme pdk
+/external/rust/crates/linkme-impl pdk
 /external/rust/crates/litrs pdk
 /external/rust/crates/lock_api pdk
 /external/rust/crates/log pdk
@@ -690,6 +694,7 @@
 /external/rust/crates/shlex pdk
 /external/rust/crates/slab pdk
 /external/rust/crates/smallvec pdk
+/external/rust/crates/smccc pdk
 /external/rust/crates/socket2 pdk
 /external/rust/crates/spin pdk
 /external/rust/crates/spki pdk
@@ -770,6 +775,7 @@
 /external/squashfs-tools pdk
 /external/stardoc pdk
 /external/starlark-go pdk
+/external/stg pdk
 /external/strace pdk
 /external/stressapptest pdk
 /external/subsampling-scale-image-view pdk
@@ -1183,6 +1189,7 @@
 /test/mlts/benchmark pdk
 /test/mlts/models pdk
 /test/mts
+/test/robolectric-extensions pdk-fs pdk-cw-fs
 /test/suite_harness pdk-fs cts pdk-cw-fs
 /test/vts vts pdk
 /test/vts-testcase/hal vts pdk
