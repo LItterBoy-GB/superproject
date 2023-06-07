@@ -13,6 +13,7 @@
 /external/deqp
 /external/flatbuffers
 /external/flex platform-linux notdefault platform-darwin
+/external/fmtlib
 /external/gfxstream-protocols
 /external/google-benchmark
 /external/google-breakpad
@@ -158,6 +159,7 @@
 /prebuilts/cmake/linux-x86 platform-linux notdefault
 /prebuilts/cmake/windows-x86 notdefault platform-windows
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 platform-linux notdefault
+/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 notdefault platform-windows
 /prebuilts/ninja/darwin-x86 notdefault platform-darwin
 /prebuilts/ninja/linux-x86 platform-linux notdefault
 /prebuilts/python/darwin-x86 notdefault platform-darwin
