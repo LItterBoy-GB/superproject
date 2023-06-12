@@ -1228,12 +1228,18 @@
 [submodule "platform/external/openscreen"]
 	path = external/openscreen
 	url = ../external/openscreen
+[submodule "platform/external/openthread"]
+	path = external/openthread
+	url = ../external/openthread
 [submodule "platform/external/openwrt-prebuilts"]
 	path = external/openwrt-prebuilts
 	url = ../external/openwrt-prebuilts
 [submodule "platform/external/oss-fuzz"]
 	path = external/oss-fuzz
 	url = ../external/oss-fuzz
+[submodule "platform/external/ot-br-posix"]
+	path = external/ot-br-posix
+	url = ../external/ot-br-posix
 [submodule "platform/external/ow2-asm"]
 	path = external/ow2-asm
 	url = ../external/ow2-asm
@@ -1786,6 +1792,12 @@
 [submodule "platform/external/rust/crates/linked-hash-map"]
 	path = external/rust/crates/linked-hash-map
 	url = ../external/rust/crates/linked-hash-map
+[submodule "platform/external/rust/crates/linkme"]
+	path = external/rust/crates/linkme
+	url = ../external/rust/crates/linkme
+[submodule "platform/external/rust/crates/linkme-impl"]
+	path = external/rust/crates/linkme-impl
+	url = ../external/rust/crates/linkme-impl
 [submodule "platform/external/rust/crates/litrs"]
 	path = external/rust/crates/litrs
 	url = ../external/rust/crates/litrs
@@ -2317,6 +2329,9 @@
 [submodule "platform/external/starlark-go"]
 	path = external/starlark-go
 	url = ../external/starlark-go
+[submodule "platform/external/stg"]
+	path = external/stg
+	url = ../external/stg
 [submodule "platform/external/strace"]
 	path = external/strace
 	url = ../external/strace
