@@ -1742,6 +1742,10 @@
 	branch = master
 	path = external/perfetto
 	url = ../external/perfetto
+[submodule "platform/external/perfmark"]
+	branch = master
+	path = external/perfmark
+	url = ../external/perfmark
 [submodule "platform/external/pffft"]
 	branch = master
 	path = external/pffft
