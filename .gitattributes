@@ -116,6 +116,7 @@
 /external/rust/crates/shlex
 /external/rust/crates/socket2
 /external/rust/crates/syn
+/external/rust/crates/tempfile
 /external/rust/crates/termcolor
 /external/rust/crates/textwrap
 /external/rust/crates/thiserror

@@ -470,6 +470,10 @@
 	branch = master
 	path = external/rust/crates/syn
 	url = ../external/rust/crates/syn
+[submodule "platform/external/rust/crates/tempfile"]
+	branch = master
+	path = external/rust/crates/tempfile
+	url = ../external/rust/crates/tempfile
 [submodule "platform/external/rust/crates/termcolor"]
 	branch = master
 	path = external/rust/crates/termcolor
