@@ -352,6 +352,9 @@
 [submodule "platform/external/rust/crates/syn"]
 	path = external/rust/crates/syn
 	url = ../external/rust/crates/syn
+[submodule "platform/external/rust/crates/tempfile"]
+	path = external/rust/crates/tempfile
+	url = ../external/rust/crates/tempfile
 [submodule "platform/external/rust/crates/termcolor"]
 	path = external/rust/crates/termcolor
 	url = ../external/rust/crates/termcolor
