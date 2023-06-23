@@ -2674,10 +2674,6 @@
 	branch = master
 	path = external/rust/crates/protobuf-support
 	url = ../external/rust/crates/protobuf-support
-[submodule "platform/external/rust/crates/psci"]
-	branch = master
-	path = external/rust/crates/psci
-	url = ../external/rust/crates/psci
 [submodule "platform/external/rust/crates/quiche"]
 	branch = master
 	path = external/rust/crates/quiche
