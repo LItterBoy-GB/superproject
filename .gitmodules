@@ -50,6 +50,10 @@
 	branch = master
 	path = external/bazelbuild-rules_android
 	url = ../external/bazelbuild-rules_android
+[submodule "platform/external/bazelbuild-rules_go"]
+	branch = master
+	path = external/bazelbuild-rules_go
+	url = ../external/bazelbuild-rules_go
 [submodule "platform/external/bazelbuild-rules_license"]
 	branch = master
 	path = external/bazelbuild-rules_license
