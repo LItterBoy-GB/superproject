@@ -2194,6 +2194,10 @@
 	branch = master
 	path = external/rust/crates/csv-core
 	url = ../external/rust/crates/csv-core
+[submodule "platform/external/rust/crates/data-encoding"]
+	branch = master
+	path = external/rust/crates/data-encoding
+	url = ../external/rust/crates/data-encoding
 [submodule "platform/external/rust/crates/der"]
 	branch = master
 	path = external/rust/crates/der
@@ -2370,6 +2374,14 @@
 	branch = master
 	path = external/rust/crates/hex
 	url = ../external/rust/crates/hex
+[submodule "platform/external/rust/crates/http"]
+	branch = master
+	path = external/rust/crates/http
+	url = ../external/rust/crates/http
+[submodule "platform/external/rust/crates/httparse"]
+	branch = master
+	path = external/rust/crates/httparse
+	url = ../external/rust/crates/httparse
 [submodule "platform/external/rust/crates/idna"]
 	branch = master
 	path = external/rust/crates/idna
@@ -2938,6 +2950,10 @@
 	branch = master
 	path = external/rust/crates/tracing-core
 	url = ../external/rust/crates/tracing-core
+[submodule "platform/external/rust/crates/tungstenite"]
+	branch = master
+	path = external/rust/crates/tungstenite
+	url = ../external/rust/crates/tungstenite
 [submodule "platform/external/rust/crates/ucd-trie"]
 	branch = master
 	path = external/rust/crates/ucd-trie
@@ -2982,6 +2998,10 @@
 	branch = master
 	path = external/rust/crates/userfaultfd-sys
 	url = ../external/rust/crates/userfaultfd-sys
+[submodule "platform/external/rust/crates/utf-8"]
+	branch = master
+	path = external/rust/crates/utf-8
+	url = ../external/rust/crates/utf-8
 [submodule "platform/external/rust/crates/uuid"]
 	branch = master
 	path = external/rust/crates/uuid
