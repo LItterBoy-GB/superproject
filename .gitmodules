@@ -146,6 +146,10 @@
 	branch = master
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/byteorder"]
+	branch = master
+	path = external/rust/crates/byteorder
+	url = ../external/rust/crates/byteorder
 [submodule "platform/external/rust/crates/bytes"]
 	branch = master
 	path = external/rust/crates/bytes
@@ -198,6 +202,10 @@
 	branch = master
 	path = external/rust/crates/crossbeam-utils
 	url = ../external/rust/crates/crossbeam-utils
+[submodule "platform/external/rust/crates/data-encoding"]
+	branch = master
+	path = external/rust/crates/data-encoding
+	url = ../external/rust/crates/data-encoding
 [submodule "platform/external/rust/crates/either"]
 	branch = master
 	path = external/rust/crates/either
@@ -506,6 +514,10 @@
 	branch = master
 	path = external/rust/crates/tokio-util
 	url = ../external/rust/crates/tokio-util
+[submodule "platform/external/rust/crates/tungstenite"]
+	branch = master
+	path = external/rust/crates/tungstenite
+	url = ../external/rust/crates/tungstenite
 [submodule "platform/external/rust/crates/ucd-trie"]
 	branch = master
 	path = external/rust/crates/ucd-trie
@@ -518,6 +530,10 @@
 	branch = master
 	path = external/rust/crates/unicode-width
 	url = ../external/rust/crates/unicode-width
+[submodule "platform/external/rust/crates/utf-8"]
+	branch = master
+	path = external/rust/crates/utf-8
+	url = ../external/rust/crates/utf-8
 [submodule "platform/external/rust/crates/walkdir"]
 	branch = master
 	path = external/rust/crates/walkdir
