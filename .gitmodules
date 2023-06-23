@@ -326,6 +326,10 @@
 	branch = master
 	path = external/okhttp
 	url = ../external/okhttp
+[submodule "platform/external/okio"]
+	branch = master
+	path = external/okio
+	url = ../external/okio
 [submodule "platform/external/ow2-asm"]
 	branch = master
 	path = external/ow2-asm
