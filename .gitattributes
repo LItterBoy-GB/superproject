@@ -149,6 +149,7 @@
 /system/bpf pdk
 /system/core pdk
 /system/extras pdk
+/system/gsid pdk
 /system/libbase pdk
 /system/libprocinfo pdk
 /system/libsysprop pdk

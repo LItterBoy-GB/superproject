@@ -631,6 +631,10 @@
 	branch = master
 	path = system/extras
 	url = ../system/extras
+[submodule "platform/system/gsid"]
+	branch = master
+	path = system/gsid
+	url = ../system/gsid
 [submodule "platform/system/libbase"]
 	branch = master
 	path = system/libbase
