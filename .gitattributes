@@ -776,6 +776,7 @@
 /external/scudo pdk
 /external/seccomp-tests pdk
 /external/selinux pdk
+/external/setfilters pdk
 /external/setupcompat pdk
 /external/setupdesign pdk
 /external/sfntly pdk qcom_msm8x26
