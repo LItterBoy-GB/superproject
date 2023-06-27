@@ -55,6 +55,9 @@
 /device/google/sunfish sunfish device
 /device/google/sunfish-kernel sunfish device
 /device/google/sunfish-sepolicy sunfish device
+/device/google/tangorpro tangorpro device
+/device/google/tangorpro-kernel tangorpro device
+/device/google/tangorpro-sepolicy tangorpro device
 /device/google/trout pdk trout device gull
 /device/google/vrservices pdk
 /device/google_car pdk
@@ -947,6 +950,7 @@
 /hardware/st/nfc pdk
 /hardware/st/secure_element pdk
 /hardware/st/secure_element2 pdk
+/hardware/synaptics/wlan pdk
 /hardware/ti/am57x pdk
 /libcore pdk
 /libnativehelper pdk

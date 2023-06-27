@@ -235,6 +235,18 @@
 	branch = master
 	path = device/google/sunfish-sepolicy
 	url = ../../device/google/sunfish-sepolicy
+[submodule "device/google/tangorpro"]
+	branch = master
+	path = device/google/tangorpro
+	url = ../../device/google/tangorpro
+[submodule "device/google/tangorpro-kernel"]
+	branch = master
+	path = device/google/tangorpro-kernel
+	url = ../../device/google/tangorpro-kernel
+[submodule "device/google/tangorpro-sepolicy"]
+	branch = master
+	path = device/google/tangorpro-sepolicy
+	url = ../../device/google/tangorpro-sepolicy
 [submodule "device/google/trout"]
 	branch = master
 	path = device/google/trout
@@ -3833,6 +3845,10 @@
 	branch = master
 	path = hardware/st/secure_element2
 	url = ../hardware/st/secure_element2
+[submodule "platform/hardware/synaptics/wlan"]
+	branch = master
+	path = hardware/synaptics/wlan
+	url = ../hardware/synaptics/wlan
 [submodule "platform/hardware/ti/am57x"]
 	branch = master
 	path = hardware/ti/am57x
