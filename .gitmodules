@@ -3147,6 +3147,10 @@
 	branch = master
 	path = external/selinux
 	url = ../external/selinux
+[submodule "platform/external/setfilters"]
+	branch = master
+	path = external/setfilters
+	url = ../external/setfilters
 [submodule "platform/external/setupcompat"]
 	branch = master
 	path = external/setupcompat
