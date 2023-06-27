@@ -39,6 +39,9 @@
 /device/google/gs101-sepolicy slider pdk-gs-arm bluejay device
 /device/google/gs201 device cloudripper
 /device/google/gs201-sepolicy device cloudripper
+/device/google/lynx lynx device
+/device/google/lynx-kernel lynx device
+/device/google/lynx-sepolicy lynx device
 /device/google/pantah device cloudripper
 /device/google/pantah-kernel device cloudripper
 /device/google/pantah-sepolicy device cloudripper

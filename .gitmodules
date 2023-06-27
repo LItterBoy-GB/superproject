@@ -166,6 +166,19 @@
 	branch = master
 	path = device/google/gs201-sepolicy
 	url = ../../device/google/gs201-sepolicy
+[submodule "device/google/lynx"]
+	branch = master
+	path = device/google/lynx
+	url = ../../device/google/lynx
+[submodule "device/google/lynx-kernel"]
+	branch = master
+	shallow = true
+	path = device/google/lynx-kernel
+	url = ../../device/google/lynx-kernel
+[submodule "device/google/lynx-sepolicy"]
+	branch = master
+	path = device/google/lynx-sepolicy
+	url = ../../device/google/lynx-sepolicy
 [submodule "device/google/pantah"]
 	branch = master
 	path = device/google/pantah
