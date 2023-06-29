@@ -35,6 +35,7 @@
 /external/rust/crates/atty
 /external/rust/crates/bindgen
 /external/rust/crates/bitflags
+/external/rust/crates/byteorder
 /external/rust/crates/bytes
 /external/rust/crates/cexpr
 /external/rust/crates/cfg-if
@@ -48,6 +49,7 @@
 /external/rust/crates/crossbeam-deque
 /external/rust/crates/crossbeam-epoch
 /external/rust/crates/crossbeam-utils
+/external/rust/crates/data-encoding
 /external/rust/crates/either
 /external/rust/crates/env_logger
 /external/rust/crates/fastrand
@@ -125,9 +127,11 @@
 /external/rust/crates/tokio-macros
 /external/rust/crates/tokio-stream
 /external/rust/crates/tokio-util
+/external/rust/crates/tungstenite
 /external/rust/crates/ucd-trie
 /external/rust/crates/unicode-ident
 /external/rust/crates/unicode-width
+/external/rust/crates/utf-8
 /external/rust/crates/walkdir
 /external/rust/crates/which
 /external/rust/crates/cxx
