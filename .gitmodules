@@ -505,7 +505,7 @@
 	path = external/apache-commons-math
 	url = ../external/apache-commons-math
 [submodule "platform/external/apache-harmony"]
-	branch = android13-release
+	branch = android13-tests-dev
 	path = external/apache-harmony
 	url = ../external/apache-harmony
 [submodule "platform/external/apache-http"]
