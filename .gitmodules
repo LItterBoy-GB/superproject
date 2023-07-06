@@ -4547,7 +4547,7 @@
 	path = tools/ndkports
 	url = ../tools/ndkports
 [submodule "platform/tools/repohooks"]
-	branch = master
+	branch = main
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "platform/tools/security"]
