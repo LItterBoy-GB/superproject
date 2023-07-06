@@ -1,484 +1,484 @@
 [submodule "platform/bionic"]
-	branch = master
+	branch = main
 	path = bionic
 	url = ../bionic
 [submodule "platform/build"]
-	branch = master
+	branch = main
 	path = build/make
 	url = ../build
 [submodule "platform/build/bazel"]
-	branch = master
+	branch = main
 	path = build/bazel
 	url = ../build/bazel
 [submodule "platform/build/bazel_common_rules"]
-	branch = master
+	branch = main
 	path = build/bazel_common_rules
 	url = ../build/bazel_common_rules
 [submodule "platform/build/blueprint"]
-	branch = master
+	branch = main
 	path = build/blueprint
 	url = ../build/blueprint
 [submodule "platform/build/kati"]
-	branch = master
+	branch = main
 	path = build/kati
 	url = ../build/kati
 [submodule "platform/build/soong"]
-	branch = master
+	branch = main
 	path = build/soong
 	url = ../build/soong
 [submodule "platform/dalvik"]
-	branch = master
+	branch = main
 	path = dalvik
 	url = ../dalvik
 [submodule "platform/development"]
-	branch = master
+	branch = main
 	path = development
 	url = ../development
 [submodule "platform/external/abseil-cpp"]
-	branch = master
+	branch = main
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
 [submodule "platform/external/bazel-skylib"]
-	branch = master
+	branch = main
 	path = external/bazel-skylib
 	url = ../external/bazel-skylib
 [submodule "platform/external/bazelbuild-kotlin-rules"]
-	branch = master
+	branch = main
 	path = external/bazelbuild-kotlin-rules
 	url = ../external/bazelbuild-kotlin-rules
 [submodule "platform/external/bazelbuild-rules_android"]
-	branch = master
+	branch = main
 	path = external/bazelbuild-rules_android
 	url = ../external/bazelbuild-rules_android
 [submodule "platform/external/bazelbuild-rules_go"]
-	branch = master
+	branch = main
 	path = external/bazelbuild-rules_go
 	url = ../external/bazelbuild-rules_go
 [submodule "platform/external/bazelbuild-rules_license"]
-	branch = master
+	branch = main
 	path = external/bazelbuild-rules_license
 	url = ../external/bazelbuild-rules_license
 [submodule "platform/external/boringssl"]
-	branch = master
+	branch = main
 	path = external/boringssl
 	url = ../external/boringssl
 [submodule "platform/external/clang"]
-	branch = master
+	branch = main
 	path = external/clang
 	url = ../external/clang
 [submodule "platform/external/compiler-rt"]
-	branch = master
+	branch = main
 	path = external/compiler-rt
 	url = ../external/compiler-rt
 [submodule "platform/external/fmtlib"]
-	branch = master
+	branch = main
 	path = external/fmtlib
 	url = ../external/fmtlib
 [submodule "platform/external/gflags"]
-	branch = master
+	branch = main
 	path = external/gflags
 	url = ../external/gflags
 [submodule "platform/external/go-cmp"]
-	branch = master
+	branch = main
 	path = external/go-cmp
 	url = ../external/go-cmp
 [submodule "platform/external/go-creachadair-shell"]
-	branch = master
+	branch = main
 	path = external/go-creachadair-shell
 	url = ../external/go-creachadair-shell
 [submodule "platform/external/go-creachadair-stringset"]
-	branch = master
+	branch = main
 	path = external/go-creachadair-stringset
 	url = ../external/go-creachadair-stringset
 [submodule "platform/external/go-etree"]
-	branch = master
+	branch = main
 	path = external/go-etree
 	url = ../external/go-etree
 [submodule "platform/external/go-subcommands"]
-	branch = master
+	branch = main
 	path = external/go-subcommands
 	url = ../external/go-subcommands
 [submodule "platform/external/golang-protobuf"]
-	branch = master
+	branch = main
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
 [submodule "platform/external/golang-x-sync"]
-	branch = master
+	branch = main
 	path = external/golang-x-sync
 	url = ../external/golang-x-sync
 [submodule "platform/external/golang-x-sys"]
-	branch = master
+	branch = main
 	path = external/golang-x-sys
 	url = ../external/golang-x-sys
 [submodule "platform/external/golang-x-tools"]
-	branch = master
+	branch = main
 	path = external/golang-x-tools
 	url = ../external/golang-x-tools
 [submodule "platform/external/googletest"]
-	branch = master
+	branch = main
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/jsoncpp"]
-	branch = master
+	branch = main
 	path = external/jsoncpp
 	url = ../external/jsoncpp
 [submodule "platform/external/kythe"]
-	branch = master
+	branch = main
 	path = external/kythe
 	url = ../external/kythe
 [submodule "platform/external/libcxx"]
-	branch = master
+	branch = main
 	path = external/libcxx
 	url = ../external/libcxx
 [submodule "platform/external/libcxxabi"]
-	branch = master
+	branch = main
 	path = external/libcxxabi
 	url = ../external/libcxxabi
 [submodule "platform/external/libunwind"]
-	branch = master
+	branch = main
 	path = external/libunwind
 	url = ../external/libunwind
 [submodule "platform/external/libunwind_llvm"]
-	branch = master
+	branch = main
 	path = external/libunwind_llvm
 	url = ../external/libunwind_llvm
 [submodule "platform/external/licenseclassifier"]
-	branch = master
+	branch = main
 	path = external/licenseclassifier
 	url = ../external/licenseclassifier
 [submodule "platform/external/llvm"]
-	branch = master
+	branch = main
 	path = external/llvm
 	url = ../external/llvm
 [submodule "platform/external/ninja"]
-	branch = master
+	branch = main
 	path = external/ninja
 	url = ../external/ninja
 [submodule "platform/external/protobuf"]
-	branch = master
+	branch = main
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/python/cpython2"]
-	branch = master
+	branch = main
 	path = external/python/cpython2
 	url = ../external/python/cpython2
 [submodule "platform/external/python/cpython3"]
-	branch = master
+	branch = main
 	path = external/python/cpython3
 	url = ../external/python/cpython3
 [submodule "platform/external/rapidjson"]
-	branch = master
+	branch = main
 	path = external/rapidjson
 	url = ../external/rapidjson
 [submodule "platform/external/regex-re2"]
-	branch = master
+	branch = main
 	path = external/regex-re2
 	url = ../external/regex-re2
 [submodule "platform/external/rust/crates/ahash"]
-	branch = master
+	branch = main
 	path = external/rust/crates/ahash
 	url = ../external/rust/crates/ahash
 [submodule "platform/external/rust/crates/aho-corasick"]
-	branch = master
+	branch = main
 	path = external/rust/crates/aho-corasick
 	url = ../external/rust/crates/aho-corasick
 [submodule "platform/external/rust/crates/bindgen"]
-	branch = master
+	branch = main
 	path = external/rust/crates/bindgen
 	url = ../external/rust/crates/bindgen
 [submodule "platform/external/rust/crates/bindgen-cli"]
-	branch = master
+	branch = main
 	path = external/rust/crates/bindgen-cli
 	url = ../external/rust/crates/bindgen-cli
 [submodule "platform/external/rust/crates/bitflags"]
-	branch = master
+	branch = main
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags
 [submodule "platform/external/rust/crates/cexpr"]
-	branch = master
+	branch = main
 	path = external/rust/crates/cexpr
 	url = ../external/rust/crates/cexpr
 [submodule "platform/external/rust/crates/cfg-if"]
-	branch = master
+	branch = main
 	path = external/rust/crates/cfg-if
 	url = ../external/rust/crates/cfg-if
 [submodule "platform/external/rust/crates/clang-sys"]
-	branch = master
+	branch = main
 	path = external/rust/crates/clang-sys
 	url = ../external/rust/crates/clang-sys
 [submodule "platform/external/rust/crates/clap"]
-	branch = master
+	branch = main
 	path = external/rust/crates/clap
 	url = ../external/rust/crates/clap
 [submodule "platform/external/rust/crates/clap_derive"]
-	branch = master
+	branch = main
 	path = external/rust/crates/clap_derive
 	url = ../external/rust/crates/clap_derive
 [submodule "platform/external/rust/crates/clap_lex"]
-	branch = master
+	branch = main
 	path = external/rust/crates/clap_lex
 	url = ../external/rust/crates/clap_lex
 [submodule "platform/external/rust/crates/either"]
-	branch = master
+	branch = main
 	path = external/rust/crates/either
 	url = ../external/rust/crates/either
 [submodule "platform/external/rust/crates/env_logger"]
-	branch = master
+	branch = main
 	path = external/rust/crates/env_logger
 	url = ../external/rust/crates/env_logger
 [submodule "platform/external/rust/crates/getrandom"]
-	branch = master
+	branch = main
 	path = external/rust/crates/getrandom
 	url = ../external/rust/crates/getrandom
 [submodule "platform/external/rust/crates/glob"]
-	branch = master
+	branch = main
 	path = external/rust/crates/glob
 	url = ../external/rust/crates/glob
 [submodule "platform/external/rust/crates/hashbrown"]
-	branch = master
+	branch = main
 	path = external/rust/crates/hashbrown
 	url = ../external/rust/crates/hashbrown
 [submodule "platform/external/rust/crates/heck"]
-	branch = master
+	branch = main
 	path = external/rust/crates/heck
 	url = ../external/rust/crates/heck
 [submodule "platform/external/rust/crates/indexmap"]
-	branch = master
+	branch = main
 	path = external/rust/crates/indexmap
 	url = ../external/rust/crates/indexmap
 [submodule "platform/external/rust/crates/lazy_static"]
-	branch = master
+	branch = main
 	path = external/rust/crates/lazy_static
 	url = ../external/rust/crates/lazy_static
 [submodule "platform/external/rust/crates/lazycell"]
-	branch = master
+	branch = main
 	path = external/rust/crates/lazycell
 	url = ../external/rust/crates/lazycell
 [submodule "platform/external/rust/crates/libc"]
-	branch = master
+	branch = main
 	path = external/rust/crates/libc
 	url = ../external/rust/crates/libc
 [submodule "platform/external/rust/crates/libloading"]
-	branch = master
+	branch = main
 	path = external/rust/crates/libloading
 	url = ../external/rust/crates/libloading
 [submodule "platform/external/rust/crates/log"]
-	branch = master
+	branch = main
 	path = external/rust/crates/log
 	url = ../external/rust/crates/log
 [submodule "platform/external/rust/crates/memchr"]
-	branch = master
+	branch = main
 	path = external/rust/crates/memchr
 	url = ../external/rust/crates/memchr
 [submodule "platform/external/rust/crates/minimal-lexical"]
-	branch = master
+	branch = main
 	path = external/rust/crates/minimal-lexical
 	url = ../external/rust/crates/minimal-lexical
 [submodule "platform/external/rust/crates/nom"]
-	branch = master
+	branch = main
 	path = external/rust/crates/nom
 	url = ../external/rust/crates/nom
 [submodule "platform/external/rust/crates/once_cell"]
-	branch = master
+	branch = main
 	path = external/rust/crates/once_cell
 	url = ../external/rust/crates/once_cell
 [submodule "platform/external/rust/crates/os_str_bytes"]
-	branch = master
+	branch = main
 	path = external/rust/crates/os_str_bytes
 	url = ../external/rust/crates/os_str_bytes
 [submodule "platform/external/rust/crates/peeking_take_while"]
-	branch = master
+	branch = main
 	path = external/rust/crates/peeking_take_while
 	url = ../external/rust/crates/peeking_take_while
 [submodule "platform/external/rust/crates/proc-macro-error"]
-	branch = master
+	branch = main
 	path = external/rust/crates/proc-macro-error
 	url = ../external/rust/crates/proc-macro-error
 [submodule "platform/external/rust/crates/proc-macro-error-attr"]
-	branch = master
+	branch = main
 	path = external/rust/crates/proc-macro-error-attr
 	url = ../external/rust/crates/proc-macro-error-attr
 [submodule "platform/external/rust/crates/proc-macro2"]
-	branch = master
+	branch = main
 	path = external/rust/crates/proc-macro2
 	url = ../external/rust/crates/proc-macro2
 [submodule "platform/external/rust/crates/quote"]
-	branch = master
+	branch = main
 	path = external/rust/crates/quote
 	url = ../external/rust/crates/quote
 [submodule "platform/external/rust/crates/regex"]
-	branch = master
+	branch = main
 	path = external/rust/crates/regex
 	url = ../external/rust/crates/regex
 [submodule "platform/external/rust/crates/regex-syntax"]
-	branch = master
+	branch = main
 	path = external/rust/crates/regex-syntax
 	url = ../external/rust/crates/regex-syntax
 [submodule "platform/external/rust/crates/rustc-hash"]
-	branch = master
+	branch = main
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
 [submodule "platform/external/rust/crates/shlex"]
-	branch = master
+	branch = main
 	path = external/rust/crates/shlex
 	url = ../external/rust/crates/shlex
 [submodule "platform/external/rust/crates/syn"]
-	branch = master
+	branch = main
 	path = external/rust/crates/syn
 	url = ../external/rust/crates/syn
 [submodule "platform/external/rust/crates/textwrap"]
-	branch = master
+	branch = main
 	path = external/rust/crates/textwrap
 	url = ../external/rust/crates/textwrap
 [submodule "platform/external/rust/crates/unicode-ident"]
-	branch = master
+	branch = main
 	path = external/rust/crates/unicode-ident
 	url = ../external/rust/crates/unicode-ident
 [submodule "platform/external/rust/crates/unicode-segmentation"]
-	branch = master
+	branch = main
 	path = external/rust/crates/unicode-segmentation
 	url = ../external/rust/crates/unicode-segmentation
 [submodule "platform/external/rust/crates/unicode-xid"]
-	branch = master
+	branch = main
 	path = external/rust/crates/unicode-xid
 	url = ../external/rust/crates/unicode-xid
 [submodule "platform/external/rust/crates/which"]
-	branch = master
+	branch = main
 	path = external/rust/crates/which
 	url = ../external/rust/crates/which
 [submodule "platform/external/spdx-tools"]
-	branch = master
+	branch = main
 	path = external/spdx-tools
 	url = ../external/spdx-tools
 [submodule "platform/external/starlark-go"]
-	branch = master
+	branch = main
 	path = external/starlark-go
 	url = ../external/starlark-go
 [submodule "platform/external/zlib"]
-	branch = master
+	branch = main
 	path = external/zlib
 	url = ../external/zlib
 [submodule "platform/external/zopfli"]
-	branch = master
+	branch = main
 	path = external/zopfli
 	url = ../external/zopfli
 [submodule "platform/prebuilts/bazel/common"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/bazel/common
 	url = ../prebuilts/bazel/common
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/bazel/darwin-x86_64
 	url = ../prebuilts/bazel/darwin-x86_64
 [submodule "platform/prebuilts/bazel/linux-x86_64"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/bazel/linux-x86_64
 	url = ../prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/build-tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
 [submodule "platform/prebuilts/clang-tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/clang-tools
 	url = ../prebuilts/clang-tools
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/gcc/darwin-x86/host/headers"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/darwin-x86/host/headers
 	url = ../prebuilts/gcc/darwin-x86/host/headers
 [submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/go/darwin-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/go/darwin-x86
 	url = ../prebuilts/go/darwin-x86
 [submodule "platform/prebuilts/go/linux-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
 [submodule "platform/prebuilts/jdk/jdk11"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/jdk/jdk8"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
 [submodule "platform/prebuilts/jdk/jdk9"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk9
 	url = ../prebuilts/jdk/jdk9
 [submodule "platform/prebuilts/misc"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/misc
 	url = ../prebuilts/misc
 [submodule "platform/prebuilts/ninja/darwin-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/ninja/darwin-x86
 	url = ../prebuilts/ninja/darwin-x86
 [submodule "platform/prebuilts/ninja/linux-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
 [submodule "platform/prebuilts/rust"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/rust
 	url = ../prebuilts/rust
 [submodule "platform/system/core"]
-	branch = master
+	branch = main
 	path = system/core
 	url = ../system/core
 [submodule "platform/system/libbase"]
-	branch = master
+	branch = main
 	path = system/libbase
 	url = ../system/libbase
 [submodule "platform/system/libziparchive"]
-	branch = master
+	branch = main
 	path = system/libziparchive
 	url = ../system/libziparchive
 [submodule "platform/system/logging"]
-	branch = master
+	branch = main
 	path = system/logging
 	url = ../system/logging
 [submodule "platform/system/tools/aidl"]
-	branch = master
+	branch = main
 	path = system/tools/aidl
 	url = ../system/tools/aidl
