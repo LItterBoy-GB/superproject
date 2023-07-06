@@ -407,7 +407,7 @@
 /external/newfs_msdos pdk
 /external/nist-pkits pdk
 /external/nist-sip pdk
-/external/nos/host/generic pixel
+/external/nos/host/generic pdk
 /external/noto-fonts pdk
 /external/nullaway pdk
 /external/oauth pdk
