@@ -2,38 +2,38 @@
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 [submodule "toolchain/binutils"]
-	branch = master
+	branch = main
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
 [submodule "toolchain/cloog"]
-	branch = master
+	branch = main
 	path = toolchain/cloog
 	url = ../../toolchain/cloog
 [submodule "toolchain/gcc"]
-	branch = master
+	branch = main
 	path = toolchain/gcc
 	url = ../../toolchain/gcc
 [submodule "toolchain/gmp"]
-	branch = master
+	branch = main
 	path = toolchain/gmp
 	url = ../../toolchain/gmp
 [submodule "toolchain/isl"]
-	branch = master
+	branch = main
 	path = toolchain/isl
 	url = ../../toolchain/isl
 [submodule "toolchain/mingw"]
-	branch = master
+	branch = main
 	path = toolchain/mingw
 	url = ../../toolchain/mingw
 [submodule "toolchain/mpc"]
-	branch = master
+	branch = main
 	path = toolchain/mpc
 	url = ../../toolchain/mpc
 [submodule "toolchain/mpfr"]
-	branch = master
+	branch = main
 	path = toolchain/mpfr
 	url = ../../toolchain/mpfr
 [submodule "toolchain/ppl"]
-	branch = master
+	branch = main
 	path = toolchain/ppl
 	url = ../../toolchain/ppl
