@@ -1,737 +1,737 @@
 [submodule "device/generic/art"]
-	branch = master
+	branch = main
 	path = device/generic/art
 	url = ../../device/generic/art
 [submodule "platform/art"]
-	branch = master
+	branch = main
 	path = art
 	url = ../art
 [submodule "platform/build"]
-	branch = master
+	branch = main
 	path = build/make
 	url = ../build
 [submodule "platform/build/bazel"]
-	branch = master
+	branch = main
 	path = build/bazel
 	url = ../build/bazel
 [submodule "platform/build/bazel_common_rules"]
-	branch = master
+	branch = main
 	path = build/bazel_common_rules
 	url = ../build/bazel_common_rules
 [submodule "platform/build/blueprint"]
-	branch = master
+	branch = main
 	path = build/blueprint
 	url = ../build/blueprint
 [submodule "platform/build/release"]
-	branch = master
+	branch = main
 	path = build/release
 	url = ../build/release
 [submodule "platform/build/soong"]
-	branch = master
+	branch = main
 	path = build/soong
 	url = ../build/soong
 [submodule "platform/dalvik"]
-	branch = master
+	branch = main
 	path = dalvik
 	url = ../dalvik
 [submodule "platform/development"]
-	branch = master
+	branch = main
 	path = development
 	url = ../development
 [submodule "platform/external/antlr"]
-	branch = master
+	branch = main
 	path = external/antlr
 	url = ../external/antlr
 [submodule "platform/external/apache-commons-bcel"]
-	branch = master
+	branch = main
 	path = external/apache-commons-bcel
 	url = ../external/apache-commons-bcel
 [submodule "platform/external/apache-commons-math"]
-	branch = master
+	branch = main
 	path = external/apache-commons-math
 	url = ../external/apache-commons-math
 [submodule "platform/external/apache-harmony"]
-	branch = master
+	branch = main
 	path = external/apache-harmony
 	url = ../external/apache-harmony
 [submodule "platform/external/apache-xml"]
-	branch = master
+	branch = main
 	path = external/apache-xml
 	url = ../external/apache-xml
 [submodule "platform/external/auto"]
-	branch = master
+	branch = main
 	path = external/auto
 	url = ../external/auto
 [submodule "platform/external/avb"]
-	branch = master
+	branch = main
 	path = external/avb
 	url = ../external/avb
 [submodule "platform/external/bazel-skylib"]
-	branch = master
+	branch = main
 	path = external/bazel-skylib
 	url = ../external/bazel-skylib
 [submodule "platform/external/bazelbuild-kotlin-rules"]
-	branch = master
+	branch = main
 	path = external/bazelbuild-kotlin-rules
 	url = ../external/bazelbuild-kotlin-rules
 [submodule "platform/external/bazelbuild-rules_android"]
-	branch = master
+	branch = main
 	path = external/bazelbuild-rules_android
 	url = ../external/bazelbuild-rules_android
 [submodule "platform/external/bazelbuild-rules_license"]
-	branch = master
+	branch = main
 	path = external/bazelbuild-rules_license
 	url = ../external/bazelbuild-rules_license
 [submodule "platform/external/bcc"]
-	branch = master
+	branch = main
 	path = external/bcc
 	url = ../external/bcc
 [submodule "platform/external/boringssl"]
-	branch = master
+	branch = main
 	path = external/boringssl
 	url = ../external/boringssl
 [submodule "platform/external/bouncycastle"]
-	branch = master
+	branch = main
 	path = external/bouncycastle
 	url = ../external/bouncycastle
 [submodule "platform/external/caliper"]
-	branch = master
+	branch = main
 	path = external/caliper
 	url = ../external/caliper
 [submodule "platform/external/compiler-rt"]
-	branch = master
+	branch = main
 	path = external/compiler-rt
 	url = ../external/compiler-rt
 [submodule "platform/external/cpu_features"]
-	branch = master
+	branch = main
 	path = external/cpu_features
 	url = ../external/cpu_features
 [submodule "platform/external/dagger2"]
-	branch = master
+	branch = main
 	path = external/dagger2
 	url = ../external/dagger2
 [submodule "platform/external/desugar"]
-	branch = master
+	branch = main
 	path = external/desugar
 	url = ../external/desugar
 [submodule "platform/external/dexmaker"]
-	branch = master
+	branch = main
 	path = external/dexmaker
 	url = ../external/dexmaker
 [submodule "platform/external/dlmalloc"]
-	branch = master
+	branch = main
 	path = external/dlmalloc
 	url = ../external/dlmalloc
 [submodule "platform/external/e2fsprogs"]
-	branch = master
+	branch = main
 	path = external/e2fsprogs
 	url = ../external/e2fsprogs
 [submodule "platform/external/easymock"]
-	branch = master
+	branch = main
 	path = external/easymock
 	url = ../external/easymock
 [submodule "platform/external/elfutils"]
-	branch = master
+	branch = main
 	path = external/elfutils
 	url = ../external/elfutils
 [submodule "platform/external/erofs-utils"]
-	branch = master
+	branch = main
 	path = external/erofs-utils
 	url = ../external/erofs-utils
 [submodule "platform/external/error_prone"]
-	branch = master
+	branch = main
 	path = external/error_prone
 	url = ../external/error_prone
 [submodule "platform/external/escapevelocity"]
-	branch = master
+	branch = main
 	path = external/escapevelocity
 	url = ../external/escapevelocity
 [submodule "platform/external/expat"]
-	branch = master
+	branch = main
 	path = external/expat
 	url = ../external/expat
 [submodule "platform/external/f2fs-tools"]
-	branch = master
+	branch = main
 	path = external/f2fs-tools
 	url = ../external/f2fs-tools
 [submodule "platform/external/fdlibm"]
-	branch = master
+	branch = main
 	path = external/fdlibm
 	url = ../external/fdlibm
 [submodule "platform/external/fec"]
-	branch = master
+	branch = main
 	path = external/fec
 	url = ../external/fec
 [submodule "platform/external/fmtlib"]
-	branch = master
+	branch = main
 	path = external/fmtlib
 	url = ../external/fmtlib
 [submodule "platform/external/go-cmp"]
-	branch = master
+	branch = main
 	path = external/go-cmp
 	url = ../external/go-cmp
 [submodule "platform/external/golang-protobuf"]
-	branch = master
+	branch = main
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
 [submodule "platform/external/google-java-format"]
-	branch = master
+	branch = main
 	path = external/google-java-format
 	url = ../external/google-java-format
 [submodule "platform/external/google-styleguide"]
-	branch = master
+	branch = main
 	path = external/google-styleguide
 	url = ../external/google-styleguide
 [submodule "platform/external/googletest"]
-	branch = master
+	branch = main
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/guava"]
-	branch = master
+	branch = main
 	path = external/guava
 	url = ../external/guava
 [submodule "platform/external/guice"]
-	branch = master
+	branch = main
 	path = external/guice
 	url = ../external/guice
 [submodule "platform/external/hamcrest"]
-	branch = master
+	branch = main
 	path = external/hamcrest
 	url = ../external/hamcrest
 [submodule "platform/external/jacoco"]
-	branch = master
+	branch = main
 	path = external/jacoco
 	url = ../external/jacoco
 [submodule "platform/external/jarjar"]
-	branch = master
+	branch = main
 	path = external/jarjar
 	url = ../external/jarjar
 [submodule "platform/external/javapoet"]
-	branch = master
+	branch = main
 	path = external/javapoet
 	url = ../external/javapoet
 [submodule "platform/external/javasqlite"]
-	branch = master
+	branch = main
 	path = external/javasqlite
 	url = ../external/javasqlite
 [submodule "platform/external/jcommander"]
-	branch = master
+	branch = main
 	path = external/jcommander
 	url = ../external/jcommander
 [submodule "platform/external/jline"]
-	branch = master
+	branch = main
 	path = external/jline
 	url = ../external/jline
 [submodule "platform/external/jsoncpp"]
-	branch = master
+	branch = main
 	path = external/jsoncpp
 	url = ../external/jsoncpp
 [submodule "platform/external/jsr305"]
-	branch = master
+	branch = main
 	path = external/jsr305
 	url = ../external/jsr305
 [submodule "platform/external/jsr330"]
-	branch = master
+	branch = main
 	path = external/jsr330
 	url = ../external/jsr330
 [submodule "platform/external/junit"]
-	branch = master
+	branch = main
 	path = external/junit
 	url = ../external/junit
 [submodule "platform/external/junit-params"]
-	branch = master
+	branch = main
 	path = external/junit-params
 	url = ../external/junit-params
 [submodule "platform/external/kotlinc"]
-	branch = master
+	branch = main
 	path = external/kotlinc
 	url = ../external/kotlinc
 [submodule "platform/external/kotlinx.metadata"]
-	branch = master
+	branch = main
 	path = external/kotlinx.metadata
 	url = ../external/kotlinx.metadata
 [submodule "platform/external/ksp"]
-	branch = master
+	branch = main
 	path = external/ksp
 	url = ../external/ksp
 [submodule "platform/external/libbpf"]
-	branch = master
+	branch = main
 	path = external/libbpf
 	url = ../external/libbpf
 [submodule "platform/external/libcxx"]
-	branch = master
+	branch = main
 	path = external/libcxx
 	url = ../external/libcxx
 [submodule "platform/external/libcxxabi"]
-	branch = master
+	branch = main
 	path = external/libcxxabi
 	url = ../external/libcxxabi
 [submodule "platform/external/libffi"]
-	branch = master
+	branch = main
 	path = external/libffi
 	url = ../external/libffi
 [submodule "platform/external/libunwind_llvm"]
-	branch = master
+	branch = main
 	path = external/libunwind_llvm
 	url = ../external/libunwind_llvm
 [submodule "platform/external/libxml2"]
-	branch = master
+	branch = main
 	path = external/libxml2
 	url = ../external/libxml2
 [submodule "platform/external/licenseclassifier"]
-	branch = master
+	branch = main
 	path = external/licenseclassifier
 	url = ../external/licenseclassifier
 [submodule "platform/external/lz4"]
-	branch = master
+	branch = main
 	path = external/lz4
 	url = ../external/lz4
 [submodule "platform/external/lzma"]
-	branch = master
+	branch = main
 	path = external/lzma
 	url = ../external/lzma
 [submodule "platform/external/mksh"]
-	branch = master
+	branch = main
 	path = external/mksh
 	url = ../external/mksh
 [submodule "platform/external/mockftpserver"]
-	branch = master
+	branch = main
 	path = external/mockftpserver
 	url = ../external/mockftpserver
 [submodule "platform/external/mockito"]
-	branch = master
+	branch = main
 	path = external/mockito
 	url = ../external/mockito
 [submodule "platform/external/mockwebserver"]
-	branch = master
+	branch = main
 	path = external/mockwebserver
 	url = ../external/mockwebserver
 [submodule "platform/external/musl"]
-	branch = master
+	branch = main
 	path = external/musl
 	url = ../external/musl
 [submodule "platform/external/nist-pkits"]
-	branch = master
+	branch = main
 	path = external/nist-pkits
 	url = ../external/nist-pkits
 [submodule "platform/external/objenesis"]
-	branch = master
+	branch = main
 	path = external/objenesis
 	url = ../external/objenesis
 [submodule "platform/external/oj-libjdwp"]
-	branch = master
+	branch = main
 	path = external/oj-libjdwp
 	url = ../external/oj-libjdwp
 [submodule "platform/external/okhttp"]
-	branch = master
+	branch = main
 	path = external/okhttp
 	url = ../external/okhttp
 [submodule "platform/external/okio"]
-	branch = master
+	branch = main
 	path = external/okio
 	url = ../external/okio
 [submodule "platform/external/ow2-asm"]
-	branch = master
+	branch = main
 	path = external/ow2-asm
 	url = ../external/ow2-asm
 [submodule "platform/external/pcre"]
-	branch = master
+	branch = main
 	path = external/pcre
 	url = ../external/pcre
 [submodule "platform/external/protobuf"]
-	branch = master
+	branch = main
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/python/cpython2"]
-	branch = master
+	branch = main
 	path = external/python/cpython2
 	url = ../external/python/cpython2
 [submodule "platform/external/python/cpython3"]
-	branch = master
+	branch = main
 	path = external/python/cpython3
 	url = ../external/python/cpython3
 [submodule "platform/external/python/six"]
-	branch = master
+	branch = main
 	path = external/python/six
 	url = ../external/python/six
 [submodule "platform/external/rust/crates/rustc-demangle"]
-	branch = master
+	branch = main
 	path = external/rust/crates/rustc-demangle
 	url = ../external/rust/crates/rustc-demangle
 [submodule "platform/external/rust/crates/rustc-demangle-capi"]
-	branch = master
+	branch = main
 	path = external/rust/crates/rustc-demangle-capi
 	url = ../external/rust/crates/rustc-demangle-capi
 [submodule "platform/external/selinux"]
-	branch = master
+	branch = main
 	path = external/selinux
 	url = ../external/selinux
 [submodule "platform/external/slf4j"]
-	branch = master
+	branch = main
 	path = external/slf4j
 	url = ../external/slf4j
 [submodule "platform/external/smali"]
-	branch = master
+	branch = main
 	path = external/smali
 	url = ../external/smali
 [submodule "platform/external/snakeyaml"]
-	branch = master
+	branch = main
 	path = external/snakeyaml
 	url = ../external/snakeyaml
 [submodule "platform/external/spdx-tools"]
-	branch = master
+	branch = main
 	path = external/spdx-tools
 	url = ../external/spdx-tools
 [submodule "platform/external/sqlite"]
-	branch = master
+	branch = main
 	path = external/sqlite
 	url = ../external/sqlite
 [submodule "platform/external/squashfs-tools"]
-	branch = master
+	branch = main
 	path = external/squashfs-tools
 	url = ../external/squashfs-tools
 [submodule "platform/external/starlark-go"]
-	branch = master
+	branch = main
 	path = external/starlark-go
 	url = ../external/starlark-go
 [submodule "platform/external/testng"]
-	branch = master
+	branch = main
 	path = external/testng
 	url = ../external/testng
 [submodule "platform/external/tinyxml2"]
-	branch = master
+	branch = main
 	path = external/tinyxml2
 	url = ../external/tinyxml2
 [submodule "platform/external/toybox"]
-	branch = master
+	branch = main
 	path = external/toybox
 	url = ../external/toybox
 [submodule "platform/external/turbine"]
-	branch = master
+	branch = main
 	path = external/turbine
 	url = ../external/turbine
 [submodule "platform/external/vixl"]
-	branch = master
+	branch = main
 	path = external/vixl
 	url = ../external/vixl
 [submodule "platform/external/vogar"]
-	branch = master
+	branch = main
 	path = external/vogar
 	url = ../external/vogar
 [submodule "platform/external/zlib"]
-	branch = master
+	branch = main
 	path = external/zlib
 	url = ../external/zlib
 [submodule "platform/external/zopfli"]
-	branch = master
+	branch = main
 	path = external/zopfli
 	url = ../external/zopfli
 [submodule "platform/frameworks/libs/modules-utils"]
-	branch = master
+	branch = main
 	path = frameworks/libs/modules-utils
 	url = ../frameworks/libs/modules-utils
 [submodule "platform/frameworks/libs/net"]
-	branch = master
+	branch = main
 	path = frameworks/libs/net
 	url = ../frameworks/libs/net
 [submodule "platform/frameworks/proto_logging"]
-	branch = master
+	branch = main
 	path = frameworks/proto_logging
 	url = ../frameworks/proto_logging
 [submodule "platform/libcore"]
-	branch = master
+	branch = main
 	path = libcore
 	url = ../libcore
 [submodule "platform/libnativehelper"]
-	branch = master
+	branch = main
 	path = libnativehelper
 	url = ../libnativehelper
 [submodule "platform/packages/modules/DnsResolver"]
-	branch = master
+	branch = main
 	path = packages/modules/DnsResolver
 	url = ../packages/modules/DnsResolver
 [submodule "platform/packages/modules/adb"]
-	branch = master
+	branch = main
 	path = packages/modules/adb
 	url = ../packages/modules/adb
 [submodule "platform/packages/modules/common"]
-	branch = master
+	branch = main
 	path = packages/modules/common
 	url = ../packages/modules/common
 [submodule "platform/packages/modules/vndk"]
-	branch = master
+	branch = main
 	path = packages/modules/vndk
 	url = ../packages/modules/vndk
 [submodule "platform/platform_testing"]
-	branch = master
+	branch = main
 	path = platform_testing
 	url = ../platform_testing
 [submodule "platform/prebuilts/asuite"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/asuite
 	url = ../prebuilts/asuite
 [submodule "platform/prebuilts/bazel/common"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/bazel/common
 	url = ../prebuilts/bazel/common
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/bazel/darwin-x86_64
 	url = ../prebuilts/bazel/darwin-x86_64
 [submodule "platform/prebuilts/bazel/linux-x86_64"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/bazel/linux-x86_64
 	url = ../prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/build-tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
 [submodule "platform/prebuilts/bundletool"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/bundletool
 	url = ../prebuilts/bundletool
 [submodule "platform/prebuilts/clang-tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/clang-tools
 	url = ../prebuilts/clang-tools
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/cmdline-tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/cmdline-tools
 	url = ../prebuilts/cmdline-tools
 [submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 [submodule "platform/prebuilts/go/linux-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
 [submodule "platform/prebuilts/gradle-plugin"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/gradle-plugin
 	url = ../prebuilts/gradle-plugin
 [submodule "platform/prebuilts/jdk/jdk11"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/jdk/jdk17"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk8"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
 [submodule "platform/prebuilts/jdk/jdk9"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk9
 	url = ../prebuilts/jdk/jdk9
 [submodule "platform/prebuilts/misc"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/misc
 	url = ../prebuilts/misc
 [submodule "platform/prebuilts/module_sdk/StatsD"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/module_sdk/StatsD
 	url = ../prebuilts/module_sdk/StatsD
 [submodule "platform/prebuilts/module_sdk/conscrypt"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/module_sdk/conscrypt
 	url = ../prebuilts/module_sdk/conscrypt
 [submodule "platform/prebuilts/ndk"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
 [submodule "platform/prebuilts/r8"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/r8
 	url = ../prebuilts/r8
 [submodule "platform/prebuilts/remoteexecution-client"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/remoteexecution-client
 	url = ../prebuilts/remoteexecution-client
 [submodule "platform/prebuilts/runtime"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/runtime
 	url = ../prebuilts/runtime
 [submodule "platform/prebuilts/rust"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/rust
 	url = ../prebuilts/rust
 [submodule "platform/prebuilts/sdk"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
 [submodule "platform/prebuilts/tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "platform/sdk"]
-	branch = master
+	branch = main
 	path = sdk
 	url = ../sdk
 [submodule "platform/system/apex"]
-	branch = master
+	branch = main
 	path = system/apex
 	url = ../system/apex
 [submodule "platform/system/bpf"]
-	branch = master
+	branch = main
 	path = system/bpf
 	url = ../system/bpf
 [submodule "platform/system/core"]
-	branch = master
+	branch = main
 	path = system/core
 	url = ../system/core
 [submodule "platform/system/extras"]
-	branch = master
+	branch = main
 	path = system/extras
 	url = ../system/extras
 [submodule "platform/system/gsid"]
-	branch = master
+	branch = main
 	path = system/gsid
 	url = ../system/gsid
 [submodule "platform/system/libbase"]
-	branch = master
+	branch = main
 	path = system/libbase
 	url = ../system/libbase
 [submodule "platform/system/libprocinfo"]
-	branch = master
+	branch = main
 	path = system/libprocinfo
 	url = ../system/libprocinfo
 [submodule "platform/system/libsysprop"]
-	branch = master
+	branch = main
 	path = system/libsysprop
 	url = ../system/libsysprop
 [submodule "platform/system/libziparchive"]
-	branch = master
+	branch = main
 	path = system/libziparchive
 	url = ../system/libziparchive
 [submodule "platform/system/logging"]
-	branch = master
+	branch = main
 	path = system/logging
 	url = ../system/logging
 [submodule "platform/system/memory/libmeminfo"]
-	branch = master
+	branch = main
 	path = system/memory/libmeminfo
 	url = ../system/memory/libmeminfo
 [submodule "platform/system/netd"]
-	branch = master
+	branch = main
 	path = system/netd
 	url = ../system/netd
 [submodule "platform/system/sepolicy"]
-	branch = master
+	branch = main
 	path = system/sepolicy
 	url = ../system/sepolicy
 [submodule "platform/system/testing/gtest_extras"]
-	branch = master
+	branch = main
 	path = system/testing/gtest_extras
 	url = ../system/testing/gtest_extras
 [submodule "platform/system/tools/aidl"]
-	branch = master
+	branch = main
 	path = system/tools/aidl
 	url = ../system/tools/aidl
 [submodule "platform/system/tools/sysprop"]
-	branch = master
+	branch = main
 	path = system/tools/sysprop
 	url = ../system/tools/sysprop
 [submodule "platform/system/tools/xsdc"]
-	branch = master
+	branch = main
 	path = system/tools/xsdc
 	url = ../system/tools/xsdc
 [submodule "platform/system/unwinding"]
-	branch = master
+	branch = main
 	path = system/unwinding
 	url = ../system/unwinding
 [submodule "platform/test/app_compat/csuite"]
-	branch = master
+	branch = main
 	path = test/app_compat/csuite
 	url = ../test/app_compat/csuite
 [submodule "platform/test/suite_harness"]
-	branch = master
+	branch = main
 	path = test/suite_harness
 	url = ../test/suite_harness
 [submodule "platform/tools/apifinder"]
-	branch = master
+	branch = main
 	path = tools/apifinder
 	url = ../tools/apifinder
 [submodule "platform/tools/apksig"]
-	branch = master
+	branch = main
 	path = tools/apksig
 	url = ../tools/apksig
 [submodule "platform/tools/asuite"]
-	branch = master
+	branch = main
 	path = tools/asuite
 	url = ../tools/asuite
 [submodule "platform/tools/dexter"]
-	branch = master
+	branch = main
 	path = tools/dexter
 	url = ../tools/dexter
 [submodule "platform/tools/loganalysis"]
-	branch = master
+	branch = main
 	path = tools/loganalysis
 	url = ../tools/loganalysis
 [submodule "platform/tools/metalava"]
-	branch = master
+	branch = main
 	path = tools/metalava
 	url = ../tools/metalava
 [submodule "platform/tools/repohooks"]
-	branch = master
+	branch = main
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "platform/tools/tradefederation"]
-	branch = master
+	branch = main
 	path = tools/tradefederation/core
 	url = ../tools/tradefederation
 [submodule "platform/tools/tradefederation/contrib"]
-	branch = master
+	branch = main
 	path = tools/tradefederation/contrib
 	url = ../tools/tradefederation/contrib
 [submodule "tools/platform-compat"]
-	branch = master
+	branch = main
 	path = tools/platform-compat
 	url = ../../tools/platform-compat
