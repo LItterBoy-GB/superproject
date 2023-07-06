@@ -1,10 +1,10 @@
 [submodule "platform/prebuilts/jdk/jdk17"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/sdk"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
@@ -13,6 +13,6 @@
 	path = tools/metalava
 	url = ../tools/metalava
 [submodule "platform/tools/repohooks"]
-	branch = master
+	branch = main
 	path = tools/repohooks
 	url = ../tools/repohooks
