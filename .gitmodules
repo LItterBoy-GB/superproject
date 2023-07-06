@@ -30,18 +30,18 @@
 	path = external/gemmlowp
 	url = ../external/gemmlowp
 [submodule "platform/external/googletest"]
-	branch = master
+	branch = main
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/libtextclassifier"]
 	path = external/libtextclassifier
 	url = ../external/libtextclassifier
 [submodule "platform/external/modp_b64"]
-	branch = master
+	branch = main
 	path = external/modp_b64
 	url = ../external/modp_b64
 [submodule "platform/external/nanopb-c"]
-	branch = master
+	branch = main
 	path = external/nanopb-c
 	url = ../external/nanopb-c
 [submodule "platform/external/neon_2_sse"]
@@ -57,7 +57,7 @@
 	path = external/pthreadpool
 	url = ../external/pthreadpool
 [submodule "platform/external/python/six"]
-	branch = master
+	branch = main
 	path = external/six
 	url = ../external/python/six
 [submodule "platform/external/ruy"]
@@ -67,7 +67,7 @@
 	path = external/tensorflow
 	url = ../external/tensorflow
 [submodule "platform/frameworks/opt/gamesdk"]
-	branch = master
+	branch = main
 	path = gamesdk
 	url = ../frameworks/opt/gamesdk
 [submodule "platform/packages/modules/StatsD"]
@@ -86,54 +86,54 @@
 	path = prebuilts/cmake/windows-x86
 	url = ../prebuilts/cmake/windows-x86
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/26.0.1"]
-	branch = master
+	branch = main
 	path = prebuilts/sdk/build-tools/26.0.1
 	url = ../prebuilts/fullsdk-linux/build-tools/26.0.1
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/28.0.3"]
-	branch = master
+	branch = main
 	path = prebuilts/sdk/build-tools/28.0.3
 	url = ../prebuilts/fullsdk-linux/build-tools/28.0.3
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/30.0.2"]
-	branch = master
+	branch = main
 	path = prebuilts/sdk/build-tools/30.0.2
 	url = ../prebuilts/fullsdk-linux/build-tools/30.0.2
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/30.0.3"]
-	branch = master
+	branch = main
 	path = prebuilts/sdk/build-tools/30.0.3
 	url = ../prebuilts/fullsdk-linux/build-tools/30.0.3
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/31.0.0"]
-	branch = master
+	branch = main
 	path = prebuilts/sdk/build-tools/31.0.0
 	url = ../prebuilts/fullsdk-linux/build-tools/31.0.0
 [submodule "platform/prebuilts/fullsdk/platforms/android-26"]
-	branch = master
+	branch = main
 	path = prebuilts/sdk/platforms/android-26
 	url = ../prebuilts/fullsdk/platforms/android-26
 [submodule "platform/prebuilts/fullsdk/platforms/android-28"]
-	branch = master
+	branch = main
 	path = prebuilts/sdk/platforms/android-28
 	url = ../prebuilts/fullsdk/platforms/android-28
 [submodule "platform/prebuilts/fullsdk/platforms/android-29"]
-	branch = master
+	branch = main
 	path = prebuilts/sdk/platforms/android-29
 	url = ../prebuilts/fullsdk/platforms/android-29
 [submodule "platform/prebuilts/fullsdk/platforms/android-31"]
-	branch = master
+	branch = main
 	path = prebuilts/sdk/platforms/android-31
 	url = ../prebuilts/fullsdk/platforms/android-31
 [submodule "platform/prebuilts/jdk/jdk11"]
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/libprotobuf/darwin"]
-	branch = master
+	branch = main
 	path = prebuilts/libprotobuf/darwin
 	url = ../prebuilts/libprotobuf/darwin
 [submodule "platform/prebuilts/libprotobuf/linux"]
-	branch = master
+	branch = main
 	path = prebuilts/libprotobuf/linux
 	url = ../prebuilts/libprotobuf/linux
 [submodule "platform/prebuilts/libprotobuf/windows"]
-	branch = master
+	branch = main
 	path = prebuilts/libprotobuf/windows
 	url = ../prebuilts/libprotobuf/windows
 [submodule "platform/prebuilts/ninja/darwin-x86"]
@@ -155,46 +155,46 @@
 	path = prebuilts/python/windows-x86
 	url = ../prebuilts/python/windows-x86
 [submodule "platform/tools/repohooks"]
-	branch = master
+	branch = main
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "toolchain/prebuilts/ndk/r13"]
-	branch = master
+	branch = main
 	path = prebuilts/ndk/r13
 	url = ../../toolchain/prebuilts/ndk/r13
 [submodule "toolchain/prebuilts/ndk/r14"]
-	branch = master
+	branch = main
 	path = prebuilts/ndk/r14
 	url = ../../toolchain/prebuilts/ndk/r14
 [submodule "toolchain/prebuilts/ndk/r15"]
-	branch = master
+	branch = main
 	path = prebuilts/ndk/r15
 	url = ../../toolchain/prebuilts/ndk/r15
 [submodule "toolchain/prebuilts/ndk/r16"]
-	branch = master
+	branch = main
 	path = prebuilts/ndk/r16
 	url = ../../toolchain/prebuilts/ndk/r16
 [submodule "toolchain/prebuilts/ndk/r17"]
-	branch = master
+	branch = main
 	path = prebuilts/ndk/r17
 	url = ../../toolchain/prebuilts/ndk/r17
 [submodule "toolchain/prebuilts/ndk/r18"]
-	branch = master
+	branch = main
 	path = prebuilts/ndk/r18
 	url = ../../toolchain/prebuilts/ndk/r18
 [submodule "toolchain/prebuilts/ndk/r19"]
-	branch = master
+	branch = main
 	path = prebuilts/ndk/r19
 	url = ../../toolchain/prebuilts/ndk/r19
 [submodule "toolchain/prebuilts/ndk/r20"]
-	branch = master
+	branch = main
 	path = prebuilts/ndk/r20
 	url = ../../toolchain/prebuilts/ndk/r20
 [submodule "toolchain/prebuilts/ndk/r21"]
-	branch = master
+	branch = main
 	path = prebuilts/ndk/r21
 	url = ../../toolchain/prebuilts/ndk/r21
 [submodule "toolchain/prebuilts/ndk/r23"]
-	branch = master
+	branch = main
 	path = prebuilts/ndk/r23
 	url = ../../toolchain/prebuilts/ndk/r23
