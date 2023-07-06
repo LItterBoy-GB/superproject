@@ -1,5 +1,5 @@
 [submodule "kernel/prebuilts/build-tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/fullsdk-linux/kernel-build-tools
 	url = ../../kernel/prebuilts/build-tools
@@ -8,12 +8,12 @@
 	path = build/make
 	url = ../build
 [submodule "platform/external/abseil-cpp"]
-	branch = master
+	branch = main
 	shallow = true
 	path = external/abseil-cpp
 	url = ../external/abseil-cpp
 [submodule "platform/external/dokka"]
-	branch = master
+	branch = main
 	shallow = true
 	path = external/dokka
 	url = ../external/dokka
@@ -33,12 +33,12 @@
 	path = external/icu
 	url = ../external/icu
 [submodule "platform/external/ink-stroke-modeler"]
-	branch = master
+	branch = main
 	shallow = true
 	path = external/ink-stroke-modeler
 	url = ../external/ink-stroke-modeler
 [submodule "platform/external/libyuv"]
-	branch = master
+	branch = main
 	shallow = true
 	path = external/libyuv
 	url = ../external/libyuv
@@ -97,17 +97,17 @@
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
 [submodule "platform/prebuilts/checkstyle"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
 [submodule "platform/prebuilts/cmake/darwin-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/fullsdk-darwin/cmake
 	url = ../prebuilts/cmake/darwin-x86
 [submodule "platform/prebuilts/cmake/linux-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/fullsdk-linux/cmake
 	url = ../prebuilts/cmake/linux-x86
@@ -142,17 +142,17 @@
 	path = prebuilts/fullsdk-linux/tools
 	url = ../prebuilts/fullsdk-linux/tools
 [submodule "platform/prebuilts/fullsdk/platforms"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/fullsdk-darwin/platforms
 	url = ../prebuilts/fullsdk/platforms
 [submodule "platform/prebuilts/fullsdk/sources"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/fullsdk-darwin/sources
 	url = ../prebuilts/fullsdk/sources
 [submodule "platform/prebuilts/jdk/jdk17"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
@@ -162,12 +162,12 @@
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
 [submodule "platform/prebuilts/ninja/darwin-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/fullsdk-darwin/ninja
 	url = ../prebuilts/ninja/darwin-x86
 [submodule "platform/prebuilts/ninja/linux-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/fullsdk-linux/ninja
 	url = ../prebuilts/ninja/linux-x86
@@ -192,22 +192,22 @@
 	path = tools/metalava
 	url = ../tools/metalava
 [submodule "platform/tools/repohooks"]
-	branch = master
+	branch = main
 	shallow = true
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "toolchain/prebuilts/ndk-darwin/r23"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/fullsdk-darwin/ndk-bundle
 	url = ../../toolchain/prebuilts/ndk-darwin/r23
 [submodule "toolchain/prebuilts/ndk/r23"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/fullsdk-linux/ndk-bundle
 	url = ../../toolchain/prebuilts/ndk/r23
 [submodule "tools/fetch_artifact"]
-	branch = master
+	branch = main
 	shallow = true
 	path = tools/fetch_artifact
 	url = ../../tools/fetch_artifact
