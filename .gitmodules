@@ -58,7 +58,7 @@
 	path = kernel/configs
 	url = ../../kernel/configs
 [submodule "kernel/prebuilts/4.19/arm64"]
-	branch = master
+	branch = main
 	shallow = true
 	path = kernel/prebuilts/4.19/arm64
 	url = ../../kernel/prebuilts/4.19/arm64
