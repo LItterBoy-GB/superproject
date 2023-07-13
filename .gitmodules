@@ -4030,7 +4030,7 @@
 	path = system/linkerconfig
 	url = ../system/linkerconfig
 [submodule "platform/system/logging"]
-	branch = android12L-release
+	branch = android12L-tests-dev
 	path = system/logging
 	url = ../system/logging
 [submodule "platform/system/media"]
