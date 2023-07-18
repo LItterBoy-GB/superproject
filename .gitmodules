@@ -3752,7 +3752,7 @@
 	path = packages/modules/SEPolicy
 	url = ../packages/modules/SEPolicy
 [submodule "platform/packages/modules/Scheduling"]
-	branch = android13-release
+	branch = android13-tests-dev
 	path = packages/modules/Scheduling
 	url = ../packages/modules/Scheduling
 [submodule "platform/packages/modules/SdkExtensions"]
