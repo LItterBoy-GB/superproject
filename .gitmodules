@@ -103,6 +103,15 @@
 [submodule "device/google/cuttlefish_prebuilts"]
 	path = device/google/cuttlefish_prebuilts
 	url = ../../device/google/cuttlefish_prebuilts
+[submodule "device/google/felix"]
+	path = device/google/felix
+	url = ../../device/google/felix
+[submodule "device/google/felix-kernel"]
+	path = device/google/felix-kernel
+	url = ../../device/google/felix-kernel
+[submodule "device/google/felix-sepolicy"]
+	path = device/google/felix-sepolicy
+	url = ../../device/google/felix-sepolicy
 [submodule "device/google/fuchsia"]
 	path = device/google/fuchsia
 	url = ../../device/google/fuchsia
@@ -121,6 +130,15 @@
 [submodule "device/google/gs201-sepolicy"]
 	path = device/google/gs201-sepolicy
 	url = ../../device/google/gs201-sepolicy
+[submodule "device/google/lynx"]
+	path = device/google/lynx
+	url = ../../device/google/lynx
+[submodule "device/google/lynx-kernel"]
+	path = device/google/lynx-kernel
+	url = ../../device/google/lynx-kernel
+[submodule "device/google/lynx-sepolicy"]
+	path = device/google/lynx-sepolicy
+	url = ../../device/google/lynx-sepolicy
 [submodule "device/google/pantah"]
 	path = device/google/pantah
 	url = ../../device/google/pantah
@@ -160,6 +178,15 @@
 [submodule "device/google/sunfish-sepolicy"]
 	path = device/google/sunfish-sepolicy
 	url = ../../device/google/sunfish-sepolicy
+[submodule "device/google/tangorpro"]
+	path = device/google/tangorpro
+	url = ../../device/google/tangorpro
+[submodule "device/google/tangorpro-kernel"]
+	path = device/google/tangorpro-kernel
+	url = ../../device/google/tangorpro-kernel
+[submodule "device/google/tangorpro-sepolicy"]
+	path = device/google/tangorpro-sepolicy
+	url = ../../device/google/tangorpro-sepolicy
 [submodule "device/google/trout"]
 	path = device/google/trout
 	url = ../../device/google/trout
@@ -433,6 +460,12 @@
 [submodule "platform/external/bazelbuild-rules_android"]
 	path = external/bazelbuild-rules_android
 	url = ../external/bazelbuild-rules_android
+[submodule "platform/external/bazelbuild-rules_go"]
+	path = external/bazelbuild-rules_go
+	url = ../external/bazelbuild-rules_go
+[submodule "platform/external/bazelbuild-rules_java"]
+	path = external/bazelbuild-rules_java
+	url = ../external/bazelbuild-rules_java
 [submodule "platform/external/bazelbuild-rules_license"]
 	path = external/bazelbuild-rules_license
 	url = ../external/bazelbuild-rules_license
@@ -1138,6 +1171,9 @@
 [submodule "platform/external/mockito"]
 	path = external/mockito
 	url = ../external/mockito
+[submodule "platform/external/mockito-kotlin"]
+	path = external/mockito-kotlin
+	url = ../external/mockito-kotlin
 [submodule "platform/external/mockwebserver"]
 	path = external/mockwebserver
 	url = ../external/mockwebserver
@@ -1270,6 +1306,9 @@
 [submodule "platform/external/perfetto"]
 	path = external/perfetto
 	url = ../external/perfetto
+[submodule "platform/external/perfmark"]
+	path = external/perfmark
+	url = ../external/perfmark
 [submodule "platform/external/pffft"]
 	path = external/pffft
 	url = ../external/pffft
@@ -1438,6 +1477,9 @@
 [submodule "platform/external/rootdev"]
 	path = external/rootdev
 	url = ../external/rootdev
+[submodule "platform/external/rust/autocxx"]
+	path = external/rust/autocxx
+	url = ../external/rust/autocxx
 [submodule "platform/external/rust/crates/aarch64-paging"]
 	path = external/rust/crates/aarch64-paging
 	url = ../external/rust/crates/aarch64-paging
@@ -1456,6 +1498,9 @@
 [submodule "platform/external/rust/crates/anes"]
 	path = external/rust/crates/anes
 	url = ../external/rust/crates/anes
+[submodule "platform/external/rust/crates/annotate-snippets"]
+	path = external/rust/crates/annotate-snippets
+	url = ../external/rust/crates/annotate-snippets
 [submodule "platform/external/rust/crates/anyhow"]
 	path = external/rust/crates/anyhow
 	url = ../external/rust/crates/anyhow
@@ -1603,6 +1648,9 @@
 [submodule "platform/external/rust/crates/csv-core"]
 	path = external/rust/crates/csv-core
 	url = ../external/rust/crates/csv-core
+[submodule "platform/external/rust/crates/data-encoding"]
+	path = external/rust/crates/data-encoding
+	url = ../external/rust/crates/data-encoding
 [submodule "platform/external/rust/crates/der"]
 	path = external/rust/crates/der
 	url = ../external/rust/crates/der
@@ -1735,6 +1783,12 @@
 [submodule "platform/external/rust/crates/hex"]
 	path = external/rust/crates/hex
 	url = ../external/rust/crates/hex
+[submodule "platform/external/rust/crates/http"]
+	path = external/rust/crates/http
+	url = ../external/rust/crates/http
+[submodule "platform/external/rust/crates/httparse"]
+	path = external/rust/crates/httparse
+	url = ../external/rust/crates/httparse
 [submodule "platform/external/rust/crates/idna"]
 	path = external/rust/crates/idna
 	url = ../external/rust/crates/idna
@@ -1828,12 +1882,21 @@
 [submodule "platform/external/rust/crates/merge_derive"]
 	path = external/rust/crates/merge_derive
 	url = ../external/rust/crates/merge_derive
+[submodule "platform/external/rust/crates/miette"]
+	path = external/rust/crates/miette
+	url = ../external/rust/crates/miette
+[submodule "platform/external/rust/crates/miette-derive"]
+	path = external/rust/crates/miette-derive
+	url = ../external/rust/crates/miette-derive
 [submodule "platform/external/rust/crates/minimal-lexical"]
 	path = external/rust/crates/minimal-lexical
 	url = ../external/rust/crates/minimal-lexical
 [submodule "platform/external/rust/crates/mio"]
 	path = external/rust/crates/mio
 	url = ../external/rust/crates/mio
+[submodule "platform/external/rust/crates/moveit"]
+	path = external/rust/crates/moveit
+	url = ../external/rust/crates/moveit
 [submodule "platform/external/rust/crates/named-lock"]
 	path = external/rust/crates/named-lock
 	url = ../external/rust/crates/named-lock
@@ -1891,6 +1954,9 @@
 [submodule "platform/external/rust/crates/paste"]
 	path = external/rust/crates/paste
 	url = ../external/rust/crates/paste
+[submodule "platform/external/rust/crates/pathdiff"]
+	path = external/rust/crates/pathdiff
+	url = ../external/rust/crates/pathdiff
 [submodule "platform/external/rust/crates/pdl-compiler"]
 	path = external/rust/crates/pdl-compiler
 	url = ../external/rust/crates/pdl-compiler
@@ -1972,9 +2038,6 @@
 [submodule "platform/external/rust/crates/protobuf-support"]
 	path = external/rust/crates/protobuf-support
 	url = ../external/rust/crates/protobuf-support
-[submodule "platform/external/rust/crates/psci"]
-	path = external/rust/crates/psci
-	url = ../external/rust/crates/psci
 [submodule "platform/external/rust/crates/quiche"]
 	path = external/rust/crates/quiche
 	url = ../external/rust/crates/quiche
@@ -2164,6 +2227,9 @@
 [submodule "platform/external/rust/crates/tracing-core"]
 	path = external/rust/crates/tracing-core
 	url = ../external/rust/crates/tracing-core
+[submodule "platform/external/rust/crates/tungstenite"]
+	path = external/rust/crates/tungstenite
+	url = ../external/rust/crates/tungstenite
 [submodule "platform/external/rust/crates/ucd-trie"]
 	path = external/rust/crates/ucd-trie
 	url = ../external/rust/crates/ucd-trie
@@ -2197,6 +2263,9 @@
 [submodule "platform/external/rust/crates/userfaultfd-sys"]
 	path = external/rust/crates/userfaultfd-sys
 	url = ../external/rust/crates/userfaultfd-sys
+[submodule "platform/external/rust/crates/utf-8"]
+	path = external/rust/crates/utf-8
+	url = ../external/rust/crates/utf-8
 [submodule "platform/external/rust/crates/uuid"]
 	path = external/rust/crates/uuid
 	url = ../external/rust/crates/uuid
@@ -2272,6 +2341,9 @@
 [submodule "platform/external/selinux"]
 	path = external/selinux
 	url = ../external/selinux
+[submodule "platform/external/setfilters"]
+	path = external/setfilters
+	url = ../external/setfilters
 [submodule "platform/external/setupcompat"]
 	path = external/setupcompat
 	url = ../external/setupcompat
@@ -2644,6 +2716,9 @@
 [submodule "platform/hardware/google/pixel-sepolicy"]
 	path = hardware/google/pixel-sepolicy
 	url = ../hardware/google/pixel-sepolicy
+[submodule "platform/hardware/google/trusty"]
+	path = hardware/google/trusty
+	url = ../hardware/google/trusty
 [submodule "platform/hardware/interfaces"]
 	path = hardware/interfaces
 	url = ../hardware/interfaces
@@ -2791,6 +2866,9 @@
 [submodule "platform/hardware/st/secure_element2"]
 	path = hardware/st/secure_element2
 	url = ../hardware/st/secure_element2
+[submodule "platform/hardware/synaptics/wlan"]
+	path = hardware/synaptics/wlan
+	url = ../hardware/synaptics/wlan
 [submodule "platform/hardware/ti/am57x"]
 	path = hardware/ti/am57x
 	url = ../hardware/ti/am57x

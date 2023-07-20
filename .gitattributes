@@ -33,12 +33,18 @@
 /device/google/coral-sepolicy generic_fs coral device
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
+/device/google/felix felix device
+/device/google/felix-kernel felix device
+/device/google/felix-sepolicy felix device
 /device/google/fuchsia fuchsia device
 /device/google/gs-common slider pdk-gs-arm bluejay device cloudripper
 /device/google/gs101 slider pdk-gs-arm bluejay device
 /device/google/gs101-sepolicy slider pdk-gs-arm bluejay device
 /device/google/gs201 device cloudripper
 /device/google/gs201-sepolicy device cloudripper
+/device/google/lynx lynx device
+/device/google/lynx-kernel lynx device
+/device/google/lynx-sepolicy lynx device
 /device/google/pantah device cloudripper
 /device/google/pantah-kernel device cloudripper
 /device/google/pantah-sepolicy device cloudripper
@@ -52,6 +58,9 @@
 /device/google/sunfish sunfish device
 /device/google/sunfish-kernel sunfish device
 /device/google/sunfish-sepolicy sunfish device
+/device/google/tangorpro tangorpro device
+/device/google/tangorpro-kernel tangorpro device
+/device/google/tangorpro-sepolicy tangorpro device
 /device/google/trout pdk trout device gull
 /device/google/vrservices pdk
 /device/google_car pdk
@@ -143,6 +152,8 @@
 /external/bazel-skylib pdk
 /external/bazelbuild-kotlin-rules pdk
 /external/bazelbuild-rules_android pdk
+/external/bazelbuild-rules_go pdk
+/external/bazelbuild-rules_java pdk
 /external/bazelbuild-rules_license pdk
 /external/bazelbuild-rules_rust pdk
 /external/bazelbuild-rules_testing pdk
@@ -378,6 +389,7 @@
 /external/mobly-snippet-lib pdk
 /external/mockftpserver pdk
 /external/mockito pdk
+/external/mockito-kotlin pdk
 /external/mockwebserver pdk
 /external/modp_b64 pdk
 /external/mp4parser pdk
@@ -422,6 +434,7 @@
 /external/pcre pdk
 /external/pdfium pdk
 /external/perfetto pdk
+/external/perfmark pdk
 /external/pffft pdk
 /external/piex pdk
 /external/pigweed pdk
@@ -478,12 +491,14 @@
 /external/roboto-flex-fonts pdk
 /external/roboto-fonts pdk
 /external/rootdev pdk
+/external/rust/autocxx pdk
 /external/rust/crates/aarch64-paging pdk
 /external/rust/crates/ahash pdk
 /external/rust/crates/aho-corasick pdk
 /external/rust/crates/android_log-sys pdk
 /external/rust/crates/android_logger pdk
 /external/rust/crates/anes pdk
+/external/rust/crates/annotate-snippets pdk
 /external/rust/crates/anyhow pdk
 /external/rust/crates/arbitrary pdk
 /external/rust/crates/argh pdk
@@ -533,6 +548,7 @@
 /external/rust/crates/crossbeam-utils pdk
 /external/rust/crates/csv pdk
 /external/rust/crates/csv-core pdk
+/external/rust/crates/data-encoding pdk
 /external/rust/crates/der pdk
 /external/rust/crates/der-oid-macro pdk
 /external/rust/crates/der-parser pdk
@@ -577,6 +593,8 @@
 /external/rust/crates/hashlink pdk
 /external/rust/crates/heck pdk
 /external/rust/crates/hex pdk
+/external/rust/crates/http pdk
+/external/rust/crates/httparse pdk
 /external/rust/crates/idna pdk
 /external/rust/crates/indexmap pdk
 /external/rust/crates/instant pdk
@@ -608,8 +626,11 @@
 /external/rust/crates/memoffset pdk
 /external/rust/crates/merge pdk
 /external/rust/crates/merge_derive pdk
+/external/rust/crates/miette pdk
+/external/rust/crates/miette-derive pdk
 /external/rust/crates/minimal-lexical pdk
 /external/rust/crates/mio pdk
+/external/rust/crates/moveit pdk
 /external/rust/crates/named-lock pdk
 /external/rust/crates/nix pdk
 /external/rust/crates/no-panic pdk
@@ -629,6 +650,7 @@
 /external/rust/crates/parking_lot pdk
 /external/rust/crates/parking_lot_core pdk
 /external/rust/crates/paste pdk
+/external/rust/crates/pathdiff pdk
 /external/rust/crates/pdl-compiler pdk
 /external/rust/crates/peeking_take_while pdk
 /external/rust/crates/percent-encoding pdk
@@ -656,7 +678,6 @@
 /external/rust/crates/protobuf-json-mapping pdk
 /external/rust/crates/protobuf-parse pdk
 /external/rust/crates/protobuf-support pdk
-/external/rust/crates/psci pdk
 /external/rust/crates/quiche pdk
 /external/rust/crates/quickcheck pdk
 /external/rust/crates/quote pdk
@@ -720,6 +741,7 @@
 /external/rust/crates/tracing pdk
 /external/rust/crates/tracing-attributes pdk
 /external/rust/crates/tracing-core pdk
+/external/rust/crates/tungstenite pdk
 /external/rust/crates/ucd-trie pdk
 /external/rust/crates/unicode-bidi pdk
 /external/rust/crates/unicode-ident pdk
@@ -731,6 +753,7 @@
 /external/rust/crates/url pdk
 /external/rust/crates/userfaultfd pdk
 /external/rust/crates/userfaultfd-sys pdk
+/external/rust/crates/utf-8 pdk
 /external/rust/crates/uuid pdk
 /external/rust/crates/virtio-drivers pdk
 /external/rust/crates/vsock pdk
@@ -756,6 +779,7 @@
 /external/scudo pdk
 /external/seccomp-tests pdk
 /external/selinux pdk
+/external/setfilters pdk
 /external/setupcompat pdk
 /external/setupdesign pdk
 /external/sfntly pdk qcom_msm8x26
@@ -880,6 +904,7 @@
 /hardware/google/interfaces pdk
 /hardware/google/pixel generic_fs pixel
 /hardware/google/pixel-sepolicy generic_fs pixel
+/hardware/google/trusty pdk
 /hardware/interfaces pdk
 /hardware/invensense invensense pdk
 /hardware/knowles/athletico/sound_trigger_hal generic_fs coral
@@ -929,6 +954,7 @@
 /hardware/st/nfc pdk
 /hardware/st/secure_element pdk
 /hardware/st/secure_element2 pdk
+/hardware/synaptics/wlan pdk
 /hardware/ti/am57x pdk
 /libcore pdk
 /libnativehelper pdk
