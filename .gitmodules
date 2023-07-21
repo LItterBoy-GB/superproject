@@ -85,18 +85,12 @@
 [submodule "platform/prebuilts/fullsdk-linux/tools"]
 	path = prebuilts/fullsdk-linux/tools
 	url = ../prebuilts/fullsdk-linux/tools
-[submodule "platform/prebuilts/fullsdk/platforms/android-33"]
-	path = prebuilts/fullsdk-darwin/platforms/android-33
-	url = ../prebuilts/fullsdk/platforms/android-33
-[submodule "platform/prebuilts/fullsdk/platforms/android-TPS"]
-	path = prebuilts/fullsdk-darwin/platforms/android-33-ext5
-	url = ../prebuilts/fullsdk/platforms/android-TPS
-[submodule "platform/prebuilts/fullsdk/sources/android-33"]
-	path = prebuilts/fullsdk-darwin/sources/android-33
-	url = ../prebuilts/fullsdk/sources/android-33
-[submodule "platform/prebuilts/fullsdk/sources/android-TPS"]
-	path = prebuilts/fullsdk-darwin/sources/android-33-ext5
-	url = ../prebuilts/fullsdk/sources/android-TPS
+[submodule "platform/prebuilts/fullsdk/platforms"]
+	path = prebuilts/fullsdk-darwin/platforms
+	url = ../prebuilts/fullsdk/platforms
+[submodule "platform/prebuilts/fullsdk/sources"]
+	path = prebuilts/fullsdk-darwin/sources
+	url = ../prebuilts/fullsdk/sources
 [submodule "platform/prebuilts/jdk/jdk17"]
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
