@@ -6,7 +6,7 @@
 /external/googletest
 /external/grpc-grpc
 /external/jarjar
-/external/jetbrains/intellij-kotlin
+/external/jetbrains/rust
 /external/jetbrains/kotlin
 /external/libpng
 /external/nanopb-c
@@ -15,7 +15,7 @@
 /external/skia
 /external/zlib
 /tools/data-binding
-/frameworks/layoutlib
+/frameworks/layoutlib notdefault layoutlib
 /tools/sherpa
 /prebuilts/android-emulator
 /prebuilts/clang/host/darwin-x86 notdefault platform-darwin
@@ -38,6 +38,7 @@
 /tools/external/bazelbuild-rules-kotlin
 /tools/external/fat32lib
 /tools/external/gradle
+/prebuilts/studio/sdk/remote
 /tools/gradle
 /tools/gradle-recipes
 /tools/idea
