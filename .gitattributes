@@ -53,6 +53,7 @@
 /external/rust/crates/either
 /external/rust/crates/env_logger
 /external/rust/crates/fastrand
+/external/rust/crates/fnv
 /external/rust/crates/futures-core
 /external/rust/crates/futures-sink
 /external/rust/crates/getrandom
@@ -61,6 +62,8 @@
 /external/rust/crates/hashbrown
 /external/rust/crates/heck
 /external/rust/crates/hex
+/external/rust/crates/http
+/external/rust/crates/httparse
 /external/rust/crates/indexmap
 /external/rust/crates/instant
 /external/rust/crates/itoa
