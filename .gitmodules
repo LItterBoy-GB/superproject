@@ -1,13 +1,13 @@
 [submodule "device/generic/goldfish-opengl"]
-	branch = master
+	branch = main
 	path = device/generic/goldfish-opengl
 	url = ../../device/generic/goldfish-opengl
 [submodule "device/generic/vulkan-cereal"]
-	branch = master
+	branch = main
 	path = device/generic/vulkan-cereal
 	url = ../../device/generic/vulkan-cereal
 [submodule "device/google/cuttlefish"]
-	branch = master
+	branch = main
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
 [submodule "platform/build"]
@@ -19,15 +19,15 @@
 	path = external/adt-infra
 	url = ../external/adt-infra
 [submodule "platform/external/astc-codec"]
-	branch = master
+	branch = main
 	path = external/astc-codec
 	url = ../external/astc-codec
 [submodule "platform/external/bison"]
-	branch = master
+	branch = main
 	path = external/bison
 	url = ../external/bison
 [submodule "platform/external/boringssl"]
-	branch = master
+	branch = main
 	shallow = true
 	path = external/boringssl
 	url = ../external/boringssl
@@ -40,11 +40,11 @@
 	path = external/curl
 	url = ../external/curl
 [submodule "platform/external/deqp"]
-	branch = master
+	branch = main
 	path = external/deqp
 	url = ../external/deqp
 [submodule "platform/external/flex"]
-	branch = master
+	branch = main
 	path = external/flex
 	url = ../external/flex
 [submodule "platform/external/google-benchmark"]
@@ -55,7 +55,7 @@
 	path = external/google-breakpad
 	url = ../external/google-breakpad
 [submodule "platform/external/googletest"]
-	branch = master
+	branch = main
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/grpc-grpc"]
@@ -98,7 +98,7 @@
 	path = external/qemu
 	url = ../external/qemu
 [submodule "platform/external/tinyobjloader"]
-	branch = master
+	branch = main
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
 [submodule "platform/external/virglrenderer"]
@@ -157,17 +157,17 @@
 	path = prebuilts/android-emulator-build/qt
 	url = ../prebuilts/android-emulator-build/qt
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/clang/host/windows-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/clang/host/windows-x86
 	url = ../prebuilts/clang/host/windows-x86
@@ -187,7 +187,7 @@
 	path = prebuilts/cmake/windows-x86
 	url = ../prebuilts/cmake/windows-x86
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
@@ -202,12 +202,12 @@
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
 [submodule "platform/prebuilts/qemu-kernel"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
 [submodule "platform/prebuilts/tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
@@ -216,11 +216,11 @@
 	path = sdk
 	url = ../sdk
 [submodule "platform/system/bt"]
-	branch = master
+	branch = main
 	path = system/bt
 	url = ../system/bt
 [submodule "platform/tools/acloud"]
-	branch = master
+	branch = main
 	path = tools/acloud
 	url = ../tools/acloud
 [submodule "platform/tools/buildSrc"]
@@ -232,6 +232,6 @@
 	path = tools/emulator
 	url = ../tools/emulator
 [submodule "toolchain/m4"]
-	branch = master
+	branch = main
 	path = external/m4
 	url = ../../toolchain/m4
