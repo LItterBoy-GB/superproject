@@ -1,0 +1,1868 @@
+[submodule "device/asus/deb"]
+	branch = lollipop-release
+	path = device/asus/deb
+	url = ../../device/asus/deb
+[submodule "device/asus/flo"]
+	branch = lollipop-release
+	path = device/asus/flo
+	url = ../../device/asus/flo
+[submodule "device/asus/flo-kernel"]
+	branch = lollipop-release
+	shallow = true
+	path = device/asus/flo-kernel
+	url = ../../device/asus/flo-kernel
+[submodule "device/asus/fugu"]
+	branch = lollipop-release
+	path = device/asus/fugu
+	url = ../../device/asus/fugu
+[submodule "device/asus/fugu-kernel"]
+	branch = lollipop-release
+	shallow = true
+	path = device/asus/fugu-kernel
+	url = ../../device/asus/fugu-kernel
+[submodule "device/asus/grouper"]
+	branch = lollipop-release
+	path = device/asus/grouper
+	url = ../../device/asus/grouper
+[submodule "device/asus/tilapia"]
+	branch = lollipop-release
+	path = device/asus/tilapia
+	url = ../../device/asus/tilapia
+[submodule "device/common"]
+	branch = lollipop-release
+	path = device/common
+	url = ../../device/common
+[submodule "device/generic/arm64"]
+	branch = lollipop-release
+	path = device/generic/arm64
+	url = ../../device/generic/arm64
+[submodule "device/generic/armv7-a-neon"]
+	branch = lollipop-release
+	path = device/generic/armv7-a-neon
+	url = ../../device/generic/armv7-a-neon
+[submodule "device/generic/common"]
+	branch = lollipop-release
+	path = device/generic/common
+	url = ../../device/generic/common
+[submodule "device/generic/goldfish"]
+	branch = lollipop-release
+	path = device/generic/goldfish
+	url = ../../device/generic/goldfish
+[submodule "device/generic/mini-emulator-arm64"]
+	branch = lollipop-release
+	path = device/generic/mini-emulator-arm64
+	url = ../../device/generic/mini-emulator-arm64
+[submodule "device/generic/mini-emulator-armv7-a-neon"]
+	branch = lollipop-release
+	path = device/generic/mini-emulator-armv7-a-neon
+	url = ../../device/generic/mini-emulator-armv7-a-neon
+[submodule "device/generic/mini-emulator-mips"]
+	branch = lollipop-release
+	path = device/generic/mini-emulator-mips
+	url = ../../device/generic/mini-emulator-mips
+[submodule "device/generic/mini-emulator-x86"]
+	branch = lollipop-release
+	path = device/generic/mini-emulator-x86
+	url = ../../device/generic/mini-emulator-x86
+[submodule "device/generic/mini-emulator-x86_64"]
+	branch = lollipop-release
+	path = device/generic/mini-emulator-x86_64
+	url = ../../device/generic/mini-emulator-x86_64
+[submodule "device/generic/mips"]
+	branch = lollipop-release
+	path = device/generic/mips
+	url = ../../device/generic/mips
+[submodule "device/generic/qemu"]
+	branch = lollipop-release
+	path = device/generic/qemu
+	url = ../../device/generic/qemu
+[submodule "device/generic/x86"]
+	branch = lollipop-release
+	path = device/generic/x86
+	url = ../../device/generic/x86
+[submodule "device/generic/x86_64"]
+	branch = lollipop-release
+	path = device/generic/x86_64
+	url = ../../device/generic/x86_64
+[submodule "device/google/accessory/arduino"]
+	branch = lollipop-release
+	path = device/google/accessory/arduino
+	url = ../../device/google/accessory/arduino
+[submodule "device/google/accessory/demokit"]
+	branch = lollipop-release
+	path = device/google/accessory/demokit
+	url = ../../device/google/accessory/demokit
+[submodule "device/google/atv"]
+	branch = lollipop-release
+	path = device/google/atv
+	url = ../../device/google/atv
+[submodule "device/htc/flounder"]
+	branch = lollipop-release
+	path = device/htc/flounder
+	url = ../../device/htc/flounder
+[submodule "device/htc/flounder-kernel"]
+	branch = lollipop-release
+	shallow = true
+	path = device/htc/flounder-kernel
+	url = ../../device/htc/flounder-kernel
+[submodule "device/lge/hammerhead"]
+	branch = lollipop-release
+	path = device/lge/hammerhead
+	url = ../../device/lge/hammerhead
+[submodule "device/lge/hammerhead-kernel"]
+	branch = lollipop-release
+	shallow = true
+	path = device/lge/hammerhead-kernel
+	url = ../../device/lge/hammerhead-kernel
+[submodule "device/lge/mako"]
+	branch = lollipop-release
+	path = device/lge/mako
+	url = ../../device/lge/mako
+[submodule "device/lge/mako-kernel"]
+	branch = lollipop-release
+	shallow = true
+	path = device/lge/mako-kernel
+	url = ../../device/lge/mako-kernel
+[submodule "device/moto/shamu"]
+	branch = lollipop-release
+	path = device/moto/shamu
+	url = ../../device/moto/shamu
+[submodule "device/moto/shamu-kernel"]
+	branch = lollipop-release
+	shallow = true
+	path = device/moto/shamu-kernel
+	url = ../../device/moto/shamu-kernel
+[submodule "device/sample"]
+	branch = lollipop-release
+	path = device/sample
+	url = ../../device/sample
+[submodule "device/samsung/manta"]
+	branch = lollipop-release
+	path = device/samsung/manta
+	url = ../../device/samsung/manta
+[submodule "platform/abi/cpp"]
+	branch = lollipop-release
+	path = abi/cpp
+	url = ../abi/cpp
+[submodule "platform/art"]
+	branch = lollipop-release
+	path = art
+	url = ../art
+[submodule "platform/bionic"]
+	branch = lollipop-cts-dev
+	path = bionic
+	url = ../bionic
+[submodule "platform/bootable/bootloader/legacy"]
+	branch = lollipop-release
+	path = bootable/bootloader/legacy
+	url = ../bootable/bootloader/legacy
+[submodule "platform/bootable/recovery"]
+	branch = lollipop-release
+	path = bootable/recovery
+	url = ../bootable/recovery
+[submodule "platform/build"]
+	branch = lollipop-release
+	path = build
+	url = ../build
+[submodule "platform/cts"]
+	branch = lollipop-cts-dev
+	path = cts
+	url = ../cts
+[submodule "platform/dalvik"]
+	branch = lollipop-release
+	path = dalvik
+	url = ../dalvik
+[submodule "platform/developers/build"]
+	branch = lollipop-release
+	path = developers/build
+	url = ../developers/build
+[submodule "platform/developers/demos"]
+	branch = lollipop-release
+	path = developers/demos
+	url = ../developers/demos
+[submodule "platform/developers/docs"]
+	branch = lollipop-release
+	path = developers/docs
+	url = ../developers/docs
+[submodule "platform/developers/samples/android"]
+	branch = lollipop-release
+	path = developers/samples/android
+	url = ../developers/samples/android
+[submodule "platform/development"]
+	branch = lollipop-release
+	path = development
+	url = ../development
+[submodule "platform/docs/source.android.com"]
+	branch = lollipop-release
+	path = docs/source.android.com
+	url = ../docs/source.android.com
+[submodule "platform/external/aac"]
+	branch = lollipop-release
+	path = external/aac
+	url = ../external/aac
+[submodule "platform/external/android-clat"]
+	branch = lollipop-release
+	path = external/android-clat
+	url = ../external/android-clat
+[submodule "platform/external/ant-glob"]
+	branch = lollipop-release
+	path = external/ant-glob
+	url = ../external/ant-glob
+[submodule "platform/external/antlr"]
+	branch = lollipop-release
+	path = external/antlr
+	url = ../external/antlr
+[submodule "platform/external/apache-harmony"]
+	branch = lollipop-release
+	path = external/apache-harmony
+	url = ../external/apache-harmony
+[submodule "platform/external/apache-http"]
+	branch = lollipop-release
+	path = external/apache-http
+	url = ../external/apache-http
+[submodule "platform/external/apache-qp"]
+	branch = lollipop-release
+	path = external/apache-qp
+	url = ../external/apache-qp
+[submodule "platform/external/apache-xml"]
+	branch = lollipop-release
+	path = external/apache-xml
+	url = ../external/apache-xml
+[submodule "platform/external/arduino"]
+	branch = lollipop-release
+	path = external/arduino
+	url = ../external/arduino
+[submodule "platform/external/bison"]
+	branch = lollipop-release
+	path = external/bison
+	url = ../external/bison
+[submodule "platform/external/blktrace"]
+	branch = lollipop-release
+	path = external/blktrace
+	url = ../external/blktrace
+[submodule "platform/external/bluetooth/bluedroid"]
+	branch = lollipop-release
+	path = external/bluetooth/bluedroid
+	url = ../external/bluetooth/bluedroid
+[submodule "platform/external/bouncycastle"]
+	branch = lollipop-release
+	path = external/bouncycastle
+	url = ../external/bouncycastle
+[submodule "platform/external/bsdiff"]
+	branch = lollipop-release
+	path = external/bsdiff
+	url = ../external/bsdiff
+[submodule "platform/external/bzip2"]
+	branch = lollipop-release
+	path = external/bzip2
+	url = ../external/bzip2
+[submodule "platform/external/ceres-solver"]
+	branch = lollipop-release
+	path = external/ceres-solver
+	url = ../external/ceres-solver
+[submodule "platform/external/checkpolicy"]
+	branch = lollipop-release
+	path = external/checkpolicy
+	url = ../external/checkpolicy
+[submodule "platform/external/chromium-libpac"]
+	branch = lollipop-release
+	path = external/chromium-libpac
+	url = ../external/chromium-libpac
+[submodule "platform/external/chromium-trace"]
+	branch = lollipop-release
+	path = external/chromium-trace
+	url = ../external/chromium-trace
+[submodule "platform/external/chromium_org"]
+	branch = lollipop-release
+	path = external/chromium_org
+	url = ../external/chromium_org
+[submodule "platform/external/clang"]
+	branch = lollipop-release
+	path = external/clang
+	url = ../external/clang
+[submodule "platform/external/cmockery"]
+	branch = lollipop-release
+	path = external/cmockery
+	url = ../external/cmockery
+[submodule "platform/external/compiler-rt"]
+	branch = lollipop-release
+	path = external/compiler-rt
+	url = ../external/compiler-rt
+[submodule "platform/external/conscrypt"]
+	branch = lollipop-release
+	path = external/conscrypt
+	url = ../external/conscrypt
+[submodule "platform/external/deqp"]
+	branch = lollipop-cts-dev
+	path = external/deqp
+	url = ../external/deqp
+[submodule "platform/external/dexmaker"]
+	branch = lollipop-release
+	path = external/dexmaker
+	url = ../external/dexmaker
+[submodule "platform/external/dhcpcd"]
+	branch = lollipop-release
+	path = external/dhcpcd
+	url = ../external/dhcpcd
+[submodule "platform/external/dnsmasq"]
+	branch = lollipop-release
+	path = external/dnsmasq
+	url = ../external/dnsmasq
+[submodule "platform/external/doclava"]
+	branch = lollipop-release
+	path = external/doclava
+	url = ../external/doclava
+[submodule "platform/external/droiddriver"]
+	branch = lollipop-release
+	path = external/droiddriver
+	url = ../external/droiddriver
+[submodule "platform/external/e2fsprogs"]
+	branch = lollipop-release
+	path = external/e2fsprogs
+	url = ../external/e2fsprogs
+[submodule "platform/external/easymock"]
+	branch = lollipop-release
+	path = external/easymock
+	url = ../external/easymock
+[submodule "platform/external/eclipse-basebuilder"]
+	branch = lollipop-release
+	path = external/eclipse-basebuilder
+	url = ../external/eclipse-basebuilder
+[submodule "platform/external/eclipse-windowbuilder"]
+	branch = lollipop-release
+	path = external/eclipse-windowbuilder
+	url = ../external/eclipse-windowbuilder
+[submodule "platform/external/eigen"]
+	branch = lollipop-release
+	path = external/eigen
+	url = ../external/eigen
+[submodule "platform/external/elfutils"]
+	branch = lollipop-release
+	path = external/elfutils
+	url = ../external/elfutils
+[submodule "platform/external/emma"]
+	branch = lollipop-release
+	path = external/emma
+	url = ../external/emma
+[submodule "platform/external/esd"]
+	branch = lollipop-release
+	path = external/esd
+	url = ../external/esd
+[submodule "platform/external/expat"]
+	branch = lollipop-release
+	path = external/expat
+	url = ../external/expat
+[submodule "platform/external/eyes-free"]
+	branch = lollipop-release
+	path = external/eyes-free
+	url = ../external/eyes-free
+[submodule "platform/external/f2fs-tools"]
+	branch = lollipop-release
+	path = external/f2fs-tools
+	url = ../external/f2fs-tools
+[submodule "platform/external/fdlibm"]
+	branch = lollipop-release
+	path = external/fdlibm
+	url = ../external/fdlibm
+[submodule "platform/external/fio"]
+	branch = lollipop-release
+	path = external/fio
+	url = ../external/fio
+[submodule "platform/external/flac"]
+	branch = lollipop-release
+	path = external/flac
+	url = ../external/flac
+[submodule "platform/external/fonttools"]
+	branch = lollipop-release
+	path = external/fonttools
+	url = ../external/fonttools
+[submodule "platform/external/freetype"]
+	branch = lollipop-release
+	path = external/freetype
+	url = ../external/freetype
+[submodule "platform/external/fsck_msdos"]
+	branch = lollipop-release
+	path = external/fsck_msdos
+	url = ../external/fsck_msdos
+[submodule "platform/external/gcc-demangle"]
+	branch = lollipop-release
+	path = external/gcc-demangle
+	url = ../external/gcc-demangle
+[submodule "platform/external/genext2fs"]
+	branch = lollipop-release
+	path = external/genext2fs
+	url = ../external/genext2fs
+[submodule "platform/external/giflib"]
+	branch = lollipop-release
+	path = external/giflib
+	url = ../external/giflib
+[submodule "platform/external/glide"]
+	branch = lollipop-release
+	path = external/glide
+	url = ../external/glide
+[submodule "platform/external/google-diff-match-patch"]
+	branch = lollipop-release
+	path = external/google-diff-match-patch
+	url = ../external/google-diff-match-patch
+[submodule "platform/external/google-fonts/carrois-gothic-sc"]
+	branch = lollipop-release
+	path = external/google-fonts/carrois-gothic-sc
+	url = ../external/google-fonts/carrois-gothic-sc
+[submodule "platform/external/google-fonts/coming-soon"]
+	branch = lollipop-release
+	path = external/google-fonts/coming-soon
+	url = ../external/google-fonts/coming-soon
+[submodule "platform/external/google-fonts/cutive-mono"]
+	branch = lollipop-release
+	path = external/google-fonts/cutive-mono
+	url = ../external/google-fonts/cutive-mono
+[submodule "platform/external/google-fonts/dancing-script"]
+	branch = lollipop-release
+	path = external/google-fonts/dancing-script
+	url = ../external/google-fonts/dancing-script
+[submodule "platform/external/google-tv-pairing-protocol"]
+	branch = lollipop-release
+	path = external/google-tv-pairing-protocol
+	url = ../external/google-tv-pairing-protocol
+[submodule "platform/external/gtest"]
+	branch = lollipop-release
+	path = external/gtest
+	url = ../external/gtest
+[submodule "platform/external/guava"]
+	branch = lollipop-release
+	path = external/guava
+	url = ../external/guava
+[submodule "platform/external/hamcrest"]
+	branch = lollipop-release
+	path = external/hamcrest
+	url = ../external/hamcrest
+[submodule "platform/external/harfbuzz_ng"]
+	branch = lollipop-release
+	path = external/harfbuzz_ng
+	url = ../external/harfbuzz_ng
+[submodule "platform/external/icu"]
+	branch = lollipop-release
+	path = external/icu
+	url = ../external/icu
+[submodule "platform/external/iproute2"]
+	branch = lollipop-release
+	path = external/iproute2
+	url = ../external/iproute2
+[submodule "platform/external/ipsec-tools"]
+	branch = lollipop-release
+	path = external/ipsec-tools
+	url = ../external/ipsec-tools
+[submodule "platform/external/iptables"]
+	branch = lollipop-release
+	path = external/iptables
+	url = ../external/iptables
+[submodule "platform/external/iputils"]
+	branch = lollipop-release
+	path = external/iputils
+	url = ../external/iputils
+[submodule "platform/external/jack"]
+	branch = lollipop-release
+	path = external/jack
+	url = ../external/jack
+[submodule "platform/external/jarjar"]
+	branch = lollipop-release
+	path = external/jarjar
+	url = ../external/jarjar
+[submodule "platform/external/javasqlite"]
+	branch = lollipop-release
+	path = external/javasqlite
+	url = ../external/javasqlite
+[submodule "platform/external/javassist"]
+	branch = lollipop-release
+	path = external/javassist
+	url = ../external/javassist
+[submodule "platform/external/jdiff"]
+	branch = lollipop-release
+	path = external/jdiff
+	url = ../external/jdiff
+[submodule "platform/external/jemalloc"]
+	branch = lollipop-release
+	path = external/jemalloc
+	url = ../external/jemalloc
+[submodule "platform/external/jhead"]
+	branch = lollipop-release
+	path = external/jhead
+	url = ../external/jhead
+[submodule "platform/external/jline"]
+	branch = lollipop-release
+	path = external/jline
+	url = ../external/jline
+[submodule "platform/external/jmdns"]
+	branch = lollipop-release
+	path = external/jmdns
+	url = ../external/jmdns
+[submodule "platform/external/jpeg"]
+	branch = lollipop-release
+	path = external/jpeg
+	url = ../external/jpeg
+[submodule "platform/external/jsilver"]
+	branch = lollipop-release
+	path = external/jsilver
+	url = ../external/jsilver
+[submodule "platform/external/jsmn"]
+	branch = lollipop-release
+	path = external/jsmn
+	url = ../external/jsmn
+[submodule "platform/external/jsoncpp"]
+	branch = lollipop-release
+	path = external/jsoncpp
+	url = ../external/jsoncpp
+[submodule "platform/external/jsr305"]
+	branch = lollipop-release
+	path = external/jsr305
+	url = ../external/jsr305
+[submodule "platform/external/junit"]
+	branch = lollipop-release
+	path = external/junit
+	url = ../external/junit
+[submodule "platform/external/kernel-headers"]
+	branch = lollipop-release
+	path = external/kernel-headers
+	url = ../external/kernel-headers
+[submodule "platform/external/ksoap2"]
+	branch = lollipop-release
+	path = external/ksoap2
+	url = ../external/ksoap2
+[submodule "platform/external/libcap-ng"]
+	branch = lollipop-release
+	path = external/libcap-ng
+	url = ../external/libcap-ng
+[submodule "platform/external/libcxx"]
+	branch = lollipop-release
+	path = external/libcxx
+	url = ../external/libcxx
+[submodule "platform/external/libcxxabi"]
+	branch = lollipop-release
+	path = external/libcxxabi
+	url = ../external/libcxxabi
+[submodule "platform/external/libedit"]
+	branch = lollipop-release
+	path = external/libedit
+	url = ../external/libedit
+[submodule "platform/external/libexif"]
+	branch = lollipop-release
+	path = external/libexif
+	url = ../external/libexif
+[submodule "platform/external/libgsm"]
+	branch = lollipop-release
+	path = external/libgsm
+	url = ../external/libgsm
+[submodule "platform/external/libhevc"]
+	branch = lollipop-release
+	path = external/libhevc
+	url = ../external/libhevc
+[submodule "platform/external/liblzf"]
+	branch = lollipop-release
+	path = external/liblzf
+	url = ../external/liblzf
+[submodule "platform/external/libmtp"]
+	branch = lollipop-release
+	path = external/libmtp
+	url = ../external/libmtp
+[submodule "platform/external/libnfc-nci"]
+	branch = lollipop-release
+	path = external/libnfc-nci
+	url = ../external/libnfc-nci
+[submodule "platform/external/libnfc-nxp"]
+	branch = lollipop-release
+	path = external/libnfc-nxp
+	url = ../external/libnfc-nxp
+[submodule "platform/external/libnl"]
+	branch = lollipop-release
+	path = external/libnl
+	url = ../external/libnl
+[submodule "platform/external/libogg"]
+	branch = lollipop-release
+	path = external/libogg
+	url = ../external/libogg
+[submodule "platform/external/libopus"]
+	branch = lollipop-release
+	path = external/libopus
+	url = ../external/libopus
+[submodule "platform/external/libpcap"]
+	branch = lollipop-release
+	path = external/libpcap
+	url = ../external/libpcap
+[submodule "platform/external/libphonenumber"]
+	branch = lollipop-release
+	path = external/libphonenumber
+	url = ../external/libphonenumber
+[submodule "platform/external/libpng"]
+	branch = lollipop-release
+	path = external/libpng
+	url = ../external/libpng
+[submodule "platform/external/libseccomp-helper"]
+	branch = lollipop-release
+	path = external/libseccomp-helper
+	url = ../external/libseccomp-helper
+[submodule "platform/external/libselinux"]
+	branch = lollipop-release
+	path = external/libselinux
+	url = ../external/libselinux
+[submodule "platform/external/libsepol"]
+	branch = lollipop-release
+	path = external/libsepol
+	url = ../external/libsepol
+[submodule "platform/external/libssh2"]
+	branch = lollipop-release
+	path = external/libssh2
+	url = ../external/libssh2
+[submodule "platform/external/libunwind"]
+	branch = lollipop-release
+	path = external/libunwind
+	url = ../external/libunwind
+[submodule "platform/external/libusb"]
+	branch = lollipop-release
+	path = external/libusb
+	url = ../external/libusb
+[submodule "platform/external/libusb-compat"]
+	branch = lollipop-release
+	path = external/libusb-compat
+	url = ../external/libusb-compat
+[submodule "platform/external/libutf"]
+	branch = lollipop-release
+	path = external/libutf
+	url = ../external/libutf
+[submodule "platform/external/libvorbis"]
+	branch = lollipop-release
+	path = external/libvorbis
+	url = ../external/libvorbis
+[submodule "platform/external/libvpx"]
+	branch = lollipop-release
+	path = external/libvpx
+	url = ../external/libvpx
+[submodule "platform/external/libxml2"]
+	branch = lollipop-release
+	path = external/libxml2
+	url = ../external/libxml2
+[submodule "platform/external/libyuv"]
+	branch = lollipop-release
+	path = external/libyuv
+	url = ../external/libyuv
+[submodule "platform/external/linux-tools-perf"]
+	branch = lollipop-release
+	path = external/linux-tools-perf
+	url = ../external/linux-tools-perf
+[submodule "platform/external/littlemock"]
+	branch = lollipop-release
+	path = external/littlemock
+	url = ../external/littlemock
+[submodule "platform/external/lldb"]
+	branch = lollipop-release
+	path = external/lldb
+	url = ../external/lldb
+[submodule "platform/external/llvm"]
+	branch = lollipop-release
+	path = external/llvm
+	url = ../external/llvm
+[submodule "platform/external/ltrace"]
+	branch = lollipop-release
+	path = external/ltrace
+	url = ../external/ltrace
+[submodule "platform/external/lzma"]
+	branch = lollipop-release
+	path = external/lzma
+	url = ../external/lzma
+[submodule "platform/external/markdown"]
+	branch = lollipop-release
+	path = external/markdown
+	url = ../external/markdown
+[submodule "platform/external/mdnsresponder"]
+	branch = lollipop-release
+	path = external/mdnsresponder
+	url = ../external/mdnsresponder
+[submodule "platform/external/mesa3d"]
+	branch = lollipop-release
+	path = external/mesa3d
+	url = ../external/mesa3d
+[submodule "platform/external/messageformat"]
+	branch = lollipop-release
+	path = external/messageformat
+	url = ../external/messageformat
+[submodule "platform/external/mksh"]
+	branch = lollipop-release
+	path = external/mksh
+	url = ../external/mksh
+[submodule "platform/external/mockito"]
+	branch = lollipop-release
+	path = external/mockito
+	url = ../external/mockito
+[submodule "platform/external/mockwebserver"]
+	branch = lollipop-release
+	path = external/mockwebserver
+	url = ../external/mockwebserver
+[submodule "platform/external/mp4parser"]
+	branch = lollipop-release
+	path = external/mp4parser
+	url = ../external/mp4parser
+[submodule "platform/external/mtpd"]
+	branch = lollipop-release
+	path = external/mtpd
+	url = ../external/mtpd
+[submodule "platform/external/nanohttpd"]
+	branch = lollipop-release
+	path = external/nanohttpd
+	url = ../external/nanohttpd
+[submodule "platform/external/nanopb-c"]
+	branch = lollipop-release
+	path = external/nanopb-c
+	url = ../external/nanopb-c
+[submodule "platform/external/naver-fonts"]
+	branch = lollipop-release
+	path = external/naver-fonts
+	url = ../external/naver-fonts
+[submodule "platform/external/netcat"]
+	branch = lollipop-release
+	path = external/netcat
+	url = ../external/netcat
+[submodule "platform/external/netperf"]
+	branch = lollipop-release
+	path = external/netperf
+	url = ../external/netperf
+[submodule "platform/external/neven"]
+	branch = lollipop-release
+	path = external/neven
+	url = ../external/neven
+[submodule "platform/external/nfacct"]
+	branch = lollipop-release
+	path = external/nfacct
+	url = ../external/nfacct
+[submodule "platform/external/nist-pkits"]
+	branch = lollipop-release
+	path = external/nist-pkits
+	url = ../external/nist-pkits
+[submodule "platform/external/nist-sip"]
+	branch = lollipop-release
+	path = external/nist-sip
+	url = ../external/nist-sip
+[submodule "platform/external/noto-fonts"]
+	branch = lollipop-release
+	path = external/noto-fonts
+	url = ../external/noto-fonts
+[submodule "platform/external/oauth"]
+	branch = lollipop-release
+	path = external/oauth
+	url = ../external/oauth
+[submodule "platform/external/objenesis"]
+	branch = lollipop-release
+	path = external/objenesis
+	url = ../external/objenesis
+[submodule "platform/external/okhttp"]
+	branch = lollipop-cts-dev
+	path = external/okhttp
+	url = ../external/okhttp
+[submodule "platform/external/opencv"]
+	branch = lollipop-release
+	path = external/opencv
+	url = ../external/opencv
+[submodule "platform/external/openssl"]
+	branch = lollipop-release
+	path = external/openssl
+	url = ../external/openssl
+[submodule "platform/external/oprofile"]
+	branch = lollipop-release
+	path = external/oprofile
+	url = ../external/oprofile
+[submodule "platform/external/owasp/sanitizer"]
+	branch = lollipop-release
+	path = external/owasp/sanitizer
+	url = ../external/owasp/sanitizer
+[submodule "platform/external/pcre"]
+	branch = lollipop-release
+	path = external/pcre
+	url = ../external/pcre
+[submodule "platform/external/pdfium"]
+	branch = lollipop-release
+	path = external/pdfium
+	url = ../external/pdfium
+[submodule "platform/external/pixman"]
+	branch = lollipop-release
+	path = external/pixman
+	url = ../external/pixman
+[submodule "platform/external/ppp"]
+	branch = lollipop-release
+	path = external/ppp
+	url = ../external/ppp
+[submodule "platform/external/proguard"]
+	branch = lollipop-release
+	path = external/proguard
+	url = ../external/proguard
+[submodule "platform/external/protobuf"]
+	branch = lollipop-release
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "platform/external/qemu"]
+	branch = lollipop-release
+	path = external/qemu
+	url = ../external/qemu
+[submodule "platform/external/qemu-pc-bios"]
+	branch = lollipop-release
+	path = external/qemu-pc-bios
+	url = ../external/qemu-pc-bios
+[submodule "platform/external/regex-re2"]
+	branch = lollipop-release
+	path = external/regex-re2
+	url = ../external/regex-re2
+[submodule "platform/external/replicaisland"]
+	branch = lollipop-release
+	path = external/replicaisland
+	url = ../external/replicaisland
+[submodule "platform/external/robolectric"]
+	branch = lollipop-release
+	path = external/robolectric
+	url = ../external/robolectric
+[submodule "platform/external/safe-iop"]
+	branch = lollipop-release
+	path = external/safe-iop
+	url = ../external/safe-iop
+[submodule "platform/external/scrypt"]
+	branch = lollipop-release
+	path = external/scrypt
+	url = ../external/scrypt
+[submodule "platform/external/sepolicy"]
+	branch = lollipop-cts-dev
+	path = external/sepolicy
+	url = ../external/sepolicy
+[submodule "platform/external/sfntly"]
+	branch = lollipop-release
+	path = external/sfntly
+	url = ../external/sfntly
+[submodule "platform/external/skia"]
+	branch = lollipop-release
+	path = external/skia
+	url = ../external/skia
+[submodule "platform/external/smack"]
+	branch = lollipop-release
+	path = external/smack
+	url = ../external/smack
+[submodule "platform/external/smali"]
+	branch = lollipop-release
+	path = external/smali
+	url = ../external/smali
+[submodule "platform/external/sonivox"]
+	branch = lollipop-release
+	path = external/sonivox
+	url = ../external/sonivox
+[submodule "platform/external/speex"]
+	branch = lollipop-release
+	path = external/speex
+	url = ../external/speex
+[submodule "platform/external/sqlite"]
+	branch = lollipop-release
+	path = external/sqlite
+	url = ../external/sqlite
+[submodule "platform/external/srec"]
+	branch = lollipop-release
+	path = external/srec
+	url = ../external/srec
+[submodule "platform/external/srtp"]
+	branch = lollipop-release
+	path = external/srtp
+	url = ../external/srtp
+[submodule "platform/external/stlport"]
+	branch = lollipop-release
+	path = external/stlport
+	url = ../external/stlport
+[submodule "platform/external/strace"]
+	branch = lollipop-release
+	path = external/strace
+	url = ../external/strace
+[submodule "platform/external/stressapptest"]
+	branch = lollipop-release
+	path = external/stressapptest
+	url = ../external/stressapptest
+[submodule "platform/external/svox"]
+	branch = lollipop-release
+	path = external/svox
+	url = ../external/svox
+[submodule "platform/external/tagsoup"]
+	branch = lollipop-release
+	path = external/tagsoup
+	url = ../external/tagsoup
+[submodule "platform/external/tcpdump"]
+	branch = lollipop-release
+	path = external/tcpdump
+	url = ../external/tcpdump
+[submodule "platform/external/timezonepicker-support"]
+	branch = lollipop-release
+	path = external/timezonepicker-support
+	url = ../external/timezonepicker-support
+[submodule "platform/external/tinyalsa"]
+	branch = lollipop-release
+	path = external/tinyalsa
+	url = ../external/tinyalsa
+[submodule "platform/external/tinycompress"]
+	branch = lollipop-release
+	path = external/tinycompress
+	url = ../external/tinycompress
+[submodule "platform/external/tinyxml"]
+	branch = lollipop-release
+	path = external/tinyxml
+	url = ../external/tinyxml
+[submodule "platform/external/tinyxml2"]
+	branch = lollipop-release
+	path = external/tinyxml2
+	url = ../external/tinyxml2
+[submodule "platform/external/tremolo"]
+	branch = lollipop-release
+	path = external/tremolo
+	url = ../external/tremolo
+[submodule "platform/external/valgrind"]
+	branch = lollipop-release
+	path = external/valgrind
+	url = ../external/valgrind
+[submodule "platform/external/vixl"]
+	branch = lollipop-release
+	path = external/vixl
+	url = ../external/vixl
+[submodule "platform/external/webp"]
+	branch = lollipop-release
+	path = external/webp
+	url = ../external/webp
+[submodule "platform/external/webrtc"]
+	branch = lollipop-release
+	path = external/webrtc
+	url = ../external/webrtc
+[submodule "platform/external/wpa_supplicant_8"]
+	branch = lollipop-release
+	path = external/wpa_supplicant_8
+	url = ../external/wpa_supplicant_8
+[submodule "platform/external/xmlwriter"]
+	branch = lollipop-release
+	path = external/xmlwriter
+	url = ../external/xmlwriter
+[submodule "platform/external/xmp_toolkit"]
+	branch = lollipop-release
+	path = external/xmp_toolkit
+	url = ../external/xmp_toolkit
+[submodule "platform/external/yaffs2"]
+	branch = lollipop-release
+	path = external/yaffs2
+	url = ../external/yaffs2
+[submodule "platform/external/zlib"]
+	branch = lollipop-release
+	path = external/zlib
+	url = ../external/zlib
+[submodule "platform/external/zopfli"]
+	branch = lollipop-release
+	path = external/zopfli
+	url = ../external/zopfli
+[submodule "platform/external/zxing"]
+	branch = lollipop-release
+	path = external/zxing
+	url = ../external/zxing
+[submodule "platform/frameworks/av"]
+	branch = lollipop-release
+	path = frameworks/av
+	url = ../frameworks/av
+[submodule "platform/frameworks/base"]
+	branch = lollipop-release
+	path = frameworks/base
+	url = ../frameworks/base
+[submodule "platform/frameworks/compile/libbcc"]
+	branch = lollipop-release
+	path = frameworks/compile/libbcc
+	url = ../frameworks/compile/libbcc
+[submodule "platform/frameworks/compile/mclinker"]
+	branch = lollipop-release
+	path = frameworks/compile/mclinker
+	url = ../frameworks/compile/mclinker
+[submodule "platform/frameworks/compile/slang"]
+	branch = lollipop-release
+	path = frameworks/compile/slang
+	url = ../frameworks/compile/slang
+[submodule "platform/frameworks/ex"]
+	branch = lollipop-release
+	path = frameworks/ex
+	url = ../frameworks/ex
+[submodule "platform/frameworks/mff"]
+	branch = lollipop-release
+	path = frameworks/mff
+	url = ../frameworks/mff
+[submodule "platform/frameworks/minikin"]
+	branch = lollipop-release
+	path = frameworks/minikin
+	url = ../frameworks/minikin
+[submodule "platform/frameworks/ml"]
+	branch = lollipop-release
+	path = frameworks/ml
+	url = ../frameworks/ml
+[submodule "platform/frameworks/multidex"]
+	branch = lollipop-release
+	path = frameworks/multidex
+	url = ../frameworks/multidex
+[submodule "platform/frameworks/native"]
+	branch = lollipop-release
+	path = frameworks/native
+	url = ../frameworks/native
+[submodule "platform/frameworks/opt/bitmap"]
+	branch = lollipop-release
+	path = frameworks/opt/bitmap
+	url = ../frameworks/opt/bitmap
+[submodule "platform/frameworks/opt/bluetooth"]
+	branch = lollipop-release
+	path = frameworks/opt/bluetooth
+	url = ../frameworks/opt/bluetooth
+[submodule "platform/frameworks/opt/calendar"]
+	branch = lollipop-release
+	path = frameworks/opt/calendar
+	url = ../frameworks/opt/calendar
+[submodule "platform/frameworks/opt/carddav"]
+	branch = lollipop-release
+	path = frameworks/opt/carddav
+	url = ../frameworks/opt/carddav
+[submodule "platform/frameworks/opt/chips"]
+	branch = lollipop-release
+	path = frameworks/opt/chips
+	url = ../frameworks/opt/chips
+[submodule "platform/frameworks/opt/colorpicker"]
+	branch = lollipop-release
+	path = frameworks/opt/colorpicker
+	url = ../frameworks/opt/colorpicker
+[submodule "platform/frameworks/opt/datetimepicker"]
+	branch = lollipop-release
+	path = frameworks/opt/datetimepicker
+	url = ../frameworks/opt/datetimepicker
+[submodule "platform/frameworks/opt/emoji"]
+	branch = lollipop-release
+	path = frameworks/opt/emoji
+	url = ../frameworks/opt/emoji
+[submodule "platform/frameworks/opt/inputmethodcommon"]
+	branch = lollipop-release
+	path = frameworks/opt/inputmethodcommon
+	url = ../frameworks/opt/inputmethodcommon
+[submodule "platform/frameworks/opt/mms"]
+	branch = lollipop-release
+	path = frameworks/opt/mms
+	url = ../frameworks/opt/mms
+[submodule "platform/frameworks/opt/net/ethernet"]
+	branch = lollipop-release
+	path = frameworks/opt/net/ethernet
+	url = ../frameworks/opt/net/ethernet
+[submodule "platform/frameworks/opt/net/ims"]
+	branch = lollipop-release
+	path = frameworks/opt/net/ims
+	url = ../frameworks/opt/net/ims
+[submodule "platform/frameworks/opt/net/voip"]
+	branch = lollipop-release
+	path = frameworks/opt/net/voip
+	url = ../frameworks/opt/net/voip
+[submodule "platform/frameworks/opt/net/wifi"]
+	branch = lollipop-release
+	path = frameworks/opt/net/wifi
+	url = ../frameworks/opt/net/wifi
+[submodule "platform/frameworks/opt/photoviewer"]
+	branch = lollipop-release
+	path = frameworks/opt/photoviewer
+	url = ../frameworks/opt/photoviewer
+[submodule "platform/frameworks/opt/setupwizard"]
+	branch = lollipop-release
+	path = frameworks/opt/setupwizard
+	url = ../frameworks/opt/setupwizard
+[submodule "platform/frameworks/opt/telephony"]
+	branch = lollipop-release
+	path = frameworks/opt/telephony
+	url = ../frameworks/opt/telephony
+[submodule "platform/frameworks/opt/timezonepicker"]
+	branch = lollipop-release
+	path = frameworks/opt/timezonepicker
+	url = ../frameworks/opt/timezonepicker
+[submodule "platform/frameworks/opt/vcard"]
+	branch = lollipop-release
+	path = frameworks/opt/vcard
+	url = ../frameworks/opt/vcard
+[submodule "platform/frameworks/opt/widget"]
+	branch = lollipop-release
+	path = frameworks/opt/widget
+	url = ../frameworks/opt/widget
+[submodule "platform/frameworks/rs"]
+	branch = lollipop-release
+	path = frameworks/rs
+	url = ../frameworks/rs
+[submodule "platform/frameworks/support"]
+	branch = lollipop-release
+	path = frameworks/support
+	url = ../frameworks/support
+[submodule "platform/frameworks/testing"]
+	branch = lollipop-release
+	path = frameworks/testing
+	url = ../frameworks/testing
+[submodule "platform/frameworks/volley"]
+	branch = lollipop-release
+	path = frameworks/volley
+	url = ../frameworks/volley
+[submodule "platform/frameworks/webview"]
+	branch = lollipop-release
+	path = frameworks/webview
+	url = ../frameworks/webview
+[submodule "platform/frameworks/wilhelm"]
+	branch = lollipop-release
+	path = frameworks/wilhelm
+	url = ../frameworks/wilhelm
+[submodule "platform/hardware/akm"]
+	branch = lollipop-release
+	path = hardware/akm
+	url = ../hardware/akm
+[submodule "platform/hardware/broadcom/libbt"]
+	branch = lollipop-release
+	path = hardware/broadcom/libbt
+	url = ../hardware/broadcom/libbt
+[submodule "platform/hardware/broadcom/wlan"]
+	branch = lollipop-release
+	path = hardware/broadcom/wlan
+	url = ../hardware/broadcom/wlan
+[submodule "platform/hardware/intel/audio_media"]
+	branch = lollipop-release
+	path = hardware/intel/audio_media
+	url = ../hardware/intel/audio_media
+[submodule "platform/hardware/intel/bootstub"]
+	branch = lollipop-release
+	path = hardware/intel/bootstub
+	url = ../hardware/intel/bootstub
+[submodule "platform/hardware/intel/common/bd_prov"]
+	branch = lollipop-release
+	path = hardware/intel/common/bd_prov
+	url = ../hardware/intel/common/bd_prov
+[submodule "platform/hardware/intel/common/libmix"]
+	branch = lollipop-release
+	path = hardware/intel/common/libmix
+	url = ../hardware/intel/common/libmix
+[submodule "platform/hardware/intel/common/libstagefrighthw"]
+	branch = lollipop-release
+	path = hardware/intel/common/libstagefrighthw
+	url = ../hardware/intel/common/libstagefrighthw
+[submodule "platform/hardware/intel/common/libva"]
+	branch = lollipop-release
+	path = hardware/intel/common/libva
+	url = ../hardware/intel/common/libva
+[submodule "platform/hardware/intel/common/libwsbm"]
+	branch = lollipop-release
+	path = hardware/intel/common/libwsbm
+	url = ../hardware/intel/common/libwsbm
+[submodule "platform/hardware/intel/common/omx-components"]
+	branch = lollipop-release
+	path = hardware/intel/common/omx-components
+	url = ../hardware/intel/common/omx-components
+[submodule "platform/hardware/intel/common/utils"]
+	branch = lollipop-release
+	path = hardware/intel/common/utils
+	url = ../hardware/intel/common/utils
+[submodule "platform/hardware/intel/common/wrs_omxil_core"]
+	branch = lollipop-release
+	path = hardware/intel/common/wrs_omxil_core
+	url = ../hardware/intel/common/wrs_omxil_core
+[submodule "platform/hardware/intel/img/hwcomposer"]
+	branch = lollipop-release
+	path = hardware/intel/img/hwcomposer
+	url = ../hardware/intel/img/hwcomposer
+[submodule "platform/hardware/intel/img/libdrm"]
+	branch = lollipop-release
+	path = hardware/intel/img/libdrm
+	url = ../hardware/intel/img/libdrm
+[submodule "platform/hardware/intel/img/psb_headers"]
+	branch = lollipop-release
+	path = hardware/intel/img/psb_headers
+	url = ../hardware/intel/img/psb_headers
+[submodule "platform/hardware/intel/img/psb_video"]
+	branch = lollipop-release
+	path = hardware/intel/img/psb_video
+	url = ../hardware/intel/img/psb_video
+[submodule "platform/hardware/invensense"]
+	branch = lollipop-release
+	path = hardware/invensense
+	url = ../hardware/invensense
+[submodule "platform/hardware/libhardware"]
+	branch = lollipop-release
+	path = hardware/libhardware
+	url = ../hardware/libhardware
+[submodule "platform/hardware/libhardware_legacy"]
+	branch = lollipop-release
+	path = hardware/libhardware_legacy
+	url = ../hardware/libhardware_legacy
+[submodule "platform/hardware/nvidia/audio"]
+	branch = lollipop-release
+	path = hardware/nvidia/audio
+	url = ../hardware/nvidia/audio
+[submodule "platform/hardware/nvidia/tegra124"]
+	branch = lollipop-release
+	path = hardware/nvidia/tegra124
+	url = ../hardware/nvidia/tegra124
+[submodule "platform/hardware/qcom/audio"]
+	branch = lollipop-release
+	path = hardware/qcom/audio
+	url = ../hardware/qcom/audio
+[submodule "platform/hardware/qcom/bt"]
+	branch = lollipop-release
+	path = hardware/qcom/bt
+	url = ../hardware/qcom/bt
+[submodule "platform/hardware/qcom/display"]
+	branch = lollipop-release
+	path = hardware/qcom/display
+	url = ../hardware/qcom/display
+[submodule "platform/hardware/qcom/gps"]
+	branch = lollipop-release
+	path = hardware/qcom/gps
+	url = ../hardware/qcom/gps
+[submodule "platform/hardware/qcom/keymaster"]
+	branch = lollipop-release
+	path = hardware/qcom/keymaster
+	url = ../hardware/qcom/keymaster
+[submodule "platform/hardware/qcom/media"]
+	branch = lollipop-release
+	path = hardware/qcom/media
+	url = ../hardware/qcom/media
+[submodule "platform/hardware/qcom/msm8960"]
+	branch = lollipop-release
+	path = hardware/qcom/msm8960
+	url = ../hardware/qcom/msm8960
+[submodule "platform/hardware/qcom/msm8x26"]
+	branch = lollipop-release
+	path = hardware/qcom/msm8x26
+	url = ../hardware/qcom/msm8x26
+[submodule "platform/hardware/qcom/msm8x27"]
+	branch = lollipop-release
+	path = hardware/qcom/msm8x27
+	url = ../hardware/qcom/msm8x27
+[submodule "platform/hardware/qcom/msm8x74"]
+	branch = lollipop-release
+	path = hardware/qcom/msm8x74
+	url = ../hardware/qcom/msm8x74
+[submodule "platform/hardware/qcom/msm8x84"]
+	branch = lollipop-release
+	path = hardware/qcom/msm8x84
+	url = ../hardware/qcom/msm8x84
+[submodule "platform/hardware/qcom/power"]
+	branch = lollipop-release
+	path = hardware/qcom/power
+	url = ../hardware/qcom/power
+[submodule "platform/hardware/qcom/sensors"]
+	branch = lollipop-release
+	path = hardware/qcom/sensors
+	url = ../hardware/qcom/sensors
+[submodule "platform/hardware/qcom/wlan"]
+	branch = lollipop-release
+	path = hardware/qcom/wlan
+	url = ../hardware/qcom/wlan
+[submodule "platform/hardware/ril"]
+	branch = lollipop-release
+	path = hardware/ril
+	url = ../hardware/ril
+[submodule "platform/hardware/samsung_slsi/exynos5"]
+	branch = lollipop-release
+	path = hardware/samsung_slsi/exynos5
+	url = ../hardware/samsung_slsi/exynos5
+[submodule "platform/hardware/ti/omap3"]
+	branch = lollipop-release
+	path = hardware/ti/omap3
+	url = ../hardware/ti/omap3
+[submodule "platform/hardware/ti/omap4-aah"]
+	branch = lollipop-release
+	path = hardware/ti/omap4-aah
+	url = ../hardware/ti/omap4-aah
+[submodule "platform/hardware/ti/omap4xxx"]
+	branch = lollipop-release
+	path = hardware/ti/omap4xxx
+	url = ../hardware/ti/omap4xxx
+[submodule "platform/libcore"]
+	branch = lollipop-cts-dev
+	path = libcore
+	url = ../libcore
+[submodule "platform/libnativehelper"]
+	branch = lollipop-release
+	path = libnativehelper
+	url = ../libnativehelper
+[submodule "platform/ndk"]
+	branch = lollipop-release
+	path = ndk
+	url = ../ndk
+[submodule "platform/packages/apps/BasicSmsReceiver"]
+	branch = lollipop-release
+	path = packages/apps/BasicSmsReceiver
+	url = ../packages/apps/BasicSmsReceiver
+[submodule "platform/packages/apps/Bluetooth"]
+	branch = lollipop-release
+	path = packages/apps/Bluetooth
+	url = ../packages/apps/Bluetooth
+[submodule "platform/packages/apps/Browser"]
+	branch = lollipop-release
+	path = packages/apps/Browser
+	url = ../packages/apps/Browser
+[submodule "platform/packages/apps/Calculator"]
+	branch = lollipop-release
+	path = packages/apps/Calculator
+	url = ../packages/apps/Calculator
+[submodule "platform/packages/apps/Calendar"]
+	branch = lollipop-release
+	path = packages/apps/Calendar
+	url = ../packages/apps/Calendar
+[submodule "platform/packages/apps/Camera"]
+	branch = lollipop-release
+	path = packages/apps/Camera
+	url = ../packages/apps/Camera
+[submodule "platform/packages/apps/Camera2"]
+	branch = lollipop-release
+	path = packages/apps/Camera2
+	url = ../packages/apps/Camera2
+[submodule "platform/packages/apps/CellBroadcastReceiver"]
+	branch = lollipop-release
+	path = packages/apps/CellBroadcastReceiver
+	url = ../packages/apps/CellBroadcastReceiver
+[submodule "platform/packages/apps/CertInstaller"]
+	branch = lollipop-release
+	path = packages/apps/CertInstaller
+	url = ../packages/apps/CertInstaller
+[submodule "platform/packages/apps/Contacts"]
+	branch = lollipop-release
+	path = packages/apps/Contacts
+	url = ../packages/apps/Contacts
+[submodule "platform/packages/apps/ContactsCommon"]
+	branch = lollipop-release
+	path = packages/apps/ContactsCommon
+	url = ../packages/apps/ContactsCommon
+[submodule "platform/packages/apps/DeskClock"]
+	branch = lollipop-release
+	path = packages/apps/DeskClock
+	url = ../packages/apps/DeskClock
+[submodule "platform/packages/apps/Dialer"]
+	branch = lollipop-release
+	path = packages/apps/Dialer
+	url = ../packages/apps/Dialer
+[submodule "platform/packages/apps/Email"]
+	branch = lollipop-release
+	path = packages/apps/Email
+	url = ../packages/apps/Email
+[submodule "platform/packages/apps/Exchange"]
+	branch = lollipop-release
+	path = packages/apps/Exchange
+	url = ../packages/apps/Exchange
+[submodule "platform/packages/apps/Gallery"]
+	branch = lollipop-release
+	path = packages/apps/Gallery
+	url = ../packages/apps/Gallery
+[submodule "platform/packages/apps/Gallery2"]
+	branch = lollipop-release
+	path = packages/apps/Gallery2
+	url = ../packages/apps/Gallery2
+[submodule "platform/packages/apps/HTMLViewer"]
+	branch = lollipop-release
+	path = packages/apps/HTMLViewer
+	url = ../packages/apps/HTMLViewer
+[submodule "platform/packages/apps/InCallUI"]
+	branch = lollipop-release
+	path = packages/apps/InCallUI
+	url = ../packages/apps/InCallUI
+[submodule "platform/packages/apps/KeyChain"]
+	branch = lollipop-release
+	path = packages/apps/KeyChain
+	url = ../packages/apps/KeyChain
+[submodule "platform/packages/apps/Launcher2"]
+	branch = lollipop-release
+	path = packages/apps/Launcher2
+	url = ../packages/apps/Launcher2
+[submodule "platform/packages/apps/Launcher3"]
+	branch = lollipop-release
+	path = packages/apps/Launcher3
+	url = ../packages/apps/Launcher3
+[submodule "platform/packages/apps/LegacyCamera"]
+	branch = lollipop-release
+	path = packages/apps/LegacyCamera
+	url = ../packages/apps/LegacyCamera
+[submodule "platform/packages/apps/ManagedProvisioning"]
+	branch = lollipop-release
+	path = packages/apps/ManagedProvisioning
+	url = ../packages/apps/ManagedProvisioning
+[submodule "platform/packages/apps/Mms"]
+	branch = lollipop-release
+	path = packages/apps/Mms
+	url = ../packages/apps/Mms
+[submodule "platform/packages/apps/Music"]
+	branch = lollipop-release
+	path = packages/apps/Music
+	url = ../packages/apps/Music
+[submodule "platform/packages/apps/MusicFX"]
+	branch = lollipop-release
+	path = packages/apps/MusicFX
+	url = ../packages/apps/MusicFX
+[submodule "platform/packages/apps/Nfc"]
+	branch = lollipop-release
+	path = packages/apps/Nfc
+	url = ../packages/apps/Nfc
+[submodule "platform/packages/apps/OneTimeInitializer"]
+	branch = lollipop-release
+	path = packages/apps/OneTimeInitializer
+	url = ../packages/apps/OneTimeInitializer
+[submodule "platform/packages/apps/PackageInstaller"]
+	branch = lollipop-release
+	path = packages/apps/PackageInstaller
+	url = ../packages/apps/PackageInstaller
+[submodule "platform/packages/apps/Phone"]
+	branch = lollipop-release
+	path = packages/apps/Phone
+	url = ../packages/apps/Phone
+[submodule "platform/packages/apps/PhoneCommon"]
+	branch = lollipop-release
+	path = packages/apps/PhoneCommon
+	url = ../packages/apps/PhoneCommon
+[submodule "platform/packages/apps/Protips"]
+	branch = lollipop-release
+	path = packages/apps/Protips
+	url = ../packages/apps/Protips
+[submodule "platform/packages/apps/Provision"]
+	branch = lollipop-release
+	path = packages/apps/Provision
+	url = ../packages/apps/Provision
+[submodule "platform/packages/apps/QuickSearchBox"]
+	branch = lollipop-release
+	path = packages/apps/QuickSearchBox
+	url = ../packages/apps/QuickSearchBox
+[submodule "platform/packages/apps/Settings"]
+	branch = lollipop-release
+	path = packages/apps/Settings
+	url = ../packages/apps/Settings
+[submodule "platform/packages/apps/SmartCardService"]
+	branch = lollipop-release
+	path = packages/apps/SmartCardService
+	url = ../packages/apps/SmartCardService
+[submodule "platform/packages/apps/SoundRecorder"]
+	branch = lollipop-release
+	path = packages/apps/SoundRecorder
+	url = ../packages/apps/SoundRecorder
+[submodule "platform/packages/apps/SpareParts"]
+	branch = lollipop-release
+	path = packages/apps/SpareParts
+	url = ../packages/apps/SpareParts
+[submodule "platform/packages/apps/SpeechRecorder"]
+	branch = lollipop-release
+	path = packages/apps/SpeechRecorder
+	url = ../packages/apps/SpeechRecorder
+[submodule "platform/packages/apps/Stk"]
+	branch = lollipop-release
+	path = packages/apps/Stk
+	url = ../packages/apps/Stk
+[submodule "platform/packages/apps/Tag"]
+	branch = lollipop-release
+	path = packages/apps/Tag
+	url = ../packages/apps/Tag
+[submodule "platform/packages/apps/TvSettings"]
+	branch = lollipop-release
+	path = packages/apps/TvSettings
+	url = ../packages/apps/TvSettings
+[submodule "platform/packages/apps/UnifiedEmail"]
+	branch = lollipop-release
+	path = packages/apps/UnifiedEmail
+	url = ../packages/apps/UnifiedEmail
+[submodule "platform/packages/apps/VoiceDialer"]
+	branch = lollipop-release
+	path = packages/apps/VoiceDialer
+	url = ../packages/apps/VoiceDialer
+[submodule "platform/packages/experimental"]
+	branch = lollipop-release
+	path = packages/experimental
+	url = ../packages/experimental
+[submodule "platform/packages/inputmethods/LatinIME"]
+	branch = lollipop-release
+	path = packages/inputmethods/LatinIME
+	url = ../packages/inputmethods/LatinIME
+[submodule "platform/packages/inputmethods/OpenWnn"]
+	branch = lollipop-release
+	path = packages/inputmethods/OpenWnn
+	url = ../packages/inputmethods/OpenWnn
+[submodule "platform/packages/providers/ApplicationsProvider"]
+	branch = lollipop-release
+	path = packages/providers/ApplicationsProvider
+	url = ../packages/providers/ApplicationsProvider
+[submodule "platform/packages/providers/CalendarProvider"]
+	branch = lollipop-release
+	path = packages/providers/CalendarProvider
+	url = ../packages/providers/CalendarProvider
+[submodule "platform/packages/providers/ContactsProvider"]
+	branch = lollipop-release
+	path = packages/providers/ContactsProvider
+	url = ../packages/providers/ContactsProvider
+[submodule "platform/packages/providers/DownloadProvider"]
+	branch = lollipop-release
+	path = packages/providers/DownloadProvider
+	url = ../packages/providers/DownloadProvider
+[submodule "platform/packages/providers/MediaProvider"]
+	branch = lollipop-release
+	path = packages/providers/MediaProvider
+	url = ../packages/providers/MediaProvider
+[submodule "platform/packages/providers/PartnerBookmarksProvider"]
+	branch = lollipop-release
+	path = packages/providers/PartnerBookmarksProvider
+	url = ../packages/providers/PartnerBookmarksProvider
+[submodule "platform/packages/providers/TelephonyProvider"]
+	branch = lollipop-release
+	path = packages/providers/TelephonyProvider
+	url = ../packages/providers/TelephonyProvider
+[submodule "platform/packages/providers/TvProvider"]
+	branch = lollipop-release
+	path = packages/providers/TvProvider
+	url = ../packages/providers/TvProvider
+[submodule "platform/packages/providers/UserDictionaryProvider"]
+	branch = lollipop-release
+	path = packages/providers/UserDictionaryProvider
+	url = ../packages/providers/UserDictionaryProvider
+[submodule "platform/packages/screensavers/Basic"]
+	branch = lollipop-release
+	path = packages/screensavers/Basic
+	url = ../packages/screensavers/Basic
+[submodule "platform/packages/screensavers/PhotoTable"]
+	branch = lollipop-release
+	path = packages/screensavers/PhotoTable
+	url = ../packages/screensavers/PhotoTable
+[submodule "platform/packages/screensavers/WebView"]
+	branch = lollipop-release
+	path = packages/screensavers/WebView
+	url = ../packages/screensavers/WebView
+[submodule "platform/packages/services/Mms"]
+	branch = lollipop-release
+	path = packages/services/Mms
+	url = ../packages/services/Mms
+[submodule "platform/packages/services/Telecomm"]
+	branch = lollipop-release
+	path = packages/services/Telecomm
+	url = ../packages/services/Telecomm
+[submodule "platform/packages/services/Telephony"]
+	branch = lollipop-release
+	path = packages/services/Telephony
+	url = ../packages/services/Telephony
+[submodule "platform/packages/wallpapers/Basic"]
+	branch = lollipop-release
+	path = packages/wallpapers/Basic
+	url = ../packages/wallpapers/Basic
+[submodule "platform/packages/wallpapers/Galaxy4"]
+	branch = lollipop-release
+	path = packages/wallpapers/Galaxy4
+	url = ../packages/wallpapers/Galaxy4
+[submodule "platform/packages/wallpapers/HoloSpiral"]
+	branch = lollipop-release
+	path = packages/wallpapers/HoloSpiral
+	url = ../packages/wallpapers/HoloSpiral
+[submodule "platform/packages/wallpapers/LivePicker"]
+	branch = lollipop-release
+	path = packages/wallpapers/LivePicker
+	url = ../packages/wallpapers/LivePicker
+[submodule "platform/packages/wallpapers/MagicSmoke"]
+	branch = lollipop-release
+	path = packages/wallpapers/MagicSmoke
+	url = ../packages/wallpapers/MagicSmoke
+[submodule "platform/packages/wallpapers/MusicVisualization"]
+	branch = lollipop-release
+	path = packages/wallpapers/MusicVisualization
+	url = ../packages/wallpapers/MusicVisualization
+[submodule "platform/packages/wallpapers/NoiseField"]
+	branch = lollipop-release
+	path = packages/wallpapers/NoiseField
+	url = ../packages/wallpapers/NoiseField
+[submodule "platform/packages/wallpapers/PhaseBeam"]
+	branch = lollipop-release
+	path = packages/wallpapers/PhaseBeam
+	url = ../packages/wallpapers/PhaseBeam
+[submodule "platform/pdk"]
+	branch = lollipop-release
+	path = pdk
+	url = ../pdk
+[submodule "platform/prebuilts/android-emulator"]
+	branch = lollipop-release
+	shallow = true
+	path = prebuilts/android-emulator
+	url = ../prebuilts/android-emulator
+[submodule "platform/prebuilts/clang/darwin-x86/3.1"]
+	branch = lollipop-release
+	path = prebuilts/clang/darwin-x86/3.1
+	url = ../prebuilts/clang/darwin-x86/3.1
+[submodule "platform/prebuilts/clang/darwin-x86/3.2"]
+	branch = lollipop-release
+	path = prebuilts/clang/darwin-x86/3.2
+	url = ../prebuilts/clang/darwin-x86/3.2
+[submodule "platform/prebuilts/clang/darwin-x86/arm/3.3"]
+	branch = lollipop-release
+	path = prebuilts/clang/darwin-x86/arm/3.3
+	url = ../prebuilts/clang/darwin-x86/arm/3.3
+[submodule "platform/prebuilts/clang/darwin-x86/host/3.4"]
+	branch = lollipop-release
+	path = prebuilts/clang/darwin-x86/host/3.4
+	url = ../prebuilts/clang/darwin-x86/host/3.4
+[submodule "platform/prebuilts/clang/darwin-x86/host/3.5"]
+	branch = lollipop-release
+	path = prebuilts/clang/darwin-x86/host/3.5
+	url = ../prebuilts/clang/darwin-x86/host/3.5
+[submodule "platform/prebuilts/clang/darwin-x86/mips/3.3"]
+	branch = lollipop-release
+	path = prebuilts/clang/darwin-x86/mips/3.3
+	url = ../prebuilts/clang/darwin-x86/mips/3.3
+[submodule "platform/prebuilts/clang/darwin-x86/x86/3.3"]
+	branch = lollipop-release
+	path = prebuilts/clang/darwin-x86/x86/3.3
+	url = ../prebuilts/clang/darwin-x86/x86/3.3
+[submodule "platform/prebuilts/clang/linux-x86/3.1"]
+	branch = lollipop-release
+	path = prebuilts/clang/linux-x86/3.1
+	url = ../prebuilts/clang/linux-x86/3.1
+[submodule "platform/prebuilts/clang/linux-x86/3.2"]
+	branch = lollipop-release
+	path = prebuilts/clang/linux-x86/3.2
+	url = ../prebuilts/clang/linux-x86/3.2
+[submodule "platform/prebuilts/clang/linux-x86/arm/3.3"]
+	branch = lollipop-release
+	path = prebuilts/clang/linux-x86/arm/3.3
+	url = ../prebuilts/clang/linux-x86/arm/3.3
+[submodule "platform/prebuilts/clang/linux-x86/host/3.4"]
+	branch = lollipop-release
+	path = prebuilts/clang/linux-x86/host/3.4
+	url = ../prebuilts/clang/linux-x86/host/3.4
+[submodule "platform/prebuilts/clang/linux-x86/host/3.5"]
+	branch = lollipop-release
+	path = prebuilts/clang/linux-x86/host/3.5
+	url = ../prebuilts/clang/linux-x86/host/3.5
+[submodule "platform/prebuilts/clang/linux-x86/mips/3.3"]
+	branch = lollipop-release
+	path = prebuilts/clang/linux-x86/mips/3.3
+	url = ../prebuilts/clang/linux-x86/mips/3.3
+[submodule "platform/prebuilts/clang/linux-x86/x86/3.3"]
+	branch = lollipop-release
+	path = prebuilts/clang/linux-x86/x86/3.3
+	url = ../prebuilts/clang/linux-x86/x86/3.3
+[submodule "platform/prebuilts/devtools"]
+	branch = lollipop-release
+	path = prebuilts/devtools
+	url = ../prebuilts/devtools
+[submodule "platform/prebuilts/eclipse"]
+	branch = lollipop-release
+	path = prebuilts/eclipse
+	url = ../prebuilts/eclipse
+[submodule "platform/prebuilts/eclipse-build-deps"]
+	branch = lollipop-release
+	path = prebuilts/eclipse-build-deps
+	url = ../prebuilts/eclipse-build-deps
+[submodule "platform/prebuilts/eclipse-build-deps-sources"]
+	branch = lollipop-release
+	path = prebuilts/eclipse-build-deps-sources
+	url = ../prebuilts/eclipse-build-deps-sources
+[submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8"]
+	branch = lollipop-release
+	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8
+	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8
+[submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = lollipop-release
+	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8"]
+	branch = lollipop-release
+	path = prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8
+[submodule "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.8"]
+	branch = lollipop-release
+	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.8
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.8
+[submodule "platform/prebuilts/gcc/darwin-x86/host/headers"]
+	branch = lollipop-release
+	path = prebuilts/gcc/darwin-x86/host/headers
+	url = ../prebuilts/gcc/darwin-x86/host/headers
+[submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+	branch = lollipop-release
+	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+[submodule "platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.8"]
+	branch = lollipop-release
+	path = prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.8
+	url = ../prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.8
+[submodule "platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9"]
+	branch = lollipop-release
+	path = prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.8"]
+	branch = lollipop-release
+	path = prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.8
+	url = ../prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.8
+[submodule "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.8"]
+	branch = lollipop-release
+	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.8
+	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.8
+[submodule "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
+	branch = main
+	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8"]
+	branch = lollipop-release
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8
+	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = lollipop-release
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8"]
+	branch = lollipop-release
+	path = prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+	url = ../prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8"]
+	branch = lollipop-release
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8
+	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6"]
+	branch = lollipop-release
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
+	branch = lollipop-release
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	branch = lollipop-release
+	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.8"]
+	branch = lollipop-release
+	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.8
+	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
+	branch = lollipop-release
+	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.8"]
+	branch = lollipop-release
+	path = prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.8
+	url = ../prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8"]
+	branch = lollipop-release
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8
+	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	branch = lollipop-release
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/prebuilts/gradle-plugin"]
+	branch = lollipop-release
+	path = prebuilts/gradle-plugin
+	url = ../prebuilts/gradle-plugin
+[submodule "platform/prebuilts/libs/libedit"]
+	branch = lollipop-release
+	path = prebuilts/libs/libedit
+	url = ../prebuilts/libs/libedit
+[submodule "platform/prebuilts/maven_repo/android"]
+	branch = lollipop-release
+	path = prebuilts/maven_repo/android
+	url = ../prebuilts/maven_repo/android
+[submodule "platform/prebuilts/misc"]
+	branch = lollipop-release
+	path = prebuilts/misc
+	url = ../prebuilts/misc
+[submodule "platform/prebuilts/ndk"]
+	branch = lollipop-release
+	path = prebuilts/ndk
+	url = ../prebuilts/ndk
+[submodule "platform/prebuilts/python/darwin-x86/2.7.5"]
+	branch = lollipop-release
+	path = prebuilts/python/darwin-x86/2.7.5
+	url = ../prebuilts/python/darwin-x86/2.7.5
+[submodule "platform/prebuilts/python/linux-x86/2.7.5"]
+	branch = lollipop-release
+	path = prebuilts/python/linux-x86/2.7.5
+	url = ../prebuilts/python/linux-x86/2.7.5
+[submodule "platform/prebuilts/qemu-kernel"]
+	branch = lollipop-release
+	shallow = true
+	path = prebuilts/qemu-kernel
+	url = ../prebuilts/qemu-kernel
+[submodule "platform/prebuilts/sdk"]
+	branch = lollipop-release
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "platform/prebuilts/tools"]
+	branch = lollipop-release
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "platform/sdk"]
+	branch = lollipop-release
+	path = sdk
+	url = ../sdk
+[submodule "platform/system/core"]
+	branch = lollipop-release
+	path = system/core
+	url = ../system/core
+[submodule "platform/system/extras"]
+	branch = lollipop-release
+	path = system/extras
+	url = ../system/extras
+[submodule "platform/system/keymaster"]
+	branch = lollipop-release
+	path = system/keymaster
+	url = ../system/keymaster
+[submodule "platform/system/media"]
+	branch = lollipop-release
+	path = system/media
+	url = ../system/media
+[submodule "platform/system/netd"]
+	branch = lollipop-release
+	path = system/netd
+	url = ../system/netd
+[submodule "platform/system/security"]
+	branch = lollipop-release
+	path = system/security
+	url = ../system/security
+[submodule "platform/system/vold"]
+	branch = lollipop-release
+	path = system/vold
+	url = ../system/vold
+[submodule "platform/tools/adt/eclipse"]
+	branch = lollipop-release
+	path = tools/adt/eclipse
+	url = ../tools/adt/eclipse
+[submodule "platform/tools/adt/idea"]
+	branch = lollipop-release
+	path = tools/adt/idea
+	url = ../tools/adt/idea
+[submodule "platform/tools/base"]
+	branch = lollipop-release
+	path = tools/base
+	url = ../tools/base
+[submodule "platform/tools/build"]
+	branch = lollipop-release
+	path = tools/build
+	url = ../tools/build
+[submodule "platform/tools/emulator"]
+	branch = lollipop-release
+	path = tools/emulator
+	url = ../tools/emulator
+[submodule "platform/tools/external/fat32lib"]
+	branch = lollipop-release
+	path = tools/external/fat32lib
+	url = ../tools/external/fat32lib
+[submodule "platform/tools/external/gradle"]
+	branch = lollipop-release
+	path = tools/external/gradle
+	url = ../tools/external/gradle
+[submodule "platform/tools/idea"]
+	branch = lollipop-release
+	path = tools/idea
+	url = ../tools/idea
+[submodule "platform/tools/loganalysis"]
+	branch = lollipop-release
+	path = tools/loganalysis
+	url = ../tools/loganalysis
+[submodule "platform/tools/motodev"]
+	branch = lollipop-release
+	path = tools/motodev
+	url = ../tools/motodev
+[submodule "platform/tools/studio/cloud"]
+	branch = lollipop-release
+	path = tools/studio/cloud
+	url = ../tools/studio/cloud
+[submodule "platform/tools/studio/translation"]
+	branch = lollipop-release
+	path = tools/studio/translation
+	url = ../tools/studio/translation
+[submodule "platform/tools/swt"]
+	branch = lollipop-release
+	path = tools/swt
+	url = ../tools/swt
+[submodule "platform/tools/tradefederation"]
+	branch = lollipop-release
+	path = tools/tradefederation
+	url = ../tools/tradefederation
