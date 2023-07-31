@@ -1,0 +1,24 @@
+/external/clang
+/external/lldb
+/external/lldb-utils
+/external/llvm
+/prebuilts/clang/linux-x86/host/3.6 linux
+/prebuilts/cmake/darwin-x86 darwin
+/prebuilts/cmake/linux-x86 linux
+/prebuilts/cmake/windows-x86 windows
+/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9 linux
+/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9 linux
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8 linux
+/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9 linux
+/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9 linux
+/prebuilts/libedit/darwin-x86 darwin
+/prebuilts/libedit/linux-x86 linux
+/prebuilts/ndk linux
+/prebuilts/ninja/darwin-x86 darwin
+/prebuilts/ninja/linux-x86 linux
+/prebuilts/ninja/windows-x86 windows
+/prebuilts/python/linux-x86 linux
+/prebuilts/python/windows-x86 windows
+/prebuilts/swig/darwin-x86 darwin
+/prebuilts/swig/linux-x86 linux
+/prebuilts/swig/windows-x86 windows
