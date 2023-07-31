@@ -1,29 +1,29 @@
 [submodule "platform/external/doclava"]
-	branch = master
+	branch = main
 	shallow = true
 	path = external/doclava
 	url = ../external/doclava
 [submodule "platform/external/flatbuffers"]
-	branch = master
+	branch = main
 	shallow = true
 	path = external/flatbuffers
 	url = ../external/flatbuffers
 [submodule "platform/external/jdiff"]
-	branch = master
+	branch = main
 	shallow = true
 	path = external/jdiff
 	url = ../external/jdiff
 [submodule "platform/external/noto-fonts"]
-	branch = master
+	branch = main
 	shallow = true
 	path = external/noto-fonts
 	url = ../external/noto-fonts
 [submodule "platform/frameworks/support"]
-	branch = master
+	branch = main
 	path = frameworks/support
 	url = ../frameworks/support
 [submodule "platform/prebuilts/checkstyle"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
@@ -33,6 +33,6 @@
 	path = tools/external/gradle
 	url = ../tools/external/gradle
 [submodule "platform/tools/repohooks"]
-	branch = master
+	branch = main
 	path = tools/repohooks
 	url = ../tools/repohooks
