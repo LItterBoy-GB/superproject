@@ -1,0 +1,10 @@
+/src/shaderc
+/prebuilts/cmake/darwin-x86 notdefault platform-darwin
+/prebuilts/cmake/linux-x86 platform-linux notdefault
+/prebuilts/cmake/windows-x86 platform-cygwin_nt-6.3 platform-cygwin_nt-6.1 platform-cygwin_nt-6.2 notdefault platform-cygwin_nt-10.0
+/prebuilts/ninja/darwin-x86 notdefault platform-darwin
+/prebuilts/ninja/linux-x86 platform-linux notdefault
+/prebuilts/ninja/windows-x86 platform-cygwin_nt-6.3 platform-cygwin_nt-6.1 platform-cygwin_nt-6.2 notdefault platform-cygwin_nt-10.0
+/prebuilts/python/darwin-x86 notdefault platform-darwin
+/prebuilts/python/linux-x86 platform-linux notdefault
+/prebuilts/python/windows-x86 platform-cygwin_nt-6.3 platform-cygwin_nt-6.1 platform-cygwin_nt-6.2 notdefault platform-cygwin_nt-10.0
