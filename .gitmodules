@@ -1,0 +1,200 @@
+[submodule "platform/external/ant-glob"]
+	branch = main
+	path = external/ant-glob
+	url = ../external/ant-glob
+[submodule "platform/external/eclipse-windowbuilder"]
+	branch = main
+	path = external/eclipse-windowbuilder
+	url = ../external/eclipse-windowbuilder
+[submodule "platform/external/emma"]
+	branch = main
+	path = external/emma
+	url = ../external/emma
+[submodule "platform/external/gmock"]
+	branch = main
+	path = external/gmock
+	url = ../external/gmock
+[submodule "platform/external/gtest"]
+	branch = main
+	path = external/gtest
+	url = ../external/gtest
+[submodule "platform/external/protobuf"]
+	branch = studio-1.3-dev
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "platform/external/qemu"]
+	branch = studio-1.3-dev
+	path = external/qemu
+	url = ../external/qemu
+[submodule "platform/external/qemu-android"]
+	branch = studio-1.3-dev
+	path = external/qemu-android
+	url = ../external/qemu-android
+[submodule "platform/frameworks/native"]
+	branch = lollipop-release
+	path = frameworks/native
+	url = ../frameworks/native
+[submodule "platform/prebuilts/android-emulator"]
+	branch = studio-1.3-dev
+	path = prebuilts/android-emulator
+	url = ../prebuilts/android-emulator
+[submodule "platform/prebuilts/android-emulator-build/archive"]
+	branch = studio-1.3-dev
+	shallow = true
+	path = prebuilts/android-emulator-build/archive
+	url = ../prebuilts/android-emulator-build/archive
+[submodule "platform/prebuilts/android-emulator-build/mesa"]
+	branch = studio-1.3-dev
+	shallow = true
+	path = prebuilts/android-emulator-build/mesa
+	url = ../prebuilts/android-emulator-build/mesa
+[submodule "platform/prebuilts/android-emulator-build/mesa-deps"]
+	branch = studio-1.3-dev
+	shallow = true
+	path = prebuilts/android-emulator-build/mesa-deps
+	url = ../prebuilts/android-emulator-build/mesa-deps
+[submodule "platform/prebuilts/android-emulator-build/qemu-android-deps"]
+	branch = studio-1.3-dev
+	shallow = true
+	path = prebuilts/android-emulator-build/qemu-android-deps
+	url = ../prebuilts/android-emulator-build/qemu-android-deps
+[submodule "platform/prebuilts/clang/darwin-x86/host/3.5"]
+	branch = main
+	path = prebuilts/clang/darwin-x86/host/3.5
+	url = ../prebuilts/clang/darwin-x86/host/3.5
+[submodule "platform/prebuilts/clang/darwin-x86/sdk/3.5"]
+	branch = main
+	path = prebuilts/clang/darwin-x86/sdk/3.5
+	url = ../prebuilts/clang/darwin-x86/sdk/3.5
+[submodule "platform/prebuilts/eclipse"]
+	branch = main
+	path = prebuilts/eclipse
+	url = ../prebuilts/eclipse
+[submodule "platform/prebuilts/eclipse-build-deps"]
+	branch = main
+	path = prebuilts/eclipse-build-deps
+	url = ../prebuilts/eclipse-build-deps
+[submodule "platform/prebuilts/eclipse-build-deps-sources"]
+	branch = main
+	path = prebuilts/eclipse-build-deps-sources
+	url = ../prebuilts/eclipse-build-deps-sources
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6"]
+	branch = main
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
+	branch = main
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	branch = main
+	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+[submodule "platform/prebuilts/go/darwin-x86"]
+	branch = studio-1.3-dev
+	path = prebuilts/go/darwin-x86
+	url = ../prebuilts/go/darwin-x86
+[submodule "platform/prebuilts/go/linux-x86"]
+	branch = studio-1.3-dev
+	path = prebuilts/go/linux-x86
+	url = ../prebuilts/go/linux-x86
+[submodule "platform/prebuilts/go/windows-x86"]
+	branch = studio-1.3-dev
+	path = prebuilts/go/windows-x86
+	url = ../prebuilts/go/windows-x86
+[submodule "platform/prebuilts/qemu-kernel"]
+	branch = main
+	path = prebuilts/qemu-kernel
+	url = ../prebuilts/qemu-kernel
+[submodule "platform/prebuilts/tools"]
+	branch = main
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "platform/sdk"]
+	branch = studio-1.3-dev
+	path = sdk
+	url = ../sdk
+[submodule "platform/tools/adt/eclipse"]
+	branch = studio-1.3-dev
+	path = tools/adt/eclipse
+	url = ../tools/adt/eclipse
+[submodule "platform/tools/adt/idea"]
+	branch = studio-1.3-dev
+	path = tools/adt/idea
+	url = ../tools/adt/idea
+[submodule "platform/tools/base"]
+	branch = studio-1.3-dev
+	path = tools/base
+	url = ../tools/base
+[submodule "platform/tools/buildSrc"]
+	branch = studio-1.3-dev
+	path = tools/buildSrc
+	url = ../tools/buildSrc
+[submodule "platform/tools/emulator"]
+	branch = studio-1.3-dev
+	path = tools/emulator
+	url = ../tools/emulator
+[submodule "platform/tools/external/fat32lib"]
+	branch = studio-1.3-dev
+	path = tools/external/fat32lib
+	url = ../tools/external/fat32lib
+[submodule "platform/tools/external/go/src/github.com/go-gl-legacy/gl"]
+	branch = main
+	path = tools/gpu/src/github.com/go-gl-legacy/gl
+	url = ../tools/external/go/src/github.com/go-gl-legacy/gl
+[submodule "platform/tools/external/go/src/github.com/go-gl/glfw"]
+	branch = main
+	path = tools/gpu/src/github.com/go-gl/glfw
+	url = ../tools/external/go/src/github.com/go-gl/glfw
+[submodule "platform/tools/external/go/src/github.com/golang/protobuf"]
+	branch = main
+	path = tools/gpu/src/github.com/golang/protobuf
+	url = ../tools/external/go/src/github.com/golang/protobuf
+[submodule "platform/tools/external/go/src/golang.org/x/net"]
+	branch = main
+	path = tools/gpu/src/golang.org/x/net
+	url = ../tools/external/go/src/golang.org/x/net
+[submodule "platform/tools/external/go/src/golang.org/x/tools"]
+	branch = main
+	path = tools/gpu/src/golang.org/x/tools
+	url = ../tools/external/go/src/golang.org/x/tools
+[submodule "platform/tools/external/gradle"]
+	branch = main
+	path = tools/external/gradle
+	url = ../tools/external/gradle
+[submodule "platform/tools/gpu"]
+	branch = studio-1.3-dev
+	path = tools/gpu/src/android.googlesource.com/platform/tools/gpu
+	url = ../tools/gpu
+[submodule "platform/tools/gradle"]
+	branch = studio-1.3-dev
+	path = tools/gradle
+	url = ../tools/gradle
+[submodule "platform/tools/idea"]
+	branch = idea14-1.3-dev
+	path = tools/idea
+	url = ../tools/idea
+[submodule "platform/tools/studio/google/cloud/testing"]
+	branch = studio-1.3-dev
+	path = tools/studio/google/cloud/testing
+	url = ../tools/studio/google/cloud/testing
+[submodule "platform/tools/studio/google/cloud/tools"]
+	branch = studio-1.3-dev
+	path = tools/studio/google/cloud/tools
+	url = ../tools/studio/google/cloud/tools
+[submodule "platform/tools/studio/google/login"]
+	branch = studio-1.3-dev
+	path = tools/studio/google/login
+	url = ../tools/studio/google/login
+[submodule "platform/tools/studio/google/play"]
+	branch = studio-1.3-dev
+	path = tools/studio/google/play
+	url = ../tools/studio/google/play
+[submodule "platform/tools/studio/google/services"]
+	branch = studio-1.3-dev
+	path = tools/studio/google/services
+	url = ../tools/studio/google/services
+[submodule "platform/tools/swt"]
+	branch = studio-1.3-dev
+	path = tools/swt
+	url = ../tools/swt
