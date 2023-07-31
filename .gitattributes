@@ -1,0 +1,36 @@
+/abi/cpp pdk
+/art
+/bionic pdk
+/build pdk
+/dalvik
+/external/apache-harmony
+/external/apache-http
+/external/apache-xml
+/external/bouncycastle
+/external/compiler-rt pdk
+/external/conscrypt
+/external/expat pdk
+/external/fdlibm
+/external/hamcrest
+/external/icu4c pdk
+/external/javasqlite
+/external/junit
+/external/libcxx pdk
+/external/libcxxrt
+/external/libselinux pdk
+/external/libunwind
+/external/mockwebserver
+/external/nist-pkits
+/external/okhttp
+/external/openssl pdk
+/external/safe-iop pdk
+/external/stlport pdk
+/external/zlib pdk
+/libcore
+/libnativehelper pdk-java
+/prebuilts/clang/linux-x86/host/3.5 pdk linux
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6 pdk linux
+/prebuilts/misc pdk
+/prebuilts/sdk pdk
+/prebuilts/tools pdk tools
+/system/core pdk

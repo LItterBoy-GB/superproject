@@ -1,0 +1,144 @@
+[submodule "platform/abi/cpp"]
+	branch = main
+	path = abi/cpp
+	url = ../abi/cpp
+[submodule "platform/art"]
+	branch = main
+	path = art
+	url = ../art
+[submodule "platform/bionic"]
+	branch = main
+	path = bionic
+	url = ../bionic
+[submodule "platform/build"]
+	branch = main
+	path = build
+	url = ../build
+[submodule "platform/dalvik"]
+	branch = main
+	path = dalvik
+	url = ../dalvik
+[submodule "platform/external/apache-harmony"]
+	branch = main
+	path = external/apache-harmony
+	url = ../external/apache-harmony
+[submodule "platform/external/apache-http"]
+	branch = main
+	path = external/apache-http
+	url = ../external/apache-http
+[submodule "platform/external/apache-xml"]
+	branch = main
+	path = external/apache-xml
+	url = ../external/apache-xml
+[submodule "platform/external/bouncycastle"]
+	branch = main
+	path = external/bouncycastle
+	url = ../external/bouncycastle
+[submodule "platform/external/compiler-rt"]
+	branch = main
+	path = external/compiler-rt
+	url = ../external/compiler-rt
+[submodule "platform/external/conscrypt"]
+	branch = main
+	path = external/conscrypt
+	url = ../external/conscrypt
+[submodule "platform/external/expat"]
+	branch = main
+	path = external/expat
+	url = ../external/expat
+[submodule "platform/external/fdlibm"]
+	branch = main
+	path = external/fdlibm
+	url = ../external/fdlibm
+[submodule "platform/external/hamcrest"]
+	branch = main
+	path = external/hamcrest
+	url = ../external/hamcrest
+[submodule "platform/external/icu4c"]
+	branch = main
+	path = external/icu4c
+	url = ../external/icu4c
+[submodule "platform/external/javasqlite"]
+	branch = main
+	path = external/javasqlite
+	url = ../external/javasqlite
+[submodule "platform/external/junit"]
+	branch = main
+	path = external/junit
+	url = ../external/junit
+[submodule "platform/external/libcxx"]
+	branch = main
+	path = external/libcxx
+	url = ../external/libcxx
+[submodule "platform/external/libcxxrt"]
+	branch = main
+	path = external/libcxxrt
+	url = ../external/libcxxrt
+[submodule "platform/external/libselinux"]
+	branch = main
+	path = external/libselinux
+	url = ../external/libselinux
+[submodule "platform/external/libunwind"]
+	branch = main
+	path = external/libunwind
+	url = ../external/libunwind
+[submodule "platform/external/mockwebserver"]
+	branch = main
+	path = external/mockwebserver
+	url = ../external/mockwebserver
+[submodule "platform/external/nist-pkits"]
+	branch = main
+	path = external/nist-pkits
+	url = ../external/nist-pkits
+[submodule "platform/external/okhttp"]
+	branch = main
+	path = external/okhttp
+	url = ../external/okhttp
+[submodule "platform/external/openssl"]
+	branch = main
+	path = external/openssl
+	url = ../external/openssl
+[submodule "platform/external/safe-iop"]
+	branch = main
+	path = external/safe-iop
+	url = ../external/safe-iop
+[submodule "platform/external/stlport"]
+	branch = main
+	path = external/stlport
+	url = ../external/stlport
+[submodule "platform/external/zlib"]
+	branch = main
+	path = external/zlib
+	url = ../external/zlib
+[submodule "platform/libcore"]
+	branch = main
+	path = libcore
+	url = ../libcore
+[submodule "platform/libnativehelper"]
+	branch = main
+	path = libnativehelper
+	url = ../libnativehelper
+[submodule "platform/prebuilts/clang/linux-x86/host/3.5"]
+	branch = main
+	path = prebuilts/clang/linux-x86/host/3.5
+	url = ../prebuilts/clang/linux-x86/host/3.5
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6"]
+	branch = main
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6
+[submodule "platform/prebuilts/misc"]
+	branch = main
+	path = prebuilts/misc
+	url = ../prebuilts/misc
+[submodule "platform/prebuilts/sdk"]
+	branch = main
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "platform/prebuilts/tools"]
+	branch = main
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "platform/system/core"]
+	branch = main
+	path = system/core
+	url = ../system/core
