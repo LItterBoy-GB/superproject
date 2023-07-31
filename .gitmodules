@@ -10,11 +10,11 @@
 	path = external/google-benchmark
 	url = ../external/google-benchmark
 [submodule "platform/external/gtest"]
-	branch = master
+	branch = main
 	path = external/gtest
 	url = ../external/gtest
 [submodule "platform/external/libyuv"]
-	branch = master
+	branch = main
 	path = external/libyuv
 	url = ../external/libyuv
 [submodule "platform/external/protobuf"]
@@ -26,7 +26,7 @@
 	path = external/qemu
 	url = ../external/qemu
 [submodule "platform/external/tinyobjloader"]
-	branch = master
+	branch = main
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
 [submodule "platform/frameworks/native"]
@@ -78,12 +78,12 @@
 	path = prebuilts/android-emulator-build/qt
 	url = ../prebuilts/android-emulator-build/qt
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
@@ -103,11 +103,11 @@
 	path = prebuilts/cmake/windows-x86
 	url = ../prebuilts/cmake/windows-x86
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
-	branch = master
+	branch = main
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
-	branch = master
+	branch = main
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "platform/prebuilts/ninja/darwin-x86"]
@@ -126,11 +126,11 @@
 	path = prebuilts/ninja/windows-x86
 	url = ../prebuilts/ninja/windows-x86
 [submodule "platform/prebuilts/qemu-kernel"]
-	branch = master
+	branch = main
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
 [submodule "platform/prebuilts/tools"]
-	branch = master
+	branch = main
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "platform/sdk"]
@@ -146,7 +146,7 @@
 	path = tools/emulator
 	url = ../tools/emulator
 [submodule "platform/tools/external/gradle"]
-	branch = master
+	branch = main
 	path = tools/external/gradle
 	url = ../tools/external/gradle
 [submodule "platform/tools/gradle"]
