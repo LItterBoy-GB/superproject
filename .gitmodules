@@ -1,0 +1,100 @@
+[submodule "platform/external/ant-glob"]
+	ref = refs/tags/gradle_0.12.2
+	path = external/ant-glob
+	url = ../external/ant-glob
+[submodule "platform/external/eclipse-windowbuilder"]
+	ref = refs/tags/gradle_0.12.2
+	path = external/eclipse-windowbuilder
+	url = ../external/eclipse-windowbuilder
+[submodule "platform/external/emma"]
+	branch = main
+	path = external/emma
+	url = ../external/emma
+[submodule "platform/external/gtest"]
+	ref = refs/tags/gradle_0.12.2
+	path = external/gtest
+	url = ../external/gtest
+[submodule "platform/external/qemu"]
+	ref = refs/tags/gradle_0.12.2
+	path = external/qemu
+	url = ../external/qemu
+[submodule "platform/prebuilts/eclipse"]
+	ref = refs/tags/gradle_0.12.2
+	path = prebuilts/eclipse
+	url = ../prebuilts/eclipse
+[submodule "platform/prebuilts/eclipse-build-deps"]
+	ref = refs/tags/gradle_0.12.2
+	path = prebuilts/eclipse-build-deps
+	url = ../prebuilts/eclipse-build-deps
+[submodule "platform/prebuilts/eclipse-build-deps-sources"]
+	ref = refs/tags/gradle_0.12.2
+	path = prebuilts/eclipse-build-deps-sources
+	url = ../prebuilts/eclipse-build-deps-sources
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6"]
+	ref = refs/tags/gradle_0.12.2
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
+	ref = refs/tags/gradle_0.12.2
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	ref = refs/tags/gradle_0.12.2
+	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+[submodule "platform/prebuilts/qemu-kernel"]
+	ref = refs/tags/gradle_0.12.2
+	path = prebuilts/qemu-kernel
+	url = ../prebuilts/qemu-kernel
+[submodule "platform/prebuilts/tools"]
+	ref = refs/tags/gradle_0.12.2
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "platform/sdk"]
+	ref = refs/tags/gradle_0.12.2
+	path = sdk
+	url = ../sdk
+[submodule "platform/tools/adt/eclipse"]
+	ref = refs/tags/gradle_0.12.2
+	path = tools/adt/eclipse
+	url = ../tools/adt/eclipse
+[submodule "platform/tools/adt/idea"]
+	ref = refs/tags/gradle_0.12.2
+	path = tools/adt/idea
+	url = ../tools/adt/idea
+[submodule "platform/tools/base"]
+	ref = refs/tags/gradle_0.12.2
+	path = tools/base
+	url = ../tools/base
+[submodule "platform/tools/buildSrc"]
+	ref = refs/tags/gradle_0.12.2
+	path = tools/buildSrc
+	url = ../tools/buildSrc
+[submodule "platform/tools/emulator"]
+	ref = refs/tags/gradle_0.12.2
+	path = tools/emulator
+	url = ../tools/emulator
+[submodule "platform/tools/external/fat32lib"]
+	ref = refs/tags/gradle_0.12.2
+	path = tools/external/fat32lib
+	url = ../tools/external/fat32lib
+[submodule "platform/tools/external/gradle"]
+	ref = refs/tags/gradle_0.12.2
+	path = tools/external/gradle
+	url = ../tools/external/gradle
+[submodule "platform/tools/gradle"]
+	ref = refs/tags/gradle_0.12.2
+	path = tools/gradle
+	url = ../tools/gradle
+[submodule "platform/tools/idea"]
+	ref = refs/tags/gradle_0.12.2
+	path = tools/idea
+	url = ../tools/idea
+[submodule "platform/tools/studio/cloud"]
+	ref = refs/tags/gradle_0.12.2
+	path = tools/studio/cloud
+	url = ../tools/studio/cloud
+[submodule "platform/tools/swt"]
+	ref = refs/tags/gradle_0.12.2
+	path = tools/swt
+	url = ../tools/swt
