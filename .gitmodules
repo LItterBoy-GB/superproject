@@ -3,7 +3,7 @@
 	path = multitest_transport
 	url = ../tools/multitest_transport
 [submodule "platform/tools/repohooks"]
-	branch = master
+	branch = main
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "platform/tools/tradefed_cluster"]
