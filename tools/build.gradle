@@ -1,0 +1,196 @@
+apply plugin: 'clone-artifacts'
+
+// Currently, the minimum requirement to run Android SDK tools is Java 1.6
+// So make sure that we are compiling with 1.6
+def jvmVersion = System.getProperty('java.version')
+if (!jvmVersion.startsWith('1.6')) {
+    throw new RuntimeException("Tools need to be compiled with Java 1.6, you are using Java $jvmVersion")
+}
+
+// artifact cloning destinations
+
+if (System.env.USE_EXTERNAL_REPO != null) {
+  allprojects {
+    repositories {
+        mavenCentral()
+        maven { url 'https://repo.gradle.org/gradle/libs-snapshots-local' }
+        maven { url 'https://repo.gradle.org/gradle/libs-releases-local' }
+    }
+  }
+}
+
+cloneArtifacts {
+    repository = "$rootDir/../prebuilts/tools/common/m2/repository"
+}
+
+/*
+ * With the build server you are given two env variables.
+ * The OUT_DIR is a temporary directory you can use to put things during the build.
+ * The DIST_DIR is where you want to save things from the build.
+ *
+ * The build server will copy the contents of DIST_DIR to somewhere and make it available.
+ */
+if (System.env.DIST_DIR != null && System.env.OUT_DIR != null) {
+    ext.androidHostOut = file(System.env.OUT_DIR)
+    ext.androidHostDist = file(System.env.DIST_DIR)
+} else {
+    // ext.androidHostOut is shared by all tools/{base,build,swt} gradle projects/
+    ext.androidHostOut = file("$rootDir/../out")
+    ext.androidHostDist = new File(ext.androidHostOut, "dist")
+}
+
+
+// rootProject.buildDir is specific to this gradle build.
+buildDir = new File(ext.androidHostOut, "build/root")
+
+
+// apply this after the buildDir has been changed.
+apply plugin: 'sdk-tools'
+
+
+ext.localRepo = project.hasProperty('localRepo') ? localRepo : "$ext.androidHostOut/repo"
+
+apply from: "$rootDir/buildSrc/base/version.gradle"
+
+subprojects { Project project ->
+    // Change buildDir first so that all plugins pick up the new value.
+    project.buildDir = project.file("$project.parent.buildDir/../$project.name/build")
+}
+
+// delay evaluation of this project before all subprojects have been evaluated.
+subprojects.each { subproject -> evaluationDependsOn(subproject.path) }
+
+def testTasks = subprojects.collect { it.tasks.withType(Test) }.flatten()
+
+task aggregateResults(type: Copy) {
+    from { testTasks*.binResultsDir*.parentFile*.parentFile }
+    into { file("$buildDir/results") }
+}
+
+task prepareRepo(type: Copy) {
+    from { rootProject.cloneArtifacts.repository }
+    into { "$rootProject.ext.androidHostOut/repo" }
+}
+
+task copyGradleProperty(type: Copy) {
+    from { "${System.env.HOME}/.gradle/gradle.properties" }
+    into { gradle.gradleUserHomeDir }
+}
+
+tasks.create(name: 'publishLocal')
+subprojects { project ->
+   if (project.tasks.findByName('publishLocal') != null) {
+       rootProject.publishLocal.dependsOn project.publishLocal
+   }
+}
+
+task setupGradleInIde << {
+   File dir = gradle.gradleHomeDir
+   String link = dir.path.substring(project.ext.androidHostOut.path.length() + 1)
+   String command = "ln -s $link ${new File(project.ext.androidHostOut, "gradle-dist-link").path}"
+   command.execute()
+}
+
+def offlineRepo = new File('build/intermediaries/repo')
+
+task prepareOfflineRepo << {
+  offlineRepo.mkdirs()
+}
+
+/**
+ * Identify all project and subprojects output artifacts and copy .jar and .pom
+ * files into the repoDir local maven repository
+ */
+task copySubProjectsArtifacts(dependsOn: 'prepareOfflineRepo') << {
+
+    // top project is the root of all the gradle plugin dependencies
+    def topProject = findProject(':base:gradle')
+    // select the (unique) subprojects only and the top project
+    def projectsToConsider = topProject.configurations.runtime.incoming.resolutionResult.allDependencies.findResults {
+        (it.selected.id instanceof ProjectComponentIdentifier)?findProject(it.selected.id.projectPath):null
+    }
+    projectsToConsider.unique().add(topProject)
+
+    // for each projects, check its output artifact and copy it only with the associated pom file to our
+    // local maven repo.
+    projectsToConsider.each { someProject ->
+      someProject.configurations.runtime.artifacts.files.each { file ->
+        String relativePath = "${someProject.group.replace('.' as char, File.separatorChar)}${File.separatorChar}${someProject.name}${File.separatorChar}${someProject.version}"     
+        File outDir = new File(offlineRepo, relativePath)
+        File sourceDir = new File(new File('../out/repo'), relativePath)
+        outDir.mkdirs()
+        copy {
+          from new File(sourceDir, file.name)
+          into outDir
+        }
+        copy {
+          from new File(sourceDir, file.name.replace(".jar", ".pom"))
+          into outDir
+        }
+      }
+    }
+}
+
+/**
+ * Identify all transitive dependencies from the passed project and copy each jar file into
+ * a maven style repository located at outDir.
+ */
+task copyProjectDependencies(dependsOn: 'prepareOfflineRepo') << {
+    def conf = findProject(':base:gradle').configurations.runtime
+    def depFiles = conf.incoming.files
+    // select transitive dependencies, from this configuration and all referenced subprojects.
+    def componentIds = conf.incoming.resolutionResult.allDependencies.findAll {
+        it.selected.id instanceof ModuleComponentIdentifier
+    }
+    // remove duplicates.
+    componentIds = componentIds.unique { dep1, dep2 ->
+      dep1.selected.id.displayName <=> dep2.selected.id.displayName
+    }
+
+    // for each unique dependecy, find the jar file from the cache and copy it into our .m2 repo
+    componentIds.each { dep ->
+      // find the cached file.
+      def jarFileName = "${dep.selected.id.module}-${dep.selected.id.version}.jar"
+      def cachedFile = depFiles.find { file ->
+          file.name == jarFileName
+      }
+      if (cachedFile != null) {
+          File f = new File(offlineRepo,
+            "${dep.selected.id.group.replace('.' as char, File.separatorChar)}${File.separatorChar}${dep.selected.id.module}${File.separatorChar}${dep.selected.id.version}")
+          f.mkdirs()
+          copy {
+              from cachedFile.path
+              into f
+          }
+      }
+    }
+}
+
+task makeOfflineRepo(dependsOn: 'publishLocal') {
+  outputs.dir offlineRepo
+}
+copyProjectDependencies.mustRunAfter 'publishLocal'
+makeOfflineRepo.dependsOn copyProjectDependencies
+copySubProjectsArtifacts.mustRunAfter 'publishLocal'
+makeOfflineRepo.dependsOn copySubProjectsArtifacts
+
+/**
+ * Zip the maven style repository into a zip file.
+ */
+task zipOfflineRepo(type: Zip, dependsOn: 'makeOfflineRepo') {
+  inputs.files makeOfflineRepo.outputs.files
+  File outputFile = new File('build', 'offline_repo.zip')
+  outputs.file outputFile
+  from makeOfflineRepo.outputs.files
+  archiveName outputFile.name
+  destinationDir outputFile.parentFile
+}
+
+task clean << {
+  delete 'build'
+}
+
+// The hierarchy viewer tests require loading SWT jar files.
+// That fails with the error saying "can't load 32 bit library on 64 bit JVM
+// Disable these tests from running until that is fixed
+tasks.findByPath(':swt:hierarchyviewer2lib:test').enabled = false

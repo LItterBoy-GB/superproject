@@ -1,0 +1,116 @@
+[submodule "platform/external/ant-glob"]
+	branch = main
+	path = external/ant-glob
+	url = ../external/ant-glob
+[submodule "platform/external/eclipse-windowbuilder"]
+	branch = main
+	path = external/eclipse-windowbuilder
+	url = ../external/eclipse-windowbuilder
+[submodule "platform/external/emma"]
+	branch = main
+	path = external/emma
+	url = ../external/emma
+[submodule "platform/external/gtest"]
+	branch = main
+	path = external/gtest
+	url = ../external/gtest
+[submodule "platform/external/qemu"]
+	branch = idea133
+	path = external/qemu
+	url = ../external/qemu
+[submodule "platform/prebuilts/android-emulator"]
+	branch = idea133
+	path = prebuilts/android-emulator
+	url = ../prebuilts/android-emulator
+[submodule "platform/prebuilts/eclipse"]
+	branch = main
+	path = prebuilts/eclipse
+	url = ../prebuilts/eclipse
+[submodule "platform/prebuilts/eclipse-build-deps"]
+	branch = main
+	path = prebuilts/eclipse-build-deps
+	url = ../prebuilts/eclipse-build-deps
+[submodule "platform/prebuilts/eclipse-build-deps-sources"]
+	branch = main
+	path = prebuilts/eclipse-build-deps-sources
+	url = ../prebuilts/eclipse-build-deps-sources
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6"]
+	branch = main
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
+	branch = main
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	branch = main
+	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+[submodule "platform/prebuilts/qemu-kernel"]
+	branch = main
+	path = prebuilts/qemu-kernel
+	url = ../prebuilts/qemu-kernel
+[submodule "platform/prebuilts/tools"]
+	branch = idea133
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "platform/sdk"]
+	branch = idea133
+	path = sdk
+	url = ../sdk
+[submodule "platform/tools/adt/eclipse"]
+	branch = idea133
+	path = tools/adt/eclipse
+	url = ../tools/adt/eclipse
+[submodule "platform/tools/adt/idea"]
+	branch = idea133
+	path = tools/adt/idea
+	url = ../tools/adt/idea
+[submodule "platform/tools/base"]
+	branch = idea133
+	path = tools/base
+	url = ../tools/base
+[submodule "platform/tools/buildSrc"]
+	branch = idea133
+	path = tools/buildSrc
+	url = ../tools/buildSrc
+[submodule "platform/tools/emulator"]
+	branch = idea133
+	path = tools/emulator
+	url = ../tools/emulator
+[submodule "platform/tools/external/fat32lib"]
+	branch = idea133
+	path = tools/external/fat32lib
+	url = ../tools/external/fat32lib
+[submodule "platform/tools/external/gradle"]
+	branch = main
+	path = tools/external/gradle
+	url = ../tools/external/gradle
+[submodule "platform/tools/gradle"]
+	branch = idea133
+	path = tools/gradle
+	url = ../tools/gradle
+[submodule "platform/tools/idea"]
+	branch = idea133
+	path = tools/idea
+	url = ../tools/idea
+[submodule "platform/tools/studio/google/cloud/testing"]
+	branch = idea133
+	path = tools/studio/google/cloud/testing
+	url = ../tools/studio/google/cloud/testing
+[submodule "platform/tools/studio/google/cloud/tools"]
+	branch = idea133
+	path = tools/studio/google/cloud/tools
+	url = ../tools/studio/google/cloud/tools
+[submodule "platform/tools/studio/google/login"]
+	branch = idea133
+	path = tools/studio/google/login
+	url = ../tools/studio/google/login
+[submodule "platform/tools/studio/google/play"]
+	branch = idea133
+	path = tools/studio/google/play
+	url = ../tools/studio/google/play
+[submodule "platform/tools/swt"]
+	branch = idea133
+	path = tools/swt
+	url = ../tools/swt
