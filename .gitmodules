@@ -1,5 +1,5 @@
 [submodule "platform/external/jetbrains/JetBrainsRuntime/external/jetbrains/JetBrainsRuntime"]
-	branch = master
+	branch = main
 	path = external/jetbrains/JetBrainsRuntime
 	url = ../external/jetbrains/JetBrainsRuntime
 [submodule "platform/external/jetbrains/JetBrainsRuntime/external/jetbrains/JetBrainsRuntime17"]
@@ -7,39 +7,39 @@
 	path = external/jetbrains/JetBrainsRuntime17
 	url = ../external/jetbrains/JetBrainsRuntime
 [submodule "platform/external/jetbrains/jdk8u"]
-	branch = master
+	branch = main
 	path = external/jetbrains/jdk8u
 	url = ../external/jetbrains/jdk8u
 [submodule "platform/external/jetbrains/jdk8u_corba"]
-	branch = master
+	branch = main
 	path = external/jetbrains/jdk8u_corba
 	url = ../external/jetbrains/jdk8u_corba
 [submodule "platform/external/jetbrains/jdk8u_hotspot"]
-	branch = master
+	branch = main
 	path = external/jetbrains/jdk8u_hotspot
 	url = ../external/jetbrains/jdk8u_hotspot
 [submodule "platform/external/jetbrains/jdk8u_jaxp"]
-	branch = master
+	branch = main
 	path = external/jetbrains/jdk8u_jaxp
 	url = ../external/jetbrains/jdk8u_jaxp
 [submodule "platform/external/jetbrains/jdk8u_jaxws"]
-	branch = master
+	branch = main
 	path = external/jetbrains/jdk8u_jaxws
 	url = ../external/jetbrains/jdk8u_jaxws
 [submodule "platform/external/jetbrains/jdk8u_jdk"]
-	branch = master
+	branch = main
 	path = external/jetbrains/jdk8u_jdk
 	url = ../external/jetbrains/jdk8u_jdk
 [submodule "platform/external/jetbrains/jdk8u_langtools"]
-	branch = master
+	branch = main
 	path = external/jetbrains/jdk8u_langtools
 	url = ../external/jetbrains/jdk8u_langtools
 [submodule "platform/external/jetbrains/jdk8u_nashorn"]
-	branch = master
+	branch = main
 	path = external/jetbrains/jdk8u_nashorn
 	url = ../external/jetbrains/jdk8u_nashorn
 [submodule "platform/prebuilts/build-tools"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
@@ -53,67 +53,67 @@
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 [submodule "platform/prebuilts/jdk/jdk11"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk11
 	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/jdk/jdk17"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk17
 	url = ../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk8"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
 [submodule "platform/prebuilts/jdk/jdk9"]
-	branch = master
+	branch = main
 	shallow = true
 	path = prebuilts/jdk/jdk9
 	url = ../prebuilts/jdk/jdk9
 [submodule "toolchain/jdk/build"]
-	branch = master
+	branch = main
 	shallow = true
 	path = toolchain/jdk/build
 	url = ../../toolchain/jdk/build
 [submodule "toolchain/jdk/jdk11"]
-	branch = master
+	branch = main
 	path = toolchain/jdk/jdk11
 	url = ../../toolchain/jdk/jdk11
 [submodule "toolchain/jdk/jdk17"]
-	branch = master
+	branch = main
 	path = toolchain/jdk/jdk17
 	url = ../../toolchain/jdk/jdk17
 [submodule "toolchain/jdk/jdk9"]
-	branch = master
+	branch = main
 	path = toolchain/jdk/jdk9
 	url = ../../toolchain/jdk/jdk9
 [submodule "toolchain/jdk/jdk9_corba"]
-	branch = master
+	branch = main
 	path = toolchain/jdk/jdk9_corba
 	url = ../../toolchain/jdk/jdk9_corba
 [submodule "toolchain/jdk/jdk9_hotspot"]
-	branch = master
+	branch = main
 	path = toolchain/jdk/jdk9_hotspot
 	url = ../../toolchain/jdk/jdk9_hotspot
 [submodule "toolchain/jdk/jdk9_jaxp"]
-	branch = master
+	branch = main
 	path = toolchain/jdk/jdk9_jaxp
 	url = ../../toolchain/jdk/jdk9_jaxp
 [submodule "toolchain/jdk/jdk9_jaxws"]
-	branch = master
+	branch = main
 	path = toolchain/jdk/jdk9_jaxws
 	url = ../../toolchain/jdk/jdk9_jaxws
 [submodule "toolchain/jdk/jdk9_jdk"]
-	branch = master
+	branch = main
 	path = toolchain/jdk/jdk9_jdk
 	url = ../../toolchain/jdk/jdk9_jdk
 [submodule "toolchain/jdk/jdk9_langtools"]
-	branch = master
+	branch = main
 	path = toolchain/jdk/jdk9_langtools
 	url = ../../toolchain/jdk/jdk9_langtools
 [submodule "toolchain/jdk/jdk9_nashorn"]
-	branch = master
+	branch = main
 	path = toolchain/jdk/jdk9_nashorn
 	url = ../../toolchain/jdk/jdk9_nashorn
