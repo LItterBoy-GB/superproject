@@ -1,0 +1,73 @@
+/external/ant-glob
+/external/clang notdefault lldb
+/external/eclipse-windowbuilder
+/external/emma
+/external/gmock gpu
+/external/gtest gpu
+/external/iosched
+/external/lldb notdefault lldb
+/external/lldb-utils notdefault lldb
+/external/llvm notdefault lldb
+/external/protobuf
+/external/qemu
+/external/qemu-android
+/frameworks/native
+/prebuilts/android-emulator
+/prebuilts/android-emulator-build/archive
+/prebuilts/android-emulator-build/mesa
+/prebuilts/android-emulator-build/mesa-deps
+/prebuilts/android-emulator-build/qemu-android-deps
+/prebuilts/clang/darwin-x86/host/3.5 gpu
+/prebuilts/clang/darwin-x86/host/3.6 darwin notdefault lldb
+/prebuilts/clang/darwin-x86/sdk/3.5
+/prebuilts/clang/linux-x86/host/3.6 linux notdefault lldb
+/prebuilts/cmake/darwin-x86 darwin notdefault lldb
+/prebuilts/cmake/linux-x86 linux notdefault lldb
+/prebuilts/cmake/windows-x86 notdefault lldb windows
+/prebuilts/eclipse
+/prebuilts/eclipse-build-deps
+/prebuilts/eclipse-build-deps-sources
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8 gpu
+/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 gpu
+/prebuilts/go/darwin-x86 gpu
+/prebuilts/go/linux-x86 gpu
+/prebuilts/go/windows-x86 gpu
+/prebuilts/libedit/darwin-x86 darwin notdefault lldb
+/prebuilts/libedit/linux-x86 linux notdefault lldb
+/prebuilts/libglog/darwin-x86 darwin notdefault lldb
+/prebuilts/libglog/linux-x86 linux notdefault lldb
+/prebuilts/libglog/windows-x86 notdefault lldb windows
+/prebuilts/ninja/darwin-x86 darwin notdefault lldb
+/prebuilts/ninja/linux-x86 linux notdefault lldb
+/prebuilts/ninja/windows-x86 notdefault lldb windows
+/prebuilts/python/darwin-x86 darwin notdefault lldb
+/prebuilts/python/linux-x86 linux notdefault lldb
+/prebuilts/python/windows-x86 notdefault lldb windows
+/prebuilts/qemu-kernel
+/prebuilts/swig/darwin-x86 darwin notdefault lldb
+/prebuilts/swig/linux-x86 linux notdefault lldb
+/prebuilts/swig/windows-x86 notdefault lldb windows
+/prebuilts/tools
+/sdk
+/tools/adt/eclipse
+/tools/adt/idea
+/tools/base
+/tools/buildSrc
+/tools/emulator
+/tools/external/fat32lib
+/tools/gpu/src/github.com/go-gl-legacy/gl gpu
+/tools/gpu/src/github.com/go-gl/glfw gpu
+/tools/gpu/src/github.com/golang/protobuf gpu
+/tools/gpu/src/golang.org/x/net gpu
+/tools/gpu/src/golang.org/x/tools gpu
+/tools/external/gradle
+/tools/gpu/src/android.googlesource.com/platform/tools/gpu gpu
+/tools/gradle
+/tools/idea
+/tools/studio/google/cloud/testing
+/tools/studio/google/cloud/tools
+/tools/studio/google/login
+/tools/studio/google/play
+/tools/studio/google/services
+/tools/swt
