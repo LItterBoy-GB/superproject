@@ -5213,6 +5213,14 @@
 	branch = main
 	path = toolchain/benchmark
 	url = ../../toolchain/benchmark
+[submodule "toolchain/cargo-deny"]
+	branch = main
+	path = toolchain/cargo-deny
+	url = ../../toolchain/cargo-deny
+[submodule "toolchain/cargo-vet"]
+	branch = main
+	path = toolchain/cargo-vet
+	url = ../../toolchain/cargo-vet
 [submodule "toolchain/common"]
 	branch = main
 	path = toolchain/common
