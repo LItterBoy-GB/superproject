@@ -163,6 +163,9 @@
 [submodule "platform/external/rust/crates/fastrand"]
 	path = external/rust/crates/fastrand
 	url = ../external/rust/crates/fastrand
+[submodule "platform/external/rust/crates/fnv"]
+	path = external/rust/crates/fnv
+	url = ../external/rust/crates/fnv
 [submodule "platform/external/rust/crates/futures-core"]
 	path = external/rust/crates/futures-core
 	url = ../external/rust/crates/futures-core
@@ -187,6 +190,12 @@
 [submodule "platform/external/rust/crates/hex"]
 	path = external/rust/crates/hex
 	url = ../external/rust/crates/hex
+[submodule "platform/external/rust/crates/http"]
+	path = external/rust/crates/http
+	url = ../external/rust/crates/http
+[submodule "platform/external/rust/crates/httparse"]
+	path = external/rust/crates/httparse
+	url = ../external/rust/crates/httparse
 [submodule "platform/external/rust/crates/indexmap"]
 	path = external/rust/crates/indexmap
 	url = ../external/rust/crates/indexmap
