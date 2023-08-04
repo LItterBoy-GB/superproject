@@ -460,6 +460,9 @@
 [submodule "platform/external/bazelbuild-rules_android"]
 	path = external/bazelbuild-rules_android
 	url = ../external/bazelbuild-rules_android
+[submodule "platform/external/bazelbuild-rules_cc"]
+	path = external/bazelbuild-rules_cc
+	url = ../external/bazelbuild-rules_cc
 [submodule "platform/external/bazelbuild-rules_go"]
 	path = external/bazelbuild-rules_go
 	url = ../external/bazelbuild-rules_go
@@ -469,6 +472,9 @@
 [submodule "platform/external/bazelbuild-rules_license"]
 	path = external/bazelbuild-rules_license
 	url = ../external/bazelbuild-rules_license
+[submodule "platform/external/bazelbuild-rules_python"]
+	path = external/bazelbuild-rules_python
+	url = ../external/bazelbuild-rules_python
 [submodule "platform/external/bazelbuild-rules_rust"]
 	path = external/bazelbuild-rules_rust
 	url = ../external/bazelbuild-rules_rust
@@ -700,9 +706,6 @@
 [submodule "platform/external/gflags"]
 	path = external/gflags
 	url = ../external/gflags
-[submodule "platform/external/gfxstream-protocols"]
-	path = external/gfxstream-protocols
-	url = ../external/gfxstream-protocols
 [submodule "platform/external/giflib"]
 	path = external/giflib
 	url = ../external/giflib
@@ -1561,6 +1564,12 @@
 [submodule "platform/external/rust/crates/buddy_system_allocator"]
 	path = external/rust/crates/buddy_system_allocator
 	url = ../external/rust/crates/buddy_system_allocator
+[submodule "platform/external/rust/crates/bytemuck"]
+	path = external/rust/crates/bytemuck
+	url = ../external/rust/crates/bytemuck
+[submodule "platform/external/rust/crates/bytemuck_derive"]
+	path = external/rust/crates/bytemuck_derive
+	url = ../external/rust/crates/bytemuck_derive
 [submodule "platform/external/rust/crates/byteorder"]
 	path = external/rust/crates/byteorder
 	url = ../external/rust/crates/byteorder
@@ -1759,6 +1768,9 @@
 [submodule "platform/external/rust/crates/glob"]
 	path = external/rust/crates/glob
 	url = ../external/rust/crates/glob
+[submodule "platform/external/rust/crates/googletest"]
+	path = external/rust/crates/googletest
+	url = ../external/rust/crates/googletest
 [submodule "platform/external/rust/crates/grpcio"]
 	path = external/rust/crates/grpcio
 	url = ../external/rust/crates/grpcio
@@ -2734,6 +2746,9 @@
 [submodule "platform/hardware/libhardware_legacy"]
 	path = hardware/libhardware_legacy
 	url = ../hardware/libhardware_legacy
+[submodule "platform/hardware/nxp/keymint"]
+	path = hardware/nxp/keymint
+	url = ../hardware/nxp/keymint
 [submodule "platform/hardware/nxp/nfc"]
 	path = hardware/nxp/nfc
 	url = ../hardware/nxp/nfc
@@ -2743,6 +2758,9 @@
 [submodule "platform/hardware/nxp/uwb"]
 	path = hardware/nxp/uwb
 	url = ../hardware/nxp/uwb
+[submodule "platform/hardware/nxp/weaver"]
+	path = hardware/nxp/weaver
+	url = ../hardware/nxp/weaver
 [submodule "platform/hardware/qcom/audio"]
 	path = hardware/qcom/audio
 	url = ../hardware/qcom/audio
@@ -3463,6 +3481,9 @@
 [submodule "platform/system/apex"]
 	path = system/apex
 	url = ../system/apex
+[submodule "platform/system/authgraph"]
+	path = system/authgraph
+	url = ../system/authgraph
 [submodule "platform/system/bpf"]
 	path = system/bpf
 	url = ../system/bpf
