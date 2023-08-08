@@ -158,30 +158,10 @@
 	branch = main
 	path = tools/repohooks
 	url = ../tools/repohooks
-[submodule "toolchain/prebuilts/ndk/r13"]
-	branch = main
-	path = prebuilts/ndk/r13
-	url = ../../toolchain/prebuilts/ndk/r13
-[submodule "toolchain/prebuilts/ndk/r14"]
-	branch = main
-	path = prebuilts/ndk/r14
-	url = ../../toolchain/prebuilts/ndk/r14
-[submodule "toolchain/prebuilts/ndk/r15"]
-	branch = main
-	path = prebuilts/ndk/r15
-	url = ../../toolchain/prebuilts/ndk/r15
-[submodule "toolchain/prebuilts/ndk/r16"]
-	branch = main
-	path = prebuilts/ndk/r16
-	url = ../../toolchain/prebuilts/ndk/r16
 [submodule "toolchain/prebuilts/ndk/r17"]
 	branch = main
 	path = prebuilts/ndk/r17
 	url = ../../toolchain/prebuilts/ndk/r17
-[submodule "toolchain/prebuilts/ndk/r18"]
-	branch = main
-	path = prebuilts/ndk/r18
-	url = ../../toolchain/prebuilts/ndk/r18
 [submodule "toolchain/prebuilts/ndk/r19"]
 	branch = main
 	path = prebuilts/ndk/r19
