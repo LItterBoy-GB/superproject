@@ -48,6 +48,7 @@
 /external/jsoncpp
 /external/jsr305
 /external/kotlinc
+/external/kotlinx.metadata
 /external/ktfmt
 /external/kythe
 /external/libcap

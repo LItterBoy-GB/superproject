@@ -148,6 +148,9 @@
 [submodule "platform/external/kotlinc"]
 	path = external/kotlinc
 	url = ../external/kotlinc
+[submodule "platform/external/kotlinx.metadata"]
+	path = external/kotlinx.metadata
+	url = ../external/kotlinx.metadata
 [submodule "platform/external/ktfmt"]
 	path = external/ktfmt
 	url = ../external/ktfmt
