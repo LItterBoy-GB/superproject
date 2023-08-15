@@ -1,6 +1,3 @@
-[submodule "kernel/prebuilts/build-tools"]
-	path = prebuilts/fullsdk-linux/kernel-build-tools
-	url = ../../kernel/prebuilts/build-tools
 [submodule "platform/build"]
 	path = build/make
 	url = ../build
