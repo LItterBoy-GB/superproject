@@ -1,0 +1,180 @@
+/device/generic/goldfish-opengl
+/device/generic/vulkan-cereal
+/device/google/cuttlefish
+/build/make
+/build/bazel
+/external/adt-infra
+/external/angle
+/external/astc-codec
+/external/bison platform-linux notdefault
+/external/boringssl
+/external/cares
+/external/curl
+/external/deqp
+/external/flatbuffers
+/external/flex platform-linux notdefault platform-darwin
+/external/fmtlib
+/external/gfxstream-protocols
+/external/google-benchmark
+/external/google-breakpad
+/external/googletest
+/external/grpc
+/external/libpng
+/external/libusb
+/external/lz4
+/external/nasm
+/external/perfetto
+/external/protobuf
+/external/qemu
+/external/rapidjson
+/external/rust/crates/aho-corasick
+/external/rust/crates/anyhow
+/external/rust/crates/argh
+/external/rust/crates/argh_derive
+/external/rust/crates/argh_shared
+/external/rust/crates/atty
+/external/rust/crates/bindgen
+/external/rust/crates/bitflags
+/external/rust/crates/byteorder
+/external/rust/crates/bytes
+/external/rust/crates/cexpr
+/external/rust/crates/cfg-if
+/external/rust/crates/chrono
+/external/rust/crates/clang-sys
+/external/rust/crates/clap
+/external/rust/crates/clap_derive
+/external/rust/crates/clap_lex
+/external/rust/crates/codespan-reporting
+/external/rust/crates/crossbeam-channel
+/external/rust/crates/crossbeam-deque
+/external/rust/crates/crossbeam-epoch
+/external/rust/crates/crossbeam-utils
+/external/rust/crates/data-encoding
+/external/rust/crates/either
+/external/rust/crates/env_logger
+/external/rust/crates/fastrand
+/external/rust/crates/fnv
+/external/rust/crates/futures-core
+/external/rust/crates/futures-sink
+/external/rust/crates/getrandom
+/external/rust/crates/glam
+/external/rust/crates/glob
+/external/rust/crates/hashbrown
+/external/rust/crates/heck
+/external/rust/crates/hex
+/external/rust/crates/http
+/external/rust/crates/httparse
+/external/rust/crates/indexmap
+/external/rust/crates/instant
+/external/rust/crates/itoa
+/external/rust/crates/lazy_static
+/external/rust/crates/lazycell
+/external/rust/crates/libc
+/external/rust/crates/libloading
+/external/rust/crates/log
+/external/rust/crates/memchr
+/external/rust/crates/memoffset
+/external/rust/crates/minimal-lexical
+/external/rust/crates/mio
+/external/rust/crates/nom
+/external/rust/crates/num-bigint
+/external/rust/crates/num-derive
+/external/rust/crates/num-integer
+/external/rust/crates/num-traits
+/external/rust/crates/num_cpus
+/external/rust/crates/once_cell
+/external/rust/crates/os_str_bytes
+/external/rust/crates/paste
+/external/rust/crates/pdl-compiler
+/external/rust/crates/peeking_take_while
+/external/rust/crates/pest
+/external/rust/crates/pest_derive
+/external/rust/crates/pest_generator
+/external/rust/crates/pest_meta
+/external/rust/crates/pin-project-lite
+/external/rust/crates/pin-utils
+/external/rust/crates/ppv-lite86
+/external/rust/crates/prettyplease
+/external/rust/crates/proc-macro-error
+/external/rust/crates/proc-macro-error-attr
+/external/rust/crates/proc-macro2
+/external/rust/crates/protobuf
+/external/rust/crates/protobuf-codegen
+/external/rust/crates/protobuf-json-mapping
+/external/rust/crates/protobuf-parse
+/external/rust/crates/protobuf-support
+/external/rust/crates/quote
+/external/rust/crates/rand
+/external/rust/crates/rand_chacha
+/external/rust/crates/rand_core
+/external/rust/crates/rayon
+/external/rust/crates/rayon-core
+/external/rust/crates/regex
+/external/rust/crates/regex-syntax
+/external/rust/crates/rustc-hash
+/external/rust/crates/ryu
+/external/rust/crates/same-file
+/external/rust/crates/scopeguard
+/external/rust/crates/serde
+/external/rust/crates/serde_derive
+/external/rust/crates/serde_json
+/external/rust/crates/shlex
+/external/rust/crates/socket2
+/external/rust/crates/syn
+/external/rust/crates/tempfile
+/external/rust/crates/termcolor
+/external/rust/crates/textwrap
+/external/rust/crates/thiserror
+/external/rust/crates/thiserror-impl
+/external/rust/crates/tokio
+/external/rust/crates/tokio-macros
+/external/rust/crates/tokio-stream
+/external/rust/crates/tokio-util
+/external/rust/crates/tungstenite
+/external/rust/crates/ucd-trie
+/external/rust/crates/unicode-ident
+/external/rust/crates/unicode-width
+/external/rust/crates/utf-8
+/external/rust/crates/walkdir
+/external/rust/crates/which
+/external/rust/crates/cxx
+/external/rust/crates/pica
+/external/tink
+/external/tinyobjloader
+/external/virglrenderer
+/external/webrtc
+/external/wpa_supplicant_8
+/external/zlib
+/frameworks/native
+/hardware/google/aemu pdk
+/hardware/google/gfxstream pdk
+/packages/modules/Bluetooth pdk
+/prebuilts/android-emulator
+/prebuilts/android-emulator-build/archive
+/prebuilts/android-emulator-build/common
+/prebuilts/android-emulator-build/mesa
+/prebuilts/android-emulator-build/mesa-deps
+/prebuilts/android-emulator-build/qemu-android-deps
+/prebuilts/android-emulator-build/qt
+/prebuilts/android-emulator-build/system-images
+/prebuilts/bazel/darwin-x86_64 notdefault platform-darwin
+/prebuilts/bazel/linux-x86_64 platform-linux notdefault
+/prebuilts/bazel/windows-x86_64 notdefault platform-windows
+/prebuilts/clang/host/darwin-x86 notdefault platform-darwin
+/prebuilts/clang/host/linux-x86 platform-linux notdefault
+/prebuilts/clang/host/windows-x86 notdefault platform-windows
+/prebuilts/cmake/darwin-x86 notdefault platform-darwin
+/prebuilts/cmake/linux-x86 platform-linux notdefault
+/prebuilts/cmake/windows-x86 notdefault platform-windows
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 platform-linux notdefault
+/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 notdefault platform-windows
+/prebuilts/ninja/darwin-x86 notdefault platform-darwin
+/prebuilts/ninja/linux-x86 platform-linux notdefault
+/prebuilts/python/darwin-x86 notdefault platform-darwin
+/prebuilts/python/linux-x86 platform-linux notdefault
+/prebuilts/python/windows-x86 notdefault platform-windows
+/prebuilts/rust
+/tools/buildSrc
+/tools/netsim
+/external/m4 platform-linux notdefault platform-darwin
+/external/libslirp
