@@ -722,8 +722,6 @@
 	path = prebuilts/python/windows-x86
 	url = ../prebuilts/python/windows-x86
 [submodule "platform/prebuilts/rust"]
-	branch = main
-	shallow = true
 	path = prebuilts/rust
 	url = ../prebuilts/rust
 [submodule "platform/tools/buildSrc"]
