@@ -34,6 +34,10 @@
 	branch = main
 	path = external/bison
 	url = ../external/bison
+[submodule "platform/external/bluetooth/glib"]
+	branch = emu-master-dev
+	path = external/glib
+	url = ../external/bluetooth/glib
 [submodule "platform/external/boringssl"]
 	branch = main
 	shallow = true
