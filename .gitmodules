@@ -1,13 +1,13 @@
 [submodule "device/generic/goldfish-opengl"]
-	branch = main
+	branch = emu-33-dev
 	path = device/generic/goldfish-opengl
 	url = ../../device/generic/goldfish-opengl
 [submodule "device/generic/vulkan-cereal"]
-	branch = main
+	branch = emu-33-dev
 	path = device/generic/vulkan-cereal
 	url = ../../device/generic/vulkan-cereal
 [submodule "device/google/cuttlefish"]
-	branch = main
+	branch = emu-33-dev
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
 [submodule "platform/build"]
@@ -27,15 +27,15 @@
 	path = external/angle
 	url = ../external/angle
 [submodule "platform/external/astc-codec"]
-	branch = main
+	branch = emu-33-dev
 	path = external/astc-codec
 	url = ../external/astc-codec
 [submodule "platform/external/bison"]
-	branch = main
+	branch = emu-33-dev
 	path = external/bison
 	url = ../external/bison
 [submodule "platform/external/boringssl"]
-	branch = main
+	branch = emu-33-dev
 	shallow = true
 	path = external/boringssl
 	url = ../external/boringssl
@@ -48,27 +48,27 @@
 	path = external/curl
 	url = ../external/curl
 [submodule "platform/external/deqp"]
-	branch = main
+	branch = emu-33-dev
 	path = external/deqp
 	url = ../external/deqp
 [submodule "platform/external/flatbuffers"]
-	branch = main
+	branch = emu-33-dev
 	path = external/flatbuffers
 	url = ../external/flatbuffers
 [submodule "platform/external/flex"]
-	branch = main
+	branch = emu-33-dev
 	path = external/flex
 	url = ../external/flex
 [submodule "platform/external/fmtlib"]
-	branch = main
+	branch = emu-33-dev
 	path = external/fmtlib
 	url = ../external/fmtlib
 [submodule "platform/external/gfxstream-protocols"]
-	branch = main
+	branch = emu-33-dev
 	path = external/gfxstream-protocols
 	url = ../external/gfxstream-protocols
 [submodule "platform/external/google-benchmark"]
-	branch = main
+	branch = emu-33-dev
 	path = external/google-benchmark
 	url = ../external/google-benchmark
 [submodule "platform/external/google-breakpad"]
@@ -76,7 +76,7 @@
 	path = external/google-breakpad
 	url = ../external/google-breakpad
 [submodule "platform/external/googletest"]
-	branch = main
+	branch = emu-33-dev
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/grpc-grpc"]
@@ -92,7 +92,7 @@
 	path = external/libusb
 	url = ../external/libusb
 [submodule "platform/external/lz4"]
-	branch = main
+	branch = emu-33-dev
 	path = external/lz4
 	url = ../external/lz4
 [submodule "platform/external/nasm"]
@@ -100,6 +100,7 @@
 	path = external/nasm
 	url = ../external/nasm
 [submodule "platform/external/perfetto"]
+	branch = emu-33-dev
 	path = external/perfetto
 	url = ../external/perfetto
 [submodule "platform/external/protobuf"]
@@ -111,455 +112,455 @@
 	path = external/qemu
 	url = ../external/qemu
 [submodule "platform/external/rapidjson"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rapidjson
 	url = ../external/rapidjson
 [submodule "platform/external/rust/crates/aho-corasick"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/aho-corasick
 	url = ../external/rust/crates/aho-corasick
 [submodule "platform/external/rust/crates/anyhow"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/anyhow
 	url = ../external/rust/crates/anyhow
 [submodule "platform/external/rust/crates/argh"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/argh
 	url = ../external/rust/crates/argh
 [submodule "platform/external/rust/crates/argh_derive"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/argh_derive
 	url = ../external/rust/crates/argh_derive
 [submodule "platform/external/rust/crates/argh_shared"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/argh_shared
 	url = ../external/rust/crates/argh_shared
 [submodule "platform/external/rust/crates/atty"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/atty
 	url = ../external/rust/crates/atty
 [submodule "platform/external/rust/crates/bindgen"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/bindgen
 	url = ../external/rust/crates/bindgen
 [submodule "platform/external/rust/crates/bitflags"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/bitflags
 	url = ../external/rust/crates/bitflags
 [submodule "platform/external/rust/crates/byteorder"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/byteorder
 	url = ../external/rust/crates/byteorder
 [submodule "platform/external/rust/crates/bytes"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/bytes
 	url = ../external/rust/crates/bytes
 [submodule "platform/external/rust/crates/cexpr"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/cexpr
 	url = ../external/rust/crates/cexpr
 [submodule "platform/external/rust/crates/cfg-if"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/cfg-if
 	url = ../external/rust/crates/cfg-if
 [submodule "platform/external/rust/crates/chrono"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/chrono
 	url = ../external/rust/crates/chrono
 [submodule "platform/external/rust/crates/clang-sys"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/clang-sys
 	url = ../external/rust/crates/clang-sys
 [submodule "platform/external/rust/crates/clap"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/clap
 	url = ../external/rust/crates/clap
 [submodule "platform/external/rust/crates/clap_derive"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/clap_derive
 	url = ../external/rust/crates/clap_derive
 [submodule "platform/external/rust/crates/clap_lex"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/clap_lex
 	url = ../external/rust/crates/clap_lex
 [submodule "platform/external/rust/crates/codespan-reporting"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/codespan-reporting
 	url = ../external/rust/crates/codespan-reporting
 [submodule "platform/external/rust/crates/crossbeam-channel"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/crossbeam-channel
 	url = ../external/rust/crates/crossbeam-channel
 [submodule "platform/external/rust/crates/crossbeam-deque"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/crossbeam-deque
 	url = ../external/rust/crates/crossbeam-deque
 [submodule "platform/external/rust/crates/crossbeam-epoch"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/crossbeam-epoch
 	url = ../external/rust/crates/crossbeam-epoch
 [submodule "platform/external/rust/crates/crossbeam-utils"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/crossbeam-utils
 	url = ../external/rust/crates/crossbeam-utils
 [submodule "platform/external/rust/crates/data-encoding"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/data-encoding
 	url = ../external/rust/crates/data-encoding
 [submodule "platform/external/rust/crates/either"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/either
 	url = ../external/rust/crates/either
 [submodule "platform/external/rust/crates/env_logger"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/env_logger
 	url = ../external/rust/crates/env_logger
 [submodule "platform/external/rust/crates/fastrand"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/fastrand
 	url = ../external/rust/crates/fastrand
 [submodule "platform/external/rust/crates/fnv"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/fnv
 	url = ../external/rust/crates/fnv
 [submodule "platform/external/rust/crates/futures-core"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/futures-core
 	url = ../external/rust/crates/futures-core
 [submodule "platform/external/rust/crates/futures-sink"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/futures-sink
 	url = ../external/rust/crates/futures-sink
 [submodule "platform/external/rust/crates/getrandom"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/getrandom
 	url = ../external/rust/crates/getrandom
 [submodule "platform/external/rust/crates/glam"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/glam
 	url = ../external/rust/crates/glam
 [submodule "platform/external/rust/crates/glob"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/glob
 	url = ../external/rust/crates/glob
 [submodule "platform/external/rust/crates/hashbrown"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/hashbrown
 	url = ../external/rust/crates/hashbrown
 [submodule "platform/external/rust/crates/heck"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/heck
 	url = ../external/rust/crates/heck
 [submodule "platform/external/rust/crates/hex"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/hex
 	url = ../external/rust/crates/hex
 [submodule "platform/external/rust/crates/http"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/http
 	url = ../external/rust/crates/http
 [submodule "platform/external/rust/crates/httparse"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/httparse
 	url = ../external/rust/crates/httparse
 [submodule "platform/external/rust/crates/indexmap"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/indexmap
 	url = ../external/rust/crates/indexmap
 [submodule "platform/external/rust/crates/instant"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/instant
 	url = ../external/rust/crates/instant
 [submodule "platform/external/rust/crates/itoa"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/itoa
 	url = ../external/rust/crates/itoa
 [submodule "platform/external/rust/crates/lazy_static"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/lazy_static
 	url = ../external/rust/crates/lazy_static
 [submodule "platform/external/rust/crates/lazycell"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/lazycell
 	url = ../external/rust/crates/lazycell
 [submodule "platform/external/rust/crates/libc"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/libc
 	url = ../external/rust/crates/libc
 [submodule "platform/external/rust/crates/libloading"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/libloading
 	url = ../external/rust/crates/libloading
 [submodule "platform/external/rust/crates/log"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/log
 	url = ../external/rust/crates/log
 [submodule "platform/external/rust/crates/memchr"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/memchr
 	url = ../external/rust/crates/memchr
 [submodule "platform/external/rust/crates/memoffset"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/memoffset
 	url = ../external/rust/crates/memoffset
 [submodule "platform/external/rust/crates/minimal-lexical"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/minimal-lexical
 	url = ../external/rust/crates/minimal-lexical
 [submodule "platform/external/rust/crates/mio"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/mio
 	url = ../external/rust/crates/mio
 [submodule "platform/external/rust/crates/nom"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/nom
 	url = ../external/rust/crates/nom
 [submodule "platform/external/rust/crates/num-bigint"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/num-bigint
 	url = ../external/rust/crates/num-bigint
 [submodule "platform/external/rust/crates/num-derive"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/num-derive
 	url = ../external/rust/crates/num-derive
 [submodule "platform/external/rust/crates/num-integer"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/num-integer
 	url = ../external/rust/crates/num-integer
 [submodule "platform/external/rust/crates/num-traits"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/num-traits
 	url = ../external/rust/crates/num-traits
 [submodule "platform/external/rust/crates/num_cpus"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/num_cpus
 	url = ../external/rust/crates/num_cpus
 [submodule "platform/external/rust/crates/once_cell"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/once_cell
 	url = ../external/rust/crates/once_cell
 [submodule "platform/external/rust/crates/os_str_bytes"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/os_str_bytes
 	url = ../external/rust/crates/os_str_bytes
 [submodule "platform/external/rust/crates/paste"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/paste
 	url = ../external/rust/crates/paste
 [submodule "platform/external/rust/crates/pdl-compiler"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/pdl-compiler
 	url = ../external/rust/crates/pdl-compiler
 [submodule "platform/external/rust/crates/peeking_take_while"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/peeking_take_while
 	url = ../external/rust/crates/peeking_take_while
 [submodule "platform/external/rust/crates/pest"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/pest
 	url = ../external/rust/crates/pest
 [submodule "platform/external/rust/crates/pest_derive"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/pest_derive
 	url = ../external/rust/crates/pest_derive
 [submodule "platform/external/rust/crates/pest_generator"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/pest_generator
 	url = ../external/rust/crates/pest_generator
 [submodule "platform/external/rust/crates/pest_meta"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/pest_meta
 	url = ../external/rust/crates/pest_meta
 [submodule "platform/external/rust/crates/pin-project-lite"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/pin-project-lite
 	url = ../external/rust/crates/pin-project-lite
 [submodule "platform/external/rust/crates/pin-utils"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/pin-utils
 	url = ../external/rust/crates/pin-utils
 [submodule "platform/external/rust/crates/ppv-lite86"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/ppv-lite86
 	url = ../external/rust/crates/ppv-lite86
 [submodule "platform/external/rust/crates/prettyplease"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/prettyplease
 	url = ../external/rust/crates/prettyplease
 [submodule "platform/external/rust/crates/proc-macro-error"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/proc-macro-error
 	url = ../external/rust/crates/proc-macro-error
 [submodule "platform/external/rust/crates/proc-macro-error-attr"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/proc-macro-error-attr
 	url = ../external/rust/crates/proc-macro-error-attr
 [submodule "platform/external/rust/crates/proc-macro2"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/proc-macro2
 	url = ../external/rust/crates/proc-macro2
 [submodule "platform/external/rust/crates/protobuf"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/protobuf
 	url = ../external/rust/crates/protobuf
 [submodule "platform/external/rust/crates/protobuf-codegen"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/protobuf-codegen
 	url = ../external/rust/crates/protobuf-codegen
 [submodule "platform/external/rust/crates/protobuf-json-mapping"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/protobuf-json-mapping
 	url = ../external/rust/crates/protobuf-json-mapping
 [submodule "platform/external/rust/crates/protobuf-parse"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/protobuf-parse
 	url = ../external/rust/crates/protobuf-parse
 [submodule "platform/external/rust/crates/protobuf-support"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/protobuf-support
 	url = ../external/rust/crates/protobuf-support
 [submodule "platform/external/rust/crates/quote"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/quote
 	url = ../external/rust/crates/quote
 [submodule "platform/external/rust/crates/rand"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/rand
 	url = ../external/rust/crates/rand
 [submodule "platform/external/rust/crates/rand_chacha"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/rand_chacha
 	url = ../external/rust/crates/rand_chacha
 [submodule "platform/external/rust/crates/rand_core"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/rand_core
 	url = ../external/rust/crates/rand_core
 [submodule "platform/external/rust/crates/rayon"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/rayon
 	url = ../external/rust/crates/rayon
 [submodule "platform/external/rust/crates/rayon-core"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/rayon-core
 	url = ../external/rust/crates/rayon-core
 [submodule "platform/external/rust/crates/regex"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/regex
 	url = ../external/rust/crates/regex
 [submodule "platform/external/rust/crates/regex-syntax"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/regex-syntax
 	url = ../external/rust/crates/regex-syntax
 [submodule "platform/external/rust/crates/rustc-hash"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/rustc-hash
 	url = ../external/rust/crates/rustc-hash
 [submodule "platform/external/rust/crates/ryu"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/ryu
 	url = ../external/rust/crates/ryu
 [submodule "platform/external/rust/crates/same-file"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/same-file
 	url = ../external/rust/crates/same-file
 [submodule "platform/external/rust/crates/scopeguard"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/scopeguard
 	url = ../external/rust/crates/scopeguard
 [submodule "platform/external/rust/crates/serde"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/serde
 	url = ../external/rust/crates/serde
 [submodule "platform/external/rust/crates/serde_derive"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/serde_derive
 	url = ../external/rust/crates/serde_derive
 [submodule "platform/external/rust/crates/serde_json"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/serde_json
 	url = ../external/rust/crates/serde_json
 [submodule "platform/external/rust/crates/shlex"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/shlex
 	url = ../external/rust/crates/shlex
 [submodule "platform/external/rust/crates/socket2"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/socket2
 	url = ../external/rust/crates/socket2
 [submodule "platform/external/rust/crates/syn"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/syn
 	url = ../external/rust/crates/syn
 [submodule "platform/external/rust/crates/tempfile"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/tempfile
 	url = ../external/rust/crates/tempfile
 [submodule "platform/external/rust/crates/termcolor"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/termcolor
 	url = ../external/rust/crates/termcolor
 [submodule "platform/external/rust/crates/textwrap"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/textwrap
 	url = ../external/rust/crates/textwrap
 [submodule "platform/external/rust/crates/thiserror"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/thiserror
 	url = ../external/rust/crates/thiserror
 [submodule "platform/external/rust/crates/thiserror-impl"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/thiserror-impl
 	url = ../external/rust/crates/thiserror-impl
 [submodule "platform/external/rust/crates/tokio"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/tokio
 	url = ../external/rust/crates/tokio
 [submodule "platform/external/rust/crates/tokio-macros"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/tokio-macros
 	url = ../external/rust/crates/tokio-macros
 [submodule "platform/external/rust/crates/tokio-stream"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/tokio-stream
 	url = ../external/rust/crates/tokio-stream
 [submodule "platform/external/rust/crates/tokio-util"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/tokio-util
 	url = ../external/rust/crates/tokio-util
 [submodule "platform/external/rust/crates/tungstenite"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/tungstenite
 	url = ../external/rust/crates/tungstenite
 [submodule "platform/external/rust/crates/ucd-trie"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/ucd-trie
 	url = ../external/rust/crates/ucd-trie
 [submodule "platform/external/rust/crates/unicode-ident"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/unicode-ident
 	url = ../external/rust/crates/unicode-ident
 [submodule "platform/external/rust/crates/unicode-width"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/unicode-width
 	url = ../external/rust/crates/unicode-width
 [submodule "platform/external/rust/crates/utf-8"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/utf-8
 	url = ../external/rust/crates/utf-8
 [submodule "platform/external/rust/crates/walkdir"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/walkdir
 	url = ../external/rust/crates/walkdir
 [submodule "platform/external/rust/crates/which"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/which
 	url = ../external/rust/crates/which
 [submodule "platform/external/rust/cxx"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/cxx
 	url = ../external/rust/cxx
 [submodule "platform/external/rust/pica"]
-	branch = main
+	branch = emu-33-dev
 	path = external/rust/crates/pica
 	url = ../external/rust/pica
 [submodule "platform/external/tink"]
@@ -567,11 +568,11 @@
 	path = external/tink
 	url = ../external/tink
 [submodule "platform/external/tinyobjloader"]
-	branch = main
+	branch = emu-33-dev
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
 [submodule "platform/external/virglrenderer"]
-	branch = crosvm-master
+	branch = emu-33-dev
 	path = external/virglrenderer
 	url = ../external/virglrenderer
 [submodule "platform/external/webrtc"]
@@ -587,19 +588,19 @@
 	path = external/zlib
 	url = ../external/zlib
 [submodule "platform/frameworks/native"]
-	branch = lollipop-release
+	branch = emu-33-dev
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "platform/hardware/google/aemu"]
-	branch = main
+	branch = emu-33-dev
 	path = hardware/google/aemu
 	url = ../hardware/google/aemu
 [submodule "platform/hardware/google/gfxstream"]
-	branch = main
+	branch = emu-33-dev
 	path = hardware/google/gfxstream
 	url = ../hardware/google/gfxstream
 [submodule "platform/packages/modules/Bluetooth"]
-	branch = main
+	branch = emu-33-dev
 	path = packages/modules/Bluetooth
 	url = ../packages/modules/Bluetooth
 [submodule "platform/prebuilts/android-emulator"]
@@ -638,7 +639,7 @@
 	path = prebuilts/android-emulator-build/qt
 	url = ../prebuilts/android-emulator-build/qt
 [submodule "platform/prebuilts/android-emulator-build/system-images"]
-	branch = main
+	branch = emu-33-dev
 	path = prebuilts/android-emulator-build/system-images
 	url = ../prebuilts/android-emulator-build/system-images
 [submodule "platform/prebuilts/bazel/darwin-x86_64"]
@@ -657,17 +658,17 @@
 	path = prebuilts/bazel/windows-x86_64
 	url = ../prebuilts/bazel/windows-x86_64
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
-	branch = main
+	branch = emu-33-dev
 	shallow = true
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = main
+	branch = emu-33-dev
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "platform/prebuilts/clang/host/windows-x86"]
-	branch = main
+	branch = emu-33-dev
 	shallow = true
 	path = prebuilts/clang/host/windows-x86
 	url = ../prebuilts/clang/host/windows-x86
@@ -687,12 +688,12 @@
 	path = prebuilts/cmake/windows-x86
 	url = ../prebuilts/cmake/windows-x86
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
-	branch = main
+	branch = emu-33-dev
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
-	branch = main
+	branch = emu-33-dev
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
@@ -707,21 +708,23 @@
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
 [submodule "platform/prebuilts/python/darwin-x86"]
-	branch = llvm-toolchain
+	branch = emu-33-dev
 	shallow = true
 	path = prebuilts/python/darwin-x86
 	url = ../prebuilts/python/darwin-x86
 [submodule "platform/prebuilts/python/linux-x86"]
-	branch = llvm-toolchain
+	branch = emu-33-dev
 	shallow = true
 	path = prebuilts/python/linux-x86
 	url = ../prebuilts/python/linux-x86
 [submodule "platform/prebuilts/python/windows-x86"]
-	branch = llvm-toolchain
+	branch = emu-33-dev
 	shallow = true
 	path = prebuilts/python/windows-x86
 	url = ../prebuilts/python/windows-x86
 [submodule "platform/prebuilts/rust"]
+	branch = emu-33-dev
+	shallow = true
 	path = prebuilts/rust
 	url = ../prebuilts/rust
 [submodule "platform/tools/buildSrc"]
@@ -729,11 +732,11 @@
 	path = tools/buildSrc
 	url = ../tools/buildSrc
 [submodule "platform/tools/netsim"]
-	branch = main
+	branch = emu-33-dev
 	path = tools/netsim
 	url = ../tools/netsim
 [submodule "toolchain/m4"]
-	branch = main
+	branch = emu-33-dev
 	path = external/m4
 	url = ../../toolchain/m4
 [submodule "trusty/external/qemu-libslirp"]
