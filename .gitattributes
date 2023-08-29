@@ -1,4 +1,3 @@
-/prebuilts/fullsdk-linux/kernel-build-tools platform-linux notdefault
 /build/make
 /external/abseil-cpp
 /external/dokka
