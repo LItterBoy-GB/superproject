@@ -7,6 +7,7 @@
 /external/angle
 /external/astc-codec
 /external/bison platform-linux notdefault
+/external/glib
 /external/boringssl
 /external/cares
 /external/curl

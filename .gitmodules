@@ -25,6 +25,9 @@
 [submodule "platform/external/bison"]
 	path = external/bison
 	url = ../external/bison
+[submodule "platform/external/bluetooth/glib"]
+	path = external/glib
+	url = ../external/bluetooth/glib
 [submodule "platform/external/boringssl"]
 	path = external/boringssl
 	url = ../external/boringssl
