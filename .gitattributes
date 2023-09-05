@@ -1,4 +1,3 @@
-/prebuilts/fullsdk-linux/kernel-build-tools platform-linux notdefault
 /build/make
 /external/abseil-cpp
 /external/dokka
@@ -27,9 +26,9 @@
 /prebuilts/fullsdk-linux/build-tools platform-linux notdefault
 /prebuilts/fullsdk-linux/platform-tools platform-linux notdefault
 /prebuilts/fullsdk-linux/tools platform-linux notdefault
-/prebuilts/fullsdk-darwin/platforms/android-33
-/prebuilts/fullsdk-darwin/sources/android-33
-/prebuilts/jdk/jdk11
+/prebuilts/fullsdk-darwin/platforms
+/prebuilts/fullsdk-darwin/sources
+/prebuilts/jdk/jdk17
 /prebuilts/jdk/jdk8
 /prebuilts/fullsdk-darwin/ninja notdefault platform-darwin
 /prebuilts/fullsdk-linux/ninja platform-linux notdefault
