@@ -106,10 +106,10 @@
 /external/zlib pdk
 /external/zopfli pdk-fs pdk-cw-fs
 /frameworks/libs/modules-utils pdk
-/frameworks/libs/net pdk
 /frameworks/proto_logging pdk
 /libcore pdk
 /libnativehelper pdk
+/packages/modules/Connectivity pdk
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
 /packages/modules/adb pdk
 /packages/modules/common pdk-fs pdk-cw-fs

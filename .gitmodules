@@ -430,10 +430,6 @@
 	branch = main
 	path = frameworks/libs/modules-utils
 	url = ../frameworks/libs/modules-utils
-[submodule "platform/frameworks/libs/net"]
-	branch = main
-	path = frameworks/libs/net
-	url = ../frameworks/libs/net
 [submodule "platform/frameworks/proto_logging"]
 	branch = main
 	path = frameworks/proto_logging
@@ -446,6 +442,10 @@
 	branch = main
 	path = libnativehelper
 	url = ../libnativehelper
+[submodule "platform/packages/modules/Connectivity"]
+	branch = main
+	path = packages/modules/Connectivity
+	url = ../packages/modules/Connectivity
 [submodule "platform/packages/modules/DnsResolver"]
 	branch = main
 	path = packages/modules/DnsResolver
